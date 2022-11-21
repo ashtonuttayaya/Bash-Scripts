@@ -1,0 +1,59 @@
+Dealer Name: Jones Honda Dealer
+Address:     6957 Davison Highway
+             Clarksville, NC
+Dealer ID:   3
+Owner:       Jones, Kelly
+Date:        Fri, Mar 12, 2011 thru Thu, Mar 18, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1333115C814  Civic        2011  15867  16655  Taylor, Billie          Sat, Mar 13, 2011       D03-03-02 
+ JB121S12431182B46  Civic        2011  15095  16455  Herrera, Julian         Fri, Mar 12, 2011       D03-03-03 
+ JH157F311311295B8  Odyssey      2011  43287  45825  Graham, Jeffery         Sat, Mar 13, 2011       D03-03-06 
+ JH151F1183114B71X  Odyssey      2011  40995  44825  Herrera, Julian         Wed, Mar 17, 2011       D03-03-03 
+ JB121S128311184B2  Civic        2011  14928  16455  Graham, Jeffery         Tue, Mar 16, 2011       D03-03-06 
+ JD137FU1A311X73A4  CR-Z         2011  24763  25705  Mitchell, Sue           Tue, Mar 16, 2011       D03-03-01 
+ JH152SU19311X73A6  Odyssey      2011  28764  30375  Herrera, Julian         Sat, Mar 13, 2011       D03-03-03 
+ JH151F11431182B58  Odyssey      2011  42121  44825  Taylor, Billie          Sat, Mar 13, 2011       D03-03-02 
+ JG149FU123115C96X  Insight      2011  24398  25190  Graham, Jeffery         Sat, Mar 13, 2011       D03-03-06 
+ JC133FU1A31182C92  CR-V         2011  32680  33995  Graham, Jeffery         Fri, Mar 12, 2011       D03-03-06 
+ JA113SU383113A744  Accord       2011  22638  23480  Larson, Sonia           Wed, Mar 17, 2011       D03-03-05 
+ JB121S12531171B86  Civic        2011  15595  16455  Taylor, Billie          Sun, Mar 14, 2011       D03-03-02 
+ JB121S12531182C98  Civic        2011  16179  16455  Herrera, Julian         Thu, Mar 18, 2011       D03-03-03 
+ JB121S1213114B86X  Civic        2011  15846  16455  Graham, Jeffery         Mon, Mar 15, 2011       D03-03-06 
+ JB121S1263116XA82  Civic        2011  15178  16455  Graham, Jeffery         Fri, Mar 12, 2011       D03-03-06 
+ JB127S1303113A754  Civic        2011  15276  16655  Larson, Sonia           Tue, Mar 16, 2011       D03-03-05 
+ JB121S12831171B96  Civic        2011  16179  16455  Taylor, Billie          Fri, Mar 12, 2011       D03-03-02 
+ JA111S1353116XA88  Accord       2011  21569  22480  Herrera, Julian         Sat, Mar 13, 2011       D03-03-03 
+ JA115SU393115C98X  Accord       2011  24291  25480  Larson, Sonia           Thu, Mar 18, 2011       D03-03-05 
+ JK166FU12311X7432  Ridgeline    2011  42457  47750  Smith, Maria            Tue, Mar 16, 2011       D03-03-04 
+ JC131F115311X7434  CR-V         2011  28254  30995  Larson, Sonia           Fri, Mar 12, 2011       D03-03-05 
+ JB127S13331182CB6  Civic        2011  16289  16655  Taylor, Billie          Sun, Mar 14, 2011       D03-03-02 
+ JB121S12631182CB8  Civic        2011  16012  16455  Smith, Maria            Tue, Mar 16, 2011       D03-03-04 
+ JA1X1S1213112966X  Accord       2011  22125  24089  Larson, Sonia           Tue, Mar 16, 2011       D03-03-05 
+ JH155FU113114B882  Odyssey      2011  46608  47825  Graham, Jeffery         Sat, Mar 13, 2011       D03-03-06 
+ JB127S13431118554  Civic        2011  15782  16655  Taylor, Billie          Fri, Mar 12, 2011       D03-03-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC135F410Y22295B3  CR-V        2008  26168  39995  Taylor, Billie          Thu, Mar 18, 2011       D03-03-02 
+ JC131F119V3471A35  CR-V        2005  12038  30995  Larson, Sonia           Sun, Mar 14, 2011       D03-03-05 
+ JC131F111143X7397  CR-V        2009  22316  30995  Larson, Sonia           Wed, Mar 17, 2011       D03-03-05 
+ JB121S126X223A6C9  Civic       2007  9923   16455  Taylor, Billie          Thu, Mar 18, 2011       D03-03-02 
+ JH153FU132276X931  Odyssey     2010  41445  45825  Larson, Sonia           Sun, Mar 14, 2011       D03-03-05 
+ JC131F114V285C823  CR-V        2005  12038  30995  Larson, Sonia           Mon, Mar 15, 2011       D03-03-05 
+ JB13ASU442456X935  Civic       2010  19264  23855  Taylor, Billie          Sun, Mar 14, 2011       D03-03-02 
+ JH153FU15X263A6X7  Odyssey     2007  27225  45825  Graham, Jeffery         Fri, Mar 12, 2011       D03-03-06 
+ JB121S12AX136X939  Civic       2007  9923   16455  Graham, Jeffery         Tue, Mar 16, 2011       D03-03-06 
+ JD139F318132X7411  CR-Z        2009  18867  25705  Herrera, Julian         Tue, Mar 16, 2011       D03-03-03 
+ JC131F114X346XA73  CR-V        2007  18327  30995  Larson, Sonia           Fri, Mar 12, 2011       D03-03-05 
+ JG148F11422P3A745  Insight     2010  19938  24390  Taylor, Billie          Thu, Mar 18, 2011       D03-03-02 
+ JG148F118Y1629637  Insight     2008  15465  24390  Mitchell, Sue           Sun, Mar 14, 2011       D03-03-01 
+ JC134F31A2X75C969  CR-V        2010  26098  31995  Taylor, Billie          Sat, Mar 13, 2011       D03-03-02 
+ JE141F115238X7421  Crosstour   2010  30670  37640  Taylor, Billie          Wed, Mar 17, 2011       D03-03-02 
+ JB129S14212P18533  Civic       2009  16922  23055  Mitchell, Sue           Mon, Mar 15, 2011       D03-03-01 
+ JJ161FU16X3118535  Pilot       2007  25512  42970  Smith, Maria            Mon, Mar 15, 2011       D03-03-04 
+ JA113SU32Y1482CA7  Accord      2008  15301  23480  Graham, Jeffery         Wed, Mar 17, 2011       D03-03-06 

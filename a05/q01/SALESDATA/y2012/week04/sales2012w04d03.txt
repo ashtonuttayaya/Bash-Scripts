@@ -1,0 +1,64 @@
+Dealer Name: Jones Honda Dealer
+Address:     6957 Davison Highway
+             Clarksville, NC
+Dealer ID:   3
+Owner:       Jones, Kelly
+Date:        Sat, Jan 22, 2012 thru Fri, Jan 28, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1114X44B7C6  CR-V         2012  27986  30995  Larson, Sonia           Tue, Jan 25, 2012       D03-03-05 
+ JH153FU124X482B38  Odyssey      2012  40953  45825  Herrera, Julian         Mon, Jan 24, 2012       D03-03-03 
+ JB129S1464X45C81X  Civic        2012  21507  23055  Smith, Maria            Fri, Jan 28, 2012       D03-03-04 
+ JF146S1114X43A6C2  Fit          2012  15816  16025  Taylor, Billie          Thu, Jan 27, 2012       D03-03-02 
+ JD137FU1A4X45C814  CR-Z         2012  23931  25705  Larson, Sonia           Mon, Jan 24, 2012       D03-03-05 
+ JH153FU114X43A6C6  Odyssey      2012  42110  45825  Graham, Jeffery         Tue, Jan 25, 2012       D03-03-06 
+ JB123H1544X4X7398  Civic        2012  25665  27600  Larson, Sonia           Sun, Jan 23, 2012       D03-03-05 
+ JH153FU104X4295CX  Odyssey      2012  40953  45825  Herrera, Julian         Sun, Jan 23, 2012       D03-03-03 
+ JG148F1104X45C822  Insight      2012  22107  24390  Larson, Sonia           Mon, Jan 24, 2012       D03-03-05 
+ JB123H1594X471A44  Civic        2012  25525  27600  Smith, Maria            Fri, Jan 28, 2012       D03-03-04 
+ JB127S1374X43A6X6  Civic        2012  16164  16655  Smith, Maria            Wed, Jan 26, 2012       D03-03-04 
+ JD136F1174X43A6X8  CR-Z         2012  24023  24705  Smith, Maria            Thu, Jan 27, 2012       D03-03-04 
+ JK166FU154X41852X  Ridgeline    2012  44585  47750  Taylor, Billie          Fri, Jan 28, 2012       D03-03-02 
+ JJ162FU174X46XA72  Pilot        2012  40878  44970  Smith, Maria            Tue, Jan 25, 2012       D03-03-04 
+ JG148F1144X418524  Insight      2012  22852  24390  Smith, Maria            Sun, Jan 23, 2012       D03-03-04 
+ JA112F1324X418526  Accord       2012  32044  32930  Smith, Maria            Sun, Jan 23, 2012       D03-03-04 
+ JA1X1S1214X46XA78  Accord       2012  22943  24089  Herrera, Julian         Sun, Jan 23, 2012       D03-03-03 
+ JG148F1104X44B86X  Insight      2012  23473  24390  Larson, Sonia           Sun, Jan 23, 2012       D03-03-05 
+ JA111S13A4X471B92  Accord       2012  20407  22480  Taylor, Billie          Sun, Jan 23, 2012       D03-03-02 
+ JB126GU644X4X7424  Civic        2012  28416  29305  Herrera, Julian         Sat, Jan 22, 2012       D03-03-03 
+ JA111S1374X471B96  Accord       2012  21783  22480  Larson, Sonia           Sat, Jan 22, 2012       D03-03-05 
+ JB121S1244X44B868  Civic        2012  15975  16455  Graham, Jeffery         Sun, Jan 23, 2012       D03-03-06 
+ JA115SU334X44B87X  Accord       2012  22948  25480  Larson, Sonia           Mon, Jan 24, 2012       D03-03-05 
+ JA112F1324X46XA92  Accord       2012  31377  32930  Mitchell, Sue           Sat, Jan 22, 2012       D03-03-01 
+ JH154SU194X482CB4  Odyssey      2012  30527  32375  Herrera, Julian         Fri, Jan 28, 2012       D03-03-03 
+ JH153FU134X471BA6  Odyssey      2012  40722  45825  Larson, Sonia           Sun, Jan 23, 2012       D03-03-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S137Y44295A5  Civic       2008  10186  16655  Graham, Jeffery         Wed, Jan 26, 2012       D03-03-06 
+ JH154SU141293A6B7  Odyssey     2009  20720  32375  Graham, Jeffery         Wed, Jan 26, 2012       D03-03-06 
+ JD136F1172115C8X9  CR-Z        2010  17949  24705  Mitchell, Sue           Sat, Jan 22, 2012       D03-03-01 
+ JJ162FU182X1295B1  Pilot       2010  32540  44970  Larson, Sonia           Thu, Jan 27, 2012       D03-03-05 
+ JG148F11215P4B7X3  Insight     2009  16048  24390  Mitchell, Sue           Sat, Jan 22, 2012       D03-03-01 
+ JK168F31524182B45  Ridgeline   2010  34542  47750  Taylor, Billie          Wed, Jan 26, 2012       D03-03-02 
+ JA111S138Y42295B7  Accord      2008  13798  22480  Larson, Sonia           Wed, Jan 26, 2012       D03-03-05 
+ JE141F116YX16X929  Crosstour   2008  23197  37640  Smith, Maria            Tue, Jan 25, 2012       D03-03-04 
+ JE141F11112382B51  Crosstour   2009  24089  37640  Taylor, Billie          Sat, Jan 22, 2012       D03-03-02 
+ JB127S131YX44B713  Civic       2008  9858   16655  Herrera, Julian         Fri, Jan 28, 2012       D03-03-03 
+ JB129S141225295C5  Civic       2010  17087  23055  Graham, Jeffery         Sun, Jan 23, 2012       D03-03-06 
+ JH159F4134X36X937  Odyssey      2012  52037  56825  Taylor, Billie          Wed, Jan 26, 2012       D03-03-02 
+ JB128SU372195C829  Civic       2010  12977  17455  Smith, Maria            Thu, Jan 27, 2012       D03-03-04 
+ JH157F31AY4671B81  Odyssey     2008  28272  45825  Smith, Maria            Sun, Jan 23, 2012       D03-03-04 
+ JH155FU1921118523  Odyssey     2010  34596  47825  Larson, Sonia           Thu, Jan 27, 2012       D03-03-05 
+ JJ164F412YX25C965  Pilot       2008  33321  53970  Taylor, Billie          Thu, Jan 27, 2012       D03-03-02 
+ JB129S148W3P82C97  Civic       2006  9623   23055  Herrera, Julian         Thu, Jan 27, 2012       D03-03-03 
+ JC131F11812P6XA79  CR-V        2009  20394  30995  Taylor, Billie          Sat, Jan 22, 2012       D03-03-02 
+ JE141F11AYX9X7421  Crosstour   2008  22449  37640  Herrera, Julian         Fri, Jan 28, 2012       D03-03-03 
+ JH155FU12Y356XA83  Odyssey     2008  29512  47825  Mitchell, Sue           Sun, Jan 23, 2012       D03-03-01 
+ JJ161FU1513718535  Pilot       2009  28274  42970  Smith, Maria            Thu, Jan 27, 2012       D03-03-04 
+ JG148F112X345C977  Insight     2007  11970  24390  Smith, Maria            Fri, Jan 28, 2012       D03-03-04 
+ JD137FU10X373A759  CR-Z        2007  13258  25705  Larson, Sonia           Mon, Jan 24, 2012       D03-03-05 

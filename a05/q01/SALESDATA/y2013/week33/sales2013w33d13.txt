@@ -1,0 +1,60 @@
+Dealer Name: Royal Honda
+Address:     8627 Davis Highway
+             Port Kiln, SC
+Dealer ID:   13
+Owner:       Olson, Julie
+Date:        Mon, Aug 13, 2013 thru Sun, Aug 19, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU1853382422  CR-V         2013  30682  33995  Watkins, Terrence       Sat, Aug 18, 2013       D13-12-01 
+ JE144F31153329B94  Crosstour    2013  35580  38640  Austin, Marcus          Sun, Aug 19, 2013       D13-12-02 
+ JB121S12453318A86  Civic        2013  16102  16455  Romero, Ruby            Sat, Aug 18, 2013       D13-12-04 
+ JA111S130533X7978  Accord       2013  21881  22480  Watkins, Terrence       Sun, Aug 19, 2013       D13-12-01 
+ JH154SU125334BXCX  Odyssey      2013  31728  32375  Watkins, Terrence       Thu, Aug 16, 2013       D13-12-01 
+ JD137FU10533X7982  CR-Z         2013  23346  25705  Watkins, Terrence       Fri, Aug 17, 2013       D13-12-01 
+ JB121S1285334BXC4  Civic        2013  15245  16455  Watkins, Terrence       Fri, Aug 17, 2013       D13-12-01 
+ JK167FU195334BXC6  Ridgeline    2013  46391  49750  Romero, Ruby            Thu, Aug 16, 2013       D13-12-04 
+ JB121S12253329BA8  Civic        2013  15588  16455  Austin, Marcus          Thu, Aug 16, 2013       D13-12-02 
+ JH154SU165338244X  Odyssey      2013  29910  32375  Austin, Marcus          Wed, Aug 15, 2013       D13-12-02 
+ JH153FU1453382442  Odyssey      2013  41152  45825  Austin, Marcus          Wed, Aug 15, 2013       D13-12-02 
+ JD136F11953382444  CR-Z         2013  22968  24705  Austin, Marcus          Sat, Aug 18, 2013       D13-12-02 
+ JC131F1175336X226  CR-V         2013  28186  30995  Romero, Ruby            Tue, Aug 14, 2013       D13-12-04 
+ JG148F11053371338  Insight      2013  23059  24390  Austin, Marcus          Sun, Aug 19, 2013       D13-12-02 
+ JH153FU10533X79AX  Odyssey      2013  43942  45825  Romero, Ruby            Wed, Aug 15, 2013       D13-12-04 
+ JD136F11453329BC2  CR-Z         2013  22715  24705  Watkins, Terrence       Sun, Aug 19, 2013       D13-12-01 
+ JH154SU1753371344  Odyssey      2013  30406  32375  Austin, Marcus          Sat, Aug 18, 2013       D13-12-02 
+ JH152SU1A53382456  Odyssey      2013  28566  30375  Austin, Marcus          Sun, Aug 19, 2013       D13-12-02 
+ JC131F11853371348  CR-V         2013  28978  30995  Austin, Marcus          Wed, Aug 15, 2013       D13-12-02 
+ JA1X1S12A5335C26X  Accord       2013  22782  24089  Oliver, Walter          Fri, Aug 17, 2013       D13-12-03 
+ JE141F1185334B152  Crosstour    2013  34100  37640  Watkins, Terrence       Mon, Aug 13, 2013       D13-12-01 
+ JA115SU3653318B24  Accord       2013  23670  25480  Romero, Ruby            Sun, Aug 19, 2013       D13-12-04 
+ JD136F11353371486  CR-Z         2013  22715  24705  Romero, Ruby            Thu, Aug 16, 2013       D13-12-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC134F313125X75A9  CR-V        2009  19836  31995  Watkins, Terrence       Fri, Aug 17, 2013       D13-12-01 
+ JH152SU171X43A941  Odyssey     2009  17617  30375  Watkins, Terrence       Sun, Aug 19, 2013       D13-12-01 
+ JH151F118223X7613  Odyssey     2010  29642  44825  Watkins, Terrence       Tue, Aug 14, 2013       D13-12-01 
+ JC131F11AX434BA55  CR-V        2007  12218  30995  Austin, Marcus          Thu, Aug 16, 2013       D13-12-02 
+ JD136F11A2196XC77  CR-Z        2010  15955  24705  Oliver, Walter          Fri, Aug 17, 2013       D13-12-03 
+ JH157F318X2482199  Odyssey     2007  19511  45825  Romero, Ruby            Fri, Aug 17, 2013       D13-12-04 
+ JH152SU1052771X91  Odyssey      2013  28303  30375  Austin, Marcus          Fri, Aug 17, 2013       D13-12-02 
+ JH151F1112334BA63  Odyssey     2010  29642  44825  Watkins, Terrence       Thu, Aug 16, 2013       D13-12-01 
+ JB123H15743129845  Civic       2012  22902  27600  Oliver, Walter          Sat, Aug 18, 2013       D13-12-03 
+ JH156S31033829847  Odyssey     2011  22194  30375  Austin, Marcus          Sat, Aug 18, 2013       D13-12-02 
+ JB123H1502174BA69  Civic       2010  18308  27600  Oliver, Walter          Wed, Aug 15, 2013       D13-12-03 
+ JG148F11AY2771XA1  Insight     2008  12686  24390  Oliver, Walter          Sat, Aug 18, 2013       D13-12-03 
+ JB129S14121129853  Civic       2010  15318  23055  Oliver, Walter          Tue, Aug 14, 2013       D13-12-03 
+ JG148F11A35229855  Insight     2011  17884  24390  Watkins, Terrence       Tue, Aug 14, 2013       D13-12-01 
+ JB121S1202X13A967  Civic       2010  10975  16455  Watkins, Terrence       Wed, Aug 15, 2013       D13-12-01 
+ JC134F3183285CB89  CR-V        2011  23814  31995  Watkins, Terrence       Sat, Aug 18, 2013       D13-12-01 
+ JG148F117X265CB91  Insight     2007  9576   24390  Austin, Marcus          Sun, Aug 19, 2013       D13-12-02 
+ JH151F11733P5CB93  Odyssey     2011  32598  44825  Oliver, Walter          Wed, Aug 15, 2013       D13-12-03 
+ JH153FU182414BA85  Odyssey     2010  28643  45825  Oliver, Walter          Fri, Aug 17, 2013       D13-12-03 
+ JB127S13A11418757  Civic       2009  10326  16655  Watkins, Terrence       Tue, Aug 14, 2013       D13-12-01 
+ JH153FU10Y246XCA9  Odyssey     2008  22800  45825  Watkins, Terrence       Sun, Aug 19, 2013       D13-12-01 
+ JH155FU161143A981  Odyssey     2009  28695  47825  Austin, Marcus          Thu, Aug 16, 2013       D13-12-02 

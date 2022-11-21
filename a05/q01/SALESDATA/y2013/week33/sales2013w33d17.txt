@@ -1,0 +1,66 @@
+Dealer Name: Lance Honda
+Address:     1136 Brooklin Ave
+             Norbert, FL
+Dealer ID:   17
+Owner:       Lance, Samuel
+Date:        Mon, Aug 13, 2013 thru Sun, Aug 19, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ162FU12533826C6  Pilot        2013  42906  44970  Hansen, Ralph           Mon, Aug 13, 2013       D17-16-09 
+ JB121S123533826C8  Civic        2013  16102  16455  Rodriguez, Mathew       Mon, Aug 13, 2013       D17-16-06 
+ JB122SU245333A18X  Civic        2013  17123  17255  Lambert, Anita          Sun, Aug 19, 2013       D17-16-01 
+ JE145F4125334B292  Crosstour    2013  44476  46640  Lambert, Anita          Sun, Aug 19, 2013       D17-16-01 
+ JB125G1625336X4B4  Civic        2013  28158  28505  Lambert, Anita          Tue, Aug 14, 2013       D17-16-01 
+ JB121S12353329X76  Civic        2013  15845  16455  Cole, Peter             Thu, Aug 16, 2013       D17-16-02 
+ JB129S1445333A188  Civic        2013  20882  23055  Rodriguez, Mathew       Sun, Aug 19, 2013       D17-16-06 
+ JG148F110533X7B6X  Insight      2013  23059  24390  Medina, Emily           Fri, Aug 17, 2013       D17-16-07 
+ JA115SU38533715X2  Accord       2013  24193  25480  Medina, Emily           Tue, Aug 14, 2013       D17-16-07 
+ JC132FU19533X7B64  CR-V         2013  31036  31995  Herrera, Nina           Sun, Aug 19, 2013       D17-16-03 
+ JB123H1555335C3B6  Civic        2013  25306  27600  Herrera, Nina           Sat, Aug 18, 2013       D17-16-03 
+ JG148F1165335C3B8  Insight      2013  23686  24390  Hansen, Ralph           Wed, Aug 15, 2013       D17-16-09 
+ JD138FU125337151X  CR-Z         2013  26677  27705  Cole, Peter             Sat, Aug 18, 2013       D17-16-02 
+ JB121S1275333A1A2  Civic        2013  16530  16455  Medina, Emily           Mon, Aug 13, 2013       D17-16-07 
+ JB127S1385334B2B4  Civic        2013  15943  16655  Medina, Emily           Sun, Aug 19, 2013       D17-16-07 
+ JA111S13753329X96  Accord       2013  21534  22480  Rodriguez, Mathew       Fri, Aug 17, 2013       D17-16-06 
+ JB127S13553371518  Civic        2013  15337  16655  Baker, Lynn             Tue, Aug 14, 2013       D17-16-08 
+ JA113SU39533X7B8X  Accord       2013  23068  23480  Lambert, Anita          Fri, Aug 17, 2013       D17-16-01 
+ JA111S13053382632  Accord       2013  20955  22480  Rodriguez, Mathew       Sat, Aug 18, 2013       D17-16-06 
+ JD136F1175334B2C4  CR-Z         2013  22715  24705  Morris, Bobbie          Fri, Aug 17, 2013       D17-16-05 
+ JA1X1S12653382636  Accord       2013  22535  24089  Morris, Bobbie          Mon, Aug 13, 2013       D17-16-05 
+ JB127S13853371528  Civic        2013  15943  16655  Morris, Bobbie          Wed, Aug 15, 2013       D17-16-05 
+ JH15AS113533X7B9X  Odyssey      2013  29148  29375  Morris, Bobbie          Sat, Aug 18, 2013       D17-16-05 
+ JF146S115533X7B92  Fit          2013  15614  16025  Hansen, Ralph           Sun, Aug 19, 2013       D17-16-09 
+ JE142FU1853382644  Crosstour    2013  35776  38640  Morris, Bobbie          Mon, Aug 13, 2013       D17-16-05 
+ JB122SU2953329XB6  Civic        2013  16943  17255  Hansen, Ralph           Fri, Aug 17, 2013       D17-16-09 
+ JE143FU15533X7B98  Crosstour    2013  39042  40640  Hansen, Ralph           Tue, Aug 14, 2013       D17-16-09 
+ JB129S14453318CBX  Civic        2013  21594  23055  Lambert, Anita          Wed, Aug 15, 2013       D17-16-01 
+ JH152SU1A53318CB2  Odyssey      2013  28410  30375  Baker, Lynn             Thu, Aug 16, 2013       D17-16-08 
+ JA1X8F32553329XC4  Accord       2013  31234  34030  Morris, Bobbie          Tue, Aug 14, 2013       D17-16-05 
+ JG149FU155334B216  Insight      2013  23537  25190  Hansen, Ralph           Fri, Aug 17, 2013       D17-16-09 
+ JA1X5SU2553318CB8  Accord       2013  24709  27089  Medina, Emily           Tue, Aug 14, 2013       D17-16-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE143FU13334X7767  Crosstour   2011  30160  40640  Baker, Lynn             Fri, Aug 17, 2013       D17-16-08 
+ JH155FU171X5X7769  Odyssey     2009  28695  47825  Herrera, Nina           Fri, Aug 17, 2013       D17-16-03 
+ JH157F31344971111  Odyssey     2012  37200  45825  Morris, Bobbie          Fri, Aug 17, 2013       D17-16-05 
+ JH155FU1433429993  Odyssey     2011  34758  47825  Hansen, Ralph           Sun, Aug 19, 2013       D17-16-09 
+ JK168F3183176XXX5  Ridgeline   2011  34704  47750  Lambert, Anita          Sat, Aug 18, 2013       D17-16-01 
+ JH153FU1A2245CCC7  Odyssey     2010  29472  45825  Herrera, Nina           Wed, Aug 15, 2013       D17-16-03 
+ JB129S148XX64BBB9  Civic       2007  9042   23055  Morris, Bobbie          Thu, Aug 16, 2013       D17-16-05 
+ JC135F4193274BBC1  CR-V        2011  29686  39995  Herrera, Nina           Sun, Aug 19, 2013       D17-16-03 
+ JH153FU1A13571123  Odyssey     2009  28411  45825  Medina, Emily           Thu, Aug 16, 2013       D17-16-07 
+ JH15AS11032982235  Odyssey     2011  21474  29375  Lambert, Anita          Thu, Aug 16, 2013       D17-16-01 
+ JH153FU1934PX7787  Odyssey     2011  33318  45825  Medina, Emily           Sun, Aug 19, 2013       D17-16-07 
+ JH155FU14X246XX19  Odyssey     2007  20371  47825  West, Sally             Tue, Aug 14, 2013       D17-16-04 
+ JC131F119YX14BBX1  CR-V        2008  16154  30995  Cole, Peter             Sun, Aug 19, 2013       D17-16-02 
+ JD137FU1422P3AAC3  CR-Z        2010  16595  25705  Herrera, Nina           Wed, Aug 15, 2013       D17-16-03 
+ JB127S135Y28X7795  Civic       2008  8215   16655  Herrera, Nina           Thu, Aug 16, 2013       D17-16-03 
+ JE141F11A3X271137  Crosstour   2011  27958  37640  West, Sally             Fri, Aug 17, 2013       D17-16-04 
+ JA115SU381433AAC9  Accord      2009  15797  25480  Rodriguez, Mathew       Tue, Aug 14, 2013       D17-16-06 
+ JC133FU1232771141  CR-V        2011  24800  33995  Herrera, Nina           Sun, Aug 19, 2013       D17-16-03 
+ JD137FU12Y355CC23  CR-Z        2008  13377  25705  Morris, Bobbie          Sat, Aug 18, 2013       D17-16-05 

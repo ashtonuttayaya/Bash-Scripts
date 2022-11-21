@@ -1,0 +1,35 @@
+#
+#	Short answer question dealing with grep
+#
+q01 type sa
+q01 start a01.txt a01.bak
+q01 submit
+q01 clean
+#
+#	True false question about basic if statements
+#
+q02 type tf
+q02 start a02.txt a02.bak
+q02 submit
+q02 clean
+#
+#	Script that tests usage of parameters, user data entry and grep.
+#
+q03 type sc
+q03 start  search.sh check03.sh test.txt test.in no.in
+q03 submit
+q03 clean q03.sh
+#
+#	Script looking at if statement usage, demonstrates usage of functions
+#
+q04 type sc
+q04 start  story.txt check04.sh test.in
+q04 submit
+q04 clean q04.sh
+#
+#	Script looking at if statement usage, demonstrates usage of functions
+#
+q05 type sc
+q05 start  insert.sh check05.sh update.dat quizzes.dat
+q05 submit
+q05 clean q05.sh update.sql quizzes.sql

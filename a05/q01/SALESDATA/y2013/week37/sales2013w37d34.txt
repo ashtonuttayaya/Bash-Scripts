@@ -1,0 +1,43 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Mon, Sep 10, 2013 thru Sun, Sep 16, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU1A5372AA38  Odyssey      2013  44175  45825  Rice, Georgia           Sat, Sep 15, 2013       D34-30-03 
+ JB129S1495371993X  Civic        2013  21119  23055  Torres, Caroline        Wed, Sep 12, 2013       D34-30-01 
+ JA1X3SU2753761182  Accord       2013  24475  25089  Rodriquez, Jorge        Tue, Sep 11, 2013       D34-30-04 
+ JH153FU14537X8824  Odyssey      2013  40920  45825  Jensen, Bill            Wed, Sep 12, 2013       D34-30-06 
+ JA117S3325373BB56  Accord       2013  22101  23480  Torres, Caroline        Sat, Sep 15, 2013       D34-30-01 
+ JA116FU325375XX78  Accord       2013  32944  35930  Jensen, Bill            Mon, Sep 10, 2013       D34-30-06 
+ JJ161FU17537833BX  Pilot        2013  38625  42970  Jensen, Bill            Mon, Sep 10, 2013       D34-30-06 
+ JA1X3SU21537722A2  Accord       2013  24475  25089  Bennett, Michele        Thu, Sep 13, 2013       D34-30-05 
+ JH151F114537X8834  Odyssey      2013  43680  44825  Rodriquez, Jorge        Thu, Sep 13, 2013       D34-30-04 
+ JE142FU105373BB66  Crosstour    2013  35776  38640  Rodriquez, Jorge        Thu, Sep 13, 2013       D34-30-04 
+ JB121S123537722A8  Civic        2013  15673  16455  Jensen, Bill            Sat, Sep 15, 2013       D34-30-06 
+ JB127S1305372AA6X  Civic        2013  16550  16655  Jensen, Bill            Fri, Sep 14, 2013       D34-30-06 
+ JH157F319537X8842  Odyssey      2013  42547  45825  Bennett, Michele        Sat, Sep 15, 2013       D34-30-05 
+ JJ161FU135372AA64  Pilot        2013  39498  42970  Rice, Georgia           Fri, Sep 14, 2013       D34-30-03 
+ JH152SU1753719956  Odyssey      2013  29031  30375  Jensen, Bill            Fri, Sep 14, 2013       D34-30-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F11123383BB7  CR-Z        2010  16403  24705  Torres, Caroline        Tue, Sep 11, 2013       D34-30-01 
+ JB13ASU452244C779  Civic       2010  15844  23855  Torres, Caroline        Sun, Sep 16, 2013       D34-30-01 
+ JG148F1141X82A561  Insight     2009  15121  24390  Rice, Georgia           Sat, Sep 15, 2013       D34-30-03 
+ JA116FU3A1272A563  Accord      2009  22276  35930  Rodriquez, Jorge        Mon, Sep 10, 2013       D34-30-04 
+ JC131F11624P2A565  CR-V        2010  20542  30995  Jensen, Bill            Wed, Sep 12, 2013       D34-30-06 
+ JE142FU141X1619A7  Crosstour   2009  23184  38640  Webb, Ken               Tue, Sep 11, 2013       D34-30-02 
+ JH155FU15336X8349  Odyssey     2011  35433  47825  Torres, Caroline        Mon, Sep 10, 2013       D34-30-01 
+ JH152SU1AY223B681  Odyssey     2008  15075  30375  Torres, Caroline        Sat, Sep 15, 2013       D34-30-01 
+ JB123H158228619B3  Civic       2010  18308  27600  Bennett, Michele        Wed, Sep 12, 2013       D34-30-05 
+ JD139F319218X8355  CR-Z        2010  17061  25705  Webb, Ken               Wed, Sep 12, 2013       D34-30-02 
+ JH155FU193314C797  Odyssey     2011  35433  47825  Rice, Georgia           Fri, Sep 14, 2013       D34-30-03 
+ JH152SU13111X8359  Odyssey     2009  18225  30375  Webb, Ken               Tue, Sep 11, 2013       D34-30-02 
+ JH153FU16X145X8B1  Odyssey     2007  18150  45825  Jensen, Bill            Fri, Sep 14, 2013       D34-30-06 

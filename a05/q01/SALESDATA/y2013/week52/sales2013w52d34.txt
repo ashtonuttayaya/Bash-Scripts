@@ -1,0 +1,43 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Mon, Dec 24, 2013 thru Mon, Dec 31, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE143FU145524CC54  Crosstour    2013  40075  40640  Jensen, Bill            Tue, Dec 25, 2013       D34-30-06 
+ JA1X1S12455283396  Accord       2013  22039  24089  Rodriquez, Jorge        Thu, Dec 27, 2013       D34-30-04 
+ JC134F3135522AA38  CR-V         2013  30219  31995  Rice, Georgia           Mon, Dec 24, 2013       D34-30-03 
+ JA1X1S124552833AX  Accord       2013  23525  24089  Rodriquez, Jorge        Mon, Dec 24, 2013       D34-30-04 
+ JB121S12555219932  Civic        2013  15417  16455  Torres, Caroline        Thu, Dec 27, 2013       D34-30-01 
+ JC132FU1055219934  CR-V         2013  29076  31995  Rodriquez, Jorge        Sat, Dec 29, 2013       D34-30-04 
+ JB121S1255522AA46  Civic        2013  15245  16455  Torres, Caroline        Fri, Dec 28, 2013       D34-30-01 
+ JD136F11955261188  CR-Z         2013  22715  24705  Torres, Caroline        Mon, Dec 24, 2013       D34-30-01 
+ JD137FU195526119X  CR-Z         2013  23346  25705  Rice, Georgia           Fri, Dec 28, 2013       D34-30-03 
+ JG148F113552722A2  Insight      2013  22934  24390  Rodriquez, Jorge        Sun, Dec 30, 2013       D34-30-04 
+ JB121S125552833B4  Civic        2013  15588  16455  Bennett, Michele        Wed, Dec 26, 2013       D34-30-05 
+ JB121S1285522AA56  Civic        2013  15502  16455  Rice, Georgia           Wed, Dec 26, 2013       D34-30-03 
+ JB127S133552833B8  Civic        2013  16290  16655  Webb, Ken               Wed, Dec 26, 2013       D34-30-02 
+ JB127S1365524CC8X  Civic        2013  16030  16655  Rodriquez, Jorge        Thu, Dec 27, 2013       D34-30-04 
+ JC135F4125523BB72  CR-V         2013  36196  39995  Jensen, Bill            Mon, Dec 24, 2013       D34-30-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F117XX34C773  Crosstour   2007  15991  37640  Webb, Ken               Tue, Dec 25, 2013       D34-30-02 
+ JG148F1191292A555  Insight     2009  15121  24390  Torres, Caroline        Tue, Dec 25, 2013       D34-30-01 
+ JB129S1413514C777  Civic       2011  17252  23055  Webb, Ken               Thu, Dec 27, 2013       D34-30-02 
+ JE141F1172X919449  Crosstour   2010  24915  37640  Rodriquez, Jorge        Tue, Dec 25, 2013       D34-30-04 
+ JB127S1312423B671  Civic       2010  11107  16655  Rice, Georgia           Fri, Dec 28, 2013       D34-30-03 
+ JJ162FU15423X8343  Pilot       2012  36059  44970  Jensen, Bill            Wed, Dec 26, 2013       D34-30-06 
+ JB121S129X284C785  Civic       2007  6882   16455  Bennett, Michele        Thu, Dec 27, 2013       D34-30-05 
+ JE141F11A2474C787  Crosstour   2010  24233  37640  Torres, Caroline        Mon, Dec 24, 2013       D34-30-01 
+ JA1X9S427132619A9  Accord      2009  20515  33089  Rice, Georgia           Mon, Dec 24, 2013       D34-30-03 
+ JE141F1112X372AC1  Crosstour   2010  24233  37640  Webb, Ken               Wed, Dec 26, 2013       D34-30-02 
+ JH156S3102X519463  Odyssey     2010  20134  30375  Rodriquez, Jorge        Thu, Dec 27, 2013       D34-30-04 
+ JJ16AF1191385X8A5  Pilot       2009  26021  41970  Webb, Ken               Sun, Dec 30, 2013       D34-30-02 
+ JA113SU3A2253B687  Accord      2010  15597  23480  Jensen, Bill            Sun, Dec 30, 2013       D34-30-06 

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export MYSQL_USER='salesadmin'
+export MYSQL_PASS='Woodman123321'
+export MYSQL_DATA="$HOME/class/a05/q01/SALESDATA"

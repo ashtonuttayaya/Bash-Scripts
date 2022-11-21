@@ -1,0 +1,10 @@
+Checking for q01.sh
+           OK - q01.sh found                                                  chxq01-A1
+
+Checking to see that all environment variables have been set
+           OK - all environment variables set in q01                          chxq01-B1
+           OK - all environment variables set in q02                          chxq01-C1
+           OK - all environment variables set in q03                          chxq01-D1
+           OK - all environment variables set in q04                          chxq01-E1
+           OK - all environment variables set in q05                          chxq01-F1
+

@@ -1,0 +1,35 @@
+Dealer Name: Bill Travers Honda
+Address:     7043 George Parson Highway
+             Grand Traverse, AL
+Dealer ID:   21
+Owner:       Travers, Bill
+Date:        Tue, Apr 30, 2014 thru Mon, May  6, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1306184B312  Civic        2014  15536  16655  Washington, Franklin    Tue, Apr 30, 2014       D21-19-06 
+ JB121S12461871644  Civic        2014  15879  16455  Oliver, Melanie         Thu, May  2, 2014       D21-19-02 
+ JA1X2F12961871646  Accord       2014  32403  33030  Washington, Franklin    Wed, May  1, 2014       D21-19-06 
+ JC131F11A6185C428  CR-V         2014  30619  30995  Carroll, Glenn          Sun, May  5, 2014       D21-19-01 
+ JA113SU3A6184C75X  Accord       2014  22917  23480  Carroll, Glenn          Sun, May  5, 2014       D21-19-01 
+ JB121S123618X8312  Civic        2014  16660  16455  Evans, Dennis           Wed, May  1, 2014       D21-19-05 
+ JD136F11261819424  CR-Z         2014  23300  24705  King, Gwendolyn         Tue, Apr 30, 2014       D21-19-04 
+ JA113SU3261861976  Accord       2014  21698  23480  Evans, Dennis           Tue, Apr 30, 2014       D21-19-05 
+ JH157F31161819428  Odyssey      2014  41118  45825  Washington, Franklin    Mon, May  6, 2014       D21-19-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ16AF11931718931  Pilot       2003  27148  41970  Oliver, Melanie         Sun, May  5, 2014       D21-19-02 
+ JA119S437316X7823  Accord      2003  21009  31480  Washington, Franklin    Sun, May  5, 2014       D21-19-06 
+ JD136F1125384BC65  CR-Z        2005  20484  24705  King, Gwendolyn         Mon, May  6, 2014       D21-19-04 
+ JC132FU1122318937  CR-V        2002  19332  31995  Evans, Dennis           Sun, May  5, 2014       D21-19-05 
+ JG148F11334729A49  Insight     2003  16344  24390  Washington, Franklin    Sat, May  4, 2014       D21-19-06 
+ JD136F11543P712A1  CR-Z        2004  18273  24705  Carroll, Glenn          Sat, May  4, 2014       D21-19-01 
+ JC132FU124X629A53  CR-V        2004  23979  31995  Powell, Jerome          Tue, Apr 30, 2014       D21-19-03 
+ JA1X7S3201X44BC75  Accord      2001  13171  25089  Washington, Franklin    Sun, May  5, 2014       D21-19-06 
+ JJ161FU1142218947  Pilot       2004  31424  42970  West, Ashley            Fri, May  3, 2014       D21-19-07 
+ JD137FU143486X199  CR-Z        2003  16739  25705  Powell, Jerome          Mon, May  6, 2014       D21-19-03 
+ JG148F11022P6X1A1  Insight     2002  15261  24390  West, Ashley            Tue, Apr 30, 2014       D21-19-07 

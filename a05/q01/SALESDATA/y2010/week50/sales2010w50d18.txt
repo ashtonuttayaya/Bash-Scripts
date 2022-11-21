@@ -1,0 +1,53 @@
+Dealer Name: Kronnen Honda
+Address:     4641 Johnstown Drive
+             Norbert, FL
+Dealer ID:   18
+Owner:       Kronnen, Winston
+Date:        Thu, Dec 10, 2010 thru Wed, Dec 16, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB122SU2225P5C118  Civic        2010  15443  17255  Watkins, Tiffany        Thu, Dec 10, 2010       D18-17-04 
+ JH155FU1325PX79AX  Odyssey      2010  44477  47825  Bennett, Tiffany        Mon, Dec 14, 2010       D18-17-07 
+ JB124HU5625P18AB2  Civic        2010  25702  28400  Scott, Jack             Mon, Dec 14, 2010       D18-17-08 
+ JB127S13A25P5C124  Civic        2010  15489  16655  Larson, Pauline         Mon, Dec 14, 2010       D18-17-03 
+ JH153FU1325P71346  Odyssey      2010  41471  45825  Peterson, Judy          Sun, Dec 13, 2010       D18-17-01 
+ JH152SU1925P3ACX8  Odyssey      2010  28400  30375  Richards, Jessica       Sun, Dec 13, 2010       D18-17-02 
+ JA113SU3125PX7A1X  Accord       2010  22071  23480  Rice, Derrick           Sun, Dec 13, 2010       D18-17-09 
+ JB128SU3A25P18B22  Civic        2010  15709  17455  Scott, Jack             Sun, Dec 13, 2010       D18-17-08 
+ JH153FU1125PX7A14  Odyssey      2010  42846  45825  Richards, Jessica       Wed, Dec 16, 2010       D18-17-02 
+ JG148F11525P5C266  Insight      2010  22316  24390  Peterson, Judy          Mon, Dec 14, 2010       D18-17-01 
+ JA1X1S12125P71488  Accord       2010  23366  24089  Carroll, Danny          Fri, Dec 11, 2010       D18-17-05 
+ JH153FU1A25PX7A2X  Odyssey      2010  42846  45825  Bennett, Tiffany        Wed, Dec 16, 2010       D18-17-07 
+ JC132FU1725P3AX52  CR-V         2010  30555  31995  Larson, Pauline         Fri, Dec 11, 2010       D18-17-03 
+ JJ163F31225PX7A24  Pilot        2010  40391  42970  Larson, Pauline         Sat, Dec 12, 2010       D18-17-03 
+ JH151F11725P4B166  Odyssey      2010  40342  44825  Scott, Jack             Fri, Dec 11, 2010       D18-17-08 
+ JH151F11A25P3AX58  Odyssey      2010  40118  44825  Watkins, Tiffany        Mon, Dec 14, 2010       D18-17-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F115X19X7771  CR-V        2007  20098  30995  Carroll, Danny          Fri, Dec 11, 2010       D18-17-05 
+ JH155FU1AT46X7773  Odyssey     2004  17279  47825  Carroll, Danny          Thu, Dec 10, 2010       D18-17-05 
+ JC131F114Y265CCC5  CR-V        2008  22585  30995  Bennett, Tiffany        Sun, Dec 13, 2010       D18-17-07 
+ JA1X1S1282X671117  Accord       2010  22004  24089  Curtis, Jimmie          Thu, Dec 10, 2010       D18-17-06 
+ JH15AS112X323AAA9  Odyssey     2007  19032  29375  Peterson, Judy          Mon, Dec 14, 2010       D18-17-01 
+ JH154SU14X293AAB1  Odyssey     2007  19857  32375  Richards, Jessica       Tue, Dec 15, 2010       D18-17-02 
+ JD138FU13X3P3AAB3  CR-Z        2007  17933  27705  Rice, Derrick           Thu, Dec 10, 2010       D18-17-09 
+ JE143FU11X1371125  Crosstour   2007  26445  40640  Rice, Derrick           Sun, Dec 13, 2010       D18-17-09 
+ JH155FU171433AAB7  Odyssey     2009  38260  47825  Carroll, Danny          Tue, Dec 15, 2010       D18-17-05 
+ JB121S12AY1682239  Civic       2008  11912  16455  Scott, Jack             Mon, Dec 14, 2010       D18-17-08 
+ JG148F119T25188A1  Insight     2004  20938  24390  Curtis, Jimmie          Tue, Dec 15, 2010       D18-17-06 
+ JC135F416X4182243  CR-V        2007  26020  39995  Rice, Derrick           Sat, Dec 12, 2010       D18-17-09 
+ JD136F1161364BBX5  CR-Z        2009  19764  24705  Watkins, Tiffany        Sun, Dec 13, 2010       D18-17-04 
+ JJ161FU19145188A7  Pilot       2009  34376  42970  Peterson, Judy          Thu, Dec 10, 2010       D18-17-01 
+ JG148F118Y333AAC9  Insight     2008  17398  24390  Curtis, Jimmie          Mon, Dec 14, 2010       D18-17-06 
+ JD136F11AY2282251  CR-Z        2008  17968  24705  Curtis, Jimmie          Tue, Dec 15, 2010       D18-17-06 
+ JH156S316VX271143  Odyssey     2005  14000  30375  Watkins, Tiffany        Fri, Dec 11, 2010       D18-17-04 
+ JK167FU19X343AAX5  Ridgeline   2007  31552  49750  Watkins, Tiffany        Wed, Dec 16, 2010       D18-17-04 
+ JB127S130WX45CC27  Civic       2006  9588   16655  Bennett, Tiffany        Mon, Dec 14, 2010       D18-17-07 
+ JB127S136X21188B9  Civic       2007  10662  16655  Rice, Derrick           Fri, Dec 11, 2010       D18-17-09 
+ JB121S124W296X171  Civic       2006  9783   16455  Rice, Derrick           Sun, Dec 13, 2010       D18-17-09 
+ JH155FU11Y286X173  Odyssey     2008  34938  47825  Bennett, Tiffany        Sat, Dec 12, 2010       D18-17-07 

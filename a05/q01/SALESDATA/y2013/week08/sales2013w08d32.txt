@@ -1,0 +1,68 @@
+Dealer Name: Adams Honda
+Address:     4008 Lee Road
+             Louderdale, FL
+Dealer ID:   32
+Owner:       Adams, Jon
+Date:        Mon, Feb 19, 2013 thru Sun, Feb 25, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ16AF1165X861X72  Pilot        2013  38380  41970  Anderson, Brad          Mon, Feb 19, 2013       D32-28-03 
+ JD137FU1A5X883294  CR-Z         2013  24137  25705  Freeman, Arthur         Sun, Feb 25, 2013       D32-28-05 
+ JB127S1385X883296  Civic        2013  16550  16655  Bryant, Raul            Wed, Feb 21, 2013       D32-28-04 
+ JH152SU125X883298  Odyssey      2013  27479  30375  Anderson, Brad          Sat, Feb 24, 2013       D32-28-03 
+ JB127S1355X861X8X  Civic        2013  16463  16655  Spencer, Sean           Mon, Feb 19, 2013       D32-28-02 
+ JG148F1135X861X82  Insight      2013  22307  24390  Bryant, Raul            Mon, Feb 19, 2013       D32-28-04 
+ JB121S1235X84CB64  Civic        2013  15845  16455  Bryant, Raul            Fri, Feb 23, 2013       D32-28-04 
+ JB127S1335X861X86  Civic        2013  15856  16655  Freeman, Arthur         Fri, Feb 23, 2013       D32-28-05 
+ JE142FU165X8X8728  Crosstour    2013  36169  38640  Bryant, Raul            Sat, Feb 24, 2013       D32-28-04 
+ JB123H1585X861X9X  Civic        2013  25164  27600  Bryant, Raul            Mon, Feb 19, 2013       D32-28-04 
+ JH156S3175X84CB72  Odyssey      2013  28255  30375  Anderson, Brad          Wed, Feb 21, 2013       D32-28-03 
+ JB127S1355X8832B4  Civic        2013  16636  16655  Freeman, Arthur         Thu, Feb 22, 2013       D32-28-05 
+ JB129S1495X8721A6  Civic        2013  22068  23055  Bryant, Raul            Tue, Feb 20, 2013       D32-28-04 
+ JH152SU155X84CB78  Odyssey      2013  27945  30375  Hicks, Andre            Sun, Feb 25, 2013       D32-28-01 
+ JB129S1415X82A96X  Civic        2013  22662  23055  Anderson, Brad          Thu, Feb 22, 2013       D32-28-03 
+ JB127S1375X861XA2  Civic        2013  15597  16655  Freeman, Arthur         Sat, Feb 24, 2013       D32-28-05 
+ JB121S1295X82A964  Civic        2013  16273  16455  Bryant, Raul            Mon, Feb 19, 2013       D32-28-04 
+ JA115SU305X85XC96  Accord       2013  24062  25480  Bryant, Raul            Wed, Feb 21, 2013       D32-28-04 
+ JB121S12A5X83BA78  Civic        2013  15417  16455  Hicks, Andre            Sat, Feb 24, 2013       D32-28-01 
+ JB127S13A5X8721CX  Civic        2013  15856  16655  Anderson, Brad          Fri, Feb 23, 2013       D32-28-03 
+ JH15AS1175X8X8752  Odyssey      2013  27495  29375  Spencer, Sean           Mon, Feb 19, 2013       D32-28-02 
+ JB127S1325X84CB94  Civic        2013  15250  16655  Hicks, Andre            Tue, Feb 20, 2013       D32-28-01 
+ JB121S12A5X819866  Civic        2013  15673  16455  Bryant, Raul            Wed, Feb 21, 2013       D32-28-04 
+ JB127S1365X8X8758  Civic        2013  16636  16655  Hicks, Andre            Thu, Feb 22, 2013       D32-28-01 
+ JB127S1345X83BA9X  Civic        2013  15770  16655  Bryant, Raul            Thu, Feb 22, 2013       D32-28-04 
+ JB127S1325X861XC2  Civic        2013  16723  16655  Spencer, Sean           Sat, Feb 24, 2013       D32-28-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1211163A279  Civic       2009  10202  16455  Anderson, Brad          Mon, Feb 19, 2013       D32-28-03 
+ JH153FU104345C4A1  Odyssey     2012  36735  45825  Bryant, Raul            Tue, Feb 20, 2013       D32-28-04 
+ JH152SU1621918X63  Odyssey     2010  19584  30375  Hicks, Andre            Mon, Feb 19, 2013       D32-28-01 
+ JH158S412Y295C4A5  Odyssey     2008  21603  41375  Freeman, Arthur         Fri, Feb 23, 2013       D32-28-05 
+ JH159F416YX16X5B7  Odyssey     2008  29715  56825  Spencer, Sean           Sat, Feb 24, 2013       D32-28-02 
+ JJ16AF1183X8827X9  Pilot       2011  31136  41970  Bryant, Raul            Sat, Feb 24, 2013       D32-28-04 
+ JB121S1232485C4B1  Civic       2010  10975  16455  Freeman, Arthur         Fri, Feb 23, 2013       D32-28-05 
+ JD136F1153X56X5C3  CR-Z        2011  18111  24705  Anderson, Brad          Thu, Feb 22, 2013       D32-28-03 
+ JK169F41222918X75  Ridgeline   2010  37744  58750  Spencer, Sean           Fri, Feb 23, 2013       D32-28-02 
+ JK167FU1823318X77  Ridgeline   2010  32883  49750  Freeman, Arthur         Tue, Feb 20, 2013       D32-28-05 
+ JG148F11131718X79  Insight     2011  18232  24390  Freeman, Arthur         Thu, Feb 22, 2013       D32-28-05 
+ JK165F11031318X81  Ridgeline   2011  33323  46750  Freeman, Arthur         Sun, Feb 25, 2013       D32-28-05 
+ JH15AS112X1P3A2A3  Odyssey     2007  12437  29375  Spencer, Sean           Thu, Feb 22, 2013       D32-28-02 
+ JH153FU151355C4C5  Odyssey     2009  28411  45825  Hicks, Andre            Tue, Feb 20, 2013       D32-28-01 
+ JH159F4131495C4C7  Odyssey     2009  35231  56825  Freeman, Arthur         Tue, Feb 20, 2013       D32-28-05 
+ JH159F4141166X5X9  Odyssey     2009  32958  56825  Spencer, Sean           Fri, Feb 23, 2013       D32-28-02 
+ JC131F112252291A1  CR-V        2010  20542  30995  Spencer, Sean           Wed, Feb 21, 2013       D32-28-02 
+ JC131F1153386X513  CR-V        2011  22640  30995  Anderson, Brad          Mon, Feb 19, 2013       D32-28-03 
+ JH153FU1424P5C4X5  Odyssey     2010  30300  45825  Hicks, Andre            Mon, Feb 19, 2013       D32-28-01 
+ JB127S13AY31291A7  Civic       2008  8215   16655  Bryant, Raul            Mon, Feb 19, 2013       D32-28-04 
+ JH152SU114263A2B9  Odyssey     2012  25150  30375  Freeman, Arthur         Fri, Feb 23, 2013       D32-28-05 
+ JB127S135XX882741  Civic       2007  6968   16655  Freeman, Arthur         Wed, Feb 21, 2013       D32-28-05 
+ JF146S112X283A2C3  Fit         2007  6230   16025  Anderson, Brad          Thu, Feb 22, 2013       D32-28-03 
+ JH153FU1A1116X525  Odyssey     2009  27495  45825  Freeman, Arthur         Wed, Feb 21, 2013       D32-28-05 
+ JH151F1131354B3X7  Odyssey     2009  26895  44825  Hicks, Andre            Fri, Feb 23, 2013       D32-28-01 
+ JH152SU1532P82749  Odyssey     2011  22625  30375  Freeman, Arthur         Thu, Feb 22, 2013       D32-28-05 
+ JH155FU1831P82751  Odyssey     2011  35433  47825  Freeman, Arthur         Mon, Feb 19, 2013       D32-28-05 

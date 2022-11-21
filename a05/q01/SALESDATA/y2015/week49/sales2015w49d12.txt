@@ -1,0 +1,74 @@
+Dealer Name: King Honda
+Address:     9974 Brooklin Ave
+             Port Kiln, SC
+Dealer ID:   12
+Owner:       King, Carl
+Date:        Wed, Dec  3, 2015 thru Tue, Dec  9, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X2F1287494BXX2  Accord       2015  32105  33030  Graves, Edwin           Fri, Dec  5, 2015       D12-11-01 
+ JA112F1357495C114  Accord       2015  32011  32930  Carroll, Judith         Tue, Dec  9, 2015       D12-11-02 
+ JE141F11374929BB6  Crosstour    2015  35082  37640  Carroll, Judith         Sat, Dec  6, 2015       D12-11-02 
+ JH153FU1774982448  Odyssey      2015  45541  45825  Carroll, Judith         Sun, Dec  7, 2015       D12-11-02 
+ JE141F1107496X23X  Crosstour    2015  34307  37640  Carroll, Judith         Tue, Dec  9, 2015       D12-11-02 
+ JA115SU307493ACX2  Accord       2015  24742  25480  Carroll, Judith         Sun, Dec  7, 2015       D12-11-02 
+ JA113SU3774982454  Accord       2015  22390  23480  Graves, Edwin           Tue, Dec  9, 2015       D12-11-01 
+ JB129S14074971346  Civic        2015  23212  23055  Carroll, Judith         Tue, Dec  9, 2015       D12-11-02 
+ JA117S3367495C128  Accord       2015  22267  23480  Graves, Edwin           Sun, Dec  7, 2015       D12-11-01 
+ JG148F11374918B2X  Insight      2015  23091  24390  Graves, Edwin           Sat, Dec  6, 2015       D12-11-01 
+ JA111S13574982592  Accord       2015  21126  22480  Graves, Edwin           Wed, Dec  3, 2015       D12-11-01 
+ JA1X2F1207495C264  Accord       2015  31081  33030  Carroll, Judith         Sat, Dec  6, 2015       D12-11-02 
+ JB121S125749X7A16  Civic        2015  16964  16455  Graves, Edwin           Sat, Dec  6, 2015       D12-11-01 
+ JA1X6FU2974982598  Accord       2015  33625  36030  Carroll, Judith         Sat, Dec  6, 2015       D12-11-02 
+ JC131F1147494B16X  CR-V         2015  30835  30995  Graves, Edwin           Sat, Dec  6, 2015       D12-11-01 
+ JA115SU377495C272  Accord       2015  25141  25480  Graves, Edwin           Sat, Dec  6, 2015       D12-11-01 
+ JA1X1S1227494B164  Accord       2015  23196  24089  Carroll, Judith         Sun, Dec  7, 2015       D12-11-02 
+ JC132FU187496X386  CR-V         2015  31960  31995  Graves, Edwin           Sun, Dec  7, 2015       D12-11-01 
+ JB129S1407494B168  Civic        2015  22003  23055  Graves, Edwin           Thu, Dec  4, 2015       D12-11-01 
+ JH153FU177495C28X  Odyssey      2015  44367  45825  Carroll, Judith         Sun, Dec  7, 2015       D12-11-02 
+ JB127S1327496X392  Civic        2015  16357  16655  Carroll, Judith         Tue, Dec  9, 2015       D12-11-02 
+ JE141F1157495C284  Crosstour    2015  36826  37640  Graves, Edwin           Fri, Dec  5, 2015       D12-11-01 
+ JH157F314749825B6  Odyssey      2015  42489  45825  Carroll, Judith         Sat, Dec  6, 2015       D12-11-02 
+ JD136F11A7495C288  CR-Z         2015  23376  24705  Graves, Edwin           Sun, Dec  7, 2015       D12-11-01 
+ JH154SU187496X3AX  Odyssey      2015  32327  32375  Graves, Edwin           Fri, Dec  5, 2015       D12-11-01 
+ JA1X7S32274929C62  Accord       2015  24379  25089  Carroll, Judith         Sat, Dec  6, 2015       D12-11-02 
+ JA1X5SU26749X7A44  Accord       2015  26380  27089  Graves, Edwin           Mon, Dec  8, 2015       D12-11-01 
+ JC132FU1374918B56  CR-V         2015  31298  31995  Carroll, Judith         Tue, Dec  9, 2015       D12-11-02 
+ JD136F1167494B188  CR-Z         2015  24538  24705  Graves, Edwin           Tue, Dec  9, 2015       D12-11-01 
+ JE143FU127494B19X  Crosstour    2015  39885  40640  Carroll, Judith         Mon, Dec  8, 2015       D12-11-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1322X44B9C7  Civic       2002  8862   16655  Graves, Edwin           Thu, Dec  4, 2015       D12-11-01 
+ JG148F1121175CAX9  Insight     2001  9756   24390  Carroll, Judith         Fri, Dec  5, 2015       D12-11-02 
+ JB127S13A5353A8C1  Civic       2005  12885  16655  Graves, Edwin           Fri, Dec  5, 2015       D12-11-01 
+ JC132FU174124B9X3  CR-V        2004  20908  31995  Carroll, Judith         Mon, Dec  8, 2015       D12-11-02 
+ JB125G1644495CA15  Civic       2004  19200  28505  Graves, Edwin           Thu, Dec  4, 2015       D12-11-01 
+ JH153FU104373A8C7  Odyssey     2004  29760  45825  Carroll, Judith         Wed, Dec  3, 2015       D12-11-02 
+ JC132FU1844782X49  CR-V        2004  20908  31995  Carroll, Judith         Thu, Dec  4, 2015       D12-11-02 
+ JH159F4143416XB31  Odyssey     2003  35510  56825  Graves, Edwin           Fri, Dec  5, 2015       D12-11-01 
+ JH153FU19415X75A3  Odyssey     2004  30597  45825  Carroll, Judith         Thu, Dec  4, 2015       D12-11-02 
+ JH155FU1644482X55  Odyssey     2004  31040  47825  Graves, Edwin           Mon, Dec  8, 2015       D12-11-01 
+ JJ162FU124365CA27  Pilot       2004  30034  44970  Carroll, Judith         Thu, Dec  4, 2015       D12-11-02 
+ JB127S1304495CA29  Civic       2004  11403  16655  Graves, Edwin           Fri, Dec  5, 2015       D12-11-01 
+ JG149FU1811P6XC71  Insight     2001  22796  25190  Carroll, Judith         Sun, Dec  7, 2015       D12-11-02 
+ JK169F4174X73A943  Ridgeline   2004  36962  58750  Carroll, Judith         Tue, Dec  9, 2015       D12-11-02 
+ JH153FU174125CB65  Odyssey     2004  29760  45825  Carroll, Judith         Thu, Dec  4, 2015       D12-11-02 
+ JC131F11622129837  CR-V        2002  16390  30995  Carroll, Judith         Fri, Dec  5, 2015       D12-11-02 
+ JD136F11361P5CB69  CR-Z        2006  20922  24705  Graves, Edwin           Wed, Dec  3, 2015       D12-11-01 
+ JB128SU3215P3A951  Civic       2001  6982   17455  Carroll, Judith         Thu, Dec  4, 2015       D12-11-02 
+ JE142FU1844518733  Crosstour   2004  25161  38640  Carroll, Judith         Sun, Dec  7, 2015       D12-11-02 
+ JH156S3154346XC85  Odyssey     2004  19872  30375  Carroll, Judith         Sat, Dec  6, 2015       D12-11-02 
+ JG148F11055218737  Insight     2005  18562  24390  Carroll, Judith         Mon, Dec  8, 2015       D12-11-02 
+ JH155FU133X16XC89  Odyssey     2003  29930  47825  Carroll, Judith         Sun, Dec  7, 2015       D12-11-02 
+ JB121S1233394BA71  Civic       2003  10481  16455  Carroll, Judith         Sun, Dec  7, 2015       D12-11-02 
+ JC133FU1A5X571XA3  CR-V        2005  25124  33995  Carroll, Judith         Thu, Dec  4, 2015       D12-11-02 
+ JH159F41143829855  Odyssey     2004  36800  56825  Graves, Edwin           Mon, Dec  8, 2015       D12-11-01 
+ JH159F4174156XC97  Odyssey     2004  36800  56825  Carroll, Judith         Thu, Dec  4, 2015       D12-11-02 
+ JG148F11A543821B9  Insight     2005  18562  24390  Graves, Edwin           Mon, Dec  8, 2015       D12-11-01 
+ JH152SU15225821C1  Odyssey     2002  16065  30375  Graves, Edwin           Thu, Dec  4, 2015       D12-11-01 
+ JH152SU1A2273A973  Odyssey     2002  16065  30375  Carroll, Judith         Tue, Dec  9, 2015       D12-11-02 

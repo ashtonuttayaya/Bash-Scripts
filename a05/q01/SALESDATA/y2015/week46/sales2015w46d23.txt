@@ -1,0 +1,48 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Wed, Nov 12, 2015 thru Tue, Nov 18, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12574683C58  Civic        2015  15909  16455  Baker, Mark             Fri, Nov 14, 2015       D23-21-02 
+ JG148F115746X851X  Insight      2015  23601  24390  Arnold, Marcus          Fri, Nov 14, 2015       D23-21-04 
+ JB121S12674661B72  Civic        2015  16613  16455  Holland, Mitchell       Sun, Nov 16, 2015       D23-21-05 
+ JE141F11A74661B74  Crosstour    2015  35082  37640  Garrett, Edna           Thu, Nov 13, 2015       D23-21-06 
+ JJ161FU187465XA66  Pilot        2015  39024  42970  Arnold, Marcus          Sun, Nov 16, 2015       D23-21-04 
+ JH154SU187463B848  Odyssey      2015  30820  32375  Garrett, Edna           Fri, Nov 14, 2015       D23-21-06 
+ JG148F11674661B8X  Insight      2015  23091  24390  Payne, Calvin           Mon, Nov 17, 2015       D23-21-03 
+ JB127S1357465XA72  Civic        2015  16624  16655  Jenkins, Corey          Tue, Nov 18, 2015       D23-21-01 
+ JA1X1S12974661B84  Accord       2015  22314  24089  Payne, Calvin           Sat, Nov 15, 2015       D23-21-03 
+ JA117S331746X8526  Accord       2015  22390  23480  Baker, Mark             Fri, Nov 14, 2015       D23-21-02 
+ JA111S13A746X8528  Accord       2015  22896  22480  Jenkins, Corey          Tue, Nov 18, 2015       D23-21-01 
+ JB123H15074683XBX  Civic        2015  25996  27600  Arnold, Marcus          Thu, Nov 13, 2015       D23-21-04 
+ JB127S134746X8532  Civic        2015  15913  16655  Holland, Mitchell       Sat, Nov 15, 2015       D23-21-05 
+ JB121S12574619644  Civic        2015  16349  16455  Garrett, Edna           Mon, Nov 17, 2015       D23-21-06 
+ JB121S1207463B866  Civic        2015  16701  16455  Holland, Mitchell       Fri, Nov 14, 2015       D23-21-05 
+ JB121S124746X8538  Civic        2015  16964  16455  Garrett, Edna           Mon, Nov 17, 2015       D23-21-06 
+ JA115SU3774661BAX  Accord       2015  24210  25480  Jenkins, Corey          Fri, Nov 14, 2015       D23-21-01 
+ JC132FU147464C982  CR-V         2015  30967  31995  Jenkins, Corey          Fri, Nov 14, 2015       D23-21-01 
+ JF147SU1A74683XC4  Fit          2015  16424  16825  Jenkins, Corey          Sat, Nov 15, 2015       D23-21-01 
+ JE142FU167462A766  Crosstour    2015  37975  38640  Payne, Calvin           Wed, Nov 12, 2015       D23-21-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC135F4135115C1C5  CR-V        2005  30016  39995  Garrett, Edna           Thu, Nov 13, 2015       D23-21-06 
+ JH152SU185466X2X7  Odyssey     2005  22955  30375  Arnold, Marcus          Mon, Nov 17, 2015       D23-21-04 
+ JC132FU194273ACA9  CR-V        2004  21496  31995  Arnold, Marcus          Tue, Nov 18, 2015       D23-21-04 
+ JB122SU2033P6X211  Civic       2003  10977  17255  Garrett, Edna           Tue, Nov 18, 2015       D23-21-06 
+ JH157F3105473ACB3  Odyssey     2005  32987  45825  Jenkins, Corey          Sun, Nov 16, 2015       D23-21-01 
+ JD137FU154413ACB5  CR-Z        2004  16883  25705  Holland, Mitchell       Tue, Nov 18, 2015       D23-21-05 
+ JC133FU1A44418A97  CR-V        2004  22812  33995  Baker, Mark             Thu, Nov 13, 2015       D23-21-02 
+ JH154SU171326X219  Odyssey     2001  11978  32375  Baker, Mark             Wed, Nov 12, 2015       D23-21-02 
+ JC132FU176X55C111  CR-V        2006  26827  31995  Arnold, Marcus          Sat, Nov 15, 2015       D23-21-04 
+ JD14AF41544118AA3  CR-Z        2004  22622  33705  Jenkins, Corey          Sat, Nov 15, 2015       D23-21-01 
+ JC135F41643829BB5  CR-V        2004  26760  39995  Jenkins, Corey          Wed, Nov 12, 2015       D23-21-01 
+ JD138FU1841371337  CR-Z        2004  18674  27705  Arnold, Marcus          Thu, Nov 13, 2015       D23-21-04 
+ JB13ASU4953318AA9  Civic       2005  18170  23855  Baker, Mark             Sat, Nov 15, 2015       D23-21-02 

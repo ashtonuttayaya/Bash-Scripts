@@ -1,0 +1,71 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Tue, Feb 26, 2014 thru Mon, Mar  4, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1176X972CB2  Insight      2014  22381  24390  Scott, Samuel           Fri, Mar  1, 2014       D27-24-06 
+ JA1X5SU226X95XA94  Accord       2014  25330  27089  Scott, Samuel           Sun, Mar  3, 2014       D27-24-06 
+ JE141F1166X93B876  Crosstour    2014  34686  37640  Scott, Samuel           Tue, Feb 26, 2014       D27-24-06 
+ JB127S1396X919658  Civic        2014  16326  16655  Perkins, Pearl          Sat, Mar  2, 2014       D27-24-03 
+ JB123H1556X92A77X  Civic        2014  25222  27600  Scott, Samuel           Wed, Feb 27, 2014       D27-24-06 
+ JA1X7S3216X919662  Accord       2014  24169  25089  Scott, Samuel           Tue, Feb 26, 2014       D27-24-06 
+ JB121S1296X961BB4  Civic        2014  16834  16455  Perkins, Pearl          Tue, Feb 26, 2014       D27-24-03 
+ JB121S1226X92A776  Civic        2014  15359  16455  Howard, Samantha        Thu, Feb 28, 2014       D27-24-05 
+ JB121S1226X9X8558  Civic        2014  16400  16455  Wright, Marion          Mon, Mar  4, 2014       D27-24-04 
+ JB127S1326X91967X  Civic        2014  16062  16655  Perkins, Pearl          Wed, Feb 27, 2014       D27-24-03 
+ JB121S1226X919672  Civic        2014  16747  16455  Shelton, Regina         Tue, Feb 26, 2014       D27-24-02 
+ JC132FU116X94C9A4  CR-V         2014  31579  31995  Scott, Samuel           Tue, Feb 26, 2014       D27-24-06 
+ JC131F1126X919676  CR-V         2014  30140  30995  Scott, Samuel           Fri, Mar  1, 2014       D27-24-06 
+ JB121S1256X9X8568  Civic        2014  16574  16455  Shelton, Regina         Wed, Feb 27, 2014       D27-24-02 
+ JH157F3196X92A79X  Odyssey      2014  45089  45825  Shelton, Regina         Sat, Mar  2, 2014       D27-24-02 
+ JB123H1576X95XAC2  Civic        2014  27075  27600  Scott, Samuel           Sun, Mar  3, 2014       D27-24-06 
+ JC133FU116X93B8A4  CR-V         2014  31231  33995  Shelton, Regina         Sun, Mar  3, 2014       D27-24-02 
+ JA1X1S1296X919686  Accord       2014  23989  24089  Wright, Marion          Thu, Feb 28, 2014       D27-24-04 
+ JA112F1396X919688  Accord       2014  31631  32930  Shelton, Regina         Mon, Mar  4, 2014       D27-24-02 
+ JC131F11A6X91969X  CR-V         2014  29183  30995  Perkins, Pearl          Sun, Mar  3, 2014       D27-24-03 
+ JC131F1126X9X8582  CR-V         2014  28546  30995  Shelton, Regina         Fri, Mar  1, 2014       D27-24-02 
+ JC134F31A6X972C24  CR-V         2014  29276  31995  Wright, Marion          Sun, Mar  3, 2014       D27-24-04 
+ JB121S1296X94C9C6  Civic        2014  15706  16455  Shelton, Regina         Fri, Mar  1, 2014       D27-24-02 
+ JB127S1336X94C9C8  Civic        2014  16501  16655  Perkins, Pearl          Thu, Feb 28, 2014       D27-24-03 
+ JA113SU306X95XA1X  Accord       2014  21698  23480  Wright, Marion          Wed, Feb 27, 2014       D27-24-04 
+ JH157F3156X9196A2  Odyssey      2014  41585  45825  Scott, Samuel           Fri, Mar  1, 2014       D27-24-06 
+ JB127S1366X972C34  Civic        2014  16589  16655  Howard, Samantha        Thu, Feb 28, 2014       D27-24-05 
+ JB121S12A6X94C9X6  Civic        2014  15966  16455  Hill, Rita              Wed, Feb 27, 2014       D27-24-01 
+ JB127S1336X92A7B8  Civic        2014  16589  16655  Perkins, Pearl          Fri, Mar  1, 2014       D27-24-03 
+ JB121S1276X961B3X  Civic        2014  15619  16455  Howard, Samantha        Mon, Mar  4, 2014       D27-24-05 
+ JJ16AF1186X92A7C2  Pilot        2014  39654  41970  Wright, Marion          Sat, Mar  2, 2014       D27-24-04 
+ JG148F11A6X961B34  Insight      2014  23266  24390  Wright, Marion          Tue, Feb 26, 2014       D27-24-04 
+ JB127S1376X93B8X6  Civic        2014  15975  16655  Scott, Samuel           Mon, Mar  4, 2014       D27-24-06 
+ JD136F1176X9196B8  CR-Z         2014  22660  24705  Hill, Rita              Tue, Feb 26, 2014       D27-24-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA119S4332126X227  Accord      2002  19657  31480  Wright, Marion          Sun, Mar  3, 2014       D27-24-04 
+ JC131F1103224BXX9  CR-V        2003  20690  30995  Wright, Marion          Mon, Mar  4, 2014       D27-24-04 
+ JE141F11215P29BC1  Crosstour   2001  19761  37640  Hill, Rita              Mon, Mar  4, 2014       D27-24-01 
+ JB127S1395X16X233  Civic       2005  14219  16655  Scott, Samuel           Sun, Mar  3, 2014       D27-24-06 
+ JD138FU1814118AB5  CR-Z        2001  13852  27705  Howard, Samantha        Mon, Mar  4, 2014       D27-24-05 
+ JH152SU171153ACX7  Odyssey     2001  15946  30375  Shelton, Regina         Tue, Feb 26, 2014       D27-24-02 
+ JJ164F41843671349  Pilot       2004  38579  53970  Shelton, Regina         Wed, Feb 27, 2014       D27-24-02 
+ JB13ASU432185C261  Civic       2002  14929  23855  Scott, Samuel           Thu, Feb 28, 2014       D27-24-06 
+ JH154SU106X829C33  Odyssey      2014  30317  32375  Wright, Marion          Sun, Mar  3, 2014       D27-24-04 
+ JB127S13A12529C35  Civic       2001  8327   16655  Perkins, Pearl          Mon, Mar  4, 2014       D27-24-03 
+ JH156S31224171487  Odyssey     2002  18972  30375  Shelton, Regina         Thu, Feb 28, 2014       D27-24-02 
+ JH151F111313X7A19  Odyssey     2003  29790  44825  Scott, Samuel           Sat, Mar  2, 2014       D27-24-06 
+ JC135F4161X85C271  CR-V        2001  20997  39995  Howard, Samantha        Fri, Mar  1, 2014       D27-24-05 
+ JD136F1103434B163  CR-Z        2003  16099  24705  Wright, Marion          Mon, Mar  4, 2014       D27-24-04 
+ JH154SU1A6X6X7A25  Odyssey      2014  30150  32375  Wright, Marion          Tue, Feb 26, 2014       D27-24-04 
+ JH155FU15Y28825A7  Odyssey     2000  20468  47825  Perkins, Pearl          Wed, Feb 27, 2014       D27-24-03 
+ JC131F1172343AX59  CR-V        2002  19356  30995  Howard, Samantha        Mon, Mar  4, 2014       D27-24-05 
+ JH154SU171235C281  Odyssey     2001  16187  32375  Scott, Samuel           Sun, Mar  3, 2014       D27-24-06 
+ JC133FU1823P5C283  CR-V        2002  21216  33995  Wright, Marion          Sun, Mar  3, 2014       D27-24-04 
+ JE144F3182X25C285  Crosstour   2002  24096  38640  Scott, Samuel           Tue, Feb 26, 2014       D27-24-06 
+ JG148F1105195C287  Insight     2005  22761  24390  Shelton, Regina         Mon, Mar  4, 2014       D27-24-02 
+ JE143FU18Y46X7A39  Crosstour   2000  16166  40640  Hill, Rita              Sat, Mar  2, 2014       D27-24-01 

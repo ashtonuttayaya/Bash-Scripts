@@ -1,0 +1,63 @@
+Dealer Name: Adams Honda
+Address:     4008 Lee Road
+             Louderdale, FL
+Dealer ID:   32
+Owner:       Adams, Jon
+Date:        Sat, Jun 24, 2012 thru Fri, Jun 30, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA118F33442619692  Accord       2012  32145  33930  Anderson, Brad          Sat, Jun 24, 2012       D32-28-03 
+ JB129S1464265XAX4  Civic        2012  20684  23055  Anderson, Brad          Tue, Jun 27, 2012       D32-28-03 
+ JD136F11142672C26  CR-Z         2012  22639  24705  Hicks, Andre            Thu, Jun 29, 2012       D32-28-01 
+ JE143FU1042672C28  Crosstour    2012  39035  40640  Bryant, Raul            Thu, Jun 29, 2012       D32-28-04 
+ JE142FU1142661B2X  Crosstour    2012  36744  38640  Bryant, Raul            Thu, Jun 29, 2012       D32-28-04 
+ JB121S124426196A2  Civic        2012  14876  16455  Bryant, Raul            Wed, Jun 28, 2012       D32-28-04 
+ JE142FU134264C9X4  Crosstour    2012  34399  38640  Hicks, Andre            Fri, Jun 30, 2012       D32-28-01 
+ JD137FU144264C9X6  CR-Z         2012  24324  25705  Bryant, Raul            Sun, Jun 25, 2012       D32-28-04 
+ JH153FU184264C9X8  Odyssey      2012  41184  45825  Freeman, Arthur         Sun, Jun 25, 2012       D32-28-05 
+ JG148F1144263B8XX  Insight      2012  23598  24390  Bryant, Raul            Mon, Jun 26, 2012       D32-28-04 
+ JA1X7S3264264C912  Accord       2012  22729  25089  Spencer, Sean           Tue, Jun 27, 2012       D32-28-02 
+ JB127S1394264C914  Civic        2012  16506  16655  Bryant, Raul            Thu, Jun 29, 2012       D32-28-04 
+ JB123H155426196B6  Civic        2012  26647  27600  Hicks, Andre            Sun, Jun 25, 2012       D32-28-01 
+ JB121S12742661B38  Civic        2012  15637  16455  Hicks, Andre            Wed, Jun 28, 2012       D32-28-01 
+ JA1X2F12842672X8X  Accord       2012  31806  33030  Hicks, Andre            Wed, Jun 28, 2012       D32-28-01 
+ JE141F11842672X82  Crosstour    2012  34661  37640  Bryant, Raul            Thu, Jun 29, 2012       D32-28-04 
+ JB127S1374263B944  Civic        2012  16164  16655  Anderson, Brad          Thu, Jun 29, 2012       D32-28-03 
+ JC131F11042661C76  CR-V         2012  27828  30995  Hicks, Andre            Tue, Jun 27, 2012       D32-28-01 
+ JC131F11A4262A838  CR-V         2012  28457  30995  Bryant, Raul            Sun, Jun 25, 2012       D32-28-04 
+ JA115SU324263B95X  Accord       2012  22948  25480  Hicks, Andre            Tue, Jun 27, 2012       D32-28-01 
+ JB121S125426X8622  Civic        2012  16313  16455  Hicks, Andre            Tue, Jun 27, 2012       D32-28-01 
+ JA1X1S1294262A844  Accord       2012  23802  24089  Freeman, Arthur         Sun, Jun 25, 2012       D32-28-05 
+ JC131F11342661C86  CR-V         2012  28772  30995  Hicks, Andre            Tue, Jun 27, 2012       D32-28-01 
+ JH156S31942619738  Odyssey      2012  28821  30375  Spencer, Sean           Wed, Jun 28, 2012       D32-28-02 
+ JD136F1184262A85X  CR-Z         2012  22513  24705  Bryant, Raul            Fri, Jun 30, 2012       D32-28-04 
+ JA117S3354262A852  Accord       2012  21297  23480  Bryant, Raul            Mon, Jun 26, 2012       D32-28-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH157F31514171695  Odyssey     2009  28503  45825  Spencer, Sean           Sun, Jun 25, 2012       D32-28-02 
+ JH152SU12Y3971697  Odyssey     2008  18693  30375  Bryant, Raul            Tue, Jun 27, 2012       D32-28-04 
+ JH152SU1A1X218X39  Odyssey     2009  19440  30375  Anderson, Brad          Fri, Jun 30, 2012       D32-28-03 
+ JH152SU11231X7C31  Odyssey     2010  21603  30375  Spencer, Sean           Sun, Jun 25, 2012       D32-28-02 
+ JB127S1353163A263  Civic       2011  13855  16655  Bryant, Raul            Sun, Jun 25, 2012       D32-28-04 
+ JC133FU183225C485  CR-V        2011  27556  33995  Freeman, Arthur         Tue, Jun 27, 2012       D32-28-05 
+ JH156S31A137827B7  Odyssey     2009  18893  30375  Hicks, Andre            Sat, Jun 24, 2012       D32-28-01 
+ JH154SU1A13829159  Odyssey     2009  20720  32375  Bryant, Raul            Thu, Jun 29, 2012       D32-28-04 
+ JD138FU1342P6X5A1  CR-Z         2012  25683  27705  Spencer, Sean           Mon, Jun 26, 2012       D32-28-02 
+ JH153FU112X83A273  Odyssey     2010  33156  45825  Hicks, Andre            Sun, Jun 25, 2012       D32-28-01 
+ JD14AF415Y16X7C45  CR-Z        2008  20757  33705  Bryant, Raul            Mon, Jun 26, 2012       D32-28-04 
+ JD14AF414124716B7  CR-Z        2009  22177  33705  Bryant, Raul            Sun, Jun 25, 2012       D32-28-04 
+ JH153FU19Y514B389  Odyssey     2008  27360  45825  Anderson, Brad          Fri, Jun 30, 2012       D32-28-03 
+ JA115SU311456X5B1  Accord      2009  16765  25480  Bryant, Raul            Wed, Jun 28, 2012       D32-28-04 
+ JH155FU1111P5C4A3  Odyssey     2009  30608  47825  Spencer, Sean           Sat, Jun 24, 2012       D32-28-02 
+ JH152SU18129716C5  Odyssey     2009  19440  30375  Spencer, Sean           Tue, Jun 27, 2012       D32-28-02 
+ JJ163F3151413A287  Pilot       2009  27500  42970  Spencer, Sean           Sun, Jun 25, 2012       D32-28-02 
+ JK167FU121316X5B9  Ridgeline   2009  32735  49750  Freeman, Arthur         Mon, Jun 26, 2012       D32-28-05 
+ JB129S14011PX7C61  Civic       2009  15170  23055  Anderson, Brad          Sun, Jun 25, 2012       D32-28-03 
+ JE142FU12131X7C63  Crosstour   2009  25425  38640  Hicks, Andre            Thu, Jun 29, 2012       D32-28-01 
+ JJ162FU12Y134B3A5  Pilot       2008  26847  44970  Anderson, Brad          Sun, Jun 25, 2012       D32-28-03 
+ JC131F11A21329187  CR-V        2010  22915  30995  Hicks, Andre            Tue, Jun 27, 2012       D32-28-01 

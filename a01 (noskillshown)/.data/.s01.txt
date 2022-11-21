@@ -1,0 +1,9 @@
+Checking user accounts
+           OK - admin accounts created                                            chxq01-A1
+           OK - user accounts created                                             chxq01-B1
+
+Checking directory structure
+           OK - class directory created                                           chxq01-C1
+           OK - a01 .. a07 created and a01.tar.gz copied                          chxq01-D1
+           OK - a01 extracted                                                     chxq01-E1
+

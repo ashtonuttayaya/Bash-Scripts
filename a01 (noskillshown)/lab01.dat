@@ -1,0 +1,389 @@
+Activity 1: submission file lab01.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Thursday, Sep 2, 2021
+    Time:    14:54
+    USID:    50K2F#J0h4yaAmxvS{h1J2I0R2g%xyNt5tTuPaK_2n1!K4q51:24f1P*qawy3auyTaxtQtkUa}S1F0Taq@Tp7esSy-9ntobtjhrsmA
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a01.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 1: This unedited file contains 284 characters.
+
+        End output of a01.txt
+
+
+        Start output of check01.txt
+            Checking user accounts
+                       OK - admin accounts created                                            chxq01-A1
+                       OK - user accounts created                                             chxq01-B1
+            
+            Checking directory structure
+                       OK - class directory created                                           chxq01-C1
+                       OK - a01 .. a07 created and a01.tar.gz copied                          chxq01-D1
+                       OK - a01 extracted                                                     chxq01-E1
+            
+
+        End output of check01.txt
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE 
+            
+            END OF QUESTION 2: This unedited file contains 284 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+            Checking apache web server configuration
+                       OK - apache running                                   chxq02-A1
+                       OK - user web pages enabled                           chxq02-B1
+            
+            Checking user web pages
+                       OK - web pages                                        chxq02-C1
+                       OK - web tar file                                     chxq02-D1
+            
+
+        End output of check02.txt
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE 
+            
+            END OF QUESTION 3: This unedited file contains 284 characters.
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+            Looking for files
+                       OK - txt files found in tests                          chxq03-A1
+                       OK - Files copied to q03                               chxq03-B1
+            
+
+        End output of check03.txt
+
+
+        Start output of jobs.txt
+            UID        PID  PPID  C STIME TTY          TIME CMD
+            root         1     0  0 Aug19 ?        00:00:40 /lib/systemd/systemd --system --deserialize 36
+            root         2     0  0 Aug19 ?        00:00:00 [kthreadd]
+            root         4     2  0 Aug19 ?        00:00:00 [kworker/0:0H]
+            root         6     2  0 Aug19 ?        00:00:00 [mm_percpu_wq]
+            root         7     2  0 Aug19 ?        00:00:02 [ksoftirqd/0]
+            root         8     2  0 Aug19 ?        00:00:28 [rcu_sched]
+            root         9     2  0 Aug19 ?        00:00:00 [rcu_bh]
+            root        10     2  0 Aug19 ?        00:00:00 [migration/0]
+            root        11     2  0 Aug19 ?        00:00:07 [watchdog/0]
+            root        12     2  0 Aug19 ?        00:00:00 [cpuhp/0]
+            root        13     2  0 Aug19 ?        00:00:00 [cpuhp/1]
+            root        14     2  0 Aug19 ?        00:00:04 [watchdog/1]
+            root        15     2  0 Aug19 ?        00:00:00 [migration/1]
+            root        16     2  0 Aug19 ?        00:00:01 [ksoftirqd/1]
+            root        18     2  0 Aug19 ?        00:00:00 [kworker/1:0H]
+            root        19     2  0 Aug19 ?        00:00:00 [kdevtmpfs]
+            root        20     2  0 Aug19 ?        00:00:00 [netns]
+            root        21     2  0 Aug19 ?        00:00:00 [rcu_tasks_kthre]
+            root        22     2  0 Aug19 ?        00:00:00 [kauditd]
+            root        24     2  0 Aug19 ?        00:00:00 [khungtaskd]
+            root        25     2  0 Aug19 ?        00:00:00 [oom_reaper]
+            root        26     2  0 Aug19 ?        00:00:00 [writeback]
+            root        27     2  0 Aug19 ?        00:00:00 [kcompactd0]
+            root        28     2  0 Aug19 ?        00:00:00 [ksmd]
+            root        29     2  0 Aug19 ?        00:00:03 [khugepaged]
+            root        30     2  0 Aug19 ?        00:00:00 [crypto]
+            root        31     2  0 Aug19 ?        00:00:00 [kintegrityd]
+            root        32     2  0 Aug19 ?        00:00:00 [kblockd]
+            root        33     2  0 Aug19 ?        00:00:00 [ata_sff]
+            root        34     2  0 Aug19 ?        00:00:00 [md]
+            root        35     2  0 Aug19 ?        00:00:00 [edac-poller]
+            root        36     2  0 Aug19 ?        00:00:00 [devfreq_wq]
+            root        37     2  0 Aug19 ?        00:00:00 [watchdogd]
+            root        40     2  0 Aug19 ?        00:00:10 [kswapd0]
+            root        41     2  0 Aug19 ?        00:00:00 [kworker/u129:0]
+            root        42     2  0 Aug19 ?        00:00:00 [ecryptfs-kthrea]
+            root        84     2  0 Aug19 ?        00:00:00 [kthrotld]
+            root        85     2  0 Aug19 ?        00:00:00 [acpi_thermal_pm]
+            root        87     2  0 Aug19 ?        00:00:02 [scsi_eh_0]
+            root        88     2  0 Aug19 ?        00:00:00 [scsi_tmf_0]
+            root        89     2  0 Aug19 ?        00:00:03 [scsi_eh_1]
+            root        90     2  0 Aug19 ?        00:00:00 [scsi_tmf_1]
+            root        96     2  0 Aug19 ?        00:00:00 [ipv6_addrconf]
+            root       105     2  0 Aug19 ?        00:00:00 [kstrp]
+            root       124     2  0 Aug19 ?        00:00:00 [charger_manager]
+            root       174     2  0 Aug19 ?        00:00:00 [hv_vmbus_con]
+            root       175     2  0 Aug19 ?        00:00:00 [hv_pri_chan]
+            root       176     2  0 Aug19 ?        00:00:00 [hv_sub_chan]
+            root       186     2  0 Aug19 ?        00:00:00 [scsi_eh_2]
+            root       187     2  0 Aug19 ?        00:00:00 [scsi_tmf_2]
+            root       188     2  0 Aug19 ?        00:00:00 [storvsc_error_w]
+            root       189     2  0 Aug19 ?        00:00:01 [kworker/1:1H]
+            root       190     2  0 Aug19 ?        00:00:00 [scsi_eh_3]
+            root       191     2  0 Aug19 ?        00:00:00 [scsi_tmf_3]
+            root       192     2  0 Aug19 ?        00:00:00 [storvsc_error_w]
+            root       197     2  0 Aug19 ?        00:00:08 [kworker/0:1H]
+            root       199     2  0 Aug19 ?        00:00:00 [kdmflush]
+            root       200     2  0 Aug19 ?        00:00:00 [bioset]
+            root       279     2  0 Aug19 ?        00:00:00 [raid5wq]
+            root       331     2  0 Aug19 ?        00:00:04 [jbd2/dm-0-8]
+            root       332     2  0 Aug19 ?        00:00:00 [ext4-rsv-conver]
+            root       415     2  0 Aug19 ?        00:00:00 [iscsi_eh]
+            root       422     2  0 Aug19 ?        00:00:00 [ib-comp-wq]
+            root       423     2  0 Aug19 ?        00:00:00 [ib-comp-unb-wq]
+            root       424     2  0 Aug19 ?        00:00:00 [ib_mcast]
+            root       425     2  0 Aug19 ?        00:00:00 [ib_nl_sa_wq]
+            root       426     2  0 Aug19 ?        00:00:00 [rdma_cm]
+            root       427     1  0 Aug19 ?        00:00:00 /sbin/lvmetad -f
+            root       453     2  0 Aug19 ?        00:01:01 [hv_balloon]
+            root       660     2  0 Aug19 ?        00:00:00 [jbd2/sda2-8]
+            root       661     2  0 Aug19 ?        00:00:00 [ext4-rsv-conver]
+            root      1053     1  0 Aug19 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+            message+  1066     1  0 Aug19 ?        00:00:05 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+            root      1083     1  0 Aug19 ?        00:00:11 /lib/systemd/systemd-udevd
+            syslog    1137     1  0 Aug19 ?        00:00:00 /usr/sbin/rsyslogd -n
+            root      1168     1  0 Aug19 ?        00:00:41 /usr/sbin/irqbalance --foreground
+            root      1177     1  0 Aug19 ?        00:00:03 /lib/systemd/systemd-logind
+            root      1178     1  0 Aug19 ?        00:01:17 /usr/bin/lxcfs /var/lib/lxcfs/
+            root      1205     1  0 Aug19 ?        00:00:01 /usr/sbin/cron -f
+            daemon    1244     1  0 Aug19 ?        00:00:00 /usr/sbin/atd -f
+            root      1305     1  0 Aug19 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+            root      1312     1  0 Aug19 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+            root      1342     1  0 Aug19 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+            root      2175     2  0 Aug19 ?        00:00:00 [loop2]
+            mysql    11653     1  0 Aug19 ?        00:08:23 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+            root     12237     1  0 Aug19 ?        00:00:00 /usr/sbin/sshd -D
+            root     14002     2  0 Aug19 ?        00:00:00 [xfsalloc]
+            root     14009     2  0 Aug19 ?        00:00:00 [xfs_mru_cache]
+            root     14014     2  0 Aug19 ?        00:00:00 [jfsIO]
+            root     14015     2  0 Aug19 ?        00:00:00 [jfsCommit]
+            root     14016     2  0 Aug19 ?        00:00:00 [jfsCommit]
+            root     14017     2  0 Aug19 ?        00:00:00 [jfsSync]
+            systemd+ 14711     1  0 Aug19 ?        00:00:01 /lib/systemd/systemd-networkd
+            systemd+ 14741     1  0 Aug19 ?        00:00:01 /lib/systemd/systemd-resolved
+            systemd+ 14768     1  0 Aug19 ?        00:00:01 /lib/systemd/systemd-timesyncd
+            root     14796     1  0 Aug19 ?        00:00:03 /lib/systemd/systemd-journald
+            root     37716     2  0 09:39 ?        00:00:33 [kworker/0:1]
+            root     38123     2  0 11:39 ?        00:00:00 [kworker/1:0]
+            root     39222     2  0 18:14 ?        00:00:02 [kworker/u128:0]
+            root     39723     2  0 19:44 ?        00:00:00 [kworker/u128:3]
+            root     39958     2  0 19:50 ?        00:00:00 [kworker/u128:1]
+            root     40651     2  0 20:00 ?        00:00:00 [kworker/0:0]
+            root     40662     2  0 20:01 ?        00:00:00 [kworker/1:1]
+            root     41083     1  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41088 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41089 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41090 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41091 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41092 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            root     41097 12237  0 20:01 ?        00:00:00 sshd: n_autty [priv]
+            n_autty  41099     1  0 20:02 ?        00:00:00 /lib/systemd/systemd --user
+            root     41100 12237  0 20:02 ?        00:00:00 sshd: n_autty [priv]
+            n_autty  41101 41099  0 20:02 ?        00:00:00 (sd-pam)
+            n_autty  41249 41097  0 20:02 ?        00:00:00 sshd: n_autty@pts/0
+            n_autty  41275 41100  0 20:02 ?        00:00:00 sshd: n_autty@notty
+            n_autty  41276 41249  0 20:02 pts/0    00:00:00 -bash
+            n_autty  41292 41275  0 20:02 ?        00:00:00 /usr/lib/openssh/sftp-server
+            www-data 41295 41083  0 20:02 ?        00:00:00 /usr/sbin/apache2 -k start
+            root     41319     2  0 20:07 ?        00:00:00 [kworker/0:2]
+            n_autty  41356 41276  0 20:08 pts/0    00:00:00 ps -aef
+            root     53526     2  0 Aug24 ?        00:00:00 [loop0]
+            root     53583     1  0 Aug24 ?        00:00:42 /usr/lib/snapd/snapd
+            uuidd    55673     1  0 Aug19 ?        00:00:00 /usr/sbin/uuidd --socket-activation
+            root     56269     1  0 Aug19 ?        00:00:12 /usr/lib/accountsservice/accounts-daemon
+
+        End output of jobs.txt
+
+
+        Start output of files.txt
+            /home/n_autty/tests
+            total 24
+            drwxrwxr-x 2 n_autty n_autty 4096 Sep  1 20:08 .
+            drwxr-xr-x 9 n_autty n_autty 4096 Sep  1 20:02 ..
+            -rw-rw-r-- 1 n_autty n_autty   20 Sep  1 20:08 files.txt
+            -rw-rw-r-- 1 n_autty n_autty 8349 Sep  1 20:08 jobs.txt
+
+        End output of files.txt
+
+
+        Start output of all.txt
+            /home/n_autty/tests
+            total 24
+            drwxrwxr-x 2 n_autty n_autty 4096 Sep  1 20:08 .
+            drwxr-xr-x 9 n_autty n_autty 4096 Sep  1 20:02 ..
+            -rw-rw-r-- 1 n_autty n_autty   20 Sep  1 20:08 files.txt
+            -rw-rw-r-- 1 n_autty n_autty 8349 Sep  1 20:08 jobs.txt
+            UID        PID  PPID  C STIME TTY          TIME CMD
+            root         1     0  0 Aug19 ?        00:00:40 /lib/systemd/systemd --system --deserialize 36
+            root         2     0  0 Aug19 ?        00:00:00 [kthreadd]
+            root         4     2  0 Aug19 ?        00:00:00 [kworker/0:0H]
+            root         6     2  0 Aug19 ?        00:00:00 [mm_percpu_wq]
+            root         7     2  0 Aug19 ?        00:00:02 [ksoftirqd/0]
+            root         8     2  0 Aug19 ?        00:00:28 [rcu_sched]
+            root         9     2  0 Aug19 ?        00:00:00 [rcu_bh]
+            root        10     2  0 Aug19 ?        00:00:00 [migration/0]
+            root        11     2  0 Aug19 ?        00:00:07 [watchdog/0]
+            root        12     2  0 Aug19 ?        00:00:00 [cpuhp/0]
+            root        13     2  0 Aug19 ?        00:00:00 [cpuhp/1]
+            root        14     2  0 Aug19 ?        00:00:04 [watchdog/1]
+            root        15     2  0 Aug19 ?        00:00:00 [migration/1]
+            root        16     2  0 Aug19 ?        00:00:01 [ksoftirqd/1]
+            root        18     2  0 Aug19 ?        00:00:00 [kworker/1:0H]
+            root        19     2  0 Aug19 ?        00:00:00 [kdevtmpfs]
+            root        20     2  0 Aug19 ?        00:00:00 [netns]
+            root        21     2  0 Aug19 ?        00:00:00 [rcu_tasks_kthre]
+            root        22     2  0 Aug19 ?        00:00:00 [kauditd]
+            root        24     2  0 Aug19 ?        00:00:00 [khungtaskd]
+            root        25     2  0 Aug19 ?        00:00:00 [oom_reaper]
+            root        26     2  0 Aug19 ?        00:00:00 [writeback]
+            root        27     2  0 Aug19 ?        00:00:00 [kcompactd0]
+            root        28     2  0 Aug19 ?        00:00:00 [ksmd]
+            root        29     2  0 Aug19 ?        00:00:03 [khugepaged]
+            root        30     2  0 Aug19 ?        00:00:00 [crypto]
+            root        31     2  0 Aug19 ?        00:00:00 [kintegrityd]
+            root        32     2  0 Aug19 ?        00:00:00 [kblockd]
+            root        33     2  0 Aug19 ?        00:00:00 [ata_sff]
+            root        34     2  0 Aug19 ?        00:00:00 [md]
+            root        35     2  0 Aug19 ?        00:00:00 [edac-poller]
+            root        36     2  0 Aug19 ?        00:00:00 [devfreq_wq]
+            root        37     2  0 Aug19 ?        00:00:00 [watchdogd]
+            root        40     2  0 Aug19 ?        00:00:10 [kswapd0]
+            root        41     2  0 Aug19 ?        00:00:00 [kworker/u129:0]
+            root        42     2  0 Aug19 ?        00:00:00 [ecryptfs-kthrea]
+            root        84     2  0 Aug19 ?        00:00:00 [kthrotld]
+            root        85     2  0 Aug19 ?        00:00:00 [acpi_thermal_pm]
+            root        87     2  0 Aug19 ?        00:00:02 [scsi_eh_0]
+            root        88     2  0 Aug19 ?        00:00:00 [scsi_tmf_0]
+            root        89     2  0 Aug19 ?        00:00:03 [scsi_eh_1]
+            root        90     2  0 Aug19 ?        00:00:00 [scsi_tmf_1]
+            root        96     2  0 Aug19 ?        00:00:00 [ipv6_addrconf]
+            root       105     2  0 Aug19 ?        00:00:00 [kstrp]
+            root       124     2  0 Aug19 ?        00:00:00 [charger_manager]
+            root       174     2  0 Aug19 ?        00:00:00 [hv_vmbus_con]
+            root       175     2  0 Aug19 ?        00:00:00 [hv_pri_chan]
+            root       176     2  0 Aug19 ?        00:00:00 [hv_sub_chan]
+            root       186     2  0 Aug19 ?        00:00:00 [scsi_eh_2]
+            root       187     2  0 Aug19 ?        00:00:00 [scsi_tmf_2]
+            root       188     2  0 Aug19 ?        00:00:00 [storvsc_error_w]
+            root       189     2  0 Aug19 ?        00:00:01 [kworker/1:1H]
+            root       190     2  0 Aug19 ?        00:00:00 [scsi_eh_3]
+            root       191     2  0 Aug19 ?        00:00:00 [scsi_tmf_3]
+            root       192     2  0 Aug19 ?        00:00:00 [storvsc_error_w]
+            root       197     2  0 Aug19 ?        00:00:08 [kworker/0:1H]
+            root       199     2  0 Aug19 ?        00:00:00 [kdmflush]
+            root       200     2  0 Aug19 ?        00:00:00 [bioset]
+            root       279     2  0 Aug19 ?        00:00:00 [raid5wq]
+            root       331     2  0 Aug19 ?        00:00:04 [jbd2/dm-0-8]
+            root       332     2  0 Aug19 ?        00:00:00 [ext4-rsv-conver]
+            root       415     2  0 Aug19 ?        00:00:00 [iscsi_eh]
+            root       422     2  0 Aug19 ?        00:00:00 [ib-comp-wq]
+            root       423     2  0 Aug19 ?        00:00:00 [ib-comp-unb-wq]
+            root       424     2  0 Aug19 ?        00:00:00 [ib_mcast]
+            root       425     2  0 Aug19 ?        00:00:00 [ib_nl_sa_wq]
+            root       426     2  0 Aug19 ?        00:00:00 [rdma_cm]
+            root       427     1  0 Aug19 ?        00:00:00 /sbin/lvmetad -f
+            root       453     2  0 Aug19 ?        00:01:01 [hv_balloon]
+            root       660     2  0 Aug19 ?        00:00:00 [jbd2/sda2-8]
+            root       661     2  0 Aug19 ?        00:00:00 [ext4-rsv-conver]
+            root      1053     1  0 Aug19 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+            message+  1066     1  0 Aug19 ?        00:00:05 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+            root      1083     1  0 Aug19 ?        00:00:11 /lib/systemd/systemd-udevd
+            syslog    1137     1  0 Aug19 ?        00:00:00 /usr/sbin/rsyslogd -n
+            root      1168     1  0 Aug19 ?        00:00:41 /usr/sbin/irqbalance --foreground
+            root      1177     1  0 Aug19 ?        00:00:03 /lib/systemd/systemd-logind
+            root      1178     1  0 Aug19 ?        00:01:17 /usr/bin/lxcfs /var/lib/lxcfs/
+            root      1205     1  0 Aug19 ?        00:00:01 /usr/sbin/cron -f
+            daemon    1244     1  0 Aug19 ?        00:00:00 /usr/sbin/atd -f
+            root      1305     1  0 Aug19 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+            root      1312     1  0 Aug19 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+            root      1342     1  0 Aug19 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+            root      2175     2  0 Aug19 ?        00:00:00 [loop2]
+            mysql    11653     1  0 Aug19 ?        00:08:23 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+            root     12237     1  0 Aug19 ?        00:00:00 /usr/sbin/sshd -D
+            root     14002     2  0 Aug19 ?        00:00:00 [xfsalloc]
+            root     14009     2  0 Aug19 ?        00:00:00 [xfs_mru_cache]
+            root     14014     2  0 Aug19 ?        00:00:00 [jfsIO]
+            root     14015     2  0 Aug19 ?        00:00:00 [jfsCommit]
+            root     14016     2  0 Aug19 ?        00:00:00 [jfsCommit]
+            root     14017     2  0 Aug19 ?        00:00:00 [jfsSync]
+            systemd+ 14711     1  0 Aug19 ?        00:00:01 /lib/systemd/systemd-networkd
+            systemd+ 14741     1  0 Aug19 ?        00:00:01 /lib/systemd/systemd-resolved
+            systemd+ 14768     1  0 Aug19 ?        00:00:01 /lib/systemd/systemd-timesyncd
+            root     14796     1  0 Aug19 ?        00:00:03 /lib/systemd/systemd-journald
+            root     37716     2  0 09:39 ?        00:00:33 [kworker/0:1]
+            root     38123     2  0 11:39 ?        00:00:00 [kworker/1:0]
+            root     39222     2  0 18:14 ?        00:00:02 [kworker/u128:0]
+            root     39723     2  0 19:44 ?        00:00:00 [kworker/u128:3]
+            root     39958     2  0 19:50 ?        00:00:00 [kworker/u128:1]
+            root     40651     2  0 20:00 ?        00:00:00 [kworker/0:0]
+            root     40662     2  0 20:01 ?        00:00:00 [kworker/1:1]
+            root     41083     1  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41088 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41089 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41090 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41091 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            www-data 41092 41083  0 20:01 ?        00:00:00 /usr/sbin/apache2 -k start
+            root     41097 12237  0 20:01 ?        00:00:00 sshd: n_autty [priv]
+            n_autty  41099     1  0 20:02 ?        00:00:00 /lib/systemd/systemd --user
+            root     41100 12237  0 20:02 ?        00:00:00 sshd: n_autty [priv]
+            n_autty  41101 41099  0 20:02 ?        00:00:00 (sd-pam)
+            n_autty  41249 41097  0 20:02 ?        00:00:00 sshd: n_autty@pts/0
+            n_autty  41275 41100  0 20:02 ?        00:00:00 sshd: n_autty@notty
+            n_autty  41276 41249  0 20:02 pts/0    00:00:00 -bash
+            n_autty  41292 41275  0 20:02 ?        00:00:00 /usr/lib/openssh/sftp-server
+            www-data 41295 41083  0 20:02 ?        00:00:00 /usr/sbin/apache2 -k start
+            root     41319     2  0 20:07 ?        00:00:00 [kworker/0:2]
+            n_autty  41356 41276  0 20:08 pts/0    00:00:00 ps -aef
+            root     53526     2  0 Aug24 ?        00:00:00 [loop0]
+            root     53583     1  0 Aug24 ?        00:00:42 /usr/lib/snapd/snapd
+            uuidd    55673     1  0 Aug19 ?        00:00:00 /usr/sbin/uuidd --socket-activation
+            root     56269     1  0 Aug19 ?        00:00:12 /usr/lib/accountsservice/accounts-daemon
+
+        End output of all.txt
+
+    All files found for question 3.
+END QUESTION 3
+
+    Begin summary of file submissions
+        Files needed  = 9
+        Files found   = 9
+        Files missing = 0
+    End summary of file submissions
+
+Activity 1: submission file lab01.txt completed

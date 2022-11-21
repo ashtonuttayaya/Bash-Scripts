@@ -1,0 +1,56 @@
+Dealer Name: City Honda
+Address:     9489 Ford Parkwark
+             Brookland, GA
+Dealer ID:   25
+Owner:       Porter, Barbara
+Date:        Fri, Nov 26, 2011 thru Thu, Dec  2, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE144F3193486X426  Crosstour    2011  34784  38640  Wallace, Harry          Wed, Dec  1, 2011       D25-22-04 
+ JA1X9S426348X7B98  Accord       2011  31315  33089  Mcdonald, Eduardo       Mon, Nov 29, 2011       D25-22-05 
+ JB121S12A3488265X  Civic        2011  14845  16455  Fuller, Jacob           Wed, Dec  1, 2011       D25-22-02 
+ JH154SU1A34882652  Odyssey      2011  30807  32375  Fuller, Jacob           Wed, Dec  1, 2011       D25-22-02 
+ JB122SU293483A1X4  Civic        2011  16780  17255  Wallace, Harry          Thu, Dec  2, 2011       D25-22-04 
+ JB123H15634829XC6  Civic        2011  26851  27600  Wallace, Harry          Sun, Nov 28, 2011       D25-22-04 
+ JA111S1393486X438  Accord       2011  20661  22480  Fuller, Jacob           Mon, Nov 29, 2011       D25-22-02 
+ JB127S1363482913X  Civic        2011  15192  16655  Mcdonald, Eduardo       Thu, Dec  2, 2011       D25-22-05 
+ JB121S12634829132  Civic        2011  15512  16455  Sullivan, Hazel         Thu, Dec  2, 2011       D25-22-06 
+ JH157F3173485C464  Odyssey      2011  42826  45825  Hall, Josephine         Fri, Nov 26, 2011       D25-22-03 
+ JG148F1133484B356  Insight      2011  22399  24390  Shelton, Alicia         Sat, Nov 27, 2011       D25-22-01 
+ JH151F11034829138  Odyssey      2011  43698  44825  Sullivan, Hazel         Mon, Nov 29, 2011       D25-22-06 
+ JG148F1113483A25X  Insight      2011  23015  24390  Wallace, Harry          Sat, Nov 27, 2011       D25-22-04 
+ JK165F1113485C472  Ridgeline    2011  44861  46750  Mcdonald, Eduardo       Thu, Dec  2, 2011       D25-22-05 
+ JD137FU1934829144  CR-Z         2011  23207  25705  Shelton, Alicia         Fri, Nov 26, 2011       D25-22-01 
+ JC132FU1834829146  CR-V         2011  30770  31995  Sullivan, Hazel         Mon, Nov 29, 2011       D25-22-06 
+ JA1X3SU2934829148  Accord       2011  24554  25089  Hall, Josephine         Mon, Nov 29, 2011       D25-22-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ164F418X5P5C1X1  Pilot       2007  33182  53970  Sullivan, Hazel         Mon, Nov 29, 2011       D25-22-06 
+ JH154SU102334BXC3  Odyssey     2010  26080  32375  Fuller, Jacob           Sat, Nov 27, 2011       D25-22-02 
+ JH152SU16X485C1X5  Odyssey     2007  18553  30375  Fuller, Jacob           Sat, Nov 27, 2011       D25-22-02 
+ JJ161FU12X3671327  Pilot       2007  26362  42970  Hall, Josephine         Fri, Nov 26, 2011       D25-22-03 
+ JD136F11724682439  CR-Z        2010  20193  24705  Mcdonald, Eduardo       Wed, Dec  1, 2011       D25-22-05 
+ JE141F1121455C111  Crosstour   2009  27100  37640  Wallace, Harry          Wed, Dec  1, 2011       D25-22-04 
+ JG148F112V3PX7993  Insight     2005  10100  24390  Sullivan, Hazel         Fri, Nov 26, 2011       D25-22-06 
+ JB127S138V1829BB5  Civic       2005  6774   16655  Hall, Josephine         Thu, Dec  2, 2011       D25-22-03 
+ JH157F310YX85C117  Odyssey     2008  29184  45825  Mcdonald, Eduardo       Sat, Nov 27, 2011       D25-22-05 
+ JH152SU1A2X25C119  Odyssey     2010  24480  30375  Hall, Josephine         Thu, Dec  2, 2011       D25-22-03 
+ JH15AS112Y436X231  Odyssey     2008  26380  29375  Fuller, Jacob           Wed, Dec  1, 2011       D25-22-02 
+ JF146S117Y343ACX3  Fit         2008  10112  16025  Fuller, Jacob           Sun, Nov 28, 2011       D25-22-02 
+ JB127S135YX929BC5  Civic       2008  10810  16655  Sullivan, Hazel         Thu, Dec  2, 2011       D25-22-06 
+ JC131F119Y2529BC7  CR-V        2008  20246  30995  Shelton, Alicia         Mon, Nov 29, 2011       D25-22-01 
+ JJ161FU10Y3218AB9  Pilot       2008  28126  42970  Fuller, Jacob           Tue, Nov 30, 2011       D25-22-02 
+ JG148F11011482591  Insight     2009  17902  24390  Sullivan, Hazel         Fri, Nov 26, 2011       D25-22-06 
+ JH152SU16Y3671483  Odyssey     2008  19296  30375  Fuller, Jacob           Mon, Nov 29, 2011       D25-22-02 
+ JH152SU11X334B155  Odyssey     2007  17955  30375  Shelton, Alicia         Tue, Nov 30, 2011       D25-22-01 
+ JJ161FU12Y4271487  Pilot       2008  28126  42970  Fuller, Jacob           Tue, Nov 30, 2011       D25-22-02 
+ JB129S148W2518B29  Civic       2006  11749  23055  Hall, Josephine         Thu, Dec  2, 2011       D25-22-03 
+ JB123H150Y2118B31  Civic       2008  18012  27600  Hall, Josephine         Sun, Nov 28, 2011       D25-22-03 
+ JJ163F3163X13AX53  Pilot        2011  39078  42970  Fuller, Jacob           Mon, Nov 29, 2011       D25-22-02 
+ JH154SU14X193AX55  Odyssey     2007  19155  32375  Shelton, Alicia         Mon, Nov 29, 2011       D25-22-01 
+ JH151F112W23X7A27  Odyssey     2006  22075  44825  Hall, Josephine         Sun, Nov 28, 2011       D25-22-03 

@@ -1,0 +1,79 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Wed, Dec 24, 2015 thru Wed, Dec 31, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F11A752198B8  Odyssey      2015  42274  44825  Graham, Sheila          Sun, Dec 28, 2015       D29-25-03 
+ JB123H1587523BB4X  Civic        2015  25421  27600  Rodriguez, Leonard      Thu, Dec 25, 2015       D29-25-01 
+ JB121S12475261172  Civic        2015  16349  16455  Coleman, Arnold         Wed, Dec 24, 2015       D29-25-05 
+ JC132FU1675272284  CR-V         2015  31464  31995  Coleman, Arnold         Tue, Dec 30, 2015       D29-25-05 
+ JG148F116752X8816  Insight      2015  23346  24390  Rodriguez, Leonard      Tue, Dec 30, 2015       D29-25-01 
+ JC134F319752X8818  CR-V         2015  31298  31995  Lucas, Jose             Fri, Dec 26, 2015       D29-25-06 
+ JA1X1S129752X882X  Accord       2015  23070  24089  Walker, Roland          Thu, Dec 25, 2015       D29-25-04 
+ JB121S12775261182  Civic        2015  16964  16455  Coleman, Arnold         Tue, Dec 30, 2015       D29-25-05 
+ JE144F313752833A4  Crosstour    2015  35589  38640  Lawson, Carolyn         Wed, Dec 24, 2015       D29-25-02 
+ JJ163F31975261186  Pilot        2015  40346  42970  Lucas, Jose             Sun, Dec 28, 2015       D29-25-06 
+ JG149FU1175272298  Insight      2015  24604  25190  Graham, Sheila          Wed, Dec 24, 2015       D29-25-03 
+ JH157F314752X883X  Odyssey      2015  42959  45825  Coleman, Arnold         Sun, Dec 28, 2015       D29-25-05 
+ JA117S3377523BB62  Accord       2015  22759  23480  Coleman, Arnold         Sat, Dec 27, 2015       D29-25-05 
+ JH153FU137523BB64  Odyssey      2015  44837  45825  Graham, Sheila          Wed, Dec 24, 2015       D29-25-03 
+ JC131F1177522AA56  CR-V         2015  29068  30995  Coleman, Arnold         Thu, Dec 25, 2015       D29-25-05 
+ JB129S1487524CC78  Civic        2015  22729  23055  Coleman, Arnold         Mon, Dec 29, 2015       D29-25-05 
+ JB129S140752722BX  Civic        2015  22245  23055  Walker, Roland          Sat, Dec 27, 2015       D29-25-04 
+ JB121S12A7522AA62  Civic        2015  16701  16455  Lucas, Jose             Wed, Dec 24, 2015       D29-25-06 
+ JB127S1307523BB74  Civic        2015  16891  16655  Graham, Sheila          Sun, Dec 28, 2015       D29-25-03 
+ JA1X1S1267524CC86  Accord       2015  22188  24089  Graham, Sheila          Sat, Dec 27, 2015       D29-25-03 
+ JC135F411752611A8  CR-V         2015  37419  39995  Rodriguez, Leonard      Wed, Dec 24, 2015       D29-25-01 
+ JH152SU12752833XX  Odyssey      2015  29767  30375  Lucas, Jose             Tue, Dec 30, 2015       D29-25-06 
+ JH154SU1A752611B2  Odyssey      2015  29815  32375  Rodriguez, Leonard      Tue, Dec 30, 2015       D29-25-01 
+ JD137FU197523BB84  CR-Z         2015  24012  25705  Graham, Sheila          Fri, Dec 26, 2015       D29-25-03 
+ JA113SU3A7525XXA6  Accord       2015  21652  23480  Rodriguez, Leonard      Mon, Dec 29, 2015       D29-25-01 
+ JA112F13375219968  Accord       2015  31671  32930  Coleman, Arnold         Fri, Dec 26, 2015       D29-25-05 
+ JA111S1317525XXBX  Accord       2015  22070  22480  Coleman, Arnold         Fri, Dec 26, 2015       D29-25-05 
+ JB127S13675283312  Civic        2015  17157  16655  Graham, Sheila          Sun, Dec 28, 2015       D29-25-03 
+ JB127S139752X8864  Civic        2015  17157  16655  Lawson, Carolyn         Thu, Dec 25, 2015       D29-25-02 
+ JH152SU1475283316  Odyssey      2015  30240  30375  Lawson, Carolyn         Mon, Dec 29, 2015       D29-25-02 
+ JA1X1S1217525XXB8  Accord       2015  22440  24089  Graham, Sheila          Fri, Dec 26, 2015       D29-25-03 
+ JH157F31A7527221X  Odyssey      2015  42020  45825  Graham, Sheila          Mon, Dec 29, 2015       D29-25-03 
+ JC133FU1775272212  CR-V         2015  31256  33995  Graham, Sheila          Fri, Dec 26, 2015       D29-25-03 
+ JH159F4187524CCB4  Odyssey      2015  53314  56825  Lucas, Jose             Wed, Dec 24, 2015       D29-25-06 
+ JB129S14275283326  Civic        2015  23091  23055  Graham, Sheila          Wed, Dec 24, 2015       D29-25-03 
+ JD137FU177523BBA8  CR-Z         2015  25890  25705  Coleman, Arnold         Wed, Dec 24, 2015       D29-25-05 
+ JA1X1S1217522AAAX  Accord       2015  22440  24089  Lucas, Jose             Sat, Dec 27, 2015       D29-25-06 
+ JC135F4107525XXX2  CR-V         2015  36185  39995  Graham, Sheila          Sat, Dec 27, 2015       D29-25-03 
+ JB128SU33752X8884  Civic        2015  17372  17455  Coleman, Arnold         Fri, Dec 26, 2015       D29-25-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD139F31422582637  CR-Z        2002  13613  25705  Coleman, Arnold         Mon, Dec 29, 2015       D29-25-05 
+ JG148F11334829XA9  Insight     2003  14904  24390  Lucas, Jose             Wed, Dec 24, 2015       D29-25-06 
+ JE141F1162525C311  Crosstour   2002  18932  37640  Rodriguez, Leonard      Sat, Dec 27, 2015       D29-25-01 
+ JH151F1146324B2X3  Odyssey     2006  36300  44825  Rodriguez, Leonard      Wed, Dec 24, 2015       D29-25-01 
+ JF146S11251P29XB5  Fit         2005  12186  16025  Lucas, Jose             Sun, Dec 28, 2015       D29-25-06 
+ JK169F41344929XB7  Ridgeline   2004  39101  58750  Rodriguez, Leonard      Mon, Dec 29, 2015       D29-25-01 
+ JH152SU154144B2X9  Odyssey     2004  20430  30375  Lucas, Jose             Sun, Dec 28, 2015       D29-25-06 
+ JA1X3SU2854782651  Accord      2005  19075  25089  Lawson, Carolyn         Thu, Dec 25, 2015       D29-25-02 
+ JD139F3113X83A1X3  CR-Z        2003  15693  25705  Lucas, Jose             Fri, Dec 26, 2015       D29-25-06 
+ JG148F1103X418CB5  Insight     2003  14904  24390  Graham, Sheila          Wed, Dec 24, 2015       D29-25-03 
+ JK167FU101X9X7BA7  Ridgeline   2001  18407  49750  Graham, Sheila          Tue, Dec 30, 2015       D29-25-03 
+ JH155FU1034871549  Odyssey     2003  29930  47825  Graham, Sheila          Sat, Dec 27, 2015       D29-25-03 
+ JJ162FU1921P6X571  Pilot       2002  23727  44970  Lawson, Carolyn         Thu, Dec 25, 2015       D29-25-02 
+ JH151F1103224B353  Odyssey     2003  26259  44825  Graham, Sheila          Fri, Dec 26, 2015       D29-25-03 
+ JH153FU1022918X25  Odyssey     2002  24176  45825  Graham, Sheila          Thu, Dec 25, 2015       D29-25-03 
+ JB127S1384286X577  Civic       2004  11091  16655  Graham, Sheila          Tue, Dec 30, 2015       D29-25-03 
+ JK168F3101113A249  Ridgeline   2001  19100  47750  Lucas, Jose             Sat, Dec 27, 2015       D29-25-06 
+ JC132FU1234418X31  CR-V        2003  20115  31995  Walker, Roland          Tue, Dec 30, 2015       D29-25-04 
+ JC131F11445129143  CR-V        2004  20268  30995  Rodriguez, Leonard      Sat, Dec 27, 2015       D29-25-01 
+ JB127S13541418X35  Civic       2004  11403  16655  Lucas, Jose             Wed, Dec 24, 2015       D29-25-06 
+ JB127S134341X7C27  Civic       2003  10263  16655  Lucas, Jose             Thu, Dec 25, 2015       D29-25-06 
+ JJ162FU164X2X7C29  Pilot       2004  28391  44970  Lawson, Carolyn         Fri, Dec 26, 2015       D29-25-02 
+ JH157F312539716A1  Odyssey     2005  34296  45825  Lucas, Jose             Wed, Dec 24, 2015       D29-25-06 
+ JB121S1232X44B373  Civic       2002  8757   16455  Lucas, Jose             Mon, Dec 29, 2015       D29-25-06 
+ JJ161FU194136X595  Pilot       2004  27932  42970  Coleman, Arnold         Sat, Dec 27, 2015       D29-25-05 

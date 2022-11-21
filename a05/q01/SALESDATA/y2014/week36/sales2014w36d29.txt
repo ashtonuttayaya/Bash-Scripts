@@ -1,0 +1,60 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Tue, Sep  3, 2014 thru Mon, Sep  9, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X1S123636X8666  Accord       2014  23614  24089  Rodriguez, Leonard      Thu, Sep  5, 2014       D29-25-01 
+ JB123H15063672XX8  Civic        2014  26790  27600  Lawson, Carolyn         Tue, Sep  3, 2014       D29-25-02 
+ JB127S1386363B9AX  Civic        2014  16940  16655  Rodriguez, Leonard      Wed, Sep  4, 2014       D29-25-01 
+ JH154SU1A63619782  Odyssey      2014  31444  32375  Walker, Roland          Wed, Sep  4, 2014       D29-25-04 
+ JB127S1306362A894  Civic        2014  16501  16655  Lucas, Jose             Mon, Sep  9, 2014       D29-25-06 
+ JC132FU1A63619786  CR-V         2014  30263  31995  Lawson, Carolyn         Sun, Sep  8, 2014       D29-25-02 
+ JB127S13A6363B9A8  Civic        2014  16238  16655  Rodriguez, Leonard      Mon, Sep  9, 2014       D29-25-01 
+ JB121S1236364CACX  Civic        2014  15879  16455  Coleman, Arnold         Wed, Sep  4, 2014       D29-25-05 
+ JA111S1396363B9B2  Accord       2014  22678  22480  Graham, Sheila          Tue, Sep  3, 2014       D29-25-03 
+ JB127S1356363B9B4  Civic        2014  16852  16655  Graham, Sheila          Wed, Sep  4, 2014       D29-25-03 
+ JH155FU116363B9B6  Odyssey      2014  46776  47825  Rodriguez, Leonard      Sat, Sep  7, 2014       D29-25-01 
+ JH155FU1A63672X28  Odyssey      2014  44827  47825  Walker, Roland          Tue, Sep  3, 2014       D29-25-04 
+ JD138FU17636X869X  CR-Z         2014  26030  27705  Graham, Sheila          Mon, Sep  9, 2014       D29-25-03 
+ JB127S13163661C22  Civic        2014  16238  16655  Graham, Sheila          Wed, Sep  4, 2014       D29-25-03 
+ JJ163F316636X8694  Pilot        2014  38824  42970  Lawson, Carolyn         Tue, Sep  3, 2014       D29-25-02 
+ JB127S13763683146  Civic        2014  16677  16655  Graham, Sheila          Fri, Sep  6, 2014       D29-25-03 
+ JD14AF4136363B9C8  CR-Z         2014  32528  33705  Lawson, Carolyn         Wed, Sep  4, 2014       D29-25-02 
+ JB121S123636197BX  Civic        2014  16313  16455  Graham, Sheila          Tue, Sep  3, 2014       D29-25-03 
+ JC131F1126362A8C2  CR-V         2014  29024  30995  Graham, Sheila          Fri, Sep  6, 2014       D29-25-03 
+ JG149FU1163672X44  Insight      2014  24785  25190  Graham, Sheila          Mon, Sep  9, 2014       D29-25-03 
+ JB121S123636X86A6  Civic        2014  16834  16455  Lawson, Carolyn         Sun, Sep  8, 2014       D29-25-02 
+ JH155FU1863661C38  Odyssey      2014  47019  47825  Walker, Roland          Tue, Sep  3, 2014       D29-25-04 
+ JJ163F3116361982X  Pilot        2014  40579  42970  Graham, Sheila          Fri, Sep  6, 2014       D29-25-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F11742271435  Insight     2004  18046  24390  Lawson, Carolyn         Fri, Sep  6, 2014       D29-25-02 
+ JH157F3192X54B1X7  Odyssey     2002  28551  45825  Rodriguez, Leonard      Mon, Sep  9, 2014       D29-25-01 
+ JH155FU184373AXC9  Odyssey     2004  34241  47825  Lawson, Carolyn         Tue, Sep  3, 2014       D29-25-02 
+ JB128SU372216X331  Civic       2002  10961  17455  Walker, Roland          Sun, Sep  8, 2014       D29-25-04 
+ JB129S1435426X333  Civic       2005  19164  23055  Lucas, Jose             Sun, Sep  8, 2014       D29-25-06 
+ JB125G1624194B115  Civic       2004  21418  28505  Lawson, Carolyn         Thu, Sep  5, 2014       D29-25-02 
+ JB127S1305194B117  Civic       2005  14219  16655  Graham, Sheila          Wed, Sep  4, 2014       D29-25-03 
+ JE143FU154415C229  Crosstour   2004  30325  40640  Coleman, Arnold         Fri, Sep  6, 2014       D29-25-05 
+ JD137FU1212529X31  CR-Z        2001  12852  25705  Graham, Sheila          Thu, Sep  5, 2014       D29-25-03 
+ JB127S13A35229X33  Civic       2003  11255  16655  Graham, Sheila          Fri, Sep  6, 2014       D29-25-03 
+ JH151F1115294B255  Odyssey     2005  36122  44825  Graham, Sheila          Wed, Sep  4, 2014       D29-25-03 
+ JD139F3122X66X477  CR-Z        2002  16076  25705  Lucas, Jose             Thu, Sep  5, 2014       D29-25-06 
+ JJ163F31952229X39  Pilot       2005  35534  42970  Walker, Roland          Tue, Sep  3, 2014       D29-25-04 
+ JB122SU293436X481  Civic       2003  11649  17255  Walker, Roland          Tue, Sep  3, 2014       D29-25-04 
+ JG148F1161525C373  Insight     2001  12804  24390  Rodriguez, Leonard      Mon, Sep  9, 2014       D29-25-01 
+ JH151F11A227826A5  Odyssey     2002  27030  44825  Lawson, Carolyn         Sun, Sep  8, 2014       D29-25-02 
+ JA112F13334529X47  Accord      2003  21964  32930  Walker, Roland          Tue, Sep  3, 2014       D29-25-04 
+ JB127S1343363A159  Civic       2003  11255  16655  Lawson, Carolyn         Sat, Sep  7, 2014       D29-25-02 
+ JH153FU1514P29X51  Odyssey     2001  22912  45825  Walker, Roland          Mon, Sep  9, 2014       D29-25-04 
+ JC131F1123X8715A3  CR-V        2003  20690  30995  Lucas, Jose             Wed, Sep  4, 2014       D29-25-06 
+ JA111S13334929X55  Accord      2003  15087  22480  Coleman, Arnold         Fri, Sep  6, 2014       D29-25-05 
+ JG148F1192253A167  Insight     2002  14769  24390  Rodriguez, Leonard      Wed, Sep  4, 2014       D29-25-01 

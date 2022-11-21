@@ -1,0 +1,48 @@
+Dealer Name: Lance Honda
+Address:     1136 Brooklin Ave
+             Norbert, FL
+Dealer ID:   17
+Owner:       Lance, Samuel
+Date:        Thu, Nov 19, 2010 thru Wed, Nov 25, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S13824718A76  Accord       2010  20906  22480  West, Sally             Mon, Nov 23, 2010       D17-16-04 
+ JB121S1292475C1B8  Civic        2010  15879  16455  Herrera, Nina           Wed, Nov 25, 2010       D17-16-03 
+ JA1X3SU202473ACAX  Accord       2010  24210  25089  Rodriguez, Mathew       Wed, Nov 25, 2010       D17-16-06 
+ JF146S113247X7972  Fit          2010  14182  16025  Lambert, Anita          Sun, Nov 22, 2010       D17-16-01 
+ JA1X1S1292476X2X4  Accord       2010  21559  24089  West, Sally             Fri, Nov 20, 2010       D17-16-04 
+ JB123H1572476X2X6  Civic        2010  24288  27600  Morris, Bobbie          Sat, Nov 21, 2010       D17-16-05 
+ JE145F41224729B98  Crosstour    2010  44774  46640  Baker, Lynn             Sat, Nov 21, 2010       D17-16-08 
+ JD138FU1724718A9X  CR-Z         2010  26735  27705  Baker, Lynn             Fri, Nov 20, 2010       D17-16-08 
+ JH154SU1224782432  Odyssey      2010  31403  32375  Cole, Peter             Sat, Nov 21, 2010       D17-16-02 
+ JB123H15124771324  Civic        2010  26082  27600  Morris, Bobbie          Sun, Nov 22, 2010       D17-16-05 
+ JB121S12024782436  Civic        2010  15385  16455  Hansen, Ralph           Fri, Nov 20, 2010       D17-16-09 
+ JB127S13524782438  Civic        2010  15156  16655  Morris, Bobbie          Thu, Nov 19, 2010       D17-16-05 
+ JH155FU182476X22X  Odyssey      2010  42564  47825  Medina, Emily           Tue, Nov 24, 2010       D17-16-07 
+ JB126GU692475C112  Civic        2010  25788  29305  Hansen, Ralph           Mon, Nov 23, 2010       D17-16-09 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F111X5P29949  CR-Z        2007  15959  24705  Baker, Lynn             Fri, Nov 20, 2010       D17-16-08 
+ JH151F118TX818841  Odyssey     2004  18791  44825  Morris, Bobbie          Fri, Nov 20, 2010       D17-16-05 
+ JH157F3191444BB73  Odyssey     2009  37118  45825  Baker, Lynn             Fri, Nov 20, 2010       D17-16-08 
+ JG148F118VX94BB75  Insight     2005  11745  24390  Morris, Bobbie          Thu, Nov 19, 2010       D17-16-05 
+ JH151F111X1718847  Odyssey     2007  29198  44825  West, Sally             Fri, Nov 20, 2010       D17-16-04 
+ JH151F116WX83AA69  Odyssey     2006  27373  44825  Herrera, Nina           Sat, Nov 21, 2010       D17-16-03 
+ JG148F119X464BB81  Insight     2007  15752  24390  Hansen, Ralph           Mon, Nov 23, 2010       D17-16-09 
+ JH152SU19YX66XXA3  Odyssey     2008  22130  30375  Herrera, Nina           Thu, Nov 19, 2010       D17-16-03 
+ JD136F11AX1P4BB85  CR-Z        2007  15523  24705  Baker, Lynn             Wed, Nov 25, 2010       D17-16-08 
+ JD136F118YX85CC97  CR-Z        2008  17968  24705  Herrera, Nina           Thu, Nov 19, 2010       D17-16-03 
+ JA111S13A1153AA79  Accord      2009  18208  22480  Medina, Emily           Mon, Nov 23, 2010       D17-16-07 
+ JH157F31AYX3X7751  Odyssey     2008  33470  45825  Hansen, Ralph           Wed, Nov 25, 2010       D17-16-09 
+ JH153FU14V51711C3  Odyssey     2005  22462  45825  Morris, Bobbie          Thu, Nov 19, 2010       D17-16-05 
+ JD136F114W183AA85  CR-Z        2006  14898  24705  Medina, Emily           Fri, Nov 20, 2010       D17-16-07 
+ JB123H15013329977  Civic       2009  22356  27600  Morris, Bobbie          Wed, Nov 25, 2010       D17-16-05 
+ JE141F119Y1529979  Crosstour   2008  27462  37640  Cole, Peter             Wed, Nov 25, 2010       D17-16-02 
+ JJ16AF113X3718871  Pilot       2007  27320  41970  West, Sally             Sat, Nov 21, 2010       D17-16-04 
+ JD136F115Y45X7763  CR-Z        2008  17968  24705  Herrera, Nina           Sat, Nov 21, 2010       D17-16-03 
+ JB129S140V2582215  Civic       2005  11631  23055  Cole, Peter             Sun, Nov 22, 2010       D17-16-02 

@@ -1,0 +1,53 @@
+Dealer Name: Quality Honda
+Address:     1624 Tupelo Road
+             Norbert, FL
+Dealer ID:   16
+Owner:       Simpson, Homer
+Date:        Tue, Dec 10, 2014 thru Mon, Dec 16, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S13865P5C368  Civic        2014  16677  16655  Gonzales, Harold        Sun, Dec 15, 2014       D16-15-03 
+ JB129S14265P3A15X  Civic        2014  21319  23055  Freeman, Vickie         Fri, Dec 13, 2014       D16-15-05 
+ JH153FU1565P6X482  Odyssey      2014  41351  45825  Freeman, Vickie         Wed, Dec 11, 2014       D16-15-05 
+ JC131F11565P6X484  CR-V         2014  30778  30995  Daniels, Rhonda         Fri, Dec 13, 2014       D16-15-06 
+ JA1X7S32A65PX7B26  Accord       2014  24689  25089  Crawford, Glen          Fri, Dec 13, 2014       D16-15-04 
+ JB13ASU4865P6X488  Civic        2014  22155  23855  Crawford, Glen          Sun, Dec 15, 2014       D16-15-04 
+ JD139F31465PX7B3X  CR-Z         2014  24476  25705  Horton, Jon             Tue, Dec 10, 2014       D16-15-09 
+ JK167FU1265P4B272  Ridgeline    2014  46598  49750  Crawford, Glen          Thu, Dec 12, 2014       D16-15-04 
+ JE143FU1865P18C44  Crosstour    2014  37178  40640  Freeman, Vickie         Thu, Dec 12, 2014       D16-15-05 
+ JB129S14365P29X56  Civic        2014  22397  23055  Daniels, Rhonda         Fri, Dec 13, 2014       D16-15-06 
+ JC131F11565P715A8  CR-V         2014  30300  30995  Cooper, Joanne          Sun, Dec 15, 2014       D16-15-01 
+ JH156S31865P715BX  Odyssey      2014  30180  30375  Freeman, Vickie         Tue, Dec 10, 2014       D16-15-05 
+ JB121S12465P18C52  Civic        2014  15619  16455  Rose, Ida               Mon, Dec 16, 2014       D16-15-08 
+ JH154SU1765P18C54  Odyssey      2014  31444  32375  Murray, Gladys          Fri, Dec 13, 2014       D16-15-07 
+ JB121S12565P4B286  Civic        2014  15445  16455  Horton, Jon             Sat, Dec 14, 2014       D16-15-09 
+ JH153FU1765P6X4A8  Odyssey      2014  44622  45825  Rose, Ida               Tue, Dec 10, 2014       D16-15-08 
+ JH151F11465P826XX  Odyssey      2014  44124  44825  Gonzales, Harold        Fri, Dec 13, 2014       D16-15-03 
+ JJ162FU1565P6X4B2  Pilot        2014  40824  44970  Gonzales, Harold        Thu, Dec 12, 2014       D16-15-03 
+ JB127S13165P715C4  Civic        2014  15887  16655  Horton, Jon             Fri, Dec 13, 2014       D16-15-09 
+ JB129S14365PX7B56  Civic        2014  21319  23055  Freeman, Vickie         Thu, Dec 12, 2014       D16-15-05 
+ JB127S13265P4B298  Civic        2014  16589  16655  Murray, Gladys          Thu, Dec 12, 2014       D16-15-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD137FU1533771XX9  CR-Z        2003  16739  25705  Horton, Jon             Wed, Dec 11, 2014       D16-15-09 
+ JG149FU141X45CBC1  Insight     2001  12595  25190  Gonzales, Harold        Fri, Dec 13, 2014       D16-15-03 
+ JB127S1311493A9A3  Civic       2001  8327   16655  Freeman, Vickie         Wed, Dec 11, 2014       D16-15-05 
+ JH157F31942P6XCX5  Odyssey     2004  33480  45825  Cooper, Joanne          Tue, Dec 10, 2014       D16-15-01 
+ JK166FU1743871X17  Ridgeline   2004  34866  47750  Murray, Gladys          Tue, Dec 10, 2014       D16-15-07 
+ JA112F1383X671X19  Accord      2003  21964  32930  Freeman, Vickie         Tue, Dec 10, 2014       D16-15-05 
+ JB127S13A2436XC11  Civic       2002  10465  16655  Murray, Gladys          Mon, Dec 16, 2014       D16-15-07 
+ JA117S3362X24BAC3  Accord      2002  14697  23480  Freeman, Vickie         Thu, Dec 12, 2014       D16-15-05 
+ JD137FU143344BAC5  CR-Z        2003  17209  25705  Horton, Jon             Wed, Dec 11, 2014       D16-15-09 
+ JH157F3113X171X27  Odyssey     2003  29616  45825  Freeman, Vickie         Mon, Dec 16, 2014       D16-15-05 
+ JH153FU19522298A9  Odyssey     2005  37847  45825  Cooper, Joanne          Sat, Dec 14, 2014       D16-15-01 
+ JH158S410336298B1  Odyssey     2003  27520  41375  Horton, Jon             Wed, Dec 11, 2014       D16-15-09 
+ JC133FU1513282143  CR-V        2001  17847  33995  Horton, Jon             Wed, Dec 11, 2014       D16-15-09 
+ JH157F31A53982145  Odyssey     2005  37847  45825  Rose, Ida               Thu, Dec 12, 2014       D16-15-08 
+ JK167FU113213A9C7  Ridgeline   2003  32128  49750  Murray, Gladys          Sat, Dec 14, 2014       D16-15-07 
+ JH151F1181445CB19  Odyssey     2001  40118  44825  Daniels, Rhonda         Sun, Dec 15, 2014       D16-15-06 
+ JD137FU184X271X41  CR-Z        2004  19362  25705  Freeman, Vickie         Tue, Dec 10, 2014       D16-15-05 

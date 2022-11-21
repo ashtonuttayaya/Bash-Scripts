@@ -1,0 +1,19 @@
+q01 type sa
+q01 start
+q01 submit
+q01 clean dbstatus
+q02 type sc
+q02 start  createdb.bak q02.bak
+q02 submit
+q02 clean q02.sh createdb.sql q02.txt
+q03 type sc
+q03 start  
+q03 submit
+q03 clean q03.sh script03.txt  q03.sql
+q04 type sa
+q04 start
+q04 submit
+q05 type sc
+q05 start
+q05 submit
+q05 clean q05.sh 

@@ -1,0 +1,56 @@
+Dealer Name: Kaplan Honda
+Address:     1605 Nebraska Blvd
+             East Valley, FL
+Dealer ID:   38
+Owner:       Kaplan, Edward
+Date:        Fri, Jul 16, 2011 thru Thu, Jul 22, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S1323292A8C6  Accord       2011  21683  22480  Lee, Jason              Mon, Jul 19, 2011       D38-34-03 
+ JH151F1103295XB28  Odyssey      2011  42572  44825  Murphy, Roger           Wed, Jul 21, 2011       D38-34-01 
+ JH157F3113298329X  Odyssey      2011  41675  45825  Alvarez, Bill           Sat, Jul 17, 2011       D38-34-02 
+ JA111S1393295XC62  Accord       2011  20661  22480  Lee, Jason              Wed, Jul 21, 2011       D38-34-03 
+ JH153FU103295XC64  Odyssey      2011  41675  45825  Rice, Ruth              Sat, Jul 17, 2011       D38-34-06 
+ JC133FU1832919826  CR-V         2011  30284  33995  Alvarez, Darrell        Thu, Jul 22, 2011       D38-34-04 
+ JA115SU3232983298  Accord       2011  23391  25480  Henry, Courtney         Sat, Jul 17, 2011       D38-34-05 
+ JJ161FU183297219X  Pilot        2011  40387  42970  Lee, Jason              Tue, Jul 20, 2011       D38-34-03 
+ JD136F1103294CB62  CR-Z         2011  23060  24705  Murphy, Roger           Wed, Jul 21, 2011       D38-34-01 
+ JA119S4333293BA54  Accord       2011  30595  31480  Henry, Courtney         Mon, Jul 19, 2011       D38-34-05 
+ JD136F11432972196  CR-Z         2011  23309  24705  Alvarez, Darrell        Tue, Jul 20, 2011       D38-34-04 
+ JH153FU1732972198  Odyssey      2011  40984  45825  Henry, Courtney         Tue, Jul 20, 2011       D38-34-05 
+ JC131F114329X873X  CR-V         2011  27941  30995  Lee, Jason              Tue, Jul 20, 2011       D38-34-03 
+ JH153FU123294CB72  Odyssey      2011  42366  45825  Rice, Ruth              Tue, Jul 20, 2011       D38-34-06 
+ JE141F11A3292A954  Crosstour    2011  35971  37640  Alvarez, Bill           Fri, Jul 16, 2011       D38-34-02 
+ JH153FU1A3292A956  Odyssey      2011  42135  45825  Henry, Courtney         Mon, Jul 19, 2011       D38-34-05 
+ JA111S1353295XC88  Accord       2011  20434  22480  Henry, Courtney         Sun, Jul 18, 2011       D38-34-05 
+ JA113SU3A32961XAX  Accord       2011  21334  23480  Lee, Jason              Tue, Jul 20, 2011       D38-34-03 
+ JA1X6FU2A3294CB82  Accord       2011  32629  36030  Alvarez, Darrell        Thu, Jul 22, 2011       D38-34-04 
+ JA113SU35329721B4  Accord       2011  22401  23480  Rice, Ruth              Wed, Jul 21, 2011       D38-34-06 
+ JD137FU163293BA76  CR-Z         2011  24892  25705  Murphy, Roger           Sat, Jul 17, 2011       D38-34-01 
+ JB122SU293295XC98  Civic        2011  15382  17255  Alvarez, Bill           Wed, Jul 21, 2011       D38-34-02 
+ JH156S311329X875X  Odyssey      2011  27693  30375  Murphy, Roger           Sat, Jul 17, 2011       D38-34-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1161X472BB5  Insight     2009  17902  24390  Rice, Ruth              Sun, Jul 18, 2011       D38-34-06 
+ JH15AS111V4661AA7  Odyssey     2005  10535  29375  Murphy, Roger           Mon, Jul 19, 2011       D38-34-01 
+ JD138FU11Y4261AA9  CR-Z        2008  18081  27705  Henry, Courtney         Thu, Jul 22, 2011       D38-34-05 
+ JB121S124Y1P19561  Civic       2008  10679  16455  Henry, Courtney         Fri, Jul 16, 2011       D38-34-05 
+ JK169F4191464C893  Ridgeline   2009  42300  58750  Murphy, Roger           Fri, Jul 16, 2011       D38-34-01 
+ JH157F3191283B785  Odyssey     2009  41242  45825  Alvarez, Bill           Sun, Jul 18, 2011       D38-34-02 
+ JJ162FU18X322A677  Pilot       2007  26712  44970  Rice, Ruth              Mon, Jul 19, 2011       D38-34-06 
+ JA111S1313X772BC9  Accord       2011  20751  22480  Rice, Ruth              Tue, Jul 20, 2011       D38-34-06 
+ JH153FU15XX872BX1  Odyssey     2007  27225  45825  Henry, Courtney         Wed, Jul 21, 2011       D38-34-05 
+ JH152SU17Y3772BX3  Odyssey     2008  19838  30375  Alvarez, Darrell        Fri, Jul 16, 2011       D38-34-04 
+ JG148F11632P83C15  Insight      2011  22480  24390  Murphy, Roger           Sat, Jul 17, 2011       D38-34-01 
+ JE143FU10X135X9B7  Crosstour   2007  24917  40640  Alvarez, Bill           Sat, Jul 17, 2011       D38-34-02 
+ JB121S123X483B799  Civic       2007  9923   16455  Henry, Courtney         Thu, Jul 22, 2011       D38-34-05 
+ JD136F114X1283C21  CR-Z        2007  15038  24705  Alvarez, Darrell        Tue, Jul 20, 2011       D38-34-04 
+ JE141F11231P19583  Crosstour    2011  34471  37640  Murphy, Roger           Wed, Jul 21, 2011       D38-34-01 
+ JD14AF417YX872B15  CR-Z        2008  22029  33705  Lee, Jason              Mon, Jul 19, 2011       D38-34-03 
+ JE141F110Y36X8477  Crosstour   2008  24619  37640  Lee, Jason              Tue, Jul 20, 2011       D38-34-03 
+ JD14AF4152274C8B9  CR-Z        2010  27144  33705  Rice, Ruth              Fri, Jul 16, 2011       D38-34-06 

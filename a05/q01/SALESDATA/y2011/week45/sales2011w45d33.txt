@@ -1,0 +1,47 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Fri, Nov  5, 2011 thru Thu, Nov 11, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JF146S1173453B884  Fit          2011  14787  16025  Shelton, Adam           Fri, Nov  5, 2011       D33-29-05 
+ JB121S1263455XAA6  Civic        2011  15345  16455  Shelton, Adam           Sat, Nov  6, 2011       D33-29-05 
+ JD139F3193454C998  CR-Z         2011  23596  25705  Shelton, Adam           Tue, Nov  9, 2011       D33-29-05 
+ JA113SU3634561BCX  Accord       2011  20978  23480  Shelton, Adam           Sun, Nov  7, 2011       D33-29-05 
+ JG148F1103453B892  Insight      2011  22276  24390  Shelton, Adam           Sun, Nov  7, 2011       D33-29-05 
+ JH156S31434561BC4  Odyssey      2011  27234  30375  Martinez, Katherine     Sat, Nov  6, 2011       D33-29-04 
+ JB129S1493454C9A6  Civic        2011  20835  23055  Morgan, Milton          Wed, Nov 10, 2011       D33-29-03 
+ JG148F1103455XAB8  Insight      2011  23015  24390  Morgan, Milton          Fri, Nov  5, 2011       D33-29-03 
+ JB127S1303453B8AX  Civic        2011  15867  16655  Mitchell, John          Sun, Nov  7, 2011       D33-29-02 
+ JH153FU133454C9B2  Odyssey      2011  42826  45825  Martinez, Katherine     Sun, Nov  7, 2011       D33-29-04 
+ JA1X1S1293452A794  Accord       2011  22125  24089  Mitchell, John          Thu, Nov 11, 2011       D33-29-02 
+ JC134F3133452A796  CR-V         2011  28675  31995  Shelton, Adam           Sun, Nov  7, 2011       D33-29-05 
+ JB129S1493453B8A8  Civic        2011  21068  23055  Shelton, Adam           Thu, Nov 11, 2011       D33-29-05 
+ JC131F1173455XAXX  CR-V         2011  29034  30995  Wells, Clayton          Sun, Nov  7, 2011       D33-29-01 
+ JB129S1403453B8B2  Civic        2011  22465  23055  Martinez, Katherine     Mon, Nov  8, 2011       D33-29-04 
+ JH155FU1334519694  Odyssey      2011  45167  47825  Morgan, Milton          Sun, Nov  7, 2011       D33-29-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH156S317Y46291C1  Odyssey     2008  19296  30375  Mitchell, John          Fri, Nov  5, 2011       D33-29-02 
+ JH153FU142193A2X3  Odyssey     2010  36379  45825  Morgan, Milton          Sat, Nov  6, 2011       D33-29-03 
+ JC131F118W184B315  CR-V        2006  15918  30995  Shelton, Adam           Sun, Nov  7, 2011       D33-29-05 
+ JH153FU14Y195C427  Odyssey     2008  41040  45825  Wells, Clayton          Wed, Nov 10, 2011       D33-29-01 
+ JJ161FU13129291C9  Pilot       2009  38673  42970  Morgan, Milton          Thu, Nov 11, 2011       D33-29-03 
+ JB121S124XX861971  Civic       2007  9923   16455  Shelton, Adam           Fri, Nov  5, 2011       D33-29-05 
+ JH153FU17XX64C753  Odyssey     2007  28132  45825  Wells, Clayton          Sun, Nov  7, 2011       D33-29-01 
+ JH152SU1322P72A85  Odyssey     2010  24786  30375  Martinez, Katherine     Fri, Nov  5, 2011       D33-29-04 
+ JB129S14AX3961977  Civic       2007  14015  23055  Shelton, Adam           Thu, Nov 11, 2011       D33-29-05 
+ JD136F115Y345X869  CR-Z        2008  16107  24705  Wells, Clayton          Wed, Nov 10, 2011       D33-29-01 
+ JH155FU12YX52A541  Odyssey     2008  31320  47825  Wells, Clayton          Sat, Nov  6, 2011       D33-29-01 
+ JC134F317Y35X8323  CR-V        2008  20904  31995  Martinez, Katherine     Sat, Nov  6, 2011       D33-29-04 
+ JC135F419X323B655  CR-V        2007  23727  39995  Martinez, Katherine     Tue, Nov  9, 2011       D33-29-04 
+ JC133FU13X135X877  CR-V        2007  20797  33995  Wells, Clayton          Tue, Nov  9, 2011       D33-29-01 
+ JH155FU131474C769  Odyssey     2009  35103  47825  Martinez, Katherine     Sat, Nov  6, 2011       D33-29-04 
+ JE145F41A2465X881  Crosstour   2010  37960  46640  Shelton, Adam           Fri, Nov  5, 2011       D33-29-05 

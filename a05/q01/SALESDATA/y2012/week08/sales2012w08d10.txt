@@ -1,0 +1,57 @@
+Dealer Name: Walker Honda
+Address:     1240 Harrison Ave
+             Port Kiln, SC
+Dealer ID:   10
+Owner:       Walker, Shelly
+Date:        Sat, Feb 19, 2012 thru Fri, Feb 25, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1144X83AA44  CR-V         2012  28929  30995  Ross, Darren            Thu, Feb 24, 2012       D10-07-05 
+ JB123H1594X871186  Civic        2012  24824  27600  Fields, Roland          Fri, Feb 25, 2012       D10-07-02 
+ JD136F1164X83AA48  CR-Z         2012  22262  24705  Gardner, Salvador       Wed, Feb 23, 2012       D10-07-03 
+ JB121S1264X84BB6X  Civic        2012  15637  16455  Marshall, Allan         Wed, Feb 23, 2012       D10-07-01 
+ JG148F1194X83AA52  Insight      2012  22480  24390  Ross, Darren            Sat, Feb 19, 2012       D10-07-05 
+ JB129S1464X8822A4  Civic        2012  21977  23055  Marshall, Allan         Mon, Feb 21, 2012       D10-07-01 
+ JB127S1324X86XX86  Civic        2012  15907  16655  Ross, Darren            Fri, Feb 25, 2012       D10-07-05 
+ JB127S1354X871198  Civic        2012  16164  16655  Gardner, Salvador       Mon, Feb 21, 2012       D10-07-03 
+ JB121S1254X8X773X  Civic        2012  15045  16455  Wright, Emma            Tue, Feb 22, 2012       D10-07-04 
+ JD14AF4154X85CC82  CR-Z         2012  31934  33705  Alvarez, David          Wed, Feb 23, 2012       D10-07-06 
+ JA1X3SU294X85CC84  Accord       2012  22985  25089  Wright, Emma            Wed, Feb 23, 2012       D10-07-04 
+ JB129S1444X84BB76  Civic        2012  22094  23055  Ross, Darren            Thu, Feb 24, 2012       D10-07-05 
+ JE143FU134X84BB78  Crosstour    2012  36570  40640  Wright, Emma            Mon, Feb 21, 2012       D10-07-04 
+ JB121S1224X82996X  Civic        2012  16144  16455  Ross, Darren            Sat, Feb 19, 2012       D10-07-05 
+ JE141F1194X85CC92  Crosstour    2012  35614  37640  Ross, Darren            Thu, Feb 24, 2012       D10-07-05 
+ JB127S1334X85CC94  Civic        2012  16506  16655  Wright, Emma            Sat, Feb 19, 2012       D10-07-04 
+ JE142FU194X84BB86  Crosstour    2012  36549  38640  Gardner, Salvador       Sat, Feb 19, 2012       D10-07-03 
+ JB129S1454X818858  Civic        2012  21154  23055  Fields, Roland          Fri, Feb 25, 2012       D10-07-02 
+ JH15AS1184X82997X  Odyssey      2012  28333  29375  Ross, Darren            Sun, Feb 20, 2012       D10-07-05 
+ JB127S1384X85CCA2  Civic        2012  16506  16655  Gardner, Salvador       Sat, Feb 19, 2012       D10-07-03 
+ JE142FU124X818864  Crosstour    2012  36549  38640  Gardner, Salvador       Sat, Feb 19, 2012       D10-07-03 
+ JB121S1294X8X7756  Civic        2012  15975  16455  Alvarez, David          Sat, Feb 19, 2012       D10-07-06 
+ JA112F1324X83AA88  Accord       2012  30375  32930  Gardner, Salvador       Mon, Feb 21, 2012       D10-07-03 
+ JB123H1534X84BBAX  Civic        2012  25946  27600  Fields, Roland          Wed, Feb 23, 2012       D10-07-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F114336296A9  CR-V        2011  25470  30995  Gardner, Salvador       Sat, Feb 19, 2012       D10-07-03 
+ JE143FU11X49296B1  Crosstour   2007  20095  40640  Alvarez, David          Wed, Feb 23, 2012       D10-07-06 
+ JH157F31A32982C43  Odyssey     2011  37482  45825  Gardner, Salvador       Fri, Feb 25, 2012       D10-07-03 
+ JE141F11AX515C915  Crosstour   2007  18595  37640  Marshall, Allan         Thu, Feb 24, 2012       D10-07-01 
+ JC131F11A1X182C47  CR-V        2009  19836  30995  Wright, Emma            Thu, Feb 24, 2012       D10-07-04 
+ JF146S1191X35C919  Fit         2009  10544  16025  Ross, Darren            Thu, Feb 24, 2012       D10-07-05 
+ JJ161FU15137185B1  Pilot       2009  28274  42970  Gardner, Salvador       Thu, Feb 24, 2012       D10-07-03 
+ JH157F313X24X74A3  Odyssey     2007  23821  45825  Ross, Darren            Fri, Feb 25, 2012       D10-07-05 
+ JJ162FU11X21X74A5  Pilot       2007  23373  44970  Alvarez, David          Thu, Feb 24, 2012       D10-07-06 
+ JE145F41A1X6185B7  Crosstour   2009  42209  46640  Alvarez, David          Wed, Feb 23, 2012       D10-07-06 
+ JG148F1111273A7X9  Insight     2009  15609  24390  Alvarez, David          Tue, Feb 22, 2012       D10-07-06 
+ JB127S138X26X7511  Civic       2007  8507   16655  Marshall, Allan         Fri, Feb 25, 2012       D10-07-01 
+ JF146S11AX1129733  Fit         2007  7787   16025  Fields, Roland          Tue, Feb 22, 2012       D10-07-02 
+ JJ162FU13X39X7515  Pilot       2007  23373  44970  Ross, Darren            Mon, Feb 21, 2012       D10-07-05 
+ JH154SU10YX271C87  Odyssey     2008  19933  32375  Marshall, Allan         Wed, Feb 23, 2012       D10-07-01 
+ JD136F1102165CA69  CR-Z        2010  17949  24705  Fields, Roland          Thu, Feb 24, 2012       D10-07-02 
+ JE141F11415282XA1  Crosstour   2009  24089  37640  Wright, Emma            Wed, Feb 23, 2012       D10-07-04 
+ JH153FU152393A853  Odyssey     2010  33156  45825  Ross, Darren            Thu, Feb 24, 2012       D10-07-05 

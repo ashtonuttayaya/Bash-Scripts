@@ -1,0 +1,55 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Tue, Aug 13, 2014 thru Mon, Aug 19, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F1166333BBC2  CR-Z         2014  22660  24705  Martinez, Katherine     Mon, Aug 19, 2014       D33-29-04 
+ JB121S1276334CCX4  Civic        2014  16747  16455  Shelton, Adam           Fri, Aug 16, 2014       D33-29-05 
+ JA1X2F1216334CCX6  Accord       2014  30367  33030  Mitchell, John          Tue, Aug 13, 2014       D33-29-02 
+ JC132FU12633199A8  CR-V         2014  31908  31995  Martinez, Katherine     Sat, Aug 17, 2014       D33-29-04 
+ JE142FU186333BBXX  Crosstour    2014  37563  38640  Wells, Clayton          Wed, Aug 14, 2014       D33-29-01 
+ JA111S1386333BBX2  Accord       2014  21392  22480  Shelton, Adam           Wed, Aug 14, 2014       D33-29-05 
+ JB127S1316334CC14  Civic        2014  15887  16655  Mitchell, John          Wed, Aug 14, 2014       D33-29-02 
+ JG148F118633199B6  Insight      2014  23646  24390  Martinez, Katherine     Sun, Aug 18, 2014       D33-29-04 
+ JH157F3156332AAC8  Odyssey      2014  42753  45825  Mitchell, John          Sat, Aug 17, 2014       D33-29-02 
+ JC133FU116335X16X  CR-V         2014  31405  33995  Shelton, Adam           Sat, Aug 17, 2014       D33-29-05 
+ JB126GU6863383492  Civic        2014  28845  29305  Mitchell, John          Mon, Aug 19, 2014       D33-29-02 
+ JB123H15963383494  Civic        2014  25222  27600  Mitchell, John          Sun, Aug 18, 2014       D33-29-02 
+ JB129S1416335X166  Civic        2014  21080  23055  Martinez, Katherine     Tue, Aug 13, 2014       D33-29-04 
+ JH15AS11763319A28  Odyssey      2014  27096  29375  Martinez, Katherine     Sat, Aug 17, 2014       D33-29-04 
+ JC131F1166336128X  CR-V         2014  29183  30995  Wells, Clayton          Fri, Aug 16, 2014       D33-29-01 
+ JA111S13A6332AB42  Accord       2014  20574  22480  Martinez, Katherine     Sun, Aug 18, 2014       D33-29-04 
+ JJ163F31463319A34  Pilot        2014  40579  42970  Martinez, Katherine     Wed, Aug 14, 2014       D33-29-04 
+ JK167FU1963361286  Ridgeline    2014  47611  49750  Martinez, Katherine     Sun, Aug 18, 2014       D33-29-04 
+ JA111S1346334CX68  Accord       2014  20808  22480  Wells, Clayton          Thu, Aug 15, 2014       D33-29-01 
+ JH153FU136334CX7X  Odyssey      2014  44388  45825  Shelton, Adam           Tue, Aug 13, 2014       D33-29-05 
+ JG148F11763319A42  Insight      2014  22255  24390  Martinez, Katherine     Sun, Aug 18, 2014       D33-29-04 
+ JC131F115633723A4  CR-V         2014  29821  30995  Martinez, Katherine     Fri, Aug 16, 2014       D33-29-04 
+ JH151F116633834B6  Odyssey      2014  41838  44825  Mitchell, John          Tue, Aug 13, 2014       D33-29-02 
+ JH152SU1163319A48  Odyssey      2014  27834  30375  Wells, Clayton          Tue, Aug 13, 2014       D33-29-01 
+ JK165F111633834CX  Ridgeline    2014  42170  46750  Shelton, Adam           Mon, Aug 19, 2014       D33-29-05 
+ JC131F11463319A52  CR-V         2014  30140  30995  Martinez, Katherine     Fri, Aug 16, 2014       D33-29-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1114X3X7C51  Insight     2004  18046  24390  Martinez, Katherine     Thu, Aug 15, 2014       D33-29-04 
+ JB127S1346X8716C3  Civic        2014  16002  16655  Martinez, Katherine     Sat, Aug 17, 2014       D33-29-04 
+ JJ164F4164295C4A5  Pilot       2004  38579  53970  Martinez, Katherine     Wed, Aug 14, 2014       D33-29-04 
+ JH155FU1032P4B397  Odyssey     2003  31764  47825  Shelton, Adam           Sun, Aug 18, 2014       D33-29-05 
+ JB121S1262514B399  Civic       2002  10341  16455  Martinez, Katherine     Tue, Aug 13, 2014       D33-29-04 
+ JB129S14843382711  Civic       2004  17417  23055  Martinez, Katherine     Sun, Aug 18, 2014       D33-29-04 
+ JH15AS11A31P82713  Odyssey     2003  19088  29375  Mitchell, John          Sat, Aug 17, 2014       D33-29-02 
+ JH159F4152323A295  Odyssey     2002  35371  56825  Shelton, Adam           Thu, Aug 15, 2014       D33-29-05 
+ JD137FU143415C4B7  CR-Z        2003  17209  25705  Martinez, Katherine     Sun, Aug 18, 2014       D33-29-04 
+ JD139F31223P29189  CR-Z        2002  16076  25705  Martinez, Katherine     Thu, Aug 15, 2014       D33-29-04 
+ JD137FU134X929191  CR-Z        2004  19362  25705  Mitchell, John          Thu, Aug 15, 2014       D33-29-02 
+ JH154SU101X35C4C3  Odyssey     2001  15378  32375  Shelton, Adam           Sat, Aug 17, 2014       D33-29-05 
+ JH151F11125218X85  Odyssey     2002  27931  44825  Morgan, Milton          Thu, Aug 15, 2014       D33-29-03 
+ JH155FU1444771617  Odyssey     2004  34920  47825  Morgan, Milton          Thu, Aug 15, 2014       D33-29-03 

@@ -1,0 +1,43 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Mon, Mar  5, 2013 thru Sun, Mar 11, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU1151P3BB48  Odyssey      2013  44872  45825  Jensen, Bill            Wed, Mar  7, 2013       D34-30-06 
+ JB121S12751P1993X  Civic        2013  15331  16455  Webb, Ken               Fri, Mar  9, 2013       D34-30-02 
+ JH15AS11051P19932  Odyssey      2013  27946  29375  Jensen, Bill            Thu, Mar  8, 2013       D34-30-06 
+ JH151F11051P4CC64  Odyssey      2013  41405  44825  Webb, Ken               Mon, Mar  5, 2013       D34-30-02 
+ JA115SU3351P19936  Accord       2013  23670  25480  Rodriquez, Jorge        Mon, Mar  5, 2013       D34-30-04 
+ JB127S13A51P19938  Civic        2013  15337  16655  Torres, Caroline        Tue, Mar  6, 2013       D34-30-01 
+ JB127S13851P722AX  Civic        2013  15856  16655  Rodriquez, Jorge        Tue, Mar  6, 2013       D34-30-04 
+ JA1X7S32551P2AA52  Accord       2013  22801  25089  Webb, Ken               Thu, Mar  8, 2013       D34-30-02 
+ JC131F11951PX8834  CR-V         2013  28503  30995  Webb, Ken               Tue, Mar  6, 2013       D34-30-02 
+ JB122SU2651P3BB66  Civic        2013  16674  17255  Bennett, Michele        Wed, Mar  7, 2013       D34-30-05 
+ JB127S13551P2AA58  Civic        2013  16463  16655  Jensen, Bill            Wed, Mar  7, 2013       D34-30-06 
+ JA1X3SU2551P833CX  Accord       2013  23187  25089  Rodriquez, Jorge        Wed, Mar  7, 2013       D34-30-04 
+ JB121S12351P19952  Civic        2013  16102  16455  Torres, Caroline        Wed, Mar  7, 2013       D34-30-01 
+ JB127S13951P611A4  Civic        2013  16723  16655  Jensen, Bill            Sun, Mar 11, 2013       D34-30-06 
+ JB121S12151P611A6  Civic        2013  15417  16455  Jensen, Bill            Mon, Mar  5, 2013       D34-30-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH15AS114XX32A557  Odyssey     2007  11570  29375  Bennett, Michele        Wed, Mar  7, 2013       D34-30-05 
+ JF147SU142194C779  Fit         2010  10912  16825  Bennett, Michele        Wed, Mar  7, 2013       D34-30-05 
+ JE142FU11Y332A561  Crosstour   2008  20167  38640  Bennett, Michele        Mon, Mar  5, 2013       D34-30-05 
+ JH15AS1142X72A563  Odyssey     2010  18944  29375  Webb, Ken               Tue, Mar  6, 2013       D34-30-02 
+ JJ163F31A22P3B675  Pilot       2010  28422  42970  Jensen, Bill            Sun, Mar 11, 2013       D34-30-06 
+ JE141F114219X8347  Crosstour   2010  24915  37640  Rodriquez, Jorge        Sat, Mar 10, 2013       D34-30-04 
+ JB128SU362272A569  Civic       2010  11633  17455  Jensen, Bill            Sat, Mar 10, 2013       D34-30-06 
+ JB127S1372332A571  Civic       2010  11107  16655  Bennett, Michele        Sun, Mar 11, 2013       D34-30-05 
+ JJ164F41024172AC3  Pilot       2010  34684  53970  Rodriquez, Jorge        Mon, Mar  5, 2013       D34-30-04 
+ JK166FU1325PX8355  Ridgeline   2010  30704  47750  Bennett, Michele        Fri, Mar  9, 2013       D34-30-05 
+ JG148F11112119467  Insight     2009  14634  24390  Torres, Caroline        Tue, Mar  6, 2013       D34-30-01 
+ JA1X3SU2841819469  Accord      2012  20868  25089  Bennett, Michele        Sun, Mar 11, 2013       D34-30-05 
+ JH151F1112X2X8361  Odyssey     2010  28832  44825  Rice, Georgia           Mon, Mar  5, 2013       D34-30-03 

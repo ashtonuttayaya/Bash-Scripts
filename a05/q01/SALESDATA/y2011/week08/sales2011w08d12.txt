@@ -1,0 +1,55 @@
+Dealer Name: King Honda
+Address:     9974 Brooklin Ave
+             Port Kiln, SC
+Dealer ID:   12
+Owner:       King, Carl
+Date:        Fri, Feb 19, 2011 thru Thu, Feb 25, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X2F1293X84BBC6  Accord       2011  31924  33030  Carroll, Judith         Sun, Feb 21, 2011       D12-11-02 
+ JB127S1363X83AAB8  Civic        2011  15529  16655  Carroll, Judith         Sun, Feb 21, 2011       D12-11-02 
+ JB121S1283X85CC1X  Civic        2011  15345  16455  Carroll, Judith         Tue, Feb 23, 2011       D12-11-02 
+ JA115SU323X8299B2  Accord       2011  24162  25480  Carroll, Judith         Mon, Feb 22, 2011       D12-11-02 
+ JA117S3393X84BBX4  Accord       2011  21453  23480  Carroll, Judith         Wed, Feb 24, 2011       D12-11-02 
+ JC131F1153X882246  CR-V         2011  29346  30995  Graves, Edwin           Sat, Feb 20, 2011       D12-11-01 
+ JD137FU163X85CC18  CR-Z         2011  25022  25705  Carroll, Judith         Mon, Feb 22, 2011       D12-11-02 
+ JA117S3353X8X77AX  Accord       2011  21453  23480  Carroll, Judith         Wed, Feb 24, 2011       D12-11-02 
+ JG149FU143X8299C2  Insight      2011  23381  25190  Carroll, Judith         Thu, Feb 25, 2011       D12-11-02 
+ JJ163F31A3X85CC24  Pilot        2011  41683  42970  Graves, Edwin           Sun, Feb 21, 2011       D12-11-01 
+ JB121S1293X871146  Civic        2011  15012  16455  Graves, Edwin           Sun, Feb 21, 2011       D12-11-01 
+ JD136F1193X8188B8  CR-Z         2011  23808  24705  Graves, Edwin           Fri, Feb 19, 2011       D12-11-01 
+ JH15AS1153X83AB4X  Odyssey      2011  26492  29375  Carroll, Judith         Tue, Feb 23, 2011       D12-11-02 
+ JA112F1373X818922  Accord       2011  30999  32930  Carroll, Judith         Tue, Feb 23, 2011       D12-11-02 
+ JB127S1323X829A34  Civic        2011  15867  16655  Carroll, Judith         Thu, Feb 25, 2011       D12-11-02 
+ JA111S1313X871286  Accord       2011  20888  22480  Carroll, Judith         Sun, Feb 21, 2011       D12-11-02 
+ JC131F1163X882398  CR-V         2011  29034  30995  Graves, Edwin           Tue, Feb 23, 2011       D12-11-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F119YX84B9X1  CR-V        2008  27846  30995  Graves, Edwin           Tue, Feb 23, 2011       D12-11-01 
+ JE142FU152X1X7593  Crosstour   2010  31092  38640  Carroll, Judith         Sun, Feb 21, 2011       D12-11-02 
+ JH155FU19Y395CA15  Odyssey     2008  30464  47825  Graves, Edwin           Thu, Feb 25, 2011       D12-11-01 
+ JH154SU13Y41186A7  Odyssey     2008  20576  32375  Graves, Edwin           Wed, Feb 24, 2011       D12-11-01 
+ JH153FU1311371C39  Odyssey     2009  33635  45825  Graves, Edwin           Sat, Feb 20, 2011       D12-11-01 
+ JB129S141Y29X75A1  Civic       2008  15022  23055  Carroll, Judith         Mon, Feb 22, 2011       D12-11-02 
+ JH156S313W234B913  Odyssey     2006  14850  30375  Graves, Edwin           Wed, Feb 24, 2011       D12-11-01 
+ JB129S140Y325CA25  Civic       2008  15022  23055  Graves, Edwin           Sat, Feb 20, 2011       D12-11-01 
+ JH151F115Y2282X57  Odyssey     2008  29346  44825  Carroll, Judith         Fri, Feb 19, 2011       D12-11-02 
+ JH15AS118X49X75A9  Odyssey     2007  17933  29375  Carroll, Judith         Mon, Feb 22, 2011       D12-11-02 
+ JC132FU14Y25X7611  CR-V        2008  20904  31995  Graves, Edwin           Fri, Feb 19, 2011       D12-11-01 
+ JC132FU16Y196XC73  CR-V        2008  20332  31995  Carroll, Judith         Wed, Feb 24, 2011       D12-11-02 
+ JH152SU15YX282195  Odyssey     2008  19296  30375  Graves, Edwin           Fri, Feb 19, 2011       D12-11-01 
+ JH151F113Y386XC77  Odyssey     2008  40363  44825  Carroll, Judith         Thu, Feb 25, 2011       D12-11-02 
+ JB121S125W455CB69  Civic       2006  8284   16455  Carroll, Judith         Thu, Feb 25, 2011       D12-11-02 
+ JJ163F317X293A951  Pilot       2007  25512  42970  Graves, Edwin           Tue, Feb 23, 2011       D12-11-01 
+ JK165F110145X7623  Ridgeline   2009  34314  46750  Carroll, Judith         Thu, Feb 25, 2011       D12-11-02 
+ JB121S120Y443A955  Civic       2008  10679  16455  Carroll, Judith         Sat, Feb 20, 2011       D12-11-02 
+ JB127S130X436XC87  Civic       2007  10047  16655  Graves, Edwin           Tue, Feb 23, 2011       D12-11-01 
+ JB121S12122P18739  Civic       2010  13510  16455  Graves, Edwin           Wed, Feb 24, 2011       D12-11-01 
+ JE141F112X1871XA1  Crosstour   2007  23057  37640  Graves, Edwin           Wed, Feb 24, 2011       D12-11-01 
+ JH152SU16X463A963  Odyssey     2007  17955  30375  Carroll, Judith         Fri, Feb 19, 2011       D12-11-02 
+ JE142FU12Y3718745  Crosstour   2008  25277  38640  Carroll, Judith         Mon, Feb 22, 2011       D12-11-02 

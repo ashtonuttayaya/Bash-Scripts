@@ -1,0 +1,69 @@
+Dealer Name: Kaplan Honda
+Address:     1605 Nebraska Blvd
+             East Valley, FL
+Dealer ID:   38
+Owner:       Kaplan, Edward
+Date:        Sat, Sep  2, 2012 thru Fri, Sep  8, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F113436198A8  Odyssey      2012  40747  44825  Rice, Ruth              Sat, Sep  2, 2012       D38-34-06 
+ JA1X5SU2743661X3X  Accord       2012  26162  27089  Alvarez, Darrell        Fri, Sep  8, 2012       D38-34-04 
+ JB127S132436198B2  Civic        2012  15565  16655  Henry, Courtney         Tue, Sep  5, 2012       D38-34-05 
+ JA116FU324365XC24  Accord       2012  33105  35930  Alvarez, Darrell        Mon, Sep  4, 2012       D38-34-04 
+ JA113SU3043672146  Accord       2012  21178  23480  Henry, Courtney         Thu, Sep  7, 2012       D38-34-05 
+ JB129S14A436198B8  Civic        2012  22447  23055  Alvarez, Darrell        Wed, Sep  6, 2012       D38-34-04 
+ JC131F11A4362AA3X  CR-V         2012  30501  30995  Rice, Ruth              Tue, Sep  5, 2012       D38-34-06 
+ JC132FU1743619922  CR-V         2012  30336  31995  Rice, Ruth              Wed, Sep  6, 2012       D38-34-06 
+ JH152SU174365XX64  Odyssey      2012  29592  30375  Rice, Ruth              Fri, Sep  8, 2012       D38-34-06 
+ JJ163F3164363BB46  Pilot        2012  39078  42970  Lee, Jason              Sat, Sep  2, 2012       D38-34-03 
+ JE142FU184362AA38  Crosstour    2012  35571  38640  Henry, Courtney         Fri, Sep  8, 2012       D38-34-05 
+ JC133FU16436833AX  CR-V         2012  32550  33995  Henry, Courtney         Tue, Sep  5, 2012       D38-34-05 
+ JA1X3SU224364CC62  Accord       2012  24006  25089  Lee, Jason              Sun, Sep  3, 2012       D38-34-03 
+ JA1X1S1244365XX74  Accord       2012  22821  24089  Alvarez, Bill           Sat, Sep  2, 2012       D38-34-02 
+ JF146S11443661186  Fit          2012  15980  16025  Alvarez, Bill           Mon, Sep  4, 2012       D38-34-02 
+ JA115SU30436833A8  Accord       2012  24114  25480  Lee, Jason              Fri, Sep  8, 2012       D38-34-03 
+ JH153FU154363BB6X  Odyssey      2012  44655  45825  Lee, Jason              Mon, Sep  4, 2012       D38-34-03 
+ JB121S12643661192  Civic        2012  16228  16455  Alvarez, Bill           Sun, Sep  3, 2012       D38-34-02 
+ JD136F1104363BB64  CR-Z         2012  22387  24705  Alvarez, Bill           Wed, Sep  6, 2012       D38-34-02 
+ JA111S1354363BB66  Accord       2012  21095  22480  Rice, Ruth              Mon, Sep  4, 2012       D38-34-06 
+ JA1X3SU264364CC78  Accord       2012  24006  25089  Murphy, Roger           Mon, Sep  4, 2012       D38-34-01 
+ JH153FU114362AA6X  Odyssey      2012  43961  45825  Alvarez, Bill           Mon, Sep  4, 2012       D38-34-02 
+ JB127S1304365XX92  Civic        2012  16506  16655  Henry, Courtney         Wed, Sep  6, 2012       D38-34-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S134132X8449  Civic       2009  10958  16655  Rice, Ruth              Wed, Sep  6, 2012       D38-34-06 
+ JD137FU19WX419561  CR-Z        2006  10012  25705  Alvarez, Bill           Tue, Sep  5, 2012       D38-34-02 
+ JH153FU10X3361AB3  Odyssey     2007  23821  45825  Rice, Ruth              Sat, Sep  2, 2012       D38-34-06 
+ JB127S135Y5172BC5  Civic       2008  9858   16655  Rice, Ruth              Tue, Sep  5, 2012       D38-34-06 
+ JD14AF41523761AB7  CR-Z        2010  24904  33705  Alvarez, Bill           Sun, Sep  3, 2012       D38-34-02 
+ JE141F1121155X9A9  Crosstour   2009  24767  37640  Henry, Courtney         Mon, Sep  4, 2012       D38-34-05 
+ JE141F1153162A681  Crosstour   2011  30472  37640  Henry, Courtney         Tue, Sep  5, 2012       D38-34-05 
+ JD138FU13X3819573  CR-Z        2007  13627  27705  Alvarez, Bill           Wed, Sep  6, 2012       D38-34-02 
+ JJ163F318X284C8A5  Pilot       2007  21260  42970  Rice, Ruth              Fri, Sep  8, 2012       D38-34-06 
+ JC131F111Y4183C17  CR-V        2008  19077  30995  Lee, Jason              Mon, Sep  4, 2012       D38-34-03 
+ JG148F1193185X9B9  Insight     2011  20120  24390  Lee, Jason              Sat, Sep  2, 2012       D38-34-03 
+ JB127S1301X883C21  Civic       2009  10958  16655  Henry, Courtney         Wed, Sep  6, 2012       D38-34-05 
+ JG148F1131X15X9C3  Insight     2009  15609  24390  Henry, Courtney         Tue, Sep  5, 2012       D38-34-05 
+ JH155FU171362A695  Odyssey     2009  30608  47825  Henry, Courtney         Fri, Sep  8, 2012       D38-34-05 
+ JC133FU1211972B17  CR-V        2009  21756  33995  Henry, Courtney         Fri, Sep  8, 2012       D38-34-05 
+ JD136F115X373B7A9  CR-Z        2007  12733  24705  Henry, Courtney         Mon, Sep  4, 2012       D38-34-05 
+ JE143FU10Y4972B21  Crosstour   2008  25057  40640  Rice, Ruth              Tue, Sep  5, 2012       D38-34-06 
+ JB121S123Y1519593  Civic       2008  10062  16455  Lee, Jason              Thu, Sep  7, 2012       D38-34-03 
+ JF146S1144235X9X5  Fit          2012  15113  16025  Rice, Ruth              Thu, Sep  7, 2012       D38-34-06 
+ JH15AS119X1772B27  Odyssey     2007  14462  29375  Alvarez, Bill           Sun, Sep  3, 2012       D38-34-02 
+ JE141F11522719599  Crosstour   2010  27262  37640  Henry, Courtney         Wed, Sep  6, 2012       D38-34-05 
+ JH151F11115P72B31  Odyssey     2009  28688  44825  Lee, Jason              Fri, Sep  8, 2012       D38-34-03 
+ JC132FU181194C8X3  CR-V        2009  21052  31995  Alvarez, Bill           Tue, Sep  5, 2012       D38-34-02 
+ JC131F1101X22A6B5  CR-V        2009  20394  30995  Lee, Jason              Mon, Sep  4, 2012       D38-34-03 
+ JE141F11012761A27  Crosstour   2009  24089  37640  Lee, Jason              Sun, Sep  3, 2012       D38-34-03 
+ JC133FU1212783C49  CR-V        2009  21756  33995  Lee, Jason              Sun, Sep  3, 2012       D38-34-03 
+ JC135F418Y374C811  CR-V        2008  23862  39995  Alvarez, Bill           Mon, Sep  4, 2012       D38-34-02 
+ JH152SU1024672B43  Odyssey     2010  22032  30375  Lee, Jason              Sun, Sep  3, 2012       D38-34-03 
+ JE145F4192295X925  Crosstour   2010  34398  46640  Alvarez, Bill           Thu, Sep  7, 2012       D38-34-02 
+ JC131F114Y174C817  CR-V        2008  19077  30995  Murphy, Roger           Thu, Sep  7, 2012       D38-34-01 
+ JB127S1333172A6C9  Civic       2011  13684  16655  Alvarez, Darrell        Mon, Sep  4, 2012       D38-34-04 

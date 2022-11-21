@@ -1,0 +1,57 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Sat, May 27, 2012 thru Fri, Jun  2, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1364223B776  Civic        2012  16335  16655  Walker, Roland          Sat, May 27, 2012       D29-25-04 
+ JD136F11A4222A668  CR-Z         2012  23771  24705  Graham, Sheila          Tue, May 30, 2012       D29-25-03 
+ JC132FU154222A67X  CR-V         2012  29849  31995  Rodriguez, Leonard      Sun, May 28, 2012       D29-25-01 
+ JC131F11842283CX2  CR-V         2012  28300  30995  Coleman, Arnold         Tue, May 30, 2012       D29-25-05 
+ JA111S13642261AB4  Accord       2012  20178  22480  Lawson, Carolyn         Sat, May 27, 2012       D29-25-02 
+ JC131F110422X8456  CR-V         2012  30029  30995  Lucas, Jose             Sat, May 27, 2012       D29-25-06 
+ JB121S121422X8458  Civic        2012  15045  16455  Lucas, Jose             Tue, May 30, 2012       D29-25-06 
+ JB128SU3842283C1X  Civic        2012  16204  17455  Coleman, Arnold         Tue, May 30, 2012       D29-25-05 
+ JB127S134422X8462  Civic        2012  15394  16655  Walker, Roland          Tue, May 30, 2012       D29-25-04 
+ JB129S14842261AC4  Civic        2012  22094  23055  Lawson, Carolyn         Sat, May 27, 2012       D29-25-02 
+ JA117S33A42283C16  Accord       2012  22494  23480  Lucas, Jose             Sat, May 27, 2012       D29-25-06 
+ JC131F11042261AC8  CR-V         2012  29558  30995  Graham, Sheila          Mon, May 29, 2012       D29-25-03 
+ JA111S1314221958X  Accord       2012  20866  22480  Lucas, Jose             Sun, May 28, 2012       D29-25-06 
+ JA117S3354223B7A2  Accord       2012  21656  23480  Rodriguez, Leonard      Mon, May 29, 2012       D29-25-01 
+ JA111S13A4224C8B4  Accord       2012  21439  22480  Lucas, Jose             Fri, Jun  2, 2012       D29-25-06 
+ JC132FU174225X9C6  CR-V         2012  29524  31995  Graham, Sheila          Tue, May 30, 2012       D29-25-03 
+ JB128SU304222A698  Civic        2012  16830  17455  Graham, Sheila          Fri, Jun  2, 2012       D29-25-03 
+ JH158S4174223B7BX  Odyssey      2012  40570  41375  Lawson, Carolyn         Wed, May 31, 2012       D29-25-02 
+ JB122SU28422X8482  Civic        2012  16996  17255  Lucas, Jose             Fri, Jun  2, 2012       D29-25-06 
+ JA1X5SU2742219594  Accord       2012  26575  27089  Graham, Sheila          Tue, May 30, 2012       D29-25-03 
+ JH159F41742261A16  Odyssey      2012  55270  56825  Lucas, Jose             Thu, Jun  1, 2012       D29-25-06 
+ JG148F11A4224C8C8  Insight      2012  22604  24390  Rodriguez, Leonard      Mon, May 29, 2012       D29-25-01 
+ JH152SU12422X849X  Odyssey      2012  28667  30375  Lucas, Jose             Fri, Jun  2, 2012       D29-25-06 
+ JC134F3144223B7C2  CR-V         2012  31309  31995  Coleman, Arnold         Sun, May 28, 2012       D29-25-05 
+ JA113SU364224C8X4  Accord       2012  21297  23480  Lawson, Carolyn         Sat, May 27, 2012       D29-25-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE145F415YX14B259  Crosstour   2008  28777  46640  Lawson, Carolyn         Sun, May 28, 2012       D29-25-02 
+ JB127S1373223A151  Civic       2011  13855  16655  Graham, Sheila          Sat, May 27, 2012       D29-25-03 
+ JD136F1151284B263  CR-Z        2009  15811  24705  Rodriguez, Leonard      Mon, May 29, 2012       D29-25-01 
+ JD136F113Y3P6X485  CR-Z        2008  15177  24705  Lucas, Jose             Sun, May 28, 2012       D29-25-06 
+ JB127S136YX86X487  Civic       2008  10186  16655  Rodriguez, Leonard      Sat, May 27, 2012       D29-25-01 
+ JE142FU12XX129X49  Crosstour   2007  34371  38640  Lawson, Carolyn         Wed, May 31, 2012       D29-25-02 
+ JH154SU121X6826B1  Odyssey     2009  20137  32375  Rodriguez, Leonard      Wed, May 31, 2012       D29-25-01 
+ JH153FU1A12918C43  Odyssey     2009  28503  45825  Lucas, Jose             Thu, Jun  1, 2012       D29-25-06 
+ JF146S11AXX7826B5  Fit         2007  7787   16025  Graham, Sheila          Sun, May 28, 2012       D29-25-03 
+ JB127S13911P3A167  Civic       2009  10659  16655  Lucas, Jose             Thu, Jun  1, 2012       D29-25-06 
+ JJ163F314WX3826B9  Pilot       2006  18186  42970  Lucas, Jose             Tue, May 30, 2012       D29-25-06 
+ JB129S1462245C391  Civic       2010  17087  23055  Walker, Roland          Thu, Jun  1, 2012       D29-25-04 
+ JB128SU34YX4826C3  Civic       2008  10682  17455  Coleman, Arnold         Sat, May 27, 2012       D29-25-05 
+ JH15AS1101X3715B5  Odyssey     2009  26290  29375  Coleman, Arnold         Fri, Jun  2, 2012       D29-25-05 
+ JC133FU15W1P6X4A7  CR-V        2006  13328  33995  Graham, Sheila          Sat, May 27, 2012       D29-25-03 
+ JB129S141Y29715B9  Civic       2008  14154  23055  Graham, Sheila          Sat, May 27, 2012       D29-25-03 
+ JA111S135115826X1  Accord      2009  14791  22480  Lawson, Carolyn         Fri, Jun  2, 2012       D29-25-02 

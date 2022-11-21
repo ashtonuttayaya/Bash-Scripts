@@ -1,0 +1,55 @@
+Dealer Name: Olson Honda
+Address:     3074 Davison Highway
+             Norbert, FL
+Dealer ID:   15
+Owner:       Olson, Howard
+Date:        Sat, Sep  2, 2012 thru Fri, Sep  8, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH157F314436X791X  Odyssey      2012  43729  45825  Hall, Willie            Sun, Sep  3, 2012       D15-14-08 
+ JK165F1164366X272  Ridgeline    2012  44132  46750  Ramos, Maxine           Mon, Sep  4, 2012       D15-14-05 
+ JB127S1364365C164  Civic        2012  15736  16655  Bowman, Joan            Thu, Sep  7, 2012       D15-14-03 
+ JB127S13A4365C166  Civic        2012  15736  16655  Elliott, Jacqueline     Thu, Sep  7, 2012       D15-14-01 
+ JG148F11143682498  Insight      2012  23101  24390  Hall, Willie            Fri, Sep  8, 2012       D15-14-08 
+ JA118F3364367139X  Accord       2012  32661  33930  Ramos, Maxine           Mon, Sep  4, 2012       D15-14-05 
+ JG148F11943629B42  Insight      2012  23846  24390  Hall, Willie            Wed, Sep  6, 2012       D15-14-08 
+ JB127S1394365C174  Civic        2012  16506  16655  Gonzales, Natalie       Mon, Sep  4, 2012       D15-14-04 
+ JB124HU56436X7926  Civic        2012  26830  28400  Hall, Willie            Fri, Sep  8, 2012       D15-14-08 
+ JC131F112436X7928  CR-V         2012  28457  30995  Elliott, Jacqueline     Sat, Sep  2, 2012       D15-14-01 
+ JB127S1394363AC6X  Civic        2012  15394  16655  Bowman, Joan            Tue, Sep  5, 2012       D15-14-03 
+ JA1X3SU20436X7932  Accord       2012  23368  25089  Gardner, Joan           Thu, Sep  7, 2012       D15-14-09 
+ JH151F114436713A4  Odyssey      2012  41879  44825  Woods, Tommy            Sun, Sep  3, 2012       D15-14-02 
+ JG148F117436X7936  Insight      2012  21859  24390  Ramos, Maxine           Tue, Sep  5, 2012       D15-14-05 
+ JB122SU2743618A48  Civic        2012  16819  17255  Hall, Willie            Tue, Sep  5, 2012       D15-14-08 
+ JE143FU1143618A5X  Crosstour    2012  37802  40640  Woods, Tommy            Thu, Sep  7, 2012       D15-14-02 
+ JH157F319436713B2  Odyssey      2012  42110  45825  Murphy, Kelly           Wed, Sep  6, 2012       D15-14-07 
+ JE141F1124364BX84  Crosstour    2012  33519  37640  Murphy, Kelly           Mon, Sep  4, 2012       D15-14-07 
+ JA1X1S1224364BX86  Accord       2012  22821  24089  Bowman, Joan            Tue, Sep  5, 2012       D15-14-03 
+ JB122SU2A43618A58  Civic        2012  16377  17255  Gardner, Joan           Tue, Sep  5, 2012       D15-14-09 
+ JE141F111436713CX  Crosstour    2012  33519  37640  Murphy, Kelly           Tue, Sep  5, 2012       D15-14-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU14Y316XCB1  Odyssey     2008  28560  47825  Gardner, Joan           Thu, Sep  7, 2012       D15-14-09 
+ JC131F1133X429873  CR-V        2011  25470  30995  Gardner, Joan           Mon, Sep  4, 2012       D15-14-09 
+ JJ16AF118Y494BA95  Pilot       2008  25881  41970  Hall, Willie            Mon, Sep  4, 2012       D15-14-08 
+ JH157F310YX23A987  Odyssey     2008  27360  45825  Bowman, Joan            Sat, Sep  2, 2012       D15-14-03 
+ JH15AS113Y52X7659  Odyssey     2008  17490  29375  Murphy, Kelly           Sun, Sep  3, 2012       D15-14-07 
+ JB129S14015P3A991  Civic       2009  15170  23055  Murphy, Kelly           Mon, Sep  4, 2012       D15-14-07 
+ JH152SU10X3929883  Odyssey     2007  15710  30375  Woods, Tommy            Mon, Sep  4, 2012       D15-14-02 
+ JB13ASU4725PX7665  Civic       2010  17674  23855  Shelton, Monica         Tue, Sep  5, 2012       D15-14-06 
+ JB127S1322334BAA7  Civic       2010  12389  16655  Ramos, Maxine           Thu, Sep  7, 2012       D15-14-05 
+ JH152SU1122P6XCC9  Odyssey     2010  22460  30375  Shelton, Monica         Fri, Sep  8, 2012       D15-14-06 
+ JB123H1532473A9A1  Civic       2010  20423  27600  Gardner, Joan           Mon, Sep  4, 2012       D15-14-09 
+ JJ161FU192X571X13  Pilot       2010  31100  42970  Ramos, Maxine           Sat, Sep  2, 2012       D15-14-05 
+ JG148F114135X7675  Insight     2009  16048  24390  Gonzales, Natalie       Wed, Sep  6, 2012       D15-14-04 
+ JB127S13513618787  Civic       2009  10958  16655  Gonzales, Natalie       Sun, Sep  3, 2012       D15-14-04 
+ JH155FU15W5PX7679  Odyssey     2006  20274  47825  Shelton, Monica         Sun, Sep  3, 2012       D15-14-06 
+ JC132FU131X718791  CR-V        2009  21052  31995  Bowman, Joan            Thu, Sep  7, 2012       D15-14-03 
+ JB121S1241X882133  Civic       2009  10827  16455  Hall, Willie            Wed, Sep  6, 2012       D15-14-08 
+ JH151F119W2P71X25  Odyssey     2006  17660  44825  Elliott, Jacqueline     Sun, Sep  3, 2012       D15-14-01 
+ JC133FU101X918797  CR-V        2009  22368  33995  Gardner, Joan           Thu, Sep  7, 2012       D15-14-09 

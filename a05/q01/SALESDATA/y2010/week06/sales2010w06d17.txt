@@ -1,0 +1,48 @@
+Dealer Name: Lance Honda
+Address:     1136 Brooklin Ave
+             Norbert, FL
+Dealer ID:   17
+Owner:       Lance, Samuel
+Date:        Thu, Feb  5, 2010 thru Wed, Feb 11, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB125G1612X63ACAX  Civic        2010  27364  28505  Medina, Emily           Sat, Feb  7, 2010       D17-16-07 
+ JB121S1262X682422  Civic        2010  15879  16455  Morris, Bobbie          Sat, Feb  7, 2010       D17-16-05 
+ JD139F3132X63ACA4  CR-Z         2010  23134  25705  Cole, Peter             Mon, Feb  9, 2010       D17-16-02 
+ JB128SU332X682426  Civic        2010  15622  17455  Herrera, Nina           Sat, Feb  7, 2010       D17-16-03 
+ JB121S1272X682428  Civic        2010  15303  16455  Morris, Bobbie          Mon, Feb  9, 2010       D17-16-05 
+ JC131F1142X67132X  CR-V         2010  29445  30995  Hansen, Ralph           Wed, Feb 11, 2010       D17-16-09 
+ JD137FU112X629BA2  CR-Z         2010  23648  25705  Medina, Emily           Sun, Feb  8, 2010       D17-16-07 
+ JD137FU152X629BA4  CR-Z         2010  23134  25705  Rodriguez, Mathew       Mon, Feb  9, 2010       D17-16-06 
+ JA1X1S1202X65C1X6  Accord       2010  21439  24089  Morris, Bobbie          Sun, Feb  8, 2010       D17-16-05 
+ JC133FU142X64BXC8  CR-V         2010  32125  33995  Hansen, Ralph           Sat, Feb  7, 2010       D17-16-09 
+ JA116FU322X65C11X  Accord       2010  31977  35930  Cole, Peter             Tue, Feb 10, 2010       D17-16-02 
+ JE142FU1A2X6X7992  Crosstour    2010  37287  38640  Medina, Emily           Sat, Feb  7, 2010       D17-16-07 
+ JB121S1212X629BB4  Civic        2010  14562  16455  Herrera, Nina           Sat, Feb  7, 2010       D17-16-03 
+ JA1X3SU272X65C116  Accord       2010  24210  25089  Cole, Peter             Thu, Feb  5, 2010       D17-16-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB125G161X514BB73  Civic       2007  18460  28505  Cole, Peter             Sun, Feb  8, 2010       D17-16-02 
+ JH152SU13V2729955  Odyssey     2005  14737  30375  Herrera, Nina           Tue, Feb 10, 2010       D17-16-03 
+ JB128SU3011118847  Civic       2009  14138  17455  Hansen, Ralph           Mon, Feb  9, 2010       D17-16-09 
+ JH151F110Y2P18849  Odyssey     2008  32112  44825  Baker, Lynn             Wed, Feb 11, 2010       D17-16-08 
+ JB125G163WX1X7741  Civic       2006  17254  28505  Cole, Peter             Sat, Feb  7, 2010       D17-16-02 
+ JB123H151W4P822C3  Civic       2006  16693  27600  Lambert, Anita          Sun, Feb  8, 2010       D17-16-01 
+ JG148F110Y216XXA5  Insight     2008  17398  24390  Cole, Peter             Tue, Feb 10, 2010       D17-16-02 
+ JB127S131X245CC97  Civic       2007  10662  16655  Medina, Emily           Tue, Feb 10, 2010       D17-16-07 
+ JD136F118X3118859  CR-Z        2007  15959  24705  Baker, Lynn             Sat, Feb  7, 2010       D17-16-08 
+ JB127S139X183AA81  Civic       2007  10662  16655  Cole, Peter             Mon, Feb  9, 2010       D17-16-02 
+ JB121S120X463AA83  Civic       2007  10531  16455  Medina, Emily           Tue, Feb 10, 2010       D17-16-07 
+ JB127S131Y274BB95  Civic       2008  12059  16655  Herrera, Nina           Wed, Feb 11, 2010       D17-16-03 
+ JH151F110VX818867  Odyssey     2005  21962  44825  Cole, Peter             Thu, Feb  5, 2010       D17-16-02 
+ JG148F111V51822X9  Insight     2005  12332  24390  West, Sally             Fri, Feb  6, 2010       D17-16-04 
+ JC132FU10X2818871  CR-V        2007  20756  31995  Medina, Emily           Wed, Feb 11, 2010       D17-16-07 
+ JB121S123X164BBA3  Civic       2007  10531  16455  Lambert, Anita          Tue, Feb 10, 2010       D17-16-01 
+ JB121S120VX282215  Civic       2005  8166   16455  Hansen, Ralph           Wed, Feb 11, 2010       D17-16-09 
+ JB121S129X376XXC7  Civic       2007  10531  16455  Medina, Emily           Tue, Feb 10, 2010       D17-16-07 
+ JB125G169X395CCB9  Civic       2007  18460  28505  Medina, Emily           Sun, Feb  8, 2010       D17-16-07 

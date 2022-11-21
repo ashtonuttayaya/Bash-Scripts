@@ -1,0 +1,7 @@
+Checking username, password and database name changes
+           OK - username and password changes                              chxq02-A1
+           OK - createdb.sql changes                                       chxq02-B1
+
+Checking database data insertion
+           OK - database data values (in q02.txt)                          chxq02-C1
+

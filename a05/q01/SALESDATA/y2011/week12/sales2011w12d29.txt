@@ -1,0 +1,59 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Fri, Mar 19, 2011 thru Thu, Mar 25, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F11631272A16  CR-V         2011  29815  30995  Coleman, Arnold         Tue, Mar 23, 2011       D29-25-05 
+ JC132FU1931272A18  CR-V         2011  28514  31995  Graham, Sheila          Thu, Mar 25, 2011       D29-25-03 
+ JC132FU163123B6BX  Accord       2011  23799  24089  Graham, Sheila          Fri, Mar 19, 2011       D29-25-03 
+ JB127S13A31272A22  Civic        2011  14938  16655  Graham, Sheila          Wed, Mar 24, 2011       D29-25-03 
+ JG148F1133124C7C4  Insight      2011  23384  24390  Graham, Sheila          Sun, Mar 21, 2011       D29-25-03 
+ JA111S1303123B6B6  Accord       2011  21229  22480  Lucas, Jose             Sun, Mar 21, 2011       D29-25-06 
+ JB127S1333124C7C8  Civic        2011  15360  16655  Graham, Sheila          Tue, Mar 23, 2011       D29-25-03 
+ JA112F13A3123B6CX  Accord       2011  31994  32930  Lucas, Jose             Fri, Mar 19, 2011       D29-25-06 
+ JA1X1S12431283B42  Accord       2011  23219  24089  Rodriguez, Leonard      Mon, Mar 22, 2011       D29-25-01 
+ JE144F31631283B44  Crosstour    2011  36921  38640  Lawson, Carolyn         Sun, Mar 21, 2011       D29-25-02 
+ JB122SU283122A5B6  Civic        2011  16431  17255  Graham, Sheila          Thu, Mar 25, 2011       D29-25-03 
+ JH152SU1431272A38  Odyssey      2011  27081  30375  Coleman, Arnold         Sat, Mar 20, 2011       D29-25-05 
+ JA1X2F120312X83AX  Accord       2011  31758  33030  Graham, Sheila          Mon, Mar 22, 2011       D29-25-03 
+ JC131F113312X83A2  CR-V         2011  29502  30995  Coleman, Arnold         Thu, Mar 25, 2011       D29-25-05 
+ JF146S1133124C714  Fit          2011  14950  16025  Walker, Roland          Mon, Mar 22, 2011       D29-25-04 
+ JB121S12131272A46  Civic        2011  14761  16455  Lawson, Carolyn         Fri, Mar 19, 2011       D29-25-02 
+ JE141F1173124C718  Crosstour    2011  34835  37640  Lawson, Carolyn         Wed, Mar 24, 2011       D29-25-02 
+ JC133FU1A31283C9X  CR-V         2011  30626  33995  Coleman, Arnold         Sat, Mar 20, 2011       D29-25-05 
+ JC133FU163125X962  CR-V         2011  31995  33995  Graham, Sheila          Fri, Mar 19, 2011       D29-25-03 
+ JH157F31531219524  Odyssey      2011  41214  45825  Graham, Sheila          Sun, Mar 21, 2011       D29-25-03 
+ JB129S1453125X966  Civic        2011  20602  23055  Rodriguez, Leonard      Fri, Mar 19, 2011       D29-25-01 
+ JC132FU103122A638  CR-V         2011  30609  31995  Rodriguez, Leonard      Thu, Mar 25, 2011       D29-25-01 
+ JB127S1353121953X  Civic        2011  15360  16655  Graham, Sheila          Fri, Mar 19, 2011       D29-25-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU11XX33A181  Odyssey     2007  18553  30375  Rodriguez, Leonard      Wed, Mar 24, 2011       D29-25-01 
+ JJ164F410Y3718C63  Pilot       2008  34396  53970  Lucas, Jose             Thu, Mar 25, 2011       D29-25-06 
+ JB13ASU45XX329X75  Civic       2007  14511  23855  Lucas, Jose             Mon, Mar 22, 2011       D29-25-06 
+ JD136F113Y214B297  CR-Z        2008  16107  24705  Rodriguez, Leonard      Sun, Mar 21, 2011       D29-25-01 
+ JJ163F3151226X4B9  Pilot       2009  31539  42970  Rodriguez, Leonard      Sat, Mar 20, 2011       D29-25-01 
+ JH154SU12W5P82611  Odyssey     2006  15850  32375  Lawson, Carolyn         Fri, Mar 19, 2011       D29-25-02 
+ JD138FU17W215C3B3  CR-Z        2006  14190  27705  Coleman, Arnold         Sat, Mar 20, 2011       D29-25-05 
+ JB127S1383X33A195  Civic        2011  15480  16655  Rodriguez, Leonard      Sun, Mar 21, 2011       D29-25-01 
+ JH154SU12W35X7B67  Odyssey     2006  16642  32375  Graham, Sheila          Thu, Mar 25, 2011       D29-25-03 
+ JB121S121X443A199  Civic       2007  9923   16455  Graham, Sheila          Thu, Mar 25, 2011       D29-25-03 
+ JH155FU19X1P82621  Odyssey     2007  29372  47825  Graham, Sheila          Tue, Mar 23, 2011       D29-25-03 
+ JD136F1191493A1A3  CR-Z        2009  22234  24705  Graham, Sheila          Sun, Mar 21, 2011       D29-25-03 
+ JB121S12624218C85  Civic       2010  13510  16455  Rodriguez, Leonard      Tue, Mar 23, 2011       D29-25-01 
+ JH153FU18Y164B2B7  Odyssey     2008  29184  45825  Coleman, Arnold         Sat, Mar 20, 2011       D29-25-05 
+ JB121S126Y263A1A9  Civic       2008  10679  16455  Graham, Sheila          Sat, Mar 20, 2011       D29-25-03 
+ JB121S126X47X7B81  Civic       2007  9923   16455  Lucas, Jose             Sun, Mar 21, 2011       D29-25-06 
+ JK169F41415282633  Ridgeline   2009  43122  58750  Rodriguez, Leonard      Mon, Mar 22, 2011       D29-25-01 
+ JH152SU181X882635  Odyssey     2009  22295  30375  Rodriguez, Leonard      Sat, Mar 20, 2011       D29-25-01 
+ JE143FU12Y1218C97  Crosstour   2008  25865  40640  Graham, Sheila          Sat, Mar 20, 2011       D29-25-03 
+ JD137FU15Y5129XA9  CR-Z        2008  16307  25705  Lawson, Carolyn         Sun, Mar 21, 2011       D29-25-02 
+ JH152SU17YX65C311  Odyssey     2008  19296  30375  Lawson, Carolyn         Sat, Mar 20, 2011       D29-25-02 

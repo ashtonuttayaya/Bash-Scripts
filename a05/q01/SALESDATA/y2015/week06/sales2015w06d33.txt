@@ -1,0 +1,67 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Wed, Feb  5, 2015 thru Tue, Feb 11, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH156S3167X6X8A86  Odyssey      2015  30240  30375  Shelton, Adam           Tue, Feb 11, 2015       D33-29-05 
+ JB128SU357X6X8A88  Civic        2015  16907  17455  Mitchell, John          Thu, Feb  6, 2015       D33-29-02 
+ JH153FU127X6X8A9X  Odyssey      2015  42489  45825  Wells, Clayton          Fri, Feb  7, 2015       D33-29-01 
+ JD138FU177X6X8A92  CR-Z         2015  26235  27705  Mitchell, John          Wed, Feb  5, 2015       D33-29-02 
+ JA1X3SU297X62ACB4  Accord       2015  24641  25089  Martinez, Katherine     Mon, Feb 10, 2015       D33-29-04 
+ JB127S1397X683546  Civic        2015  16535  16655  Mitchell, John          Sun, Feb  9, 2015       D33-29-02 
+ JC131F1107X6X8A98  CR-V         2015  28908  30995  Morgan, Milton          Sun, Feb  9, 2015       D33-29-03 
+ JB121S1267X67244X  Civic        2015  16613  16455  Mitchell, John          Tue, Feb 11, 2015       D33-29-02 
+ JD137FU157X62ACC2  CR-Z         2015  24951  25705  Wells, Clayton          Tue, Feb 11, 2015       D33-29-01 
+ JH158S4187X661334  Odyssey      2015  37400  41375  Martinez, Katherine     Fri, Feb  7, 2015       D33-29-04 
+ JD136F11A7X6X8AA6  CR-Z         2015  23763  24705  Wells, Clayton          Sat, Feb  8, 2015       D33-29-01 
+ JB128SU317X661338  Civic        2015  17279  17455  Shelton, Adam           Sun, Feb  9, 2015       D33-29-05 
+ JB121S1207X67258X  Civic        2015  16437  16455  Martinez, Katherine     Sat, Feb  8, 2015       D33-29-04 
+ JC131F1117X6X8B12  CR-V         2015  29871  30995  Mitchell, John          Mon, Feb 10, 2015       D33-29-02 
+ JB129S14A7X6X8B14  Civic        2015  23333  23055  Martinez, Katherine     Sun, Feb  9, 2015       D33-29-04 
+ JG148F1167X65X366  Insight      2015  23984  24390  Shelton, Adam           Tue, Feb 11, 2015       D33-29-05 
+ JD136F1127X63B148  CR-Z         2015  23892  24705  Mitchell, John          Tue, Feb 11, 2015       D33-29-02 
+ JC132FU177X6836AX  CR-V         2015  30967  31995  Martinez, Katherine     Thu, Feb  6, 2015       D33-29-04 
+ JC131F1107X661482  CR-V         2015  30192  30995  Mitchell, John          Sun, Feb  9, 2015       D33-29-02 
+ JC131F11A7X64C264  CR-V         2015  29389  30995  Wells, Clayton          Fri, Feb  7, 2015       D33-29-01 
+ JC133FU167X64C266  CR-V         2015  32661  33995  Wells, Clayton          Fri, Feb  7, 2015       D33-29-01 
+ JK169F4157X619C38  Ridgeline    2015  54486  58750  Mitchell, John          Wed, Feb  5, 2015       D33-29-02 
+ JA116FU387X65X38X  Accord       2015  35202  35930  Morgan, Milton          Thu, Feb  6, 2015       D33-29-03 
+ JC132FU187X64C272  CR-V         2015  30470  31995  Shelton, Adam           Sun, Feb  9, 2015       D33-29-05 
+ JA1X3SU297X64C274  Accord       2015  23723  25089  Martinez, Katherine     Thu, Feb  6, 2015       D33-29-04 
+ JA1X2F1277X62AX56  Accord       2015  31934  33030  Shelton, Adam           Fri, Feb  7, 2015       D33-29-05 
+ JC133FU197X619C48  CR-V         2015  31256  33995  Martinez, Katherine     Sat, Feb  8, 2015       D33-29-04 
+ JE141F1167X6X8B4X  Crosstour    2015  36826  37640  Shelton, Adam           Fri, Feb  7, 2015       D33-29-05 
+ JB129S1427X6725B2  Civic        2015  22850  23055  Morgan, Milton          Mon, Feb 10, 2015       D33-29-03 
+ JA1X1S1277X6X8B44  Accord       2015  24079  24089  Mitchell, John          Sat, Feb  8, 2015       D33-29-02 
+ JF146S1167X619C56  Fit          2015  15520  16025  Morgan, Milton          Tue, Feb 11, 2015       D33-29-03 
+ JB122SU217X6836C8  Civic        2015  16358  17255  Shelton, Adam           Thu, Feb  6, 2015       D33-29-05 
+ JA111S1347X65X3AX  Accord       2015  21480  22480  Wells, Clayton          Thu, Feb  6, 2015       D33-29-01 
+ JC132FU177X63B182  CR-V         2015  29808  31995  Shelton, Adam           Sat, Feb  8, 2015       D33-29-05 
+ JA1X3SU247X64C294  Accord       2015  23330  25089  Morgan, Milton          Sun, Feb  9, 2015       D33-29-03 
+ JA111S1387X6836X6  Accord       2015  22778  22480  Shelton, Adam           Fri, Feb  7, 2015       D33-29-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12A4244C7A5  Civic       2004  11271  16455  Shelton, Adam           Wed, Feb  5, 2015       D33-29-05 
+ JE141F1122284C7A7  Crosstour   2002  18932  37640  Mitchell, John          Wed, Feb  5, 2015       D33-29-02 
+ JB127S1354X63B699  Civic       2004  11403  16655  Martinez, Katherine     Wed, Feb  5, 2015       D33-29-04 
+ JA111S136436619X1  Accord      2004  15235  22480  Martinez, Katherine     Sun, Feb  9, 2015       D33-29-04 
+ JG149FU1644P19483  Insight     2004  16553  25190  Shelton, Adam           Mon, Feb 10, 2015       D33-29-05 
+ JH153FU1315119485  Odyssey     2001  18330  45825  Shelton, Adam           Sat, Feb  8, 2015       D33-29-05 
+ JC131F11A33819487  CR-V        2003  19495  30995  Wells, Clayton          Thu, Feb  6, 2015       D33-29-01 
+ JC132FU1861383B29  CR-V        2006  26827  31995  Martinez, Katherine     Mon, Feb 10, 2015       D33-29-04 
+ JB126GU6A32661911  Civic       2003  18448  29305  Mitchell, John          Sun, Feb  9, 2015       D33-29-02 
+ JB129S14042819493  Civic       2004  15187  23055  Morgan, Milton          Fri, Feb  7, 2015       D33-29-03 
+ JG149FU113464C7C5  Insight     2003  15384  25190  Martinez, Katherine     Fri, Feb  7, 2015       D33-29-04 
+ JB127S1303335X8X7  Civic       2003  10605  16655  Mitchell, John          Fri, Feb  7, 2015       D33-29-02 
+ JJ163F31545P72A29  Pilot       2004  27147  42970  Shelton, Adam           Thu, Feb  6, 2015       D33-29-05 
+ JB127S136649194A1  Civic       2006  14401  16655  Martinez, Katherine     Sun, Feb  9, 2015       D33-29-04 
+ JG149FU1742983B43  Insight     2004  17019  25190  Shelton, Adam           Wed, Feb  5, 2015       D33-29-05 
+ JB129S1443X283B45  Civic       2003  14573  23055  Martinez, Katherine     Sun, Feb  9, 2015       D33-29-04 

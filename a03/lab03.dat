@@ -1,0 +1,227 @@
+Activity 3: submission file lab03.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Friday, Oct 1, 2021
+    Time:    13:20
+    USID:    50K1U#f0x4xakm1vQ{91D2L0x2Q%sybtttHuNaV_Qnu!K0n2O:H3n1L*sakyeafyoaOtHt9U2}H3j0Tai@TtdcOOJ-vnso8tphisCA
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a01.bak contains a backup copy of this file if you need it.
+            Create your script in the file q01.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE 
+            
+            END OF QUESTION 1: This unedited file contains 320 characters.
+
+        End output of a01.txt
+
+
+        Start output of check01.txt
+            Looking for q01.sh and finder.in
+                       OK - q01.sh and finder.in locations                           chxq01-A1
+            
+            Looking for finder.sh backup files (versions 00 and 01)
+                       OK - v00 backup                                               chxq01-B1
+                       OK - v01 backup                                               chxq01-C1
+            
+            Checking log files
+                       OK - success.log                                              chxq01-D1
+                       OK - error.log                                                chxq01-E1
+            
+            Checking for required changes
+                       OK - change to input for file name                            chxq01-F1
+            
+
+        End output of check01.txt
+
+
+        Start output of q01.sh
+            #!/bin/bash
+            #
+            #	Used for Activity 3 Question 1
+            #	Version 00
+            #
+            #	Check to see if we have an aliases file
+            #	if so, execute it
+            #
+            if [ -f ~/.bash_aliases ] ; then
+            	shopt -s expand_aliases
+            	source ~/.bash_aliases
+            fi
+            #
+            # Now look for implemented files (bin, class, tmp and public_html are good examples)
+            #
+            #	Right now this is set to look for the bin file, you will change this accept user input
+            
+            echo "What file would you like to look for (good choices are bin, test, mbox, Mail and public_html)"
+            read file		# use bin as the default to start, we really want to read this from the terminal
+            
+            echo "OK, This is a list of where $file was found" > success.log			# This should output to success.log
+            echo "Oh no!  $file wasn't found here." > error.log					# This should output to error.log
+            
+            echo "Found $file" >> success.log							# This should output to success.log
+            echo "Did NOT find $file" >> error.log						# This should output to error.log
+            
+            ls $file 1>> success.log 2>> error.log
+            
+            for homedir in /home/*
+            	do ls --directory --size "$homedir/$file" 1>> success.log 2>> error.log			# This output should go to success.log(if found) or error.log(if not found)
+            done
+            
+
+        End output of q01.sh
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 2: This unedited file contains 284 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+            Checking required files
+                       OK - ~/.bash_aliases                                  chxq02-A1
+                       OK - ~/myenv                                          chxq02-B1
+            
+            Checking aliases and environment variables
+                       OK - vs                                               chxq02-C1
+                       OK - ve                                               chxq02-D1
+                       OK - rl                                               chxq02-E1
+                       OK - A3                                               chxq02-F1
+                       OK - MYTMP                                            chxq02-G1
+            
+
+        End output of check02.txt
+
+
+        Start output of myenv
+            #!/bin/bash
+            export MYTMP=$HOME/tmp
+            export A3=$HOME/class/a03
+            alias vs='cat $MYTMP/success.log'
+            alias ve='cat $MYTMP/error.log'
+            alias rl='rm $MYTMP/success.log $MYTMP/error.log'
+
+        End output of myenv
+
+
+        Start output of bash_aliases
+            #!/bin/bash
+            #
+            #       Add my environment variables if the file exists.
+            #
+            if   [   -f  ~/myenv   ]
+            then
+                    source  ~/myenv
+            fi
+
+        End output of bash_aliases
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            Create your script in the file q03.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 3: This unedited file contains 320 characters.
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+                       OK - q03.sh                                        chxq03-A1
+                       OK - finder_v02.sh                                 chxq03-B1
+                       OK - finder.sh                                     chxq03-C1
+            
+            Looking for log files
+                       OK - success.log                                   chxq03-D1
+                       OK - error.log                                     chxq03-E1
+            
+            Checking log file contents
+                       OK - user count in logs                            chxq03-F1
+            
+
+        End output of check03.txt
+
+
+        Start output of q03.sh
+            #!/bin/bash
+            #
+            #	Used for Activity 3 Question 1
+            #	Version 00
+            #
+            #	Check to see if we have an aliases file
+            #	if so, execute it
+            #
+            if [ -f ~/.bash_aliases ] ; then
+            	shopt -s expand_aliases
+            	source ~/.bash_aliases
+            fi
+            #
+            # Now look for implemented files (bin, class, tmp and public_html are good examples)
+            #
+            #	Right now this is set to look for the bin file, you will change this accept user input
+            
+            echo "What file would you like to look for (good choices are bin, test, mbox, Mail and public_html)"
+            read file		# use bin as the default to start, we really want to read this from the terminal
+            
+            echo "OK, This is a list of where $file was found" > "$MYTMP/success.log"			# This should output to success.log
+            echo "Oh no!  $file wasn't found here." > "$MYTMP/error.log"					# This should output to error.log
+            
+            echo "Found $file" >> "$MYTMP/success.log"							# This should output to success.log
+            echo "Did NOT find $file" >> "$MYTMP/error.log"						# This should output to error.log
+            
+            ls $file 1>> "$MYTMP/success.log" 2>> "$MYTMP/error.log"
+            
+            for homedir in /home/*
+            	do ls --directory --size "$homedir/$file" 1>> $MYTMP/success.log 2>> $MYTMP/error.log			# This output should go to success.log(if found) or error.log(if not found)
+            done
+            
+            vs > $MYTMP/summary03.log
+            ve >> $MYTMP/summary03.log
+
+        End output of q03.sh
+
+    All files found for question 3.
+END QUESTION 3
+
+    Begin summary of file submissions
+        Files needed  = 10
+        Files found   = 10
+        Files missing = 0
+    End summary of file submissions
+
+Activity 3: submission file lab03.txt completed

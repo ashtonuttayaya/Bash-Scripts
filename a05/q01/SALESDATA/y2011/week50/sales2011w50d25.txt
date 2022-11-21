@@ -1,0 +1,56 @@
+Dealer Name: City Honda
+Address:     9489 Ford Parkwark
+             Brookland, GA
+Dealer ID:   25
+Owner:       Porter, Barbara
+Date:        Fri, Dec 10, 2011 thru Thu, Dec 16, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12235PX7B96  Civic        2011  14845  16455  Shelton, Alicia         Mon, Dec 13, 2011       D25-22-01 
+ JB125G16435P18CA8  Civic        2011  25426  28505  Fuller, Jacob           Mon, Dec 13, 2011       D25-22-02 
+ JB127S13535P7154X  Civic        2011  16036  16655  Fuller, Jacob           Tue, Dec 14, 2011       D25-22-02 
+ JA1X1S12535P29XC2  Accord       2011  22976  24089  Mcdonald, Eduardo       Sat, Dec 11, 2011       D25-22-05 
+ JB121S12435P6X434  Civic        2011  14845  16455  Hall, Josephine         Thu, Dec 16, 2011       D25-22-03 
+ JD137FU1935P71546  CR-Z         2011  23855  25705  Shelton, Alicia         Sat, Dec 11, 2011       D25-22-01 
+ JA114FU3735P5C328  Accord       2011  33130  33930  Mcdonald, Eduardo       Sat, Dec 11, 2011       D25-22-05 
+ JB123H15635P8279X  Civic        2011  26712  27600  Mcdonald, Eduardo       Fri, Dec 10, 2011       D25-22-05 
+ JA1X1S12135P5C462  Accord       2011  22733  24089  Mcdonald, Eduardo       Wed, Dec 15, 2011       D25-22-05 
+ JD136F11835PX7C14  CR-Z         2011  23932  24705  Shelton, Alicia         Sat, Dec 11, 2011       D25-22-01 
+ JA111S13835P3A246  Accord       2011  21569  22480  Shelton, Alicia         Sat, Dec 11, 2011       D25-22-01 
+ JE142FU1735P29138  Crosstour    2011  37116  38640  Fuller, Jacob           Tue, Dec 14, 2011       D25-22-02 
+ JC132FU1335P7169X  CR-V         2011  28514  31995  Mcdonald, Eduardo       Mon, Dec 13, 2011       D25-22-05 
+ JB127S13A35P18X32  Civic        2011  16289  16655  Mcdonald, Eduardo       Fri, Dec 10, 2011       D25-22-05 
+ JA1X2F12435P29144  Accord       2011  30594  33030  Shelton, Alicia         Sun, Dec 12, 2011       D25-22-01 
+ JH152SU1035P4B366  Odyssey      2011  27846  30375  Hall, Josephine         Mon, Dec 13, 2011       D25-22-03 
+ JF146S11435PX7C28  Fit          2011  14868  16025  Mcdonald, Eduardo       Thu, Dec 16, 2011       D25-22-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F1121X3X7981  Odyssey     2009  32901  44825  Shelton, Alicia         Sun, Dec 12, 2011       D25-22-01 
+ JH152SU14X456X213  Odyssey     2007  18553  30375  Hall, Josephine         Sun, Dec 12, 2011       D25-22-03 
+ JH153FU14W1371325  Odyssey     2006  22575  45825  Sullivan, Hazel         Sun, Dec 12, 2011       D25-22-06 
+ JC132FU191X1X7987  CR-V        2009  23484  31995  Sullivan, Hazel         Mon, Dec 13, 2011       D25-22-06 
+ JK167FU1713318A99  Ridgeline   2009  36516  49750  Shelton, Alicia         Thu, Dec 16, 2011       D25-22-01 
+ JC131F112Y3529BB1  CR-V        2008  20246  30995  Sullivan, Hazel         Tue, Dec 14, 2011       D25-22-06 
+ JB129S141Y296X223  Civic       2008  15022  23055  Hall, Josephine         Fri, Dec 10, 2011       D25-22-03 
+ JB127S134YX418AA5  Civic       2008  10810  16655  Shelton, Alicia         Wed, Dec 15, 2011       D25-22-01 
+ JH152SU10X3782447  Odyssey     2007  17955  30375  Fuller, Jacob           Fri, Dec 10, 2011       D25-22-02 
+ JB127S135X4471339  Civic       2007  10047  16655  Sullivan, Hazel         Tue, Dec 14, 2011       D25-22-06 
+ JJ161FU16WX54BX11  Pilot       2006  22204  42970  Hall, Josephine         Sun, Dec 12, 2011       D25-22-03 
+ JB127S131122X79A3  Civic       2009  12224  16655  Shelton, Alicia         Sun, Dec 12, 2011       D25-22-01 
+ JH153FU1A2236X235  Odyssey     2010  37300  45825  Wallace, Harry          Thu, Dec 16, 2011       D25-22-04 
+ JB127S13AVX318AB7  Civic       2005  6774   16655  Mcdonald, Eduardo       Thu, Dec 16, 2011       D25-22-05 
+ JH151F119XX15C129  Odyssey     2007  27512  44825  Mcdonald, Eduardo       Wed, Dec 15, 2011       D25-22-05 
+ JB121S124V2618B21  Civic       2005  6688   16455  Fuller, Jacob           Wed, Dec 15, 2011       D25-22-02 
+ JA113SU38X415C263  Accord      2007  14278  23480  Wallace, Harry          Mon, Dec 13, 2011       D25-22-04 
+ JH155FU18X1882595  Odyssey     2007  42637  47825  Mcdonald, Eduardo       Tue, Dec 14, 2011       D25-22-05 
+ JD139F31AY313AX47  CR-Z        2008  16765  25705  Mcdonald, Eduardo       Sat, Dec 11, 2011       D25-22-05 
+ JH152SU181123AX49  Odyssey     2009  21870  30375  Mcdonald, Eduardo       Tue, Dec 14, 2011       D25-22-05 
+ JB127S13812729C41  Civic       2009  12224  16655  Mcdonald, Eduardo       Thu, Dec 16, 2011       D25-22-05 
+ JC131F1131X6825A3  CR-V        2009  22750  30995  Hall, Josephine         Sat, Dec 11, 2011       D25-22-03 
+ JH155FU11W1729C45  Odyssey     2006  22396  47825  Mcdonald, Eduardo       Tue, Dec 14, 2011       D25-22-05 
+ JB129S14A12329C47  Civic       2009  16599  23055  Wallace, Harry          Fri, Dec 10, 2011       D25-22-04 

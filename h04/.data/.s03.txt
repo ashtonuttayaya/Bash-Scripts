@@ -1,0 +1,10 @@
+Testing valid input
+           OK - default search                             chxq03-A1
+           OK - basic search                               chxq03-B1
+           OK - mixed search                               chxq03-C1
+
+Testing invalid input
+           OK - missing word test                          chxq03-D1
+           OK - missing file test                          chxq03-E1
+           OK - missing both test                          chxq03-F1
+

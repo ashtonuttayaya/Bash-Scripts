@@ -1,0 +1,34 @@
+Dealer Name: Donner Honda
+Address:     9484 Ford Parkwark
+             Hinds, NC
+Dealer ID:   14
+Owner:       Donner, Earl
+Date:        Thu, Dec 10, 2010 thru Wed, Dec 16, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12925P18986  Civic        2010  15714  16455  Fowler, Charlotte       Thu, Dec 10, 2010       D14-13-07 
+ JA1X3SU2125P18988  Accord       2010  24210  25089  Dixon, Alfredo          Mon, Dec 14, 2010       D14-13-02 
+ JH157F31725P3ABBX  Odyssey      2010  44221  45825  Peters, Stacey          Sat, Dec 12, 2010       D14-13-09 
+ JH15AS11925PX7882  Odyssey      2010  26143  29375  Dixon, Alfredo          Fri, Dec 11, 2010       D14-13-02 
+ JB121S12425P71224  Civic        2010  15796  16455  Edwards, Heather        Mon, Dec 14, 2010       D14-13-04 
+ JK166FU1A25P3ABB6  Ridgeline    2010  44407  47750  Carr, Geraldine         Wed, Dec 16, 2010       D14-13-08 
+ JC131F11425P71228  CR-V         2010  29600  30995  Fowler, Charlotte       Sat, Dec 12, 2010       D14-13-07 
+ JD136F11925P189AX  CR-Z         2010  22975  24705  Rose, Terrance          Sun, Dec 13, 2010       D14-13-06 
+ JB121S12A25P82342  Civic        2010  15549  16455  Fowler, Charlotte       Fri, Dec 11, 2010       D14-13-07 
+ JB129S14525P5CX14  Civic        2010  22132  23055  Hart, Leona             Sun, Dec 13, 2010       D14-13-05 
+ JJ163F31125P82346  Pilot        2010  38243  42970  Fowler, Charlotte       Wed, Dec 16, 2010       D14-13-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU14W355CB95  CR-V        2006  19992  33995  Reynolds, Alan          Tue, Dec 15, 2010       D14-13-01 
+ JB127S135XX24BA87  Civic       2007  10662  16655  Carr, Geraldine         Thu, Dec 10, 2010       D14-13-08 
+ JH155FU12X315CB99  Odyssey     2007  29467  47825  Rose, Terrance          Wed, Dec 16, 2010       D14-13-06 
+ JH155FU14W483A981  Odyssey     2006  27346  47825  Carr, Geraldine         Tue, Dec 15, 2010       D14-13-08 
+ JH154SU1812129873  Odyssey     2009  26223  32375  Hart, Leona             Wed, Dec 16, 2010       D14-13-05 
+ JB121S1261236XCB5  Civic       2009  13328  16455  Hart, Leona             Thu, Dec 10, 2010       D14-13-05 
+ JE141F119XX971XC7  Crosstour   2007  24471  37640  Carr, Geraldine         Mon, Dec 14, 2010       D14-13-08 
+ JC131F112X493A989  CR-V        2007  20098  30995  Rose, Terrance          Tue, Dec 15, 2010       D14-13-06 

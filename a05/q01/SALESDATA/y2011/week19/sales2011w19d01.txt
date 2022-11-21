@@ -1,0 +1,46 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Fri, May  7, 2011 thru Thu, May 13, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F1183194B756  Odyssey      2011  42121  44825  Jennings, Terry         Fri, May  7, 2011       D01-01-02 
+ JD136F1113196X978  CR-Z         2011  23932  24705  King, Michelle          Sat, May  8, 2011       D01-01-03 
+ JC133FU1231971A9X  CR-V         2011  32509  33995  Ryan, Margie            Fri, May  7, 2011       D01-01-06 
+ JA111S1383194B762  Accord       2011  20434  22480  Jennings, Terry         Wed, May 12, 2011       D01-01-02 
+ JD136F11931929544  CR-Z         2011  23434  24705  Jennings, Terry         Fri, May  7, 2011       D01-01-02 
+ JA1X1S12A3195C876  Accord       2011  21517  24089  Ryan, Margie            Tue, May 11, 2011       D01-01-06 
+ JB121S1273196X988  Civic        2011  14761  16455  Russell, Connie         Tue, May 11, 2011       D01-01-01 
+ JA1X9S4293196X99X  Accord       2011  31481  33089  Ryan, Margie            Mon, May 10, 2011       D01-01-06 
+ JB121S12431918442  Civic        2011  15762  16455  Ryan, Margie            Thu, May 13, 2011       D01-01-06 
+ JB127S13531929554  Civic        2011  15698  16655  Harper, Freddie         Sun, May  9, 2011       D01-01-05 
+ JB123H15231918446  Civic        2011  26016  27600  Ryan, Margie            Thu, May 13, 2011       D01-01-06 
+ JE141F11131929558  Crosstour    2011  35403  37640  King, Michelle          Wed, May 12, 2011       D01-01-03 
+ JF146S1143195C89X  Fit          2011  15275  16025  King, Michelle          Fri, May  7, 2011       D01-01-03 
+ JA115SU373193A672  Accord       2011  22620  25480  Ryan, Margie            Thu, May 13, 2011       D01-01-06 
+ JC131F1183195C894  CR-V         2011  28722  30995  Russell, Connie         Wed, May 12, 2011       D01-01-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F1123X618427  Crosstour    2011  34281  37640  Ryan, Margie            Fri, May  7, 2011       D01-01-06 
+ JH156S312Y415C869  Odyssey     2008  19838  30375  Russell, Connie         Thu, May 13, 2011       D01-01-01 
+ JD14AF41AW2P3A651  CR-Z        2006  16515  33705  Russell, Connie         Tue, May 11, 2011       D01-01-01 
+ JB129S140W2418433  Civic       2006  11749  23055  Harper, Freddie         Wed, May 12, 2011       D01-01-05 
+ JH153FU17X11X7325  Odyssey     2007  26317  45825  Russell, Connie         Thu, May 13, 2011       D01-01-01 
+ JJ161FU12Y2471A97  Pilot       2008  27356  42970  Jennings, Terry         Sun, May  9, 2011       D01-01-02 
+ JE141F114Y173A659  Crosstour   2008  24619  37640  King, Michelle          Tue, May 11, 2011       D01-01-03 
+ JB127S138Y356X991  Civic       2008  10810  16655  Russell, Connie         Sun, May  9, 2011       D01-01-01 
+ JC135F419X4218443  CR-V        2007  24517  39995  Ryan, Margie            Sun, May  9, 2011       D01-01-06 
+ JC134F311W5171AA5  CR-V        2006  16443  31995  Ryan, Margie            Wed, May 12, 2011       D01-01-06 
+ JC131F11AY2P4B777  CR-V        2008  20246  30995  Wood, Lloyd             Fri, May  7, 2011       D01-01-04 
+ JH157F3161514B779  Odyssey     2009  33635  45825  Wood, Lloyd             Sat, May  8, 2011       D01-01-04 
+ JC134F315X1918451  CR-V        2007  19557  31995  Harper, Freddie         Tue, May 11, 2011       D01-01-05 
+ JJ161FU19XX95C893  Pilot       2007  26362  42970  Harper, Freddie         Mon, May 10, 2011       D01-01-05 
+ JC131F113YX282BC5  CR-V        2008  20246  30995  Harper, Freddie         Sun, May  9, 2011       D01-01-05 
+ JC134F313W1P4B787  CR-V        2006  16443  31995  Harper, Freddie         Mon, May 10, 2011       D01-01-05 

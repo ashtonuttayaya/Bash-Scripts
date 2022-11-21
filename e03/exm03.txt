@@ -1,0 +1,572 @@
+Exam 3: submission file exm03.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Wednesday, Dec 8, 2021
+    Time:    21:25
+    USID:    50V8x#v0n4ga6mkvH{A1d2v0D2y%UyXtptruNaX_nnD!s5A2U:I1H2x*PavykaTytaGtxtOUG}x330let@ycGepD6-rnXoytjhls3A
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a01.bak contains a backup copy of this file if you need it.
+            Create your script in the file q01.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 1: This unedited file contains 320 characters.
+
+        End output of a01.txt
+
+
+        Start output of check01.txt
+            Checking error processing
+                       OK - No file(s) provided                                                      chxq01-A1
+                       OK - Non-existent file provided                                               chxq01-B1
+            
+            Checking functionality
+                       OK - Handles 1 or more files                                                  chxq01-C1
+                       OK - Count, Total, Min and Max output lines provided                          chxq01-D1
+                       OK - Count, Total, Min and Max values are correct                             chxq01-E1
+            
+
+        End output of check01.txt
+
+
+        Start output of q01.sh
+            #!/bin/bash
+            
+            fileArray=( "$@" )
+            
+            if [[ $@ == "" ]]; then
+               echo "Field empty"
+               exit 1
+            fi
+            
+            for file in "${fileArray[@]}"; do
+               if [[ ! -f $file ]]; then
+                 echo "File does not exist"
+                 exit 1
+               fi
+            done
+            
+            min=0
+            max=0
+            
+            for files in "${fileArray[@]}"; do
+              wordCount=$(wc -m < $files)
+               if [[ $wordCount -gt $max ]]; then
+                  max=$wordCount
+               fi
+               if [[ $min -eq 0 ]] || [[ $wordCount -lt $min ]]; then
+                  min=$wordCount
+               fi 
+               let sum+=$wordCount
+            done
+            
+            echo "Count =  ${#fileArray[@]}"
+            echo "Total = $sum"
+            echo "Min = $min"
+            echo "Max = $max"
+
+        End output of q01.sh
+
+
+        Start output of q01.sh
+            #!/bin/bash
+            
+            fileArray=( "$@" )
+            
+            if [[ $@ == "" ]]; then
+               echo "Field empty"
+               exit 1
+            fi
+            
+            for file in "${fileArray[@]}"; do
+               if [[ ! -f $file ]]; then
+                 echo "File does not exist"
+                 exit 1
+               fi
+            done
+            
+            min=0
+            max=0
+            
+            for files in "${fileArray[@]}"; do
+              wordCount=$(wc -m < $files)
+               if [[ $wordCount -gt $max ]]; then
+                  max=$wordCount
+               fi
+               if [[ $min -eq 0 ]] || [[ $wordCount -lt $min ]]; then
+                  min=$wordCount
+               fi 
+               let sum+=$wordCount
+            done
+            
+            echo "Count =  ${#fileArray[@]}"
+            echo "Total = $sum"
+            echo "Min = $min"
+            echo "Max = $max"
+
+        End output of q01.sh
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            Create your script in the file q02.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 2: This unedited file contains 320 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+            Checking sed changes
+                       OK - Replacement of KEY                                         chxq02-A1
+                       OK - Replacement of OK                                          chxq02-B1
+                       OK - Total replacements                                         chxq02-C1
+                       OK - Change report - all, OK, and KEY                           chxq02-D1
+            
+
+        End output of check02.txt
+
+
+        Start output of q02.sh
+            #!/bin/bash
+            cp backup target
+            diff target backup
+            sed -i 's/KEY/Answer Key/g' target
+            sed -i 's/OK/Great!/g' target
+
+        End output of q02.sh
+
+
+        Start output of q02.sh
+            #!/bin/bash
+            cp backup target
+            diff target backup
+            sed -i 's/KEY/Answer Key/g' target
+            sed -i 's/OK/Great!/g' target
+
+        End output of q02.sh
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            Create your script in the file q03.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. 
+            
+            END OF QUESTION 3: This unedited file contains 320 characters.
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+            Checking error handling
+                       OK - File name not provided                                      chxq03-A1
+                       OK - File not found                                              chxq03-B1
+            
+            Checking functionality
+                       OK - Checking differences found                                  chxq03-C1
+                       OK - Checking line numbers                                       chxq03-D1
+                       OK - Checking perdentages                                        chxq03-E1
+            
+
+        End output of check03.txt
+
+
+        Start output of q03.sh
+            #!/bin/bash
+            
+            fileName=$1
+            
+            if [[ $fileName == "" ]] || [[ ! -f $fileName ]]; then
+               echo "File does not exist/Field empty"
+               exit 1
+            fi
+            
+            
+            numLines=$( wc -l < $fileName )
+            numDifferences=$( diff $fileName standard.txt | grep "<" | wc -l )
+            percentDiff=$( echo "scale=2; 100 * $numDifferences/$numLines" | bc )
+            
+            echo $fileName $numDifferences $numLines $percentDiff
+
+        End output of q03.sh
+
+
+        Start output of q03.sh
+            #!/bin/bash
+            
+            fileName=$1
+            
+            if [[ $fileName == "" ]] || [[ ! -f $fileName ]]; then
+               echo "File does not exist/Field empty"
+               exit 1
+            fi
+            
+            
+            numLines=$( wc -l < $fileName )
+            numDifferences=$( diff $fileName standard.txt | grep "<" | wc -l )
+            percentDiff=$( echo "scale=2; 100 * $numDifferences/$numLines" | bc )
+            
+            echo $fileName $numDifferences $numLines $percentDiff
+
+        End output of q03.sh
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a04.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. FALSE
+            
+            B. FALSE
+            
+            C. TRUE
+            
+            D. FALSE
+            
+            E. TRUE
+            
+            F. TRUE
+            
+            END OF QUESTION 4: This unedited file contains 335 characters.
+
+        End output of a04.txt
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a05.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. TRUE
+            
+            B. FALSE
+            
+            C. FALSE
+            
+            D. TRUE
+            
+            END OF QUESTION 5: This unedited file contains 325 characters.
+
+        End output of a05.txt
+
+    All files found for question 5.
+END QUESTION 5
+
+BEGIN QUESTION 6
+    Checking for required files
+
+        Start output of a06.txt
+            QUESTION 6: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a06.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. FALSE
+            
+            B. FALSE
+            
+            C. TRUE
+            
+            D. TRUE
+            
+            E. TRUE
+            
+            END OF QUESTION 6: This unedited file contains 330 characters.
+
+        End output of a06.txt
+
+    All files found for question 6.
+END QUESTION 6
+
+BEGIN QUESTION 7
+    Checking for required files
+
+        Start output of a07.txt
+            QUESTION 7: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a07.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. YES
+            
+            B. NO
+            
+            C. YES
+            
+            D. NO
+            
+            E. NO
+            
+            END OF QUESTION 7: This unedited file contains 330 characters.
+
+        End output of a07.txt
+
+    All files found for question 7.
+END QUESTION 7
+
+BEGIN QUESTION 8
+    Checking for required files
+
+        Start output of a08.txt
+            QUESTION 8: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a08.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 2
+            
+            B. 5
+            
+            C. 7
+            
+            D. 6
+            
+            E. 4
+            
+            END OF QUESTION 8: This unedited file contains 330 characters.
+
+        End output of a08.txt
+
+    All files found for question 8.
+END QUESTION 8
+
+BEGIN QUESTION 9
+    Checking for required files
+
+        Start output of a09.txt
+            QUESTION 9: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a09.bak contains a backup copy of this file if you need it.
+            Create your script in the file q09.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 9: This unedited file contains 320 characters.
+
+        End output of a09.txt
+
+
+        Start output of check09.txt
+            Checking SQL header information
+                       OK - Use statement                                 chxq09-A1
+                       OK - Create statement                              chxq09-B1
+            
+            Checking SQL for insert statements
+                       OK - Insert statements                             chxq09-C1
+                       OK - Inserted values                               chxq09-D1
+            
+
+        End output of check09.txt
+
+
+        Start output of q09.sh
+            #!/bin/bash
+            
+            echo "USE budget;"
+            echo "CREATE IF NOT EXISTS TABLE expenses( name_id INT, fname VARCHAR(25),"
+            echo " lname VARCHAR(25), item VARCHAR(25), cost DECIMAL(8,2) NOT NULL,"
+            echo " edate DATE, primary key(expense_id) );"
+            while read line; do
+               echo "INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )"
+               read -a textArray <<< "$line"
+               lname=$( echo ${textArray[0]} | sed -e 's/LNAME=//' )
+               fname=$( echo ${textArray[1]} | sed -e 's/FNAME=//' ) 
+               nameID=$( echo ${textArray[2]} | sed -e 's/ID=//' )
+               item=$( echo ${textArray[3]} | sed -e 's/ITEM=//' )
+               cost=$( echo ${textArray[4]} | sed -e 's/COST=//' )
+               edate=$( echo ${textArray[5]} | sed -e 's/DATE=//' )
+               echo "VALUES( '$nameID', '$fname', '$lname', '$item', '$cost', '$edate' );"
+            done < dec.txt
+            
+
+        End output of q09.sh
+
+
+        Start output of q09.sh
+            #!/bin/bash
+            
+            echo "USE budget;"
+            echo "CREATE IF NOT EXISTS TABLE expenses( name_id INT, fname VARCHAR(25),"
+            echo " lname VARCHAR(25), item VARCHAR(25), cost DECIMAL(8,2) NOT NULL,"
+            echo " edate DATE, primary key(expense_id) );"
+            while read line; do
+               echo "INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )"
+               read -a textArray <<< "$line"
+               lname=$( echo ${textArray[0]} | sed -e 's/LNAME=//' )
+               fname=$( echo ${textArray[1]} | sed -e 's/FNAME=//' ) 
+               nameID=$( echo ${textArray[2]} | sed -e 's/ID=//' )
+               item=$( echo ${textArray[3]} | sed -e 's/ITEM=//' )
+               cost=$( echo ${textArray[4]} | sed -e 's/COST=//' )
+               edate=$( echo ${textArray[5]} | sed -e 's/DATE=//' )
+               echo "VALUES( '$nameID', '$fname', '$lname', '$item', '$cost', '$edate' );"
+            done < dec.txt
+            
+
+        End output of q09.sh
+
+    All files found for question 9.
+END QUESTION 9
+
+BEGIN QUESTION 10
+    Checking for required files
+
+        Start output of a10.txt
+            QUESTION 10: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a10.bak contains a backup copy of this file if you need it.
+            Create your script in the file q10.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 10: This unedited file contains 321 characters.
+
+        End output of a10.txt
+
+
+        Start output of check10.txt
+            Examining Error Checking
+                       OK - If title is not in database                                 chxq10-A1
+                       OK - If no title was provided                                    chxq10-B1
+                       OK - If title is found more than once                            chxq10-C1
+            
+            Checking functionality
+                       OK - Single word titles located                                  chxq10-D1
+                       OK - Multiple word titles located                                chxq10-E1
+                       OK - Correct values returned                                     chxq10-F1
+            
+
+        End output of check10.txt
+
+
+        Start output of q10.sh
+            #!/bin/bash
+            
+            title=$1
+            
+            if [[ $title == "" ]]; then
+               echo "No title entered"
+               exit 1
+            fi
+            
+            linematch=$( grep -i "$title" movies.dat | wc -l )
+            
+            if [[ $linematch -gt 1 ]]; then
+               echo "Multiple listing - please provide complete name"
+               exit 1
+            fi
+            
+            if [[ $linematch -eq 0 ]]; then
+               echo "Not Ranked"
+               exit 1
+            fi
+            
+            
+            string=$( cat movies.dat | grep -i "$title" )
+            IFS=',' read -ra data <<< "$string"
+            echo ${data[@]}
+
+        End output of q10.sh
+
+
+        Start output of q10.sh
+            #!/bin/bash
+            
+            title=$1
+            
+            if [[ $title == "" ]]; then
+               echo "No title entered"
+               exit 1
+            fi
+            
+            linematch=$( grep -i "$title" movies.dat | wc -l )
+            
+            if [[ $linematch -gt 1 ]]; then
+               echo "Multiple listing - please provide complete name"
+               exit 1
+            fi
+            
+            if [[ $linematch -eq 0 ]]; then
+               echo "Not Ranked"
+               exit 1
+            fi
+            
+            
+            string=$( cat movies.dat | grep -i "$title" )
+            IFS=',' read -ra data <<< "$string"
+            echo ${data[@]}
+
+        End output of q10.sh
+
+    All files found for question 10.
+END QUESTION 10
+
+    Begin summary of file submissions
+        Files needed  = 25
+        Files found   = 25
+        Files missing = 0
+    End summary of file submissions
+
+Exam 3: submission file exm03.txt completed

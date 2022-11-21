@@ -1,0 +1,48 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Mon, Dec  3, 2013 thru Sun, Dec  9, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12454972AXX  Civic        2013  16444  16455  Arnold, Marcus          Fri, Dec  7, 2013       D23-21-04 
+ JC133FU145495X8B2  CR-V         2013  30509  33995  Payne, Calvin           Tue, Dec  4, 2013       D23-21-03 
+ JE143FU135493B694  Crosstour    2013  39249  40640  Jenkins, Corey          Mon, Dec  3, 2013       D23-21-01 
+ JH152SU1454972AX6  Odyssey      2013  29187  30375  Payne, Calvin           Sun, Dec  9, 2013       D23-21-03 
+ JA115SU32549619C8  Accord       2013  24454  25480  Payne, Calvin           Mon, Dec  3, 2013       D23-21-03 
+ JA1X1S1295492A59X  Accord       2013  23278  24089  Jenkins, Corey          Sat, Dec  8, 2013       D23-21-01 
+ JB121S12854919482  Civic        2013  15930  16455  Baker, Mark             Wed, Dec  5, 2013       D23-21-02 
+ JA115SU36549619X4  Accord       2013  23147  25480  Holland, Mitchell       Fri, Dec  7, 2013       D23-21-05 
+ JA111S13A549619X6  Accord       2013  21534  22480  Payne, Calvin           Thu, Dec  6, 2013       D23-21-03 
+ JG148F1105494C7B8  Insight      2013  22558  24390  Arnold, Marcus          Thu, Dec  6, 2013       D23-21-04 
+ JE142FU125494C7CX  Crosstour    2013  34990  38640  Holland, Mitchell       Sun, Dec  9, 2013       D23-21-05 
+ JD137FU185492A5A2  CR-Z         2013  23742  25705  Holland, Mitchell       Thu, Dec  6, 2013       D23-21-05 
+ JD136F1195493B6B4  CR-Z         2013  23984  24705  Arnold, Marcus          Tue, Dec  4, 2013       D23-21-04 
+ JG148F11754972A26  Insight      2013  24062  24390  Garrett, Edna           Tue, Dec  4, 2013       D23-21-06 
+ JD138FU1954983B38  CR-Z         2013  25258  27705  Jenkins, Corey          Wed, Dec  5, 2013       D23-21-01 
+ JB121S12A5493B6CX  Civic        2013  16187  16455  Holland, Mitchell       Thu, Dec  6, 2013       D23-21-05 
+ JB129S146549194A2  Civic        2013  22543  23055  Jenkins, Corey          Thu, Dec  6, 2013       D23-21-01 
+ JB127S13554961924  Civic        2013  15943  16655  Jenkins, Corey          Wed, Dec  5, 2013       D23-21-01 
+ JB127S1325492A5B6  Civic        2013  15510  16655  Garrett, Edna           Sat, Dec  8, 2013       D23-21-06 
+ JH153FU16549194A8  Odyssey      2013  41617  45825  Jenkins, Corey          Mon, Dec  3, 2013       D23-21-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S1403314BX59  Civic       2011  17252  23055  Jenkins, Corey          Sat, Dec  8, 2013       D23-21-01 
+ JB128SU3424771391  Civic       2010  11633  17455  Baker, Mark             Tue, Dec  4, 2013       D23-21-02 
+ JH157F3181314BX63  Odyssey     2009  27495  45825  Baker, Mark             Thu, Dec  6, 2013       D23-21-02 
+ JG148F118Y2218A35  Insight     2008  12082  24390  Payne, Calvin           Fri, Dec  7, 2013       D23-21-03 
+ JH15AS11A31629B47  Odyssey     2011  21474  29375  Arnold, Marcus          Wed, Dec  5, 2013       D23-21-04 
+ JH153FU113X8X7929  Odyssey     2011  33965  45825  Baker, Mark             Mon, Dec  3, 2013       D23-21-02 
+ JH155FU15X1P6X291  Odyssey     2007  20371  47825  Baker, Mark             Sun, Dec  9, 2013       D23-21-02 
+ JH156S31332P4BX73  Odyssey     2011  22625  30375  Holland, Mitchell       Sun, Dec  9, 2013       D23-21-05 
+ JG148F117X41824B5  Insight     2007  9576   24390  Garrett, Edna           Fri, Dec  7, 2013       D23-21-06 
+ JB127S13432P824B7  Civic       2011  12555  16655  Garrett, Edna           Fri, Dec  7, 2013       D23-21-06 
+ JH157F3141125C189  Odyssey     2009  26578  45825  Holland, Mitchell       Wed, Dec  5, 2013       D23-21-05 
+ JB121S125538824C1  Civic        2013  15706  16455  Jenkins, Corey          Sun, Dec  9, 2013       D23-21-01 
+ JB127S1301X5713B3  Civic       2009  9993   16655  Arnold, Marcus          Thu, Dec  6, 2013       D23-21-04 

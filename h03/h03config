@@ -1,0 +1,35 @@
+#
+#	basic tar usage
+#
+q01 type sc
+q01 start  a01.txt a01.bak web.tar.gz check01.sh
+q01 submit
+q01 clean h.sh q01.sh script01.txt new.html sb.html sgs.html shs.html used.html web/links.html web/lol.html web
+#
+#	script that creates and uses functions using tar and rm
+#
+q02 type sc
+q02 start  a02.bak a02.txt a01.tar.gz a02.tar.gz a03.tar.gz check02.sh
+q02 submit
+q02 clean tmpdef q02.sh
+#
+#	T/F question on goals of project management and ITIL
+#
+q03 type tf
+q03 start  a03.bak a03.txt
+q03 submit
+q03 clean
+#
+#	Short answer question dealing with project management and informaiton system lifecycles
+#
+q04 type sa
+q04 start
+q04 submit
+q04 clean
+#
+#	T/F on goals of project management and ITIL
+#
+q05 type tf
+q05 start a05.txt a05.bak
+q05 submit
+q05 clean

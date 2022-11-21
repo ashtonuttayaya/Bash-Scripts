@@ -1,0 +1,44 @@
+Dealer Name: Bill Travers Honda
+Address:     7043 George Parson Highway
+             Grand Traverse, AL
+Dealer ID:   21
+Owner:       Travers, Bill
+Date:        Thu, Jan 22, 2010 thru Wed, Jan 28, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1392X43AX8X  Civic        2010  14656  16655  Evans, Dennis           Fri, Jan 23, 2010       D21-19-05 
+ JA111S1302X429C72  Accord       2010  21693  22480  Simpson, Georgia        Wed, Jan 28, 2010       D21-19-08 
+ JB128SU322X43AX84  Civic        2010  15884  17455  Washington, Franklin    Thu, Jan 22, 2010       D21-19-06 
+ JA111S1312X4714C6  Accord       2010  20569  22480  Carroll, Glenn          Tue, Jan 27, 2010       D21-19-01 
+ JD136F1162X4X7A58  CR-Z         2010  22852  24705  King, Gwendolyn         Thu, Jan 22, 2010       D21-19-04 
+ JB127S1392X418B7X  Civic        2010  15988  16655  Powell, Jerome          Sat, Jan 24, 2010       D21-19-03 
+ JE142FU1A2X4X7A62  Crosstour    2010  36901  38640  West, Ashley            Tue, Jan 27, 2010       D21-19-07 
+ JG148F1172X429C84  Insight      2010  23048  24390  Oliver, Melanie         Sun, Jan 25, 2010       D21-19-02 
+ JB121S1292X43AX96  Civic        2010  14891  16455  Powell, Jerome          Thu, Jan 22, 2010       D21-19-03 
+ JB127S1302X418B78  Civic        2010  16072  16655  Simpson, Georgia        Sun, Jan 25, 2010       D21-19-08 
+ JB123H1552X46X3XX  Civic        2010  24978  27600  Evans, Dennis           Wed, Jan 28, 2010       D21-19-05 
+ JA111S1332X46X3X2  Accord       2010  21693  22480  Evans, Dennis           Sun, Jan 25, 2010       D21-19-05 
+ JC133FU1A2X471414  CR-V         2010  31275  33995  Evans, Dennis           Sat, Jan 24, 2010       D21-19-05 
+ JB121S1222X46X3X6  Civic        2010  15879  16455  Oliver, Melanie         Sat, Jan 24, 2010       D21-19-02 
+ JA115SU362X45C2C8  Accord       2010  23059  25480  West, Ashley            Mon, Jan 26, 2010       D21-19-07 
+ JC131F1102X46X31X  CR-V         2010  28050  30995  Carroll, Glenn          Fri, Jan 23, 2010       D21-19-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC135F419WX55CX81  CR-V        2006  24378  39995  Simpson, Georgia        Sat, Jan 24, 2010       D21-19-08 
+ JG149FU19X4P4BC73  Insight     2007  16278  25190  Carroll, Glenn          Fri, Jan 23, 2010       D21-19-01 
+ JH151F116Y2P3AB65  Odyssey     2008  32112  44825  Oliver, Melanie         Mon, Jan 26, 2010       D21-19-02 
+ JJ163F318V225CX87  Pilot       2005  19983  42970  Carroll, Glenn          Mon, Jan 26, 2010       D21-19-01 
+ JJ161FU10X273AB69  Pilot       2007  27978  42970  West, Ashley            Mon, Jan 26, 2010       D21-19-07 
+ JJ161FU13X2P29A61  Pilot       2007  27212  42970  Evans, Dennis           Sat, Jan 24, 2010       D21-19-05 
+ JE141F111Y13X7843  Crosstour   2008  26938  37640  Carroll, Glenn          Fri, Jan 23, 2010       D21-19-01 
+ JH155FU19X14823C5  Odyssey     2007  30320  47825  Oliver, Melanie         Mon, Jan 26, 2010       D21-19-02 
+ JB127S134V4P823C7  Civic       2005  8271   16655  Carroll, Glenn          Mon, Jan 26, 2010       D21-19-01 
+ JB121S123W124BC89  Civic       2006  9783   16455  Carroll, Glenn          Thu, Jan 22, 2010       D21-19-01 
+ JK165F114Y433AB81  Ridgeline   2008  34149  46750  West, Ashley            Sat, Jan 24, 2010       D21-19-07 
+ JD139F316X3P18963  CR-Z        2007  16163  25705  Simpson, Georgia        Thu, Jan 22, 2010       D21-19-08 
+ JB127S134W324BC95  Civic       2006  9907   16655  King, Gwendolyn         Mon, Jan 26, 2010       D21-19-04 

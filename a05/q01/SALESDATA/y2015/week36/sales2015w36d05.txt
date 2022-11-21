@@ -1,0 +1,32 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Wed, Sep  3, 2015 thru Tue, Sep  9, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU187366XBX2  Odyssey      2015  29294  30375  Foster, Leona           Thu, Sep  4, 2015       D05-05-07 
+ JB121S1217363A8A4  Civic        2015  16173  16455  Lynch, Christian        Mon, Sep  8, 2015       D05-05-02 
+ JB127S1347366XBX6  Civic        2015  17068  16655  Marshall, Donna         Wed, Sep  3, 2015       D05-05-05 
+ JB121S123736X7578  Civic        2015  17052  16455  Neal, Douglas           Mon, Sep  8, 2015       D05-05-06 
+ JB121S124736297AX  Civic        2015  16964  16455  Brooks, Herman          Sat, Sep  6, 2015       D05-05-01 
+ JB121S12373618692  Civic        2015  16173  16455  Foster, Leona           Thu, Sep  4, 2015       D05-05-07 
+ JB121S12573682X34  Civic        2015  16701  16455  Brooks, Herman          Sat, Sep  6, 2015       D05-05-01 
+ JA1X3SU267366XB16  Accord       2015  23723  25089  Moreno, Tyrone          Fri, Sep  5, 2015       D05-05-03 
+ JB121S126736297A8  Civic        2015  16349  16455  Ford, Roger             Thu, Sep  4, 2015       D05-05-08 
+ JB129S1447364B9XX  Civic        2015  22124  23055  Snyder, Norma           Sun, Sep  7, 2015       D05-05-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1114153A7C7  Insight     2004  16492  24390  Marshall, Donna         Sun, Sep  7, 2015       D05-05-05 
+ JB121S1253334B8X9  Civic       2003  10481  16455  Foster, Leona           Mon, Sep  8, 2015       D05-05-07 
+ JB125G167312296C1  Civic       2003  17952  28505  Lynch, Christian        Thu, Sep  4, 2015       D05-05-02 
+ JJ161FU10446296C3  Pilot       2004  28718  42970  Moreno, Tyrone          Mon, Sep  8, 2015       D05-05-03 
+ JJ162FU1A44P82C55  Pilot       2004  30034  44970  Ford, Roger             Thu, Sep  4, 2015       D05-05-08 
+ JC131F110426185B7  CR-V        2004  20838  30995  Ford, Roger             Mon, Sep  8, 2015       D05-05-08 
+ JG149FU172X25C929  Insight     2002  12707  25190  Moreno, Tyrone          Fri, Sep  5, 2015       D05-05-03 

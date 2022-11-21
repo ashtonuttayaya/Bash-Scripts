@@ -1,0 +1,59 @@
+Dealer Name: Bill Travers Honda
+Address:     7043 George Parson Highway
+             Grand Traverse, AL
+Dealer ID:   21
+Owner:       Travers, Bill
+Date:        Wed, Jan  1, 2015 thru Tue, Jan  7, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1107X161A86  Insight      2015  22963  24390  Carroll, Glenn          Sun, Jan  5, 2015       D21-19-01 
+ JA1X2F1297X1X8428  Accord       2015  32618  33030  Carroll, Glenn          Wed, Jan  1, 2015       D21-19-01 
+ JH153FU137X161A9X  Odyssey      2015  42489  45825  Washington, Franklin    Wed, Jan  1, 2015       D21-19-06 
+ JC133FU137X119542  CR-V         2015  33012  33995  Carroll, Glenn          Sun, Jan  5, 2015       D21-19-01 
+ JB121S12A7X14C874  Civic        2015  15997  16455  King, Gwendolyn         Fri, Jan  3, 2015       D21-19-04 
+ JC133FU197X14C876  CR-V         2015  32837  33995  Oliver, Melanie         Tue, Jan  7, 2015       D21-19-02 
+ JG148F1127X12A658  Insight      2015  24366  24390  King, Gwendolyn         Fri, Jan  3, 2015       D21-19-04 
+ JD136F1127X161AAX  CR-Z         2015  25055  24705  Evans, Dennis           Thu, Jan  2, 2015       D21-19-05 
+ JC131F1137X119552  CR-V         2015  29229  30995  Washington, Franklin    Tue, Jan  7, 2015       D21-19-06 
+ JB128SU327X183CC4  Civic        2015  17465  17455  Evans, Dennis           Mon, Jan  6, 2015       D21-19-05 
+ JA115SU387X172BB6  Accord       2015  25274  25480  Evans, Dennis           Wed, Jan  1, 2015       D21-19-05 
+ JC132FU117X15X998  CR-V         2015  31960  31995  Washington, Franklin    Mon, Jan  6, 2015       D21-19-06 
+ JB129S1417X1X845X  Civic        2015  23212  23055  Washington, Franklin    Thu, Jan  2, 2015       D21-19-06 
+ JH151F1197X172BC2  Odyssey      2015  41355  44825  Carroll, Glenn          Mon, Jan  6, 2015       D21-19-01 
+ JB129S1467X13B784  Civic        2015  22608  23055  King, Gwendolyn         Mon, Jan  6, 2015       D21-19-04 
+ JC131F1177X15X9A6  CR-V         2015  28426  30995  Powell, Jerome          Sat, Jan  4, 2015       D21-19-03 
+ JF146S11A7X1X8458  Fit          2015  15520  16025  Oliver, Melanie         Wed, Jan  1, 2015       D21-19-02 
+ JA1X3SU247X11957X  Accord       2015  23330  25089  Oliver, Melanie         Sun, Jan  5, 2015       D21-19-02 
+ JH158S41A7X119572  Odyssey      2015  40800  41375  Washington, Franklin    Thu, Jan  2, 2015       D21-19-06 
+ JC131F11A7X183C14  CR-V         2015  28426  30995  Powell, Jerome          Tue, Jan  7, 2015       D21-19-03 
+ JB125G1637X161AC6  Civic        2015  27407  28505  Washington, Franklin    Fri, Jan  3, 2015       D21-19-06 
+ JA111S1357X119578  Accord       2015  21952  22480  Oliver, Melanie         Thu, Jan  2, 2015       D21-19-02 
+ JH152SU157X12A69X  Odyssey      2015  29610  30375  Carroll, Glenn          Mon, Jan  6, 2015       D21-19-01 
+ JD136F1177X172B12  CR-Z         2015  22859  24705  Evans, Dennis           Sat, Jan  4, 2015       D21-19-05 
+ JG148F1187X13B7A4  Insight      2015  23984  24390  Carroll, Glenn          Sun, Jan  5, 2015       D21-19-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB123H1517X1X7919  Civic        2015  26199  27600  King, Gwendolyn         Sun, Jan  5, 2015       D21-19-04 
+ JH152SU1013318A31  Odyssey     2001  12150  30375  Carroll, Glenn          Wed, Jan  1, 2015       D21-19-01 
+ JD137FU1A63229B43  CR-Z        2006  21732  25705  Carroll, Glenn          Fri, Jan  3, 2015       D21-19-01 
+ JH153FU15152X7925  Odyssey     2001  16955  45825  Carroll, Glenn          Fri, Jan  3, 2015       D21-19-01 
+ JF146S1116X8824A7  Fit         2006  13720  16025  West, Ashley            Mon, Jan  6, 2015       D21-19-07 
+ JH157F31063118A39  Odyssey     2006  37560  45825  Simpson, Georgia        Sun, Jan  5, 2015       D21-19-08 
+ JG149FU101354BX71  Insight     2001  10076  25190  Carroll, Glenn          Fri, Jan  3, 2015       D21-19-01 
+ JC132FU175253AC63  CR-V        2005  24144  31995  Evans, Dennis           Fri, Jan  3, 2015       D21-19-05 
+ JD136F1104294BX75  CR-Z        2004  16700  24705  Powell, Jerome          Wed, Jan  1, 2015       D21-19-03 
+ JH151F118423X7937  Odyssey     2004  29120  44825  West, Ashley            Sat, Jan  4, 2015       D21-19-07 
+ JH151F119415824B9  Odyssey     2004  29120  44825  Powell, Jerome          Sat, Jan  4, 2015       D21-19-03 
+ JH152SU1A6173AC71  Odyssey     2006  25200  30375  Carroll, Glenn          Mon, Jan  6, 2015       D21-19-01 
+ JE141F1113266X2A3  Crosstour   2003  22854  37640  Powell, Jerome          Wed, Jan  1, 2015       D21-19-03 
+ JF147SU123145C195  Fit         2003  10710  16825  Simpson, Georgia        Thu, Jan  2, 2015       D21-19-08 
+ JE144F31744718A57  Crosstour   2004  25161  38640  Simpson, Georgia        Fri, Jan  3, 2015       D21-19-08 
+ JE141F1156224BX89  Crosstour   2006  31399  37640  King, Gwendolyn         Sun, Jan  5, 2015       D21-19-04 
+ JC134F3102343AC81  CR-V        2002  16110  31995  Oliver, Melanie         Sat, Jan  4, 2015       D21-19-02 
+ JH159F413449824X3  Odyssey     2004  35765  56825  Carroll, Glenn          Tue, Jan  7, 2015       D21-19-01 
+ JH153FU1944418A65  Odyssey     2004  29760  45825  Evans, Dennis           Sat, Jan  4, 2015       D21-19-05 

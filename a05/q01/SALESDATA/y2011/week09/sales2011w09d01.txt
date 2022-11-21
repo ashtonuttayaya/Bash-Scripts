@@ -1,0 +1,46 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Fri, Feb 26, 2011 thru Thu, Mar  4, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH157F3173X95C868  Odyssey      2011  43287  45825  King, Michelle          Mon, Mar  1, 2011       D01-01-03 
+ JB127S1353X91843X  Civic        2011  15951  16655  Jennings, Terry         Sun, Feb 28, 2011       D01-01-02 
+ JA111S1313X982BA2  Accord       2011  20093  22480  Harper, Freddie         Tue, Mar  2, 2011       D01-01-05 
+ JC134F3143X94B764  CR-V         2011  30931  31995  Jennings, Terry         Thu, Mar  4, 2011       D01-01-02 
+ JA113SU3A3X929546  Accord       2011  22045  23480  Jennings, Terry         Tue, Mar  2, 2011       D01-01-02 
+ JE144F3173X929548  Crosstour    2011  35561  38640  Ryan, Margie            Tue, Mar  2, 2011       D01-01-06 
+ JB121S1293X93A66X  Civic        2011  15429  16455  Russell, Connie         Wed, Mar  3, 2011       D01-01-01 
+ JB127S1303X93A662  Civic        2011  15614  16655  Russell, Connie         Tue, Mar  2, 2011       D01-01-01 
+ JB121S1283X929554  Civic        2011  15679  16455  Ryan, Margie            Tue, Mar  2, 2011       D01-01-06 
+ JH156S3163X929556  Odyssey      2011  27081  30375  Jennings, Terry         Sat, Feb 27, 2011       D01-01-02 
+ JF146S1103X94B778  Fit          2011  14462  16025  Harper, Freddie         Sun, Feb 28, 2011       D01-01-05 
+ JH152SU133X971ABX  Odyssey      2011  29682  30375  King, Michelle          Sun, Feb 28, 2011       D01-01-03 
+ JB123H1583X929562  Civic        2011  25738  27600  King, Michelle          Thu, Mar  4, 2011       D01-01-03 
+ JB127S1373X9X7344  Civic        2011  16373  16655  Wood, Lloyd             Tue, Mar  2, 2011       D01-01-04 
+ JG148F1163X96X9A6  Insight      2011  22768  24390  Russell, Connie         Thu, Mar  4, 2011       D01-01-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU1114529539  Odyssey     2009  34434  47825  Russell, Connie         Thu, Mar  4, 2011       D01-01-01 
+ JG148F11A3X85C871  Insight      2011  22480  24390  Wood, Lloyd             Fri, Feb 26, 2011       D01-01-04 
+ JB122SU25XX482BA3  Civic       2007  10419  17255  Wood, Lloyd             Mon, Mar  1, 2011       D01-01-04 
+ JH153FU1A13982BA5  Odyssey     2009  32994  45825  Wood, Lloyd             Sun, Feb 28, 2011       D01-01-04 
+ JJ162FU1414218437  Pilot       2009  31748  44970  King, Michelle          Sun, Feb 28, 2011       D01-01-03 
+ JH154SU14Y374B769  Odyssey     2008  20576  32375  Russell, Connie         Tue, Mar  2, 2011       D01-01-01 
+ JG148F116X41X7331  Insight     2007  14842  24390  King, Michelle          Fri, Feb 26, 2011       D01-01-03 
+ JH157F317Y5P5C883  Odyssey     2008  30004  45825  Jennings, Terry         Fri, Feb 26, 2011       D01-01-02 
+ JH151F114Y4329555  Odyssey     2008  29346  44825  King, Michelle          Tue, Mar  2, 2011       D01-01-03 
+ JH153FU14V444B777  Odyssey     2005  19317  45825  Harper, Freddie         Sun, Feb 28, 2011       D01-01-05 
+ JG148F119X4P71AA9  Insight     2007  14842  24390  Harper, Freddie         Tue, Mar  2, 2011       D01-01-05 
+ JH155FU17WX471AB1  Odyssey     2006  23575  47825  King, Michelle          Sun, Feb 28, 2011       D01-01-03 
+ JH151F1191X682BC3  Odyssey     2009  32901  44825  Russell, Connie         Sun, Feb 28, 2011       D01-01-01 
+ JB121S125V336X9A5  Civic       2005  6688   16455  Wood, Lloyd             Fri, Feb 26, 2011       D01-01-04 
+ JB127S1372X95C897  Civic       2010  13504  16655  Wood, Lloyd             Sun, Feb 28, 2011       D01-01-04 
+ JE141F11A13P5C899  Crosstour   2009  27627  37640  Ryan, Margie            Sun, Feb 28, 2011       D01-01-06 

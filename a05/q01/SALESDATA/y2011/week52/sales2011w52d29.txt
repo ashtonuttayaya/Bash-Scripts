@@ -1,0 +1,59 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Fri, Dec 24, 2011 thru Fri, Dec 31, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC134F3193523B6A2  CR-V         2011  28514  31995  Rodriguez, Leonard      Sat, Dec 25, 2011       D29-25-01 
+ JA112F1343524C7B4  Accord       2011  29176  32930  Walker, Roland          Sat, Dec 25, 2011       D29-25-04 
+ JB127S134352X8376  Civic        2011  15698  16655  Walker, Roland          Mon, Dec 27, 2011       D29-25-04 
+ JB121S1223523B6A8  Civic        2011  15429  16455  Coleman, Arnold         Thu, Dec 30, 2011       D29-25-05 
+ JG148F116352X838X  Insight      2011  23261  24390  Lucas, Jose             Sat, Dec 25, 2011       D29-25-06 
+ JG148F1123523B6B2  Insight      2011  22645  24390  Lawson, Carolyn         Fri, Dec 24, 2011       D29-25-02 
+ JB121S1223525X8X4  Civic        2011  15512  16455  Coleman, Arnold         Sun, Dec 26, 2011       D29-25-05 
+ JC132FU18352X8386  CR-V         2011  30609  31995  Coleman, Arnold         Fri, Dec 24, 2011       D29-25-05 
+ JH158S4193523B6B8  Odyssey      2011  40144  41375  Rodriguez, Leonard      Wed, Dec 29, 2011       D29-25-01 
+ JE142FU153523B6CX  Crosstour    2011  36533  38640  Lucas, Jose             Thu, Dec 30, 2011       D29-25-06 
+ JJ163F3113523B6C2  Pilot        2011  39523  42970  Rodriguez, Leonard      Wed, Dec 29, 2011       D29-25-01 
+ JA111S13935283B44  Accord       2011  20661  22480  Lawson, Carolyn         Mon, Dec 27, 2011       D29-25-02 
+ JB127S1393522A5B6  Civic        2011  14938  16655  Lawson, Carolyn         Sun, Dec 26, 2011       D29-25-02 
+ JJ161FU1735283B48  Pilot        2011  39523  42970  Walker, Roland          Thu, Dec 30, 2011       D29-25-04 
+ JB121S1243524C71X  Civic        2011  16012  16455  Lucas, Jose             Fri, Dec 24, 2011       D29-25-06 
+ JB127S1393523B6X2  Civic        2011  15445  16655  Lawson, Carolyn         Tue, Dec 28, 2011       D29-25-02 
+ JB127S13835272A44  Civic        2011  15192  16655  Lawson, Carolyn         Sun, Dec 26, 2011       D29-25-02 
+ JJ163F3173525X826  Pilot        2011  41035  42970  Lawson, Carolyn         Mon, Dec 27, 2011       D29-25-02 
+ JE141F1143522A5C8  Crosstour    2011  36729  37640  Lawson, Carolyn         Thu, Dec 30, 2011       D29-25-02 
+ JD138FU1035261A7X  CR-Z         2011  25416  27705  Graham, Sheila          Sat, Dec 25, 2011       D29-25-03 
+ JA1X1S12835261A72  Accord       2011  23463  24089  Walker, Roland          Sun, Dec 26, 2011       D29-25-04 
+ JG148F1113525X964  Insight      2011  23753  24390  Lucas, Jose             Tue, Dec 28, 2011       D29-25-06 
+ JB127S1353522A636  Civic        2011  16289  16655  Walker, Roland          Tue, Dec 28, 2011       D29-25-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE143FU16116826C7  Crosstour   2009  29829  40640  Walker, Roland          Thu, Dec 30, 2011       D29-25-04 
+ JH154SU192514B289  Odyssey     2010  26080  32375  Graham, Sheila          Fri, Dec 24, 2011       D29-25-03 
+ JC131F114216826X1  CR-V        2010  25288  30995  Graham, Sheila          Sat, Dec 25, 2011       D29-25-03 
+ JH15AS119X28826X3  Odyssey     2007  17355  29375  Walker, Roland          Mon, Dec 27, 2011       D29-25-04 
+ JA12AF436Y1729X75  Accord      2008  27441  41930  Lawson, Carolyn         Sun, Dec 26, 2011       D29-25-02 
+ JD136F11314218C67  CR-Z        2009  18133  24705  Lucas, Jose             Fri, Dec 24, 2011       D29-25-06 
+ JD14AF416Y22826X9  CR-Z        2008  21427  33705  Rodriguez, Leonard      Sun, Dec 26, 2011       D29-25-01 
+ JG148F115Y444B2A1  Insight     2008  15465  24390  Walker, Roland          Sat, Dec 25, 2011       D29-25-04 
+ JH157F31AX1929X83  Odyssey     2007  27225  45825  Rodriguez, Leonard      Sat, Dec 25, 2011       D29-25-01 
+ JH159F41622182615  Odyssey     2010  46210  56825  Coleman, Arnold         Mon, Dec 27, 2011       D29-25-05 
+ JH156S31AXX83A197  Odyssey     2007  17955  30375  Lucas, Jose             Tue, Dec 28, 2011       D29-25-06 
+ JB121S12AX513A199  Civic       2007  9923   16455  Rodriguez, Leonard      Mon, Dec 27, 2011       D29-25-01 
+ JJ163F313WX25C3C1  Pilot       2006  21147  42970  Coleman, Arnold         Tue, Dec 28, 2011       D29-25-05 
+ JD136F1192346X4X3  CR-Z        2010  20193  24705  Walker, Roland          Tue, Dec 28, 2011       D29-25-04 
+ JG148F118Y44X7B75  Insight     2008  15465  24390  Rodriguez, Leonard      Fri, Dec 24, 2011       D29-25-01 
+ JD136F11AX126X4X7  CR-Z        2007  14553  24705  Lucas, Jose             Tue, Dec 28, 2011       D29-25-06 
+ JH15AS110V3P82629  Odyssey     2005  11390  29375  Graham, Sheila          Thu, Dec 30, 2011       D29-25-03 
+ JB129S148W1818C91  Civic       2006  11190  23055  Walker, Roland          Thu, Dec 30, 2011       D29-25-04 
+ JH151F119Y243A1B3  Odyssey     2008  28544  44825  Lawson, Carolyn         Mon, Dec 27, 2011       D29-25-02 
+ JH153FU19W123A1B5  Odyssey     2006  22575  45825  Coleman, Arnold         Mon, Dec 27, 2011       D29-25-05 
+ JB127S139XX418C97  Civic       2007  10047  16655  Walker, Roland          Wed, Dec 29, 2011       D29-25-04 

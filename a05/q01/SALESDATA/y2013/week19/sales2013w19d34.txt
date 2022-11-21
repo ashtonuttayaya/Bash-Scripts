@@ -1,0 +1,43 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Mon, May  7, 2013 thru Sun, May 13, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU1051919928  CR-V         2013  31526  31995  Torres, Caroline        Tue, May  8, 2013       D34-30-01 
+ JE141F1155194CC6X  Crosstour    2013  36590  37640  Bennett, Michele        Thu, May 10, 2013       D34-30-05 
+ JH157F3125192AA42  Odyssey      2013  43477  45825  Webb, Ken               Sun, May 13, 2013       D34-30-02 
+ JB129S14351972294  Civic        2013  20882  23055  Rodriquez, Jorge        Wed, May  9, 2013       D34-30-04 
+ JA111S1395192AA46  Accord       2013  20839  22480  Bennett, Michele        Fri, May 11, 2013       D34-30-05 
+ JB121S1275194CC68  Civic        2013  16016  16455  Bennett, Michele        Sun, May 13, 2013       D34-30-05 
+ JD137FU16519722AX  CR-Z         2013  23610  25705  Webb, Ken               Thu, May 10, 2013       D34-30-02 
+ JB121S12951961192  Civic        2013  15930  16455  Rodriquez, Jorge        Sat, May 12, 2013       D34-30-04 
+ JD136F11A51961194  CR-Z         2013  22588  24705  Rodriquez, Jorge        Tue, May  8, 2013       D34-30-04 
+ JH151F1175192AA56  Odyssey      2013  41405  44825  Rodriquez, Jorge        Fri, May 11, 2013       D34-30-04 
+ JB121S12A51961198  Civic        2013  15845  16455  Rodriquez, Jorge        Wed, May  9, 2013       D34-30-04 
+ JA111S1335191995X  Accord       2013  21881  22480  Bennett, Michele        Mon, May  7, 2013       D34-30-05 
+ JA115SU38519833C2  Accord       2013  23801  25480  Rodriquez, Jorge        Fri, May 11, 2013       D34-30-04 
+ JH155FU14519611A4  Odyssey      2013  46802  47825  Jensen, Bill            Fri, May 11, 2013       D34-30-06 
+ JA111S133519X8846  Accord       2013  22228  22480  Torres, Caroline        Sun, May 13, 2013       D34-30-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE144F31A41P72AA7  Crosstour   2012  31845  38640  Bennett, Michele        Thu, May 10, 2013       D34-30-05 
+ JD138FU162X73B669  CR-Z        2010  25276  27705  Bennett, Michele        Fri, May 11, 2013       D34-30-05 
+ JD136F118Y3P83BC1  CR-Z        2008  12852  24705  Torres, Caroline        Tue, May  8, 2013       D34-30-01 
+ JC131F119316X8343  CR-V        2011  23080  30995  Jensen, Bill            Wed, May  9, 2013       D34-30-06 
+ JH152SU19245X8345  Odyssey     2010  20134  30375  Jensen, Bill            Fri, May 11, 2013       D34-30-06 
+ JK166FU183364C787  Ridgeline   2011  35378  47750  Torres, Caroline        Wed, May  9, 2013       D34-30-01 
+ JB121S1242195X899  Civic       2010  10975  16455  Jensen, Bill            Sun, May 13, 2013       D34-30-06 
+ JC131F1134335X8A1  CR-V        2012  25652  30995  Webb, Ken               Wed, May  9, 2013       D34-30-02 
+ JC131F1151X64C793  CR-V        2009  19216  30995  Rice, Georgia           Sat, May 12, 2013       D34-30-03 
+ JH155FU1624119465  Odyssey     2010  30752  47825  Bennett, Michele        Wed, May  9, 2013       D34-30-05 
+ JH152SU1023772AC7  Odyssey     2010  19584  30375  Jensen, Bill            Wed, May  9, 2013       D34-30-06 
+ JJ161FU111X9619B9  Pilot       2009  38673  42970  Jensen, Bill            Mon, May  7, 2013       D34-30-06 
+ JB129S142233X8361  Civic       2010  14899  23055  Rodriquez, Jorge        Sat, May 12, 2013       D34-30-04 

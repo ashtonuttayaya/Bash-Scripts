@@ -1,0 +1,53 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Fri, Sep  3, 2011 thru Thu, Sep  9, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S14633671634  Civic        2011  21766  23055  Shelton, Regina         Fri, Sep  3, 2011       D27-24-02 
+ JD136F1183364B3X6  CR-Z         2011  23558  24705  Shelton, Regina         Fri, Sep  3, 2011       D27-24-02 
+ JB127S1323365C418  Civic        2011  15192  16655  Perkins, Pearl          Tue, Sep  7, 2011       D27-24-03 
+ JA112F138336X7CAX  Accord       2011  30502  32930  Hill, Rita              Sun, Sep  5, 2011       D27-24-01 
+ JB123H15533682752  Civic        2011  24764  27600  Hill, Rita              Thu, Sep  9, 2011       D27-24-01 
+ JB123H1543363A2X4  Civic        2011  24486  27600  Howard, Samantha        Sat, Sep  4, 2011       D27-24-05 
+ JC131F116336X7CA6  CR-V         2011  28566  30995  Howard, Samantha        Tue, Sep  7, 2011       D27-24-05 
+ JB127S138336X7CA8  Civic        2011  16373  16655  Howard, Samantha        Fri, Sep  3, 2011       D27-24-05 
+ JB121S1203366197X  Civic        2011  15595  16455  Scott, Samuel           Sun, Sep  5, 2011       D27-24-06 
+ JB121S1273364C752  Civic        2011  14678  16455  Howard, Samantha        Sat, Sep  4, 2011       D27-24-05 
+ JB127S13633661974  Civic        2011  15023  16655  Howard, Samantha        Tue, Sep  7, 2011       D27-24-05 
+ JB121S1243365X866  Civic        2011  14761  16455  Howard, Samantha        Sat, Sep  4, 2011       D27-24-05 
+ JB129S14A33683B98  Civic        2011  21883  23055  Shelton, Regina         Tue, Sep  7, 2011       D27-24-02 
+ JB121S1203361943X  Civic        2011  15178  16455  Howard, Samantha        Thu, Sep  9, 2011       D27-24-05 
+ JB122SU2033619432  Civic        2011  16955  17255  Howard, Samantha        Fri, Sep  3, 2011       D27-24-05 
+ JH155FU103363B654  Odyssey      2011  42524  47825  Howard, Samantha        Fri, Sep  3, 2011       D27-24-05 
+ JH15AS113336X8326  Odyssey      2011  26196  29375  Wright, Marion          Fri, Sep  3, 2011       D27-24-04 
+ JA111S13033619438  Accord       2011  21910  22480  Howard, Samantha        Fri, Sep  3, 2011       D27-24-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ162FU142X33AXA1  Pilot       2010  36607  44970  Perkins, Pearl          Wed, Sep  8, 2011       D27-24-03 
+ JD136F11A2254B1B3  CR-Z        2010  20193  24705  Howard, Samantha        Thu, Sep  9, 2011       D27-24-05 
+ JC131F115Y4P4B1B5  CR-V        2008  20246  30995  Perkins, Pearl          Fri, Sep  3, 2011       D27-24-03 
+ JD136F11211429C97  CR-Z        2009  17787  24705  Hill, Rita              Wed, Sep  8, 2011       D27-24-01 
+ JE141F116Y2718B89  Crosstour   2008  24619  37640  Perkins, Pearl          Mon, Sep  6, 2011       D27-24-03 
+ JH156S314X3571421  Odyssey     2007  18553  30375  Wright, Marion          Sun, Sep  5, 2011       D27-24-04 
+ JJ162FU16Y1582533  Pilot       2008  28636  44970  Perkins, Pearl          Tue, Sep  7, 2011       D27-24-03 
+ JH15AS112X254B1C5  Odyssey     2007  17355  29375  Perkins, Pearl          Fri, Sep  3, 2011       D27-24-03 
+ JH156S31AY326X317  Odyssey     2008  19838  30375  Shelton, Regina         Mon, Sep  6, 2011       D27-24-02 
+ JH157F316Y1629CA9  Odyssey     2008  29184  45825  Scott, Samuel           Tue, Sep  7, 2011       D27-24-06 
+ JD14AF4191446X321  CR-Z        2009  24267  33705  Howard, Samantha        Wed, Sep  8, 2011       D27-24-05 
+ JD136F117Y3818BA3  CR-Z        2008  16107  24705  Wright, Marion          Fri, Sep  3, 2011       D27-24-04 
+ JG148F119Y1282545  Insight     2008  15900  24390  Scott, Samuel           Thu, Sep  9, 2011       D27-24-06 
+ JB129S143Y2918BA7  Civic       2008  15022  23055  Shelton, Regina         Fri, Sep  3, 2011       D27-24-02 
+ JD139F319124X7A99  CR-Z        2009  18867  25705  Hill, Rita              Fri, Sep  3, 2011       D27-24-01 
+ JJ162FU10Y2982551  Pilot       2008  28636  44970  Howard, Samantha        Fri, Sep  3, 2011       D27-24-05 
+ JA111S133V336X333  Accord      2005  9279   22480  Scott, Samuel           Sun, Sep  5, 2011       D27-24-06 
+ JA116FU38WX4X7AA5  Accord      2006  18508  35930  Scott, Samuel           Tue, Sep  7, 2011       D27-24-06 
+ JD136F1122435C227  CR-Z        2010  19944  24705  Shelton, Regina         Sat, Sep  4, 2011       D27-24-02 
+ JB127S135Y4871449  Civic       2008  10810  16655  Hill, Rita              Tue, Sep  7, 2011       D27-24-01 

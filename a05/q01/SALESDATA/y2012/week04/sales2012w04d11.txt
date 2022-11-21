@@ -1,0 +1,37 @@
+Dealer Name: Harrison Honda
+Address:     692 Sanders Ave
+             Port Kiln, SC
+Dealer ID:   11
+Owner:       Harrision, Owen
+Date:        Sat, Jan 22, 2012 thru Fri, Jan 28, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA117S3384X45CCB2  Accord       2012  21537  23480  Bishop, Joann           Mon, Jan 24, 2012       D11-10-05 
+ JH151F1154X44BBA4  Odyssey      2012  42332  44825  Bishop, Joann           Thu, Jan 27, 2012       D11-10-05 
+ JA111S1344X4X7766  Accord       2012  20178  22480  Mason, Felicia          Thu, Jan 27, 2012       D11-10-02 
+ JA1X5SU2A4X4711X8  Accord       2012  25335  27089  Fields, Joan            Tue, Jan 25, 2012       D11-10-03 
+ JH153FU154X41888X  Odyssey      2012  44192  45825  Bishop, Joann           Sun, Jan 23, 2012       D11-10-05 
+ JD137FU194X482222  CR-Z         2012  23801  25705  Day, Jennifer           Fri, Jan 28, 2012       D11-10-06 
+ JH15AS1124X471114  Odyssey      2012  26544  29375  Lambert, Donna          Tue, Jan 25, 2012       D11-10-04 
+ JG148F1114X46XXX6  Insight      2012  23349  24390  Burke, Derrick          Thu, Jan 27, 2012       D11-10-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ163F3101213A855  Pilot       2009  27500  42970  Mason, Felicia          Thu, Jan 27, 2012       D11-10-02 
+ JH155FU12W39X7527  Odyssey     2006  18860  47825  Fields, Joan            Wed, Jan 26, 2012       D11-10-03 
+ JJ161FU1A14P29749  Pilot       2009  27500  42970  Burke, Derrick          Mon, Jan 24, 2012       D11-10-01 
+ JG149FU15Y123A861  Insight     2008  14979  25190  Day, Jennifer           Tue, Jan 25, 2012       D11-10-06 
+ JH151F1151X618643  Odyssey     2009  29494  44825  Fields, Joan            Sat, Jan 22, 2012       D11-10-03 
+ JB123H156X4729755  Civic       2007  14253  27600  Fields, Joan            Wed, Jan 26, 2012       D11-10-03 
+ JD138FU1AX393A867  CR-Z        2007  13627  27705  Day, Jennifer           Tue, Jan 25, 2012       D11-10-06 
+ JH155FU19W1P82XB9  Odyssey     2006  42670  47825  Burke, Derrick          Tue, Jan 25, 2012       D11-10-01 
+ JE141F1171344B981  Crosstour   2009  24767  37640  Day, Jennifer           Sun, Jan 23, 2012       D11-10-06 
+ JH151F1162X171CB3  Odyssey     2010  32436  44825  Burke, Derrick          Sun, Jan 23, 2012       D11-10-01 
+ JH157F31A2256XBA5  Odyssey     2010  33800  45825  Mason, Felicia          Sat, Jan 22, 2012       D11-10-02 
+ JH153FU163384B987  Odyssey     2011  37482  45825  Bishop, Joann           Sun, Jan 23, 2012       D11-10-05 
+ JE141F11623882XC9  Crosstour   2010  27262  37640  Lambert, Donna          Fri, Jan 28, 2012       D11-10-04 
+ JH153FU192X971CC1  Odyssey     2010  33156  45825  Lambert, Donna          Wed, Jan 26, 2012       D11-10-04 

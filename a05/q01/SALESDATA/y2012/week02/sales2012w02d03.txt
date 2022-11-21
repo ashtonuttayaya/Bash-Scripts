@@ -1,0 +1,64 @@
+Dealer Name: Jones Honda Dealer
+Address:     6957 Davison Highway
+             Clarksville, NC
+Dealer ID:   3
+Owner:       Jones, Kelly
+Date:        Sat, Jan  8, 2012 thru Fri, Jan 14, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD137FU184X26X916  CR-Z         2012  25239  25705  Larson, Sonia           Fri, Jan 14, 2012       D03-03-05 
+ JB121S1244X25C8X8  Civic        2012  15129  16455  Graham, Jeffery         Sat, Jan  8, 2012       D03-03-06 
+ JH153FU104X23A6CX  Odyssey      2012  40722  45825  Taylor, Billie          Mon, Jan 10, 2012       D03-03-02 
+ JB128SU3A4X2295B2  Civic        2012  16024  17455  Herrera, Julian         Fri, Jan 14, 2012       D03-03-03 
+ JB121S1204X26X924  Civic        2012  15468  16455  Mitchell, Sue           Wed, Jan 12, 2012       D03-03-01 
+ JA1X3SU214X23A6C6  Accord       2012  23878  25089  Smith, Maria            Fri, Jan 14, 2012       D03-03-04 
+ JG148F1194X2295B8  Insight      2012  22977  24390  Larson, Sonia           Fri, Jan 14, 2012       D03-03-05 
+ JA111S13A4X2295CX  Accord       2012  21668  22480  Graham, Jeffery         Thu, Jan 13, 2012       D03-03-06 
+ JB121S1264X23A6X2  Civic        2012  15721  16455  Smith, Maria            Sat, Jan  8, 2012       D03-03-04 
+ JJ163F3184X25C824  Pilot        2012  38209  42970  Herrera, Julian         Sat, Jan  8, 2012       D03-03-03 
+ JB121S1274X25C826  Civic        2012  15637  16455  Taylor, Billie          Fri, Jan 14, 2012       D03-03-02 
+ JA111S1314X2295C8  Accord       2012  21898  22480  Taylor, Billie          Tue, Jan 11, 2012       D03-03-02 
+ JH152SU124X23A74X  Odyssey      2012  29129  30375  Herrera, Julian         Sun, Jan  9, 2012       D03-03-03 
+ JA1X5SU244X24B852  Accord       2012  24509  27089  Herrera, Julian         Sun, Jan  9, 2012       D03-03-03 
+ JB127S1304X229634  Civic        2012  16249  16655  Graham, Jeffery         Tue, Jan 11, 2012       D03-03-06 
+ JA1X5SU254X23A746  Accord       2012  24785  27089  Herrera, Julian         Sat, Jan  8, 2012       D03-03-03 
+ JH157F31A4X218528  Odyssey      2012  40953  45825  Herrera, Julian         Sun, Jan  9, 2012       D03-03-03 
+ JA113SU344X23A75X  Accord       2012  21776  23480  Taylor, Billie          Mon, Jan 10, 2012       D03-03-02 
+ JA111S1374X229642  Accord       2012  21095  22480  Herrera, Julian         Tue, Jan 11, 2012       D03-03-03 
+ JA113SU394X26XA84  Accord       2012  22733  23480  Larson, Sonia           Tue, Jan 11, 2012       D03-03-05 
+ JA1X1S1224X229646  Accord       2012  23189  24089  Taylor, Billie          Sat, Jan  8, 2012       D03-03-02 
+ JH155FU154X24B868  Odyssey      2012  44654  47825  Taylor, Billie          Thu, Jan 13, 2012       D03-03-02 
+ JB123H1574X26XA9X  Civic        2012  25946  27600  Mitchell, Sue           Tue, Jan 11, 2012       D03-03-01 
+ JA1X4FU274X24B872  Accord       2012  31376  34030  Larson, Sonia           Wed, Jan 12, 2012       D03-03-05 
+ JH151F1104X282CB4  Odyssey      2012  43464  44825  Larson, Sonia           Sun, Jan  9, 2012       D03-03-05 
+ JD139F3164X23A766  CR-Z         2012  23801  25705  Larson, Sonia           Mon, Jan 10, 2012       D03-03-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD137FU161474B7C5  CR-Z        2009  16913  25705  Graham, Jeffery         Fri, Jan 14, 2012       D03-03-06 
+ JE141F11014P71A27  Crosstour   2009  24767  37640  Herrera, Julian         Wed, Jan 12, 2012       D03-03-03 
+ JH152SU17Y2P6X919  Odyssey     2008  18090  30375  Mitchell, Sue           Sun, Jan  9, 2012       D03-03-01 
+ JB127S13522182B41  Civic       2010  12153  16655  Larson, Sonia           Thu, Jan 13, 2012       D03-03-05 
+ JB123H153X193A6C3  Civic       2007  14253  27600  Larson, Sonia           Thu, Jan 13, 2012       D03-03-05 
+ JH153FU1A3484B7X5  Odyssey     2011  37482  45825  Taylor, Billie          Mon, Jan 10, 2012       D03-03-02 
+ JH15AS1181X682B47  Odyssey     2009  19328  29375  Mitchell, Sue           Sun, Jan  9, 2012       D03-03-01 
+ JH151F114Y1271A39  Odyssey     2008  27652  44825  Taylor, Billie          Thu, Jan 13, 2012       D03-03-02 
+ JC134F3104X171A41  CR-V         2012  29566  31995  Herrera, Julian         Mon, Jan 10, 2012       D03-03-03 
+ JE145F41431P295C3  Crosstour   2011  38142  46640  Herrera, Julian         Sat, Jan  8, 2012       D03-03-03 
+ JH154SU19Y294B715  Odyssey     2008  19933  32375  Mitchell, Sue           Tue, Jan 11, 2012       D03-03-01 
+ JH153FU15222295C7  Odyssey     2010  33800  45825  Herrera, Julian         Sat, Jan  8, 2012       D03-03-03 
+ JH152SU18X154B719  Odyssey     2007  14214  30375  Mitchell, Sue           Mon, Jan 10, 2012       D03-03-01 
+ JH157F31AW433A741  Odyssey     2006  18060  45825  Smith, Maria            Wed, Jan 12, 2012       D03-03-04 
+ JH151F117YX471B83  Odyssey     2008  27652  44825  Herrera, Julian         Fri, Jan 14, 2012       D03-03-03 
+ JC132FU1A1526XA75  CR-V        2009  21052  31995  Herrera, Julian         Mon, Jan 10, 2012       D03-03-03 
+ JG148F112X254B857  Insight     2007  21546  24390  Taylor, Billie          Sun, Jan  9, 2012       D03-03-02 
+ JG148F11A13282C99  Insight     2009  15609  24390  Mitchell, Sue           Thu, Jan 13, 2012       D03-03-01 
+ JH153FU153433A751  Odyssey     2011  37020  45825  Herrera, Julian         Wed, Jan 12, 2012       D03-03-03 
+ JB127S131YX73A753  Civic       2008  10186  16655  Taylor, Billie          Sat, Jan  8, 2012       D03-03-02 
+ JG148F1111525C975  Insight     2009  16048  24390  Herrera, Julian         Mon, Jan 10, 2012       D03-03-03 
+ JH155FU15Y375C977  Odyssey     2008  29512  47825  Graham, Jeffery         Mon, Jan 10, 2012       D03-03-06 
+ JK169F416X4P3A759  Ridgeline   2007  27692  58750  Smith, Maria            Fri, Jan 14, 2012       D03-03-04 

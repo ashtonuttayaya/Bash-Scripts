@@ -1,0 +1,51 @@
+Dealer Name: Lance Honda
+Address:     1136 Brooklin Ave
+             Norbert, FL
+Dealer ID:   17
+Owner:       Lance, Samuel
+Date:        Fri, May 21, 2011 thru Thu, May 27, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S1353213ACAX  Accord       2011  21456  22480  Medina, Emily           Thu, May 27, 2011       D17-16-07 
+ JB127S13032171312  Civic        2011  15867  16655  Morris, Bobbie          Fri, May 21, 2011       D17-16-05 
+ JB127S1323213ACA4  Civic        2011  16289  16655  Cole, Peter             Mon, May 24, 2011       D17-16-02 
+ JB121S12732171316  Civic        2011  16096  16455  Herrera, Nina           Mon, May 24, 2011       D17-16-03 
+ JA114FU3332129B98  Accord       2011  32105  33930  Morris, Bobbie          Sat, May 22, 2011       D17-16-05 
+ JH152SU133217132X  Odyssey      2011  29529  30375  West, Sally             Thu, May 27, 2011       D17-16-04 
+ JG148F1193213ACB2  Insight      2011  21661  24390  Medina, Emily           Tue, May 25, 2011       D17-16-07 
+ JE141F1103215C1X4  Crosstour    2011  34646  37640  Medina, Emily           Sat, May 22, 2011       D17-16-07 
+ JD139F3163215C1X6  CR-Z         2011  24892  25705  Cole, Peter             Mon, May 24, 2011       D17-16-02 
+ JD137FU1A32171328  CR-Z         2011  23855  25705  Rodriguez, Mathew       Sun, May 23, 2011       D17-16-06 
+ JE141F1183214BXXX  Crosstour    2011  35025  37640  Medina, Emily           Mon, May 24, 2011       D17-16-07 
+ JA115SU373214BXX2  Accord       2011  23648  25480  Lambert, Anita          Wed, May 26, 2011       D17-16-01 
+ JC131F11832118AA4  CR-V         2011  27629  30995  West, Sally             Thu, May 27, 2011       D17-16-04 
+ JD136F11232129BB6  CR-Z         2011  23558  24705  Medina, Emily           Sun, May 23, 2011       D17-16-07 
+ JC131F1143215C118  CR-V         2011  29659  30995  Rodriguez, Mathew       Sun, May 23, 2011       D17-16-06 
+ JB129S145321X79AX  Civic        2011  20952  23055  Morris, Bobbie          Tue, May 25, 2011       D17-16-05 
+ JH15AS1173213ACX2  Odyssey      2011  26640  29375  Lambert, Anita          Sat, May 22, 2011       D17-16-01 
+ JA111S1353215C124  Accord       2011  20207  22480  West, Sally             Sat, May 22, 2011       D17-16-04 
+ JJ161FU1A3216X236  Pilot        2011  38875  42970  Medina, Emily           Fri, May 21, 2011       D17-16-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU17Y414BB15  Odyssey     2008  19838  30375  Herrera, Nina           Sat, May 22, 2011       D17-16-03 
+ JB127S132YX5188B7  Civic       2008  10515  16655  Lambert, Anita          Wed, May 26, 2011       D17-16-01 
+ JH155FU16251299C9  Odyssey     2010  37959  47825  West, Sally             Fri, May 21, 2011       D17-16-04 
+ JD138FU18YX982391  CR-Z        2008  18081  27705  Hansen, Ralph           Sun, May 23, 2011       D17-16-09 
+ JB127S132Y454BC53  Civic       2008  10810  16655  Herrera, Nina           Mon, May 24, 2011       D17-16-03 
+ JB128SU32X1P18925  Civic       2007  10203  17455  West, Sally             Tue, May 25, 2011       D17-16-04 
+ JB121S120241X7817  Civic       2010  13510  16455  Lambert, Anita          Thu, May 27, 2011       D17-16-01 
+ JB121S123Y445CX69  Civic       2008  10679  16455  Hansen, Ralph           Sat, May 22, 2011       D17-16-09 
+ JH157F31AX274BC61  Odyssey     2007  27225  45825  Baker, Lynn             Thu, May 27, 2011       D17-16-08 
+ JH152SU1114671293  Odyssey     2009  22295  30375  Morris, Bobbie          Thu, May 27, 2011       D17-16-05 
+ JE142FU11W246X185  Crosstour   2006  19931  38640  Morris, Bobbie          Mon, May 24, 2011       D17-16-05 
+ JB127S132Y2P6X187  Civic       2008  10515  16655  Rodriguez, Mathew       Fri, May 21, 2011       D17-16-06 
+ JH158S412Y225CX79  Odyssey     2008  27076  41375  Baker, Lynn             Fri, May 21, 2011       D17-16-08 
+ JJ162FU19YX45CX81  Pilot       2008  29442  44970  Rodriguez, Mathew       Wed, May 26, 2011       D17-16-06 
+ JG148F112YX329A53  Insight     2008  15900  24390  Lambert, Anita          Tue, May 25, 2011       D17-16-01 
+ JG149FU12XX33AB65  Insight     2007  15338  25190  Morris, Bobbie          Sun, May 23, 2011       D17-16-05 
+ JE145F41A1X8712A7  Crosstour   2009  42209  46640  Baker, Lynn             Tue, May 25, 2011       D17-16-08 

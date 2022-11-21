@@ -1,0 +1,58 @@
+Dealer Name: Wallace Honda
+Address:     2132 Tupelo Road
+             Clarksville, NC
+Dealer ID:   4
+Owner:       Wallace, Patrick
+Date:        Tue, Aug 20, 2014 thru Mon, Aug 26, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB123H1546345C922  Civic        2014  25792  27600  Richards, Angela        Wed, Aug 21, 2014       D04-04-06 
+ JC131F11863482C54  CR-V         2014  29343  30995  Pena, Elaine            Thu, Aug 22, 2014       D04-04-05 
+ JB127S1396346XA36  Civic        2014  16940  16655  Campbell, Jeanne        Wed, Aug 21, 2014       D04-04-02 
+ JD14AF41163482C58  CR-Z         2014  32355  33705  Pena, Elaine            Sat, Aug 24, 2014       D04-04-05 
+ JB123H15A6342973X  Civic        2014  27217  27600  Richards, Angela        Tue, Aug 20, 2014       D04-04-06 
+ JE143FU18634X7512  Crosstour    2014  37178  40640  Russell, Jerry          Tue, Aug 20, 2014       D04-04-03 
+ JB127S13A6343A844  Civic        2014  16326  16655  Pena, Elaine            Thu, Aug 22, 2014       D04-04-05 
+ JB128SU326343A846  Civic        2014  16794  17455  Dixon, Patsy            Sat, Aug 24, 2014       D04-04-07 
+ JH155FU1463471C88  Odyssey      2014  43365  47825  Miller, Julian          Tue, Aug 20, 2014       D04-04-04 
+ JH15AS1186341863X  Odyssey      2014  28609  29375  Wilson, Chad            Sat, Aug 24, 2014       D04-04-08 
+ JA1X1S12163482XA2  Accord       2014  23364  24089  Pena, Elaine            Sat, Aug 24, 2014       D04-04-05 
+ JH153FU1563482XA4  Odyssey      2014  45089  45825  Richards, Angela        Sun, Aug 25, 2014       D04-04-06 
+ JG148F11A6344B966  Insight      2014  22381  24390  Russell, Jerry          Mon, Aug 26, 2014       D04-04-03 
+ JE141F11663482XA8  Crosstour    2014  34878  37640  Russell, Jerry          Fri, Aug 23, 2014       D04-04-03 
+ JA115SU386343A86X  Accord       2014  24269  25480  Dixon, Patsy            Sat, Aug 24, 2014       D04-04-07 
+ JA114FU366345CA82  Accord       2014  30824  33930  Dixon, Patsy            Sat, Aug 24, 2014       D04-04-07 
+ JE141F11463471CA4  Crosstour    2014  35456  37640  Lucas, Carl             Wed, Aug 21, 2014       D04-04-01 
+ JB121S1286346XB96  Civic        2014  15879  16455  Richards, Angela        Mon, Aug 26, 2014       D04-04-06 
+ JA117S33263482XB8  Accord       2014  22063  23480  Lucas, Carl             Wed, Aug 21, 2014       D04-04-01 
+ JD136F11A6343A87X  CR-Z         2014  24452  24705  Richards, Angela        Mon, Aug 26, 2014       D04-04-06 
+ JH154SU126345CA92  Odyssey      2014  32276  32375  Campbell, Jeanne        Fri, Aug 23, 2014       D04-04-02 
+ JH155FU106343A874  Odyssey      2014  46288  47825  Dixon, Patsy            Sun, Aug 25, 2014       D04-04-07 
+ JB127S1316343A876  Civic        2014  15975  16655  Campbell, Jeanne        Fri, Aug 23, 2014       D04-04-02 
+ JH151F1146344B988  Odyssey      2014  42752  44825  Russell, Jerry          Fri, Aug 23, 2014       D04-04-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1153465C983  Insight     2003  15897  24390  Russell, Jerry          Sat, Aug 24, 2014       D04-04-03 
+ JH15AS11534718545  Odyssey     2003  19088  29375  Pena, Elaine            Wed, Aug 21, 2014       D04-04-05 
+ JB121S12222571BA7  Civic       2002  10341  16455  Pena, Elaine            Fri, Aug 23, 2014       D04-04-05 
+ JG149FU13529X7439  Insight     2005  21132  25190  Miller, Julian          Tue, Aug 20, 2014       D04-04-04 
+ JJ162FU102X24B881  Pilot       2002  28020  44970  Pena, Elaine            Fri, Aug 23, 2014       D04-04-05 
+ JE141F11335P5C993  Crosstour   2003  25063  37640  Dixon, Patsy            Thu, Aug 22, 2014       D04-04-07 
+ JB127S13833571BB5  Civic       2003  11255  16655  Wilson, Chad            Wed, Aug 21, 2014       D04-04-08 
+ JH15AS11533418557  Odyssey     2003  19624  29375  Dixon, Patsy            Wed, Aug 21, 2014       D04-04-07 
+ JG148F11431582CC9  Insight     2003  15450  24390  Pena, Elaine            Thu, Aug 22, 2014       D04-04-05 
+ JH155FU1633982CX1  Odyssey     2003  31764  47825  Dixon, Patsy            Sun, Aug 25, 2014       D04-04-07 
+ JH155FU1A55182CX3  Odyssey     2005  38980  47825  Dixon, Patsy            Thu, Aug 22, 2014       D04-04-07 
+ JB127S1344X671BC5  Civic       2004  12477  16655  Campbell, Jeanne        Sun, Aug 25, 2014       D04-04-02 
+ JH151F11141718567  Odyssey     2004  32760  44825  Russell, Jerry          Sun, Aug 25, 2014       D04-04-03 
+ JB127S1385X1X7459  Civic       2005  14219  16655  Campbell, Jeanne        Thu, Aug 22, 2014       D04-04-02 
+ JH154SU105X96XAC1  Odyssey     2005  26620  32375  Campbell, Jeanne        Fri, Aug 23, 2014       D04-04-02 
+ JH153FU163514B8A3  Odyssey     2003  29616  45825  Dixon, Patsy            Sun, Aug 25, 2014       D04-04-07 
+ JB127S13114P29685  Civic       2001  8327   16655  Miller, Julian          Mon, Aug 26, 2014       D04-04-04 
+ JH154SU1A34818577  Odyssey     2003  21008  32375  Miller, Julian          Wed, Aug 21, 2014       D04-04-04 
+ JE142FU1A2445C9B9  Crosstour   2002  23319  38640  Lucas, Carl             Tue, Aug 20, 2014       D04-04-01 

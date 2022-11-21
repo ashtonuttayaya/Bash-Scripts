@@ -1,0 +1,352 @@
+Activity 7: submission file lab07.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Friday, Dec 3, 2021
+    Time:    22:18
+    USID:    50a3w#S0B4iaom9vv{n1z280M23%FyytKtMucaR_JnO!38m1B:S2f2t*KaNypa4yBaRtht7Ut}87n08ax@ecOeBDQ-qnTostrh7sJA
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a01.bak contains a backup copy of this file if you need it.
+            Create your script in the file q01.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. 
+            
+            END OF QUESTION 1: This unedited file contains 320 characters.
+
+        End output of a01.txt
+
+
+        Start output of check01.txt
+            Checking for q01.sh
+                       OK - q01.sh found                                                  chxq01-A1
+            
+            Checking to see that all environment variables have been set
+                       OK - all environment variables set in q01                          chxq01-B1
+                       OK - all environment variables set in q02                          chxq01-C1
+                       OK - all environment variables set in q03                          chxq01-D1
+                       OK - all environment variables set in q04                          chxq01-E1
+                       OK - all environment variables set in q05                          chxq01-F1
+            
+
+        End output of check01.txt
+
+
+        Start output of q01.sh
+            #!/bin/bash
+            
+            rm env_mysql
+            
+            echo export MYSQLU='salesadmin' > env_mysql
+            echo export MYSQLP='Woodman123321' >> env_mysql
+            echo export REPORTS="$HOME/reports" >> env_mysql
+            echo export ARCHIVE="$HOME/archive" >> env_mysql
+            
+            for int in {2..5}
+            do
+            cd ../q0$int
+            ln -s $HOME/class/a07/q01/env_mysql env_mysql
+            done
+
+        End output of q01.sh
+
+
+        Start output of env_mysql
+            export MYSQLU=salesadmin
+            export MYSQLP=Woodman123321
+            export REPORTS=/home/n_autty/reports
+            export ARCHIVE=/home/n_autty/archive
+
+        End output of env_mysql
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            Create your script in the file q02.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. 
+            
+            END OF QUESTION 2: This unedited file contains 320 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+            Checking script q02.sh performance
+                       OK - passed test for all car sales                           chxq02-A1
+                       OK - passed test for new car sales                           chxq02-B1
+                       OK - passed test for used car sales                          chxq02-C1
+            
+
+        End output of check02.txt
+
+
+        Start output of q02.sh
+            #!/bin/bash
+            
+            yearSold=$1
+            carModel=$2
+            carType=$3
+            
+            echo "USE sales;" > q02.sql
+            
+            if [ $carType == "all" ]; then
+               echo "SELECT COUNT(*), SUM(dealer_cost), SUM(price_sold), SUM(price_list) FROM sales_$yearSold WHERE model_name='$carModel';" >> q02.sql 
+            else
+               echo "SELECT COUNT(*), SUM(dealer_cost), SUM(price_sold), SUM(price_list) FROM sales_$yearSold WHERE model_name='$carModel' AND sales_type='$carType';" >> q02.sql
+            fi
+            
+            read -a output <<< $(mysql -N -u $MYSQLU -p$MYSQLP < q02.sql 2>/dev/null) 
+            
+            echo "$yearSold ${output[0]} ${output[1]} ${output[2]} ${output[3]}"
+            
+
+        End output of q02.sh
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            Create your script in the file q03.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. 
+            
+            END OF QUESTION 3: This unedited file contains 320 characters.
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+            Checking script q03.sh performance
+                       OK - report.tmp contains all years for all, new and used car sales by model                           chxq03-A1
+                       OK - passed test for sales by model                                                                   chxq03-B1
+                       OK - passed sum rule test: Total = New + Used                                                         chxq03-C1
+                       OK - passed report fixed line length test                                                             chxq03-D1
+                       OK - passed invalid parameter test                                                                    chxq03-E1
+            
+
+        End output of check03.txt
+
+
+        Start output of q03.sh
+            #!/bin/bash
+            
+            carModel=$1
+            
+            echo "USE sales;" > q03.sql
+            
+            echo "SELECT DISTINCT(model_name) FROM sales_2010 WHERE model_name='$carModel';" >> q03.sql
+            output=$(mysql -N -u $MYSQLU -p$MYSQLP < q03.sql 2>/dev/null) 
+            
+            if [ -z $output ]; then
+               echo "Car Model Not Found"
+               if [ -f report.tmp ]; then
+                  rm report.tmp
+               fi
+               exit 1
+            fi
+            
+            if [ -f report.tmp ]; then
+               rm report.tmp
+            fi
+            
+            for type in "all" "new" "used"; do
+               for year in {2010..2015}; do
+               	salesdata=(  $( ../q02/q02.sh $year $carModel $type ) )
+            	printf "   %4s %9s %13s %13s %13s \n" ${salesdata[0]} ${salesdata[1]} ${salesdata[2]} ${salesdata[3]} ${salesdata[4]} >> report.tmp
+               done
+            done
+            
+            
+            
+            
+            
+
+        End output of q03.sh
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a04.bak contains a backup copy of this file if you need it.
+            Create your script in the file q04.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. 
+            
+            END OF QUESTION 4: This unedited file contains 320 characters.
+
+        End output of a04.txt
+
+
+        Start output of check04.txt
+            Checking script performance
+                       OK - report.tmp contains all years for all, new and used car sales by model                           chxq04-A1
+                       OK - passed test for sales by model                                                                   chxq04-B1
+                       OK - report contains fixed length output data                                                         chxq04-C1
+            
+
+        End output of check04.txt
+
+
+        Start output of q04.sh
+            #!/bin/bash
+            
+            carModel=$1
+            
+            echo "USE sales;" > q03.sql
+            
+            echo "SELECT DISTINCT(model_name) FROM sales_2010 WHERE model_name='$carModel';" >> q03.sql
+            output=$(mysql -N -u $MYSQLU -p$MYSQLP < q03.sql 2>/dev/null) 
+            
+            if [ -z $output ]; then
+               echo "Car Model Not Found"
+               if [ -f report.tmp ]; then
+                  rm report.tmp
+               fi
+               exit 1
+            fi
+            
+            if [ -f report.tmp ]; then
+               rm report.tmp
+            fi
+            
+            for type in "all" "new" "used"; do
+               for year in {2010..2015}; do
+               	salesdata=(  $( ../q02/q02.sh $year $carModel $type ) )
+            	salesYear=${salesdata[0]}
+            	numCarsSold=${salesdata[1]}
+            	totalDealerCost=${salesdata[2]}
+            	totalPriceSold=${salesdata[3]}
+            	totalListPrice=${salesdata[4]}
+            	profit=$(( totalPriceSold - totalDealerCost ))
+            	totalDiscount=$(( totalListPrice - totalPriceSold ))
+            	avgProfit=$( echo "scale=2; $totalDiscount/$numCarsSold" | bc )
+            	avgDiscount=$( echo "scale=2; $totalDiscount/$numCarsSold" | bc )
+            	printf " %4s %9s %11s %10s %10s %10s %10s %8s %9s \n" ${salesdata[0]} ${salesdata[1]} ${salesdata[2]} ${salesdata[3]} ${salesdata[4]} $profit $totalDiscount $avgProfit $avgDiscount >> report.tmp
+               done
+            done
+            
+            
+            
+            
+            
+            
+
+        End output of q04.sh
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a05.bak contains a backup copy of this file if you need it.
+            Create your script in the file q05.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. 
+            
+            END OF QUESTION 5: This unedited file contains 320 characters.
+
+        End output of a05.txt
+
+
+        Start output of check05.txt
+            Checking for reports and archived tar file - please wait
+                       OK - all reports present                                            chxq05-A1
+                       OK - models.tar file found in archive                               chxq05-B1
+                       OK - all model reports archived                                     chxq05-C1
+            
+
+        End output of check05.txt
+
+
+        Start output of q05.sh
+            #!/bin/bash
+            
+            carModel=$1
+            
+            echo "USE sales;" > q05.sql
+            
+            echo "SELECT DISTINCT(model_name) FROM sales_2010;" >> q05.sql
+            mysql -N -u $MYSQLU -p$MYSQLP < q05.sql 2>/dev/null 1>car_models.txt
+            
+            filename=car_models.txt
+            declare -a myArray
+            myArray=(`cat "$filename"`)
+            
+            if [ -f report.tmp ]; then
+               rm report.tmp
+            fi
+            
+            for carModel in ${myArray[@]}; do
+                ( 
+                    cd ../q04
+                    ./q04.sh $carModel
+                    if [ -e report.tmp ]
+                    then
+                            cp report.tmp "$REPORTS/$carModel"".txt"
+                            rm report.tmp
+                    fi
+                )
+            done
+            
+            (
+            	cd ~/reports
+            	reports=( $(ls *.txt) )
+            	tar -cf models.tar ${reports[@]}
+            	mv models.tar ~/archive
+                )
+            
+            
+            
+            
+
+        End output of q05.sh
+
+    All files found for question 5.
+END QUESTION 5
+
+    Begin summary of file submissions
+        Files needed  = 16
+        Files found   = 16
+        Files missing = 0
+    End summary of file submissions
+
+Activity 7: submission file lab07.txt completed

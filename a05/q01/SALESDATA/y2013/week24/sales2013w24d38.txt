@@ -1,0 +1,61 @@
+Dealer Name: Kaplan Honda
+Address:     1605 Nebraska Blvd
+             East Valley, FL
+Dealer ID:   38
+Owner:       Kaplan, Edward
+Date:        Mon, Jun 11, 2013 thru Sun, Jun 17, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S1405244CX9X  Civic        2013  22306  23055  Henry, Courtney         Fri, Jun 15, 2013       D38-34-05 
+ JG148F1195242AB72  Insight      2013  22182  24390  Henry, Courtney         Sun, Jun 17, 2013       D38-34-05 
+ JA1X1S12A524834X4  Accord       2013  24021  24089  Lee, Jason              Sat, Jun 16, 2013       D38-34-03 
+ JE141F1145243BC86  Crosstour    2013  36590  37640  Henry, Courtney         Sat, Jun 16, 2013       D38-34-05 
+ JB121S120524X8958  Civic        2013  15673  16455  Lee, Jason              Fri, Jun 15, 2013       D38-34-03 
+ JH15AS114524X896X  Odyssey      2013  27946  29375  Lee, Jason              Sat, Jun 16, 2013       D38-34-03 
+ JB127S1335244CXA2  Civic        2013  16810  16655  Murphy, Roger           Thu, Jun 14, 2013       D38-34-01 
+ JB127S1375244CXA4  Civic        2013  15856  16655  Alvarez, Bill           Thu, Jun 14, 2013       D38-34-02 
+ JA1X3SU22524723X6  Accord       2013  22929  25089  Rice, Ruth              Tue, Jun 12, 2013       D38-34-06 
+ JB123H154524X8968  Civic        2013  26154  27600  Alvarez, Bill           Sat, Jun 16, 2013       D38-34-02 
+ JH153FU155245X1CX  Odyssey      2013  43477  45825  Alvarez, Darrell        Mon, Jun 11, 2013       D38-34-04 
+ JC132FU17524X8972  CR-V         2013  30219  31995  Alvarez, Darrell        Wed, Jun 13, 2013       D38-34-04 
+ JB127S13552419A84  Civic        2013  16636  16655  Alvarez, Bill           Sun, Jun 17, 2013       D38-34-02 
+ JB121S12A524612X6  Civic        2013  15331  16455  Alvarez, Bill           Tue, Jun 12, 2013       D38-34-02 
+ JB127S1315245X1C8  Civic        2013  15683  16655  Murphy, Roger           Mon, Jun 11, 2013       D38-34-01 
+ JB129S1455248343X  Civic        2013  22899  23055  Henry, Courtney         Sun, Jun 17, 2013       D38-34-05 
+ JC131F1135245X1X2  CR-V         2013  28661  30995  Henry, Courtney         Thu, Jun 14, 2013       D38-34-05 
+ JA112F1375243BCB4  Accord       2013  30580  32930  Henry, Courtney         Wed, Jun 13, 2013       D38-34-05 
+ JH156S3125243BCB6  Odyssey      2013  29031  30375  Murphy, Roger           Fri, Jun 15, 2013       D38-34-01 
+ JA113SU325243BCB8  Accord       2013  21739  23480  Henry, Courtney         Sat, Jun 16, 2013       D38-34-05 
+ JC132FU125248344X  CR-V         2013  31526  31995  Alvarez, Bill           Thu, Jun 14, 2013       D38-34-02 
+ JB121S12152419AA2  Civic        2013  16187  16455  Henry, Courtney         Tue, Jun 12, 2013       D38-34-05 
+ JB123H15352461224  Civic        2013  27002  27600  Alvarez, Bill           Mon, Jun 11, 2013       D38-34-02 
+ JE144F31352483446  Crosstour    2013  34793  38640  Alvarez, Bill           Tue, Jun 12, 2013       D38-34-02 
+ JD136F1175244CXX8  CR-Z         2013  22968  24705  Alvarez, Bill           Wed, Jun 13, 2013       D38-34-02 
+ JH156S3115247234X  Odyssey      2013  27789  30375  Murphy, Roger           Fri, Jun 15, 2013       D38-34-01 
+ JC135F4155244CX12  CR-V         2013  35992  39995  Henry, Courtney         Wed, Jun 13, 2013       D38-34-05 
+ JH153FU1A5242ABC4  Odyssey      2013  45105  45825  Alvarez, Bill           Tue, Jun 12, 2013       D38-34-02 
+ JG148F11A52419AB6  Insight      2013  23185  24390  Henry, Courtney         Thu, Jun 14, 2013       D38-34-05 
+ JB127S1365243BCX8  Civic        2013  16810  16655  Henry, Courtney         Thu, Jun 14, 2013       D38-34-05 
+ JH151F1145244C15X  Odyssey      2013  43225  44825  Lee, Jason              Wed, Jun 13, 2013       D38-34-03 
+ JC131F1135243BX42  CR-V         2013  28344  30995  Alvarez, Darrell        Thu, Jun 14, 2013       D38-34-04 
+ JB127S1385242AC34  Civic        2013  16116  16655  Murphy, Roger           Fri, Jun 15, 2013       D38-34-01 
+ JD136F1155243BX46  CR-Z         2013  23857  24705  Alvarez, Bill           Sat, Jun 16, 2013       D38-34-02 
+ JH152SU12524X8A18  Odyssey      2013  28876  30375  Alvarez, Darrell        Sat, Jun 16, 2013       D38-34-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU1412P2A667  Odyssey     2009  28411  45825  Henry, Courtney         Mon, Jun 11, 2013       D38-34-05 
+ JB121S12832P2A669  Civic       2011  12408  16455  Henry, Courtney         Sat, Jun 16, 2013       D38-34-05 
+ JB127S13221P83CX1  Civic       2010  11107  16655  Alvarez, Darrell        Sun, Jun 17, 2013       D38-34-04 
+ JE142FU1823P2A673  Crosstour   2010  25573  38640  Murphy, Roger           Fri, Jun 15, 2013       D38-34-01 
+ JB127S1312322A675  Civic       2010  11107  16655  Henry, Courtney         Sun, Jun 17, 2013       D38-34-05 
+ JD138FU192152A677  CR-Z        2010  17875  27705  Lee, Jason              Tue, Jun 12, 2013       D38-34-03 
+ JH154SU1721P4C899  Odyssey     2010  20864  32375  Lee, Jason              Sat, Jun 16, 2013       D38-34-03 
+ JJ164F4123133B791  Pilot       2011  39182  53970  Rice, Ruth              Sat, Jun 16, 2013       D38-34-06 
+ JA1X7S32014883C13  Accord      2009  15555  25089  Rice, Ruth              Sat, Jun 16, 2013       D38-34-06 
+ JH154SU14118X8465  Odyssey     2009  19425  32375  Rice, Ruth              Mon, Jun 11, 2013       D38-34-06 
+ JK166FU19144X8467  Ridgeline   2009  28650  47750  Alvarez, Darrell        Sun, Jun 17, 2013       D38-34-04 

@@ -1,0 +1,6 @@
+Checking script behavior under different conditions
+           OK - Reading filename                                                   chxq08-A1
+           OK - Existence Check                                                    chxq08-B1
+           OK - Output Check                                                       chxq08-C1
+           OK - Graceful exit                                                      chxq08-D1
+

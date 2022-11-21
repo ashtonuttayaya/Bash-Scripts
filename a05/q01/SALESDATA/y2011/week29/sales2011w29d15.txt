@@ -1,0 +1,59 @@
+Dealer Name: Olson Honda
+Address:     3074 Davison Highway
+             Norbert, FL
+Dealer ID:   15
+Owner:       Olson, Howard
+Date:        Fri, Jul 16, 2011 thru Thu, Jul 22, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X3SU2232982336  Accord       2011  22782  25089  Woods, Tommy            Sun, Jul 18, 2011       D15-14-02 
+ JB121S1263296X118  Civic        2011  15345  16455  Elliott, Jacqueline     Fri, Jul 16, 2011       D15-14-01 
+ JH152SU193296X12X  Odyssey      2011  27540  30375  Woods, Tommy            Sun, Jul 18, 2011       D15-14-02 
+ JJ161FU10329189A2  Pilot        2011  39955  42970  Gardner, Joan           Thu, Jul 22, 2011       D15-14-09 
+ JF146S11232929AB4  Fit          2011  15762  16025  Woods, Tommy            Thu, Jul 22, 2011       D15-14-02 
+ JB125G16A329X7896  Civic        2011  27006  28505  Hall, Willie            Wed, Jul 21, 2011       D15-14-08 
+ JD136F11732982348  CR-Z         2011  22686  24705  Hall, Willie            Mon, Jul 19, 2011       D15-14-08 
+ JA1X2F1263295CX2X  Accord       2011  29596  33030  Hall, Willie            Sat, Jul 17, 2011       D15-14-08 
+ JB127S135329189B2  Civic        2011  15023  16655  Hall, Willie            Thu, Jul 22, 2011       D15-14-08 
+ JH15AS1183293ABX4  Odyssey      2011  27527  29375  Ramos, Maxine           Wed, Jul 21, 2011       D15-14-05 
+ JA1X9S424329X78A6  Accord       2011  32148  33089  Elliott, Jacqueline     Mon, Jul 19, 2011       D15-14-01 
+ JB123H156329189B8  Civic        2011  25042  27600  Hall, Willie            Sun, Jul 18, 2011       D15-14-08 
+ JK166FU1432929B3X  Ridgeline    2011  45816  47750  Ramos, Maxine           Wed, Jul 21, 2011       D15-14-05 
+ JB129S14732971382  Civic        2011  22232  23055  Gardner, Joan           Thu, Jul 22, 2011       D15-14-09 
+ JA1X1S12132929B34  Accord       2011  21761  24089  Murphy, Kelly           Thu, Jul 22, 2011       D15-14-07 
+ JK167FU193294BX56  Ridgeline    2011  44477  49750  Hall, Willie            Sun, Jul 18, 2011       D15-14-08 
+ JA1X5SU2932929B38  Accord       2011  24309  27089  Shelton, Monica         Mon, Jul 19, 2011       D15-14-06 
+ JG148F1153296X28X  Insight      2011  22891  24390  Bowman, Joan            Mon, Jul 19, 2011       D15-14-03 
+ JB121S124329824A2  Civic        2011  15929  16455  Ramos, Maxine           Fri, Jul 16, 2011       D15-14-05 
+ JG148F11A3295C174  Insight      2011  23507  24390  Bowman, Joan            Sat, Jul 17, 2011       D15-14-03 
+ JK167FU143293AC56  Ridgeline    2011  46976  49750  Ramos, Maxine           Thu, Jul 22, 2011       D15-14-05 
+ JC131F116329X7928  CR-V         2011  29659  30995  Murphy, Kelly           Sun, Jul 18, 2011       D15-14-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F112W46X7697  CR-V        2006  27288  30995  Woods, Tommy            Wed, Jul 21, 2011       D15-14-02 
+ JH153FU101X982149  Odyssey     2009  33635  45825  Gonzales, Natalie       Sat, Jul 17, 2011       D15-14-04 
+ JD136F114W393A9X1  CR-Z        2006  12615  24705  Woods, Tommy            Mon, Jul 19, 2011       D15-14-02 
+ JH151F114Y426XC33  Odyssey     2008  28544  44825  Ramos, Maxine           Fri, Jul 16, 2011       D15-14-05 
+ JJ161FU13143X76A5  Pilot       2009  30336  42970  Elliott, Jacqueline     Wed, Jul 21, 2011       D15-14-01 
+ JH152SU14Y33298C7  Odyssey     2008  19838  30375  Bowman, Joan            Wed, Jul 21, 2011       D15-14-03 
+ JH156S312YX5298C9  Odyssey     2008  19296  30375  Murphy, Kelly           Mon, Jul 19, 2011       D15-14-07 
+ JB127S13A1X45CC61  Civic       2009  12224  16655  Gardner, Joan           Thu, Jul 22, 2011       D15-14-09 
+ JJ162FU1721629933  Pilot       2010  36607  44970  Gonzales, Natalie       Sun, Jul 18, 2011       D15-14-04 
+ JE145F417Y4871185  Crosstour   2008  30541  46640  Gardner, Joan           Fri, Jul 16, 2011       D15-14-09 
+ JH152SU1AW124BB57  Odyssey     2006  15592  30375  Hall, Willie            Wed, Jul 21, 2011       D15-14-08 
+ JK167FU19W493AA49  Ridgeline   2006  25764  49750  Gonzales, Natalie       Sat, Jul 17, 2011       D15-14-04 
+ JG148F112Y1PX7721  Insight     2008  15900  24390  Bowman, Joan            Wed, Jul 21, 2011       D15-14-03 
+ JB127S13211918833  Civic       2009  12224  16655  Elliott, Jacqueline     Fri, Jul 16, 2011       D15-14-01 
+ JB121S122Y426XX85  Civic       2008  10679  16455  Shelton, Monica         Tue, Jul 20, 2011       D15-14-06 
+ JB127S135X39X7727  Civic       2007  10047  16655  Murphy, Kelly           Sat, Jul 17, 2011       D15-14-07 
+ JD138FU19Y29X7729  CR-Z        2008  17587  27705  Hall, Willie            Tue, Jul 20, 2011       D15-14-08 
+ JB13ASU48Y3718841  Civic       2008  15123  23855  Gonzales, Natalie       Wed, Jul 21, 2011       D15-14-04 
+ JB123H150218822B3  Civic       2010  22538  27600  Hall, Willie            Sat, Jul 17, 2011       D15-14-08 
+ JH153FU11Y394BB75  Odyssey     2008  29184  45825  Hall, Willie            Thu, Jul 22, 2011       D15-14-08 
+ JG148F1191295CC87  Insight     2009  17560  24390  Elliott, Jacqueline     Mon, Jul 19, 2011       D15-14-01 
+ JC132FU162115CC89  CR-V        2010  28998  31995  Murphy, Kelly           Thu, Jul 22, 2011       D15-14-07 

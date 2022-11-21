@@ -1,0 +1,46 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Fri, Dec 24, 2011 thru Fri, Dec 31, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S129352X7314  Civic        2011  15178  16455  Russell, Connie         Thu, Dec 30, 2011       D01-01-01 
+ JB13ASU433525C866  Civic        2011  22876  23855  King, Michelle          Sat, Dec 25, 2011       D01-01-03 
+ JB121S1293525C868  Civic        2011  15345  16455  Wood, Lloyd             Fri, Dec 24, 2011       D01-01-04 
+ JJ161FU163523A65X  Pilot        2011  41035  42970  Jennings, Terry         Thu, Dec 30, 2011       D01-01-02 
+ JG148F11235282BA2  Insight      2011  23507  24390  Russell, Connie         Tue, Dec 28, 2011       D01-01-01 
+ JB121S1243525C874  Civic        2011  15512  16455  Harper, Freddie         Sun, Dec 26, 2011       D01-01-05 
+ JB121S125352X7326  Civic        2011  15512  16455  Ryan, Margie            Tue, Dec 28, 2011       D01-01-06 
+ JA111S13135229548  Accord       2011  21229  22480  Harper, Freddie         Tue, Dec 28, 2011       D01-01-05 
+ JA111S1303526X99X  Accord       2011  20093  22480  Wood, Lloyd             Fri, Dec 24, 2011       D01-01-04 
+ JH15AS11335271AA2  Odyssey      2011  26788  29375  King, Michelle          Thu, Dec 30, 2011       D01-01-03 
+ JA1X3SU263526X994  Accord       2011  23668  25089  King, Michelle          Tue, Dec 28, 2011       D01-01-03 
+ JA117S33635229556  Accord       2011  22164  23480  Ryan, Margie            Fri, Dec 24, 2011       D01-01-06 
+ JH151F1183525C888  Odyssey      2011  43022  44825  Harper, Freddie         Mon, Dec 27, 2011       D01-01-05 
+ JB121S1203521845X  Civic        2011  15512  16455  Jennings, Terry         Sat, Dec 25, 2011       D01-01-02 
+ JB121S1213526X9A2  Civic        2011  15679  16455  Russell, Connie         Sun, Dec 26, 2011       D01-01-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JK167FU1A12P18425  Ridgeline   2009  36516  49750  Jennings, Terry         Fri, Dec 24, 2011       D01-01-02 
+ JG148F115Y1371A87  Insight     2008  15465  24390  Ryan, Margie            Wed, Dec 29, 2011       D01-01-06 
+ JJ161FU15Y235C869  Pilot       2008  27356  42970  Jennings, Terry         Wed, Dec 29, 2011       D01-01-02 
+ JB123H153Y4871A91  Civic       2008  18012  27600  Harper, Freddie         Thu, Dec 30, 2011       D01-01-05 
+ JB121S127W423A653  Civic       2006  8284   16455  Harper, Freddie         Sun, Dec 26, 2011       D01-01-05 
+ JE142FU19V495C875  Crosstour   2005  16228  38640  Russell, Connie         Mon, Dec 27, 2011       D01-01-01 
+ JJ162FU15Y464B767  Pilot       2008  29442  44970  Russell, Connie         Tue, Dec 28, 2011       D01-01-01 
+ JD136F116YX43A659  CR-Z        2008  16107  24705  Jennings, Terry         Wed, Dec 29, 2011       D01-01-02 
+ JJ161FU1222318441  Pilot       2010  34556  42970  Harper, Freddie         Thu, Dec 30, 2011       D01-01-05 
+ JC131F119Y164B773  CR-V        2008  19692  30995  Wood, Lloyd             Tue, Dec 28, 2011       D01-01-04 
+ JH151F119Y454B775  Odyssey     2008  28544  44825  Harper, Freddie         Sun, Dec 26, 2011       D01-01-05 
+ JC132FU1A22871AA7  CR-V        2010  25776  31995  Russell, Connie         Mon, Dec 27, 2011       D01-01-01 
+ JB129S1423435C889  Civic        2011  21272  23055  Wood, Lloyd             Fri, Dec 24, 2011       D01-01-04 
+ JC134F31814382BC1  CR-V        2009  23484  31995  Ryan, Margie            Wed, Dec 29, 2011       D01-01-06 
+ JA111S138Y196X9A3  Accord      2008  14643  22480  Wood, Lloyd             Wed, Dec 29, 2011       D01-01-04 
+ JH154SU18XX829565  Odyssey     2007  18516  32375  Jennings, Terry         Wed, Dec 29, 2011       D01-01-02 

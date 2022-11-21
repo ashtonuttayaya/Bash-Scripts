@@ -1,0 +1,59 @@
+Dealer Name: Olson Honda
+Address:     3074 Davison Highway
+             Norbert, FL
+Dealer ID:   15
+Owner:       Olson, Howard
+Date:        Mon, Dec  3, 2013 thru Sun, Dec  9, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S13A5495C284  Civic        2013  16030  16655  Shelton, Monica         Thu, Dec  6, 2013       D15-14-06 
+ JE144F319549X7A36  Crosstour    2013  35383  38640  Bowman, Joan            Fri, Dec  7, 2013       D15-14-03 
+ JJ161FU1554918B48  Pilot        2013  41462  42970  Gardner, Joan           Thu, Dec  6, 2013       D15-14-09 
+ JE142FU1654918B5X  Crosstour    2013  36366  38640  Gonzales, Natalie       Sat, Dec  8, 2013       D15-14-04 
+ JB121S12854918B52  Civic        2013  15588  16455  Elliott, Jacqueline     Sat, Dec  8, 2013       D15-14-01 
+ JG148F111549X7A44  Insight      2013  22934  24390  Hall, Willie            Sun, Dec  9, 2013       D15-14-08 
+ JB127S138549X7A46  Civic        2013  15597  16655  Shelton, Monica         Tue, Dec  4, 2013       D15-14-06 
+ JB127S13654929C68  Civic        2013  15597  16655  Gardner, Joan           Sun, Dec  9, 2013       D15-14-09 
+ JD138FU125493AX8X  CR-Z         2013  26109  27705  Gardner, Joan           Mon, Dec  3, 2013       D15-14-09 
+ JH154SU1A54918B62  Odyssey      2013  31728  32375  Gonzales, Natalie       Fri, Dec  7, 2013       D15-14-04 
+ JB127S13554918B64  Civic        2013  16203  16655  Gardner, Joan           Sun, Dec  9, 2013       D15-14-09 
+ JB129S14554918B66  Civic        2013  22424  23055  Gardner, Joan           Mon, Dec  3, 2013       D15-14-09 
+ JH152SU18549825X8  Odyssey      2013  28566  30375  Hall, Willie            Mon, Dec  3, 2013       D15-14-08 
+ JA113SU325494B1AX  Accord       2013  23068  23480  Elliott, Jacqueline     Thu, Dec  6, 2013       D15-14-01 
+ JA111S1345493AX92  Accord       2013  20607  22480  Gonzales, Natalie       Tue, Dec  4, 2013       D15-14-04 
+ JC131F1155496X3C4  CR-V         2013  29611  30995  Hall, Willie            Fri, Dec  7, 2013       D15-14-08 
+ JB121S12054918B76  Civic        2013  16187  16455  Ramos, Maxine           Wed, Dec  5, 2013       D15-14-05 
+ JG148F11254918B78  Insight      2013  22809  24390  Murphy, Kelly           Fri, Dec  7, 2013       D15-14-07 
+ JB127S13A5496X3XX  Civic        2013  15770  16655  Gonzales, Natalie       Thu, Dec  6, 2013       D15-14-04 
+ JD136F11954982522  CR-Z         2013  23095  24705  Shelton, Monica         Sun, Dec  9, 2013       D15-14-06 
+ JH152SU1054971414  Odyssey      2013  29652  30375  Shelton, Monica         Thu, Dec  6, 2013       D15-14-06 
+ JB121S1295495C2C6  Civic        2013  15845  16455  Ramos, Maxine           Wed, Dec  5, 2013       D15-14-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU1A2X94BAB3  CR-V        2010  22516  33995  Bowman, Joan            Sun, Dec  9, 2013       D15-14-03 
+ JH154SU14Y1982125  Odyssey     2008  16075  32375  Bowman, Joan            Sat, Dec  8, 2013       D15-14-03 
+ JC131F1105X34BAB7  CR-V         2013  28864  30995  Hall, Willie            Thu, Dec  6, 2013       D15-14-08 
+ JB127S1302495CBC9  Civic       2010  10803  16655  Bowman, Joan            Wed, Dec  5, 2013       D15-14-03 
+ JK166FU162X471X21  Ridgeline   2010  31567  47750  Gardner, Joan           Thu, Dec  6, 2013       D15-14-09 
+ JC131F11813882133  CR-V        2009  19216  30995  Gonzales, Natalie       Sun, Dec  9, 2013       D15-14-04 
+ JH152SU15236298A5  Odyssey     2010  20134  30375  Shelton, Monica         Mon, Dec  3, 2013       D15-14-06 
+ JB129S1471256XC17  Civic       2009  14294  23055  Gardner, Joan           Tue, Dec  4, 2013       D15-14-09 
+ JG148F11511182139  Insight     2009  15121  24390  Murphy, Kelly           Thu, Dec  6, 2013       D15-14-07 
+ JH152SU11116187A1  Odyssey     2009  18832  30375  Ramos, Maxine           Mon, Dec  3, 2013       D15-14-05 
+ JB121S124243187A3  Civic       2010  10975  16455  Hall, Willie            Fri, Dec  7, 2013       D15-14-08 
+ JG148F1104285CB15  Insight     2012  20302  24390  Hall, Willie            Fri, Dec  7, 2013       D15-14-08 
+ JG148F1101135CB17  Insight     2009  14634  24390  Bowman, Joan            Mon, Dec  3, 2013       D15-14-03 
+ JK166FU141184BAX9  Ridgeline   2009  28650  47750  Hall, Willie            Wed, Dec  5, 2013       D15-14-08 
+ JE142FU1721682151  Crosstour   2010  25573  38640  Gardner, Joan           Sun, Dec  9, 2013       D15-14-09 
+ JB121S1252253A9X3  Civic       2010  10975  16455  Hall, Willie            Thu, Dec  6, 2013       D15-14-08 
+ JG148F11A2X63A9X5  Insight     2010  15753  24390  Elliott, Jacqueline     Sat, Dec  8, 2013       D15-14-01 
+ JH153FU1914682157  Odyssey     2009  28411  45825  Gardner, Joan           Mon, Dec  3, 2013       D15-14-09 
+ JE141F11A2155CB29  Crosstour   2010  24233  37640  Ramos, Maxine           Sat, Dec  8, 2013       D15-14-05 
+ JK166FU162193AA41  Ridgeline   2010  43417  47750  Bowman, Joan            Thu, Dec  6, 2013       D15-14-03 
+ JH157F3161X429933  Odyssey     2009  27495  45825  Hall, Willie            Fri, Dec  7, 2013       D15-14-08 
+ JG148F11821P71185  Insight     2010  15753  24390  Shelton, Monica         Wed, Dec  5, 2013       D15-14-06 

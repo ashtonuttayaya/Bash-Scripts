@@ -1,0 +1,8 @@
+Checking output file
+           OK - cmovies.txt exists                                   chxq05-A1
+
+Checking for any remaining tags or blank lines
+           OK - Count of remaining tags                              chxq05-B1
+           OK - Number of lines                                      chxq05-C1
+           OK - Comparison with movies.txt                           chxq05-D1
+

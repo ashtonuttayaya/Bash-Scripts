@@ -1,0 +1,32 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Wed, Apr 23, 2015 thru Tue, Apr 29, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12671718684  Civic        2015  15558  16455  Lynch, Christian        Tue, Apr 29, 2015       D05-05-02 
+ JC131F1187176XBX6  CR-V         2015  29711  30995  Marshall, Donna         Sat, Apr 26, 2015       D05-05-05 
+ JB123H15071729798  Civic        2015  27288  27600  Brooks, Herman          Mon, Apr 28, 2015       D05-05-01 
+ JB121S126717297AX  Civic        2015  15646  16455  Foster, Leona           Mon, Apr 28, 2015       D05-05-07 
+ JA111S13A7176XB12  Accord       2015  21716  22480  Foster, Leona           Mon, Apr 28, 2015       D05-05-07 
+ JA1X1S1297174B9C4  Accord       2015  22566  24089  Snyder, Norma           Tue, Apr 29, 2015       D05-05-04 
+ JH156S319717X7586  Odyssey      2015  27720  30375  Marshall, Donna         Sat, Apr 26, 2015       D05-05-05 
+ JC133FU13717297A8  CR-V         2015  32837  33995  Foster, Leona           Thu, Apr 24, 2015       D05-05-07 
+ JB127S13971771C3X  Civic        2015  16268  16655  Foster, Leona           Thu, Apr 24, 2015       D05-05-07 
+ JC135F412717X7592  CR-V         2015  39269  39995  Neal, Douglas           Fri, Apr 25, 2015       D05-05-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F110424296B9  Insight     2004  16041  24390  Foster, Leona           Thu, Apr 24, 2015       D05-05-07 
+ JB121S121315296C1  Civic       2003  10481  16455  Ford, Roger             Wed, Apr 23, 2015       D05-05-08 
+ JH155FU11436185B3  Odyssey     2004  30167  47825  Lynch, Christian        Tue, Apr 29, 2015       D05-05-02 
+ JH152SU1224782C55  Odyssey     2002  15300  30375  Ford, Roger             Fri, Apr 25, 2015       D05-05-08 
+ JC131F1132216XA37  CR-V        2002  15610  30995  Foster, Leona           Thu, Apr 24, 2015       D05-05-07 
+ JH153FU1634P71B49  Odyssey     2003  26839  45825  Foster, Leona           Thu, Apr 24, 2015       D05-05-07 
+ JH153FU185113A841  Odyssey     2005  42052  45825  Neal, Douglas           Sun, Apr 27, 2015       D05-05-06 

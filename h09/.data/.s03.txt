@@ -1,0 +1,8 @@
+Checking report generation
+           OK - Reports created and right length                           chxq03-A1
+           OK - Report lines are fixed length                              chxq03-B1
+           OK - Reports contain correct values                             chxq03-C1
+
+Checking error processing
+           OK - Invalid or missing directory                               chxq03-D1
+

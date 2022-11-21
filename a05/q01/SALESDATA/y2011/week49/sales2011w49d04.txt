@@ -1,0 +1,62 @@
+Dealer Name: Wallace Honda
+Address:     2132 Tupelo Road
+             Clarksville, NC
+Dealer ID:   4
+Owner:       Wallace, Patrick
+Date:        Fri, Dec  3, 2011 thru Thu, Dec  9, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA12AF43A3494B882  Accord       2011  39625  41930  Russell, Jerry          Wed, Dec  8, 2011       D04-04-03 
+ JA1X1S1273495C994  Accord       2011  22247  24089  Campbell, Jeanne        Mon, Dec  6, 2011       D04-04-02 
+ JB128SU3634929666  Civic        2011  16796  17455  Miller, Julian          Sat, Dec  4, 2011       D04-04-04 
+ JB122SU243493A778  Civic        2011  16343  17255  Miller, Julian          Wed, Dec  8, 2011       D04-04-04 
+ JA1X5SU293494B89X  Accord       2011  26494  27089  Pena, Elaine            Mon, Dec  6, 2011       D04-04-05 
+ JA1X1S1213495C9A2  Accord       2011  22612  24089  Dixon, Patsy            Thu, Dec  9, 2011       D04-04-07 
+ JA1X5SU27349X7454  Accord       2011  24172  27089  Pena, Elaine            Fri, Dec  3, 2011       D04-04-05 
+ JD136F1113493A786  CR-Z         2011  22063  24705  Miller, Julian          Sat, Dec  4, 2011       D04-04-04 
+ JA1X5SU223495C9A8  Accord       2011  25675  27089  Campbell, Jeanne        Wed, Dec  8, 2011       D04-04-02 
+ JD136F1183494B8AX  CR-Z         2011  22810  24705  Miller, Julian          Wed, Dec  8, 2011       D04-04-04 
+ JH156S3123495C9B2  Odyssey      2011  29223  30375  Richards, Angela        Fri, Dec  3, 2011       D04-04-06 
+ JA111S1333494B8A4  Accord       2011  21002  22480  Lucas, Carl             Wed, Dec  8, 2011       D04-04-01 
+ JA1X1S1213495C9B6  Accord       2011  22612  24089  Pena, Elaine            Sun, Dec  5, 2011       D04-04-05 
+ JH153FU193494B8A8  Odyssey      2011  42366  45825  Miller, Julian          Mon, Dec  6, 2011       D04-04-04 
+ JB122SU223494B8BX  Civic        2011  15644  17255  Richards, Angela        Mon, Dec  6, 2011       D04-04-06 
+ JC133FU1334982C22  CR-V         2011  31140  33995  Wilson, Chad            Thu, Dec  9, 2011       D04-04-08 
+ JJ161FU15349X7474  Pilot        2011  41899  42970  Russell, Jerry          Wed, Dec  8, 2011       D04-04-03 
+ JB127S13534929696  Civic        2011  15782  16655  Wilson, Chad            Sun, Dec  5, 2011       D04-04-08 
+ JH151F1153495C9C8  Odyssey      2011  43022  44825  Lucas, Carl             Sat, Dec  4, 2011       D04-04-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU18X2171B95  Odyssey     2007  18553  30375  Dixon, Patsy            Sun, Dec  5, 2011       D04-04-07 
+ JH157F3132185C977  Odyssey     2010  36840  45825  Miller, Julian          Sat, Dec  4, 2011       D04-04-04 
+ JD137FU1AYX13A759  CR-Z        2008  16765  25705  Miller, Julian          Sat, Dec  4, 2011       D04-04-04 
+ JH159F411Y523A761  Odyssey     2008  35205  56825  Pena, Elaine            Tue, Dec  7, 2011       D04-04-05 
+ JD138FU12X4418543  CR-Z        2007  16898  27705  Lucas, Carl             Fri, Dec  3, 2011       D04-04-01 
+ JH155FU18Y374B875  Odyssey     2008  31320  47825  Richards, Angela        Wed, Dec  8, 2011       D04-04-06 
+ JB129S1432X282CB7  Civic       2010  18856  23055  Richards, Angela        Sat, Dec  4, 2011       D04-04-06 
+ JA115SU341425C989  Accord      2009  18702  25480  Miller, Julian          Wed, Dec  8, 2011       D04-04-04 
+ JH151F116Y145C991  Odyssey     2008  29346  44825  Wilson, Chad            Wed, Dec  8, 2011       D04-04-08 
+ JH151F110X184B883  Odyssey     2007  26625  44825  Campbell, Jeanne        Sun, Dec  5, 2011       D04-04-02 
+ JC135F412Y3418555  CR-V        2008  26168  39995  Russell, Jerry          Tue, Dec  7, 2011       D04-04-03 
+ JB127S13022529667  Civic       2010  13672  16655  Pena, Elaine            Sun, Dec  5, 2011       D04-04-05 
+ JH15AS111Y426XAA9  Odyssey     2008  19180  29375  Richards, Angela        Sun, Dec  5, 2011       D04-04-06 
+ JB123H1591465C9A1  Civic       2009  20258  27600  Pena, Elaine            Sat, Dec  4, 2011       D04-04-05 
+ JD136F118Y5182CX3  CR-Z        2008  16107  24705  Campbell, Jeanne        Sat, Dec  4, 2011       D04-04-02 
+ JG148F1191213A785  Insight     2009  17902  24390  Pena, Elaine            Sat, Dec  4, 2011       D04-04-05 
+ JH159F418Y3229677  Odyssey     2008  36224  56825  Lucas, Carl             Sun, Dec  5, 2011       D04-04-01 
+ JK166FU15X2P4B899  Ridgeline   2007  28380  47750  Miller, Julian          Tue, Dec  7, 2011       D04-04-04 
+ JJ164F41612P4B8A1  Pilot       2009  39613  53970  Pena, Elaine            Wed, Dec  8, 2011       D04-04-05 
+ JC133FU17Y486XAC3  CR-V        2008  22220  33995  Campbell, Jeanne        Fri, Dec  3, 2011       D04-04-02 
+ JB122SU26Y296XAC5  Civic       2008  11205  17255  Lucas, Carl             Thu, Dec  9, 2011       D04-04-01 
+ JB121S121V3271BX7  Civic       2005  6688   16455  Dixon, Patsy            Sun, Dec  5, 2011       D04-04-07 
+ JB127S130W2171BX9  Civic       2006  8389   16655  Richards, Angela        Thu, Dec  9, 2011       D04-04-06 
+ JJ161FU1921529691  Pilot       2010  34987  42970  Miller, Julian          Sun, Dec  5, 2011       D04-04-04 
+ JB121S125X144B8B3  Civic       2007  9923   16455  Lucas, Carl             Sun, Dec  5, 2011       D04-04-01 
+ JB122SU22W2P18585  Civic       2006  8704   17255  Lucas, Carl             Mon, Dec  6, 2011       D04-04-01 
+ JK166FU18V2P6XAX7  Ridgeline   2005  17334  47750  Richards, Angela        Sat, Dec  4, 2011       D04-04-06 
+ JH152SU17YX24B8B9  Odyssey     2008  27285  30375  Wilson, Chad            Tue, Dec  7, 2011       D04-04-08 

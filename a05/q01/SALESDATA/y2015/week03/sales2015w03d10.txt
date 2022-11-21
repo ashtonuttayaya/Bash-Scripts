@@ -1,0 +1,67 @@
+Dealer Name: Walker Honda
+Address:     1240 Harrison Ave
+             Port Kiln, SC
+Dealer ID:   10
+Owner:       Walker, Shelly
+Date:        Wed, Jan 15, 2015 thru Tue, Jan 21, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S1347X329A98  Accord       2015  22188  22480  Alvarez, David          Thu, Jan 16, 2015       D10-07-06 
+ JA1X7S3267X34BCCX  Accord       2015  24379  25089  Ross, Darren            Tue, Jan 21, 2015       D10-07-05 
+ JA114FU367X371222  Accord       2015  30848  33930  Alvarez, David          Thu, Jan 16, 2015       D10-07-06 
+ JA1X5SU247X318994  Accord       2015  26097  27089  Fields, Roland          Fri, Jan 17, 2015       D10-07-02 
+ JB121S1287X35CXX6  Civic        2015  15734  16455  Fields, Roland          Sun, Jan 19, 2015       D10-07-02 
+ JA1X2F1267X318998  Accord       2015  31764  33030  Gardner, Salvador       Mon, Jan 20, 2015       D10-07-03 
+ JE141F1117X3189AX  Crosstour    2015  34307  37640  Ross, Darren            Mon, Jan 20, 2015       D10-07-05 
+ JE142FU127X371232  Crosstour    2015  36384  38640  Ross, Darren            Sun, Jan 19, 2015       D10-07-05 
+ JB127S1337X3X7894  Civic        2015  16179  16655  Marshall, Allan         Tue, Jan 21, 2015       D10-07-01 
+ JH153FU127X36X126  Odyssey      2015  41785  45825  Gardner, Salvador       Sat, Jan 18, 2015       D10-07-03 
+ JK165F1197X371238  Ridgeline    2015  43566  46750  Wright, Emma            Fri, Jan 17, 2015       D10-07-04 
+ JA111S1397X36X13X  Accord       2015  22660  22480  Ross, Darren            Wed, Jan 15, 2015       D10-07-05 
+ JB123H1587X35CX22  Civic        2015  25708  27600  Gardner, Salvador       Wed, Jan 15, 2015       D10-07-03 
+ JB121S1297X3189B4  Civic        2015  16437  16455  Marshall, Allan         Tue, Jan 21, 2015       D10-07-01 
+ JB125G1687X371246  Civic        2015  27111  28505  Ross, Darren            Sun, Jan 19, 2015       D10-07-05 
+ JA113SU397X3X78A8  Accord       2015  23005  23480  Gardner, Salvador       Thu, Jan 16, 2015       D10-07-03 
+ JB127S1367X35C16X  Civic        2015  15913  16655  Gardner, Salvador       Mon, Jan 20, 2015       D10-07-03 
+ JB129S1437X36X272  Civic        2015  22003  23055  Gardner, Salvador       Sun, Jan 19, 2015       D10-07-03 
+ JB127S1307X35C164  Civic        2015  15824  16655  Fields, Roland          Thu, Jan 16, 2015       D10-07-02 
+ JC132FU157X35C166  CR-V         2015  30304  31995  Wright, Emma            Fri, Jan 17, 2015       D10-07-04 
+ JC131F1147X3X7918  CR-V         2015  30353  30995  Gardner, Salvador       Wed, Jan 15, 2015       D10-07-03 
+ JA1X1S1247X35C17X  Accord       2015  23827  24089  Wright, Emma            Sun, Jan 19, 2015       D10-07-04 
+ JD138FU137X3X7922  CR-Z         2015  27388  27705  Alvarez, David          Wed, Jan 15, 2015       D10-07-06 
+ JB129S1467X3824A4  Civic        2015  21399  23055  Marshall, Allan         Mon, Jan 20, 2015       D10-07-01 
+ JH151F11A7X318A36  Odyssey      2015  43193  44825  Ross, Darren            Sat, Jan 18, 2015       D10-07-05 
+ JJ163F3147X318A38  Pilot        2015  39244  42970  Gardner, Salvador       Sat, Jan 18, 2015       D10-07-03 
+ JA111S1357X3824BX  Accord       2015  21716  22480  Ross, Darren            Thu, Jan 16, 2015       D10-07-05 
+ JB129S1497X318A42  Civic        2015  22366  23055  Ross, Darren            Sat, Jan 18, 2015       D10-07-05 
+ JB129S1477X3X7934  Civic        2015  22245  23055  Wright, Emma            Tue, Jan 21, 2015       D10-07-04 
+ JB121S1287X34BX76  Civic        2015  16788  16455  Alvarez, David          Fri, Jan 17, 2015       D10-07-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH159F4101X95C927  Odyssey     2001  22730  56825  Marshall, Allan         Thu, Jan 16, 2015       D10-07-01 
+ JH151F11045P4B819  Odyssey     2004  40950  44825  Marshall, Allan         Sat, Jan 18, 2015       D10-07-01 
+ JH157F31164482X91  Odyssey     2006  37090  45825  Ross, Darren            Mon, Jan 20, 2015       D10-07-05 
+ JC131F1123445CA63  CR-V        2003  18867  30995  Gardner, Salvador       Tue, Jan 21, 2015       D10-07-03 
+ JE143FU183373A845  Crosstour   2003  24654  40640  Fields, Roland          Sat, Jan 18, 2015       D10-07-02 
+ JE144F3124214B957  Crosstour   2004  25869  38640  Wright, Emma            Mon, Jan 20, 2015       D10-07-04 
+ JD136F1137X15CA69  CR-Z         2015  23579  24705  Alvarez, David          Mon, Jan 20, 2015       D10-07-06 
+ JH153FU161X74B961  Odyssey     2001  19704  45825  Marshall, Allan         Wed, Jan 15, 2015       D10-07-01 
+ JH153FU165X64B963  Odyssey     2005  33642  45825  Ross, Darren            Tue, Jan 21, 2015       D10-07-05 
+ JH157F31654282XA5  Odyssey     2005  33642  45825  Ross, Darren            Mon, Jan 20, 2015       D10-07-05 
+ JH155FU193486XB87  Odyssey     2003  29930  47825  Marshall, Allan         Sat, Jan 18, 2015       D10-07-01 
+ JH156S315423X7529  Odyssey     2004  20430  30375  Fields, Roland          Sat, Jan 18, 2015       D10-07-02 
+ JH158S41541729751  Odyssey     2004  26912  41375  Marshall, Allan         Fri, Jan 17, 2015       D10-07-01 
+ JB121S1293X971CA3  Civic       2003  10481  16455  Alvarez, David          Sun, Jan 19, 2015       D10-07-06 
+ JD138FU107X26XB95  CR-Z         2015  26149  27705  Alvarez, David          Sat, Jan 18, 2015       D10-07-06 
+ JJ162FU19412X7537  Pilot       2004  28391  44970  Marshall, Allan         Sun, Jan 19, 2015       D10-07-01 
+ JH156S31331518649  Odyssey     2003  19111  30375  Gardner, Salvador       Fri, Jan 17, 2015       D10-07-03 
+ JB127S1312476XBA1  Civic       2002  8862   16655  Marshall, Allan         Mon, Jan 20, 2015       D10-07-01 
+ JJ161FU1251529763  Pilot       2005  32200  42970  Ross, Darren            Fri, Jan 17, 2015       D10-07-05 
+ JC132FU1233929765  CR-V        2003  19467  31995  Ross, Darren            Tue, Jan 21, 2015       D10-07-05 
+ JH157F31244918657  Odyssey     2004  42082  45825  Fields, Roland          Tue, Jan 21, 2015       D10-07-02 
+ JH152SU1134382XC9  Odyssey     2003  19111  30375  Wright, Emma            Tue, Jan 21, 2015       D10-07-04 

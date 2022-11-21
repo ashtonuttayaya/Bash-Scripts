@@ -1,0 +1,49 @@
+Dealer Name: Quality Honda
+Address:     1624 Tupelo Road
+             Norbert, FL
+Dealer ID:   16
+Owner:       Simpson, Homer
+Date:        Thu, Nov  5, 2010 thru Wed, Nov 11, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU1724529B54  CR-V         2010  30255  33995  Murray, Gladys          Tue, Nov 10, 2010       D16-15-07 
+ JA1X5SU242454BX76  Accord       2010  24921  27089  Cooper, Joanne          Sun, Nov  8, 2010       D16-15-01 
+ JA1X2F1222454BX78  Accord       2010  31378  33030  Hunter, Yolanda         Wed, Nov 11, 2010       D16-15-02 
+ JH154SU17245X794X  Odyssey      2010  29461  32375  Cooper, Joanne          Tue, Nov 10, 2010       D16-15-01 
+ JB121S129245X7942  Civic        2010  15879  16455  Crawford, Glen          Thu, Nov  5, 2010       D16-15-04 
+ JA111S1352454BX84  Accord       2010  20232  22480  Daniels, Rhonda         Mon, Nov  9, 2010       D16-15-06 
+ JD137FU132456X2A6  CR-Z         2010  24548  25705  Rose, Ida               Fri, Nov  6, 2010       D16-15-08 
+ JH155FU13245X7948  Odyssey      2010  45672  47825  Horton, Jon             Sat, Nov  7, 2010       D16-15-09 
+ JH155FU192454BX9X  Odyssey      2010  42086  47825  Rose, Ida               Mon, Nov  9, 2010       D16-15-08 
+ JH152SU13245824X2  Odyssey      2010  27185  30375  Horton, Jon             Sat, Nov  7, 2010       D16-15-09 
+ JD137FU192453AC84  CR-Z         2010  24548  25705  Horton, Jon             Sun, Nov  8, 2010       D16-15-09 
+ JH153FU1024518A66  Odyssey      2010  43075  45825  Crawford, Glen          Tue, Nov 10, 2010       D16-15-04 
+ JH151F11124518A68  Odyssey      2010  41687  44825  Daniels, Rhonda         Thu, Nov  5, 2010       D16-15-06 
+ JB129S1482453AC9X  Civic        2010  21671  23055  Murray, Gladys          Mon, Nov  9, 2010       D16-15-07 
+ JB121S12624529B82  Civic        2010  15220  16455  Cooper, Joanne          Sun, Nov  8, 2010       D16-15-01 
+ JK168F31224518A74  Ridgeline    2010  43452  47750  Daniels, Rhonda         Sun, Nov  8, 2010       D16-15-06 
+ JH15AS118245713X6  Odyssey      2010  26143  29375  Daniels, Rhonda         Wed, Nov 11, 2010       D16-15-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU142X74BAX7  CR-V         2010  29159  31995  Murray, Gladys          Sat, Nov  7, 2010       D16-15-07 
+ JH151F118W18298B9  Odyssey     2006  26490  44825  Horton, Jon             Sat, Nov  7, 2010       D16-15-09 
+ JC131F1181X15CB21  CR-V        2009  25105  30995  Daniels, Rhonda         Wed, Nov 11, 2010       D16-15-06 
+ JH151F112X185CB23  Odyssey     2007  29198  44825  Hunter, Yolanda         Sun, Nov  8, 2010       D16-15-02 
+ JC131F114W2782155  CR-V        2006  18798  30995  Rose, Ida               Mon, Nov  9, 2010       D16-15-08 
+ JB129S147T2P71X47  Civic       2004  8772   23055  Freeman, Vickie         Mon, Nov  9, 2010       D16-15-05 
+ JH157F317V3782159  Odyssey     2005  21339  45825  Freeman, Vickie         Mon, Nov  9, 2010       D16-15-05 
+ JH155FU19YX75CC61  Odyssey     2008  34938  47825  Gonzales, Harold        Tue, Nov 10, 2010       D16-15-03 
+ JB121S126Y3871183  Civic       2008  11912  16455  Horton, Jon             Fri, Nov  6, 2010       D16-15-09 
+ JH15AS118X3118825  Odyssey     2007  18512  29375  Daniels, Rhonda         Thu, Nov  5, 2010       D16-15-06 
+ JH154SU1314571187  Odyssey     2009  26223  32375  Horton, Jon             Sun, Nov  8, 2010       D16-15-09 
+ JB129S145Y355CC69  Civic       2008  16757  23055  Gonzales, Harold        Thu, Nov  5, 2010       D16-15-03 
+ JB121S124X143AA51  Civic       2007  10531  16455  Horton, Jon             Wed, Nov 11, 2010       D16-15-09 
+ JE143FU14XX34BB63  Crosstour   2007  25721  40640  Cooper, Joanne          Thu, Nov  5, 2010       D16-15-01 
+ JK168F317X1729945  Ridgeline   2007  29420  47750  Murray, Gladys          Sat, Nov  7, 2010       D16-15-07 
+ JK168F31AY1429947  Ridgeline   2008  34218  47750  Murray, Gladys          Sat, Nov  7, 2010       D16-15-07 
+ JB129S145W28822A9  Civic       2006  13428  23055  Cooper, Joanne          Sun, Nov  8, 2010       D16-15-01 

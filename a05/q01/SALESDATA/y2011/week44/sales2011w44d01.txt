@@ -1,0 +1,46 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Fri, Oct 29, 2011 thru Thu, Nov  4, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB123H15334471A86  Civic        2011  25459  27600  Wood, Lloyd             Sun, Oct 31, 2011       D01-01-04 
+ JA1X5SU2634418428  Accord       2011  24172  27089  Ryan, Margie            Mon, Nov  1, 2011       D01-01-06 
+ JJ163F317344X732X  Pilot        2011  39739  42970  Jennings, Terry         Mon, Nov  1, 2011       D01-01-02 
+ JB127S1373446X982  Civic        2011  15951  16655  Harper, Freddie         Fri, Oct 29, 2011       D01-01-05 
+ JE143FU123446X984  Crosstour    2011  36982  40640  Harper, Freddie         Sun, Oct 31, 2011       D01-01-05 
+ JB123H1543446X986  Civic        2011  26712  27600  Jennings, Terry         Sun, Oct 31, 2011       D01-01-02 
+ JB127S13A34471A98  Civic        2011  15867  16655  King, Michelle          Mon, Nov  1, 2011       D01-01-03 
+ JB127S1303442955X  Civic        2011  14938  16655  King, Michelle          Sun, Oct 31, 2011       D01-01-03 
+ JB121S12634471AA2  Civic        2011  15095  16455  Russell, Connie         Sat, Oct 30, 2011       D01-01-01 
+ JB127S130344X7334  Civic        2011  14854  16655  Jennings, Terry         Thu, Nov  4, 2011       D01-01-02 
+ JG148F111344X7336  Insight      2011  23138  24390  Ryan, Margie            Sat, Oct 30, 2011       D01-01-06 
+ JC131F1163444B778  CR-V         2011  29190  30995  Wood, Lloyd             Sat, Oct 30, 2011       D01-01-04 
+ JE141F11434482BCX  Crosstour    2011  35025  37640  Jennings, Terry         Mon, Nov  1, 2011       D01-01-02 
+ JB129S1463443A672  Civic        2011  21417  23055  King, Michelle          Sun, Oct 31, 2011       D01-01-03 
+ JB127S133344X7344  Civic        2011  15529  16655  Jennings, Terry         Mon, Nov  1, 2011       D01-01-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12413371A87  Civic       2009  12077  16455  Russell, Connie         Wed, Nov  3, 2011       D01-01-01 
+ JB121S123X5P82B99  Civic       2007  9923   16455  Wood, Lloyd             Fri, Oct 29, 2011       D01-01-04 
+ JC135F41423129541  CR-V        2010  32176  39995  Ryan, Margie            Wed, Nov  3, 2011       D01-01-06 
+ JF146S1111233A653  Fit         2009  11538  16025  Jennings, Terry         Wed, Nov  3, 2011       D01-01-02 
+ JE143FU15Y1518435  Crosstour   2008  25865  40640  Wood, Lloyd             Sat, Oct 30, 2011       D01-01-04 
+ JG148F115W2429547  Insight     2006  11857  24390  King, Michelle          Thu, Nov  4, 2011       D01-01-03 
+ JC133FU1AY164B769  CR-V        2008  22220  33995  Wood, Lloyd             Tue, Nov  2, 2011       D01-01-04 
+ JB128SU36X5P6X991  Civic       2007  10543  17455  Wood, Lloyd             Wed, Nov  3, 2011       D01-01-04 
+ JH157F31714929553  Odyssey     2009  33635  45825  Jennings, Terry         Mon, Nov  1, 2011       D01-01-02 
+ JH152SU14X3P82BB5  Odyssey     2007  17955  30375  Ryan, Margie            Sun, Oct 31, 2011       D01-01-06 
+ JB129S146Y334B777  Civic       2008  15022  23055  King, Michelle          Sun, Oct 31, 2011       D01-01-03 
+ JB127S130Y4471AA9  Civic       2008  10810  16655  King, Michelle          Sat, Oct 30, 2011       D01-01-03 
+ JE141F114WX171AB1  Crosstour   2006  19406  37640  Harper, Freddie         Tue, Nov  2, 2011       D01-01-05 
+ JE141F11013P29563  Crosstour   2009  27627  37640  Jennings, Terry         Fri, Oct 29, 2011       D01-01-02 
+ JK167FU16Y4282BC5  Ridgeline   2008  32587  49750  King, Michelle          Sun, Oct 31, 2011       D01-01-03 
+ JH15AS119W1P4B787  Odyssey     2006  14350  29375  Harper, Freddie         Thu, Nov  4, 2011       D01-01-05 

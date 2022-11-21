@@ -1,0 +1,114 @@
+Script    : ./pinger.sh
+User      : n_autty
+Home      : /home/n_autty
+HOST      : vma40 : 192.168.60.50
+Date      : Wed Sep  8 20:08:12 EDT 2021
+Directory : /home/n_autty/class/a02/q03
+Scanning the virtual computers around us
+=====================================================
+
+Scanning starting from vma40
+
+Scanning - (vma11.cci.local ... vma15.cci.local)
+Use dig to find ip address for for vma11.cci.local
+
+; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma11.cci.local +noall +answer
+;; global options: +cmd
+vma11.cci.local.	3398	IN	A	192.168.60.21
+
+Use ping to check connection with vma11.cci.local
+PING vma11.cci.local (192.168.60.21) 56(84) bytes of data.
+64 bytes from vma11.cci.local (192.168.60.21): icmp_seq=1 ttl=64 time=4.34 ms
+64 bytes from vma11.cci.local (192.168.60.21): icmp_seq=2 ttl=64 time=6.63 ms
+64 bytes from vma11.cci.local (192.168.60.21): icmp_seq=3 ttl=64 time=6.41 ms
+
+--- vma11.cci.local ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 4.342/5.797/6.639/1.037 ms
+Done with vma11.cci.local
+
+Use dig to find ip address for for vma12.cci.local
+
+; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma12.cci.local +noall +answer
+;; global options: +cmd
+vma12.cci.local.	3398	IN	A	192.168.60.22
+
+Use ping to check connection with vma12.cci.local
+PING vma12.cci.local (192.168.60.22) 56(84) bytes of data.
+64 bytes from vma12.cci.local (192.168.60.22): icmp_seq=1 ttl=64 time=4.67 ms
+64 bytes from vma12.cci.local (192.168.60.22): icmp_seq=2 ttl=64 time=5.71 ms
+64 bytes from vma12.cci.local (192.168.60.22): icmp_seq=3 ttl=64 time=7.13 ms
+
+--- vma12.cci.local ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 4.673/5.840/7.131/1.007 ms
+Done with vma12.cci.local
+
+Use dig to find ip address for for vma13.cci.local
+
+; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma13.cci.local +noall +answer
+;; global options: +cmd
+vma13.cci.local.	3398	IN	A	192.168.60.23
+
+Use ping to check connection with vma13.cci.local
+PING vma13.cci.local (192.168.60.23) 56(84) bytes of data.
+64 bytes from vma13.cci.local (192.168.60.23): icmp_seq=1 ttl=64 time=3.35 ms
+64 bytes from vma13.cci.local (192.168.60.23): icmp_seq=2 ttl=64 time=7.59 ms
+64 bytes from vma13.cci.local (192.168.60.23): icmp_seq=3 ttl=64 time=4.22 ms
+
+--- vma13.cci.local ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 3.352/5.058/7.596/1.830 ms
+Done with vma13.cci.local
+
+Use dig to find ip address for for vma14.cci.local
+
+; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma14.cci.local +noall +answer
+;; global options: +cmd
+vma14.cci.local.	3398	IN	A	192.168.60.24
+
+Use ping to check connection with vma14.cci.local
+PING vma14.cci.local (192.168.60.24) 56(84) bytes of data.
+64 bytes from vma14.cci.local (192.168.60.24): icmp_seq=1 ttl=64 time=3.73 ms
+64 bytes from vma14.cci.local (192.168.60.24): icmp_seq=2 ttl=64 time=2.76 ms
+64 bytes from vma14.cci.local (192.168.60.24): icmp_seq=3 ttl=64 time=2.01 ms
+
+--- vma14.cci.local ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 2.015/2.840/3.739/0.708 ms
+Done with vma14.cci.local
+
+Use dig to find ip address for for vma15.cci.local
+
+; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma15.cci.local +noall +answer
+;; global options: +cmd
+vma15.cci.local.	3398	IN	A	192.168.60.25
+
+Use ping to check connection with vma15.cci.local
+PING vma15.cci.local (192.168.60.25) 56(84) bytes of data.
+64 bytes from vma15.cci.local (192.168.60.25): icmp_seq=1 ttl=64 time=5.75 ms
+64 bytes from vma15.cci.local (192.168.60.25): icmp_seq=2 ttl=64 time=2.12 ms
+64 bytes from vma15.cci.local (192.168.60.25): icmp_seq=3 ttl=64 time=1.66 ms
+
+--- vma15.cci.local ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 1.662/3.180/5.758/1.833 ms
+Done with vma15.cci.local
+
+=====================================================
+
+Scanning complete from vma40
+STARTING ./pinger.sh
+      USER: n_autty
+      DATE: Wed Sep  8 20:08:12 EDT 2021
+      HOST: 192.168.60.50
+
+Scanning starting from vma40
+Scanning for vm at vma11.cci.local ...done with vma11.cci.local
+Scanning for vm at vma12.cci.local ...done with vma12.cci.local
+Scanning for vm at vma13.cci.local ...done with vma13.cci.local
+Scanning for vm at vma14.cci.local ...done with vma14.cci.local
+Scanning for vm at vma15.cci.local ...done with vma15.cci.local
+
+Scanning complete from vma40
+ENDING ./pinger.sh

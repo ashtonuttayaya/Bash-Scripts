@@ -1,0 +1,63 @@
+Dealer Name: Lance Honda
+Address:     1136 Brooklin Ave
+             Norbert, FL
+Dealer ID:   17
+Owner:       Lance, Samuel
+Date:        Sat, Nov 18, 2012 thru Fri, Nov 24, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F11644718AA8  CR-V         2012  30187  30995  Morris, Bobbie          Wed, Nov 22, 2012       D17-16-05 
+ JB121S12444718ABX  Civic        2012  16228  16455  Rodriguez, Mathew       Wed, Nov 22, 2012       D17-16-06 
+ JA111S1314474BX12  Accord       2012  21898  22480  West, Sally             Mon, Nov 20, 2012       D17-16-04 
+ JH153FU1144729BC4  Odyssey      2012  41647  45825  Hansen, Ralph           Mon, Nov 20, 2012       D17-16-09 
+ JH154SU1844729BC6  Odyssey      2012  31019  32375  West, Sally             Wed, Nov 22, 2012       D17-16-04 
+ JE141F1144474BX18  Crosstour    2012  33709  37640  Rodriguez, Mathew       Fri, Nov 24, 2012       D17-16-06 
+ JB128SU3844718B2X  Civic        2012  16920  17455  Hansen, Ralph           Wed, Nov 22, 2012       D17-16-09 
+ JC132FU12447X7A12  CR-V         2012  29038  31995  West, Sally             Fri, Nov 24, 2012       D17-16-04 
+ JB121S1224476X374  Civic        2012  15806  16455  Cole, Peter             Fri, Nov 24, 2012       D17-16-02 
+ JA111S1344476X376  Accord       2012  21668  22480  Lambert, Anita          Tue, Nov 21, 2012       D17-16-01 
+ JA113SU3744729C38  Accord       2012  21417  23480  Medina, Emily           Thu, Nov 23, 2012       D17-16-07 
+ JB122SU234474B16X  Civic        2012  16111  17255  Herrera, Nina           Mon, Nov 20, 2012       D17-16-03 
+ JD137FU104473AX52  CR-Z         2012  24847  25705  Herrera, Nina           Sun, Nov 19, 2012       D17-16-03 
+ JA1X1S12844729C44  Accord       2012  21962  24089  Morris, Bobbie          Tue, Nov 21, 2012       D17-16-05 
+ JH15AS1114475C276  Odyssey      2012  28184  29375  Lambert, Anita          Sat, Nov 18, 2012       D17-16-01 
+ JB129S14A4475C278  Civic        2012  22094  23055  Herrera, Nina           Thu, Nov 23, 2012       D17-16-03 
+ JB129S1404475C28X  Civic        2012  22094  23055  West, Sally             Fri, Nov 24, 2012       D17-16-04 
+ JC131F1174476X392  CR-V         2012  30187  30995  Medina, Emily           Tue, Nov 21, 2012       D17-16-07 
+ JE141F11A447X7A34  Crosstour    2012  35423  37640  West, Sally             Fri, Nov 24, 2012       D17-16-04 
+ JH155FU15447714A6  Odyssey      2012  46102  47825  Lambert, Anita          Sat, Nov 18, 2012       D17-16-01 
+ JC131F1104473AX68  CR-V         2012  27828  30995  Morris, Bobbie          Fri, Nov 24, 2012       D17-16-05 
+ JC131F11544729C6X  CR-V         2012  27828  30995  Rodriguez, Mathew       Fri, Nov 24, 2012       D17-16-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE143FU11X3P6XX71  Crosstour   2007  21099  40640  Baker, Lynn             Thu, Nov 23, 2012       D17-16-08 
+ JB127S1352X282293  Civic       2010  12389  16655  Medina, Emily           Wed, Nov 22, 2012       D17-16-07 
+ JH151F11932PX7715  Odyssey     2011  36220  44825  Medina, Emily           Thu, Nov 23, 2012       D17-16-07 
+ JC131F1191X482297  CR-V        2009  20394  30995  Cole, Peter             Wed, Nov 22, 2012       D17-16-02 
+ JE141F11321129939  Crosstour   2010  27262  37640  Hansen, Ralph           Fri, Nov 24, 2012       D17-16-09 
+ JG149FU1AY1271191  Insight     2008  15478  25190  Baker, Lynn             Tue, Nov 21, 2012       D17-16-08 
+ JK167FU18136822A3  Ridgeline   2009  32735  49750  Medina, Emily           Mon, Nov 20, 2012       D17-16-07 
+ JB129S14223P18835  Civic       2010  17087  23055  West, Sally             Thu, Nov 23, 2012       D17-16-04 
+ JH153FU1933671197  Odyssey     2011  37482  45825  Lambert, Anita          Sat, Nov 18, 2012       D17-16-01 
+ JB121S129Y36822A9  Civic       2008  10062  16455  Herrera, Nina           Mon, Nov 20, 2012       D17-16-03 
+ JC131F118141822B1  CR-V        2009  19836  30995  Hansen, Ralph           Mon, Nov 20, 2012       D17-16-09 
+ JE143FU1221P18843  Crosstour   2010  29994  40640  West, Sally             Thu, Nov 23, 2012       D17-16-04 
+ JH152SU10Y45711A5  Odyssey     2008  18090  30375  Medina, Emily           Fri, Nov 24, 2012       D17-16-07 
+ JB122SU23Y49822B7  Civic       2008  10558  17255  Herrera, Nina           Fri, Nov 24, 2012       D17-16-03 
+ JC132FU18342711A9  CR-V        2011  26280  31995  West, Sally             Mon, Nov 20, 2012       D17-16-04 
+ JH158S411129711B1  Odyssey     2009  26480  41375  Lambert, Anita          Wed, Nov 22, 2012       D17-16-01 
+ JH153FU19Y224BB83  Odyssey     2008  28272  45825  Rodriguez, Mathew       Sat, Nov 18, 2012       D17-16-06 
+ JB127S139W386XXA5  Civic       2006  6871   16655  Cole, Peter             Thu, Nov 23, 2012       D17-16-02 
+ JB127S131XX818857  Civic       2007  8507   16655  Herrera, Nina           Sun, Nov 19, 2012       D17-16-03 
+ JA115SU341344BB89  Accord      2009  16765  25480  Lambert, Anita          Sat, Nov 18, 2012       D17-16-01 
+ JC131F11212P3AA81  CR-V        2009  20394  30995  Lambert, Anita          Sat, Nov 18, 2012       D17-16-01 
+ JB129S146X38822X3  Civic       2007  11867  23055  Herrera, Nina           Sun, Nov 19, 2012       D17-16-03 
+ JJ16AF114W423AA85  Pilot       2006  16518  41970  Rodriguez, Mathew       Thu, Nov 23, 2012       D17-16-06 
+ JH153FU113X329977  Odyssey     2011  37020  45825  Lambert, Anita          Tue, Nov 21, 2012       D17-16-01 
+ JH15AS112Y19X7759  Odyssey     2008  17490  29375  Baker, Lynn             Mon, Nov 20, 2012       D17-16-08 
+ JH158S41A1195CCB1  Odyssey     2009  26480  41375  Medina, Emily           Mon, Nov 20, 2012       D17-16-07 

@@ -1,0 +1,39 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Thu, Jun 25, 2010 thru Wed, Jul  1, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD137FU12226X7B1X  CR-Z         2010  23777  25705  Garrett, Edna           Sun, Jun 28, 2010       D23-21-06 
+ JE142FU16226X7B12  Crosstour    2010  35162  38640  Arnold, Marcus          Wed, Jul  1, 2010       D23-21-04 
+ JE141F1122264B254  Crosstour    2010  33876  37640  Payne, Calvin           Tue, Jun 30, 2010       D23-21-03 
+ JH155FU1622618C26  Odyssey      2010  42803  47825  Holland, Mitchell       Sat, Jun 27, 2010       D23-21-05 
+ JE141F118226X7B18  Crosstour    2010  33876  37640  Garrett, Edna           Fri, Jun 26, 2010       D23-21-06 
+ JB127S1352263A15X  Civic        2010  14822  16655  Baker, Mark             Wed, Jul  1, 2010       D23-21-02 
+ JA1X2F120226X7B22  Accord       2010  31378  33030  Jenkins, Corey          Fri, Jun 26, 2010       D23-21-01 
+ JA111S13A22618C34  Accord       2010  21243  22480  Garrett, Edna           Sat, Jun 27, 2010       D23-21-06 
+ JA111S1302263A156  Accord       2010  21805  22480  Arnold, Marcus          Tue, Jun 30, 2010       D23-21-04 
+ JB121S12622629X48  Civic        2010  15632  16455  Jenkins, Corey          Sun, Jun 28, 2010       D23-21-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X9S422W3P5CXX9  Accord      2006  20096  33089  Garrett, Edna           Wed, Jul  1, 2010       D23-21-06 
+ JG148F117Y333ABC1  Insight     2008  17737  24390  Jenkins, Corey          Sat, Jun 27, 2010       D23-21-01 
+ JH159F414X245CX13  Odyssey     2007  37094  56825  Arnold, Marcus          Tue, Jun 30, 2010       D23-21-04 
+ JH159F413X456X125  Odyssey     2007  36080  56825  Baker, Mark             Sun, Jun 28, 2010       D23-21-02 
+ JB121S127XX982347  Civic       2007  10531  16455  Arnold, Marcus          Sun, Jun 28, 2010       D23-21-04 
+ JH154SU16V17X7899  Odyssey     2005  14950  32375  Garrett, Edna           Tue, Jun 30, 2010       D23-21-06 
+ JG148F117X355CX21  Insight     2007  15321  24390  Arnold, Marcus          Mon, Jun 29, 2010       D23-21-04 
+ JK166FU13X496X133  Ridgeline   2007  31123  47750  Garrett, Edna           Tue, Jun 30, 2010       D23-21-06 
+ JB123H156Y246X135  Civic       2008  20093  27600  Holland, Mitchell       Wed, Jul  1, 2010       D23-21-05 
+ JB127S132TX26X137  Civic       2004  6677   16655  Garrett, Edna           Sun, Jun 28, 2010       D23-21-06 
+ JH152SU15XX982359  Odyssey     2007  27082  30375  Jenkins, Corey          Fri, Jun 26, 2010       D23-21-01 
+ JH151F116X316X271  Odyssey     2007  28400  44825  Jenkins, Corey          Fri, Jun 26, 2010       D23-21-01 
+ JD136F11AT314BX53  CR-Z        2004  10139  24705  Holland, Mitchell       Thu, Jun 25, 2010       D23-21-05 
+ JH152SU12135X7915  Odyssey     2009  24603  30375  Jenkins, Corey          Thu, Jun 25, 2010       D23-21-01 

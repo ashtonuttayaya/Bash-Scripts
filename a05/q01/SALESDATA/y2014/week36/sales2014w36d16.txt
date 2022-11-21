@@ -1,0 +1,53 @@
+Dealer Name: Quality Honda
+Address:     1624 Tupelo Road
+             Norbert, FL
+Dealer ID:   16
+Owner:       Simpson, Homer
+Date:        Tue, Sep  3, 2014 thru Mon, Sep  9, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X5SU2963629X32  Accord       2014  25050  27089  Hunter, Yolanda         Sat, Sep  7, 2014       D16-15-02 
+ JB121S1296365C364  Civic        2014  16226  16455  Murray, Gladys          Thu, Sep  5, 2014       D16-15-07 
+ JB121S12363682696  Civic        2014  15619  16455  Rose, Ida               Fri, Sep  6, 2014       D16-15-08 
+ JC132FU186365C368  CR-V         2014  29605  31995  Hunter, Yolanda         Wed, Sep  4, 2014       D16-15-02 
+ JB121S1276366X48X  Civic        2014  16574  16455  Gonzales, Harold        Mon, Sep  9, 2014       D16-15-03 
+ JC134F31A63671592  CR-V         2014  29934  31995  Hunter, Yolanda         Tue, Sep  3, 2014       D16-15-02 
+ JC132FU1063629X44  CR-V         2014  30263  31995  Murray, Gladys          Sat, Sep  7, 2014       D16-15-07 
+ JB121S121636826A6  Civic        2014  16140  16455  Murray, Gladys          Mon, Sep  9, 2014       D16-15-07 
+ JB127S13463671598  Civic        2014  15711  16655  Gonzales, Harold        Fri, Sep  6, 2014       D16-15-03 
+ JC131F1126366X49X  CR-V         2014  28864  30995  Gonzales, Harold        Wed, Sep  4, 2014       D16-15-03 
+ JB129S1486365C382  Civic        2014  21679  23055  Rose, Ida               Mon, Sep  9, 2014       D16-15-08 
+ JG148F1166364B274  Insight      2014  23266  24390  Cooper, Joanne          Mon, Sep  9, 2014       D16-15-01 
+ JA112F1306365C386  Accord       2014  31292  32930  Murray, Gladys          Wed, Sep  4, 2014       D16-15-07 
+ JH15AS11163629X58  Odyssey      2014  28761  29375  Daniels, Rhonda         Sun, Sep  8, 2014       D16-15-06 
+ JB121S129636826CX  Civic        2014  15793  16455  Hunter, Yolanda         Fri, Sep  6, 2014       D16-15-02 
+ JB121S123636715B2  Civic        2014  16140  16455  Hunter, Yolanda         Thu, Sep  5, 2014       D16-15-02 
+ JB121S127636715B4  Civic        2014  15359  16455  Murray, Gladys          Tue, Sep  3, 2014       D16-15-07 
+ JA114FU366365C396  Accord       2014  31869  33930  Horton, Jon             Mon, Sep  9, 2014       D16-15-09 
+ JB129S1476366X4A8  Civic        2014  22038  23055  Hunter, Yolanda         Wed, Sep  4, 2014       D16-15-02 
+ JH153FU13636X7B5X  Odyssey      2014  42753  45825  Daniels, Rhonda         Fri, Sep  6, 2014       D16-15-06 
+ JC134F3196366X4B2  CR-V         2014  30427  31995  Gonzales, Harold        Sun, Sep  8, 2014       D16-15-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F11A31929883  Insight     2003  15897  24390  Cooper, Joanne          Wed, Sep  4, 2014       D16-15-01 
+ JH151F1183433A995  Odyssey     2003  29790  44825  Rose, Ida               Tue, Sep  3, 2014       D16-15-08 
+ JC131F11511882117  CR-V        2001  15497  30995  Rose, Ida               Sat, Sep  7, 2014       D16-15-08 
+ JC131F11221229889  CR-V        2002  19356  30995  Daniels, Rhonda         Fri, Sep  6, 2014       D16-15-06 
+ JB127S1394383A9A1  Civic       2004  12720  16655  Hunter, Yolanda         Mon, Sep  9, 2014       D16-15-02 
+ JE141F1131153A9A3  Crosstour   2001  18820  37640  Freeman, Vickie         Sun, Sep  8, 2014       D16-15-05 
+ JG148F11924218785  Insight     2002  15261  24390  Crawford, Glen          Sat, Sep  7, 2014       D16-15-04 
+ JB127S1372135CBC7  Civic       2002  10465  16655  Rose, Ida               Mon, Sep  9, 2014       D16-15-08 
+ JB127S13324P82129  Civic       2002  10465  16655  Murray, Gladys          Wed, Sep  4, 2014       D16-15-07 
+ JD138FU1023P18791  CR-Z        2002  17316  27705  Gonzales, Harold        Wed, Sep  4, 2014       D16-15-03 
+ JF146S1134324BAC3  Fit         2004  12024  16025  Gonzales, Harold        Tue, Sep  3, 2014       D16-15-03 
+ JB121S1203X671X25  Civic       2003  11123  16455  Rose, Ida               Mon, Sep  9, 2014       D16-15-08 
+ JH152SU1755182137  Odyssey     2005  25332  30375  Murray, Gladys          Mon, Sep  9, 2014       D16-15-07 
+ JE141F1194133A9B9  Crosstour   2004  34483  37640  Crawford, Glen          Sun, Sep  8, 2014       D16-15-04 
+ JK168F317241187A1  Ridgeline   2002  28785  47750  Horton, Jon             Sat, Sep  7, 2014       D16-15-09 
+ JG148F1104X66XC23  Insight     2004  18046  24390  Daniels, Rhonda         Fri, Sep  6, 2014       D16-15-06 
+ JH151F119227X7695  Odyssey     2002  27030  44825  Horton, Jon             Fri, Sep  6, 2014       D16-15-09 

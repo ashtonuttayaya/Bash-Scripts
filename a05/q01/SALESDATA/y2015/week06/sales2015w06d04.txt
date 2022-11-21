@@ -1,0 +1,73 @@
+Dealer Name: Wallace Honda
+Address:     2132 Tupelo Road
+             Clarksville, NC
+Dealer ID:   4
+Owner:       Wallace, Patrick
+Date:        Wed, Feb  5, 2015 thru Tue, Feb 11, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ161FU147X65CA62  Pilot        2015  39685  42970  Dixon, Patsy            Sun, Feb  9, 2015       D04-04-07 
+ JB121S1237X629734  Civic        2015  16964  16455  Russell, Jerry          Wed, Feb  5, 2015       D04-04-03 
+ JC133FU187X6X7516  CR-V         2015  33188  33995  Campbell, Jeanne        Thu, Feb  6, 2015       D04-04-02 
+ JB121S1267X65CA68  Civic        2015  16085  16455  Pena, Elaine            Wed, Feb  5, 2015       D04-04-05 
+ JH152SU157X64B96X  Odyssey      2015  29925  30375  Pena, Elaine            Sat, Feb  8, 2015       D04-04-05 
+ JB127S1357X64B962  Civic        2015  17157  16655  Richards, Angela        Sat, Feb  8, 2015       D04-04-06 
+ JA1X2F12A7X682XA4  Accord       2015  30397  33030  Campbell, Jeanne        Wed, Feb  5, 2015       D04-04-02 
+ JH154SU147X65CA76  Odyssey      2015  29982  32375  Lucas, Carl             Thu, Feb  6, 2015       D04-04-01 
+ JB121S1297X63A858  Civic        2015  16788  16455  Lucas, Carl             Thu, Feb  6, 2015       D04-04-01 
+ JB121S1287X61864X  Civic        2015  16261  16455  Lucas, Carl             Sun, Feb  9, 2015       D04-04-01 
+ JB121S1207X671CA2  Civic        2015  16349  16455  Campbell, Jeanne        Thu, Feb  6, 2015       D04-04-02 
+ JD136F1197X682XB4  CR-Z         2015  24021  24705  Miller, Julian          Fri, Feb  7, 2015       D04-04-04 
+ JA111S1347X618646  Accord       2015  21362  22480  Russell, Jerry          Thu, Feb  6, 2015       D04-04-03 
+ JA1X4FU2A7X629758  Accord       2015  31815  34030  Miller, Julian          Tue, Feb 11, 2015       D04-04-04 
+ JA1X1S1297X6X754X  Accord       2015  23827  24089  Pena, Elaine            Mon, Feb 10, 2015       D04-04-05 
+ JA119S4327X64B982  Accord       2015  29507  31480  Miller, Julian          Thu, Feb  6, 2015       D04-04-04 
+ JA1X1S1217X618654  Accord       2015  22314  24089  Russell, Jerry          Wed, Feb  5, 2015       D04-04-03 
+ JB127S1317X671CB6  Civic        2015  15913  16655  Richards, Angela        Tue, Feb 11, 2015       D04-04-06 
+ JH15AS1157X618658  Odyssey      2015  29127  29375  Lucas, Carl             Fri, Feb  7, 2015       D04-04-01 
+ JC132FU117X62977X  CR-V         2015  29476  31995  Richards, Angela        Fri, Feb  7, 2015       D04-04-06 
+ JB127S1377X6X7552  Civic        2015  16268  16655  Russell, Jerry          Tue, Feb 11, 2015       D04-04-03 
+ JE141F1187X618664  Crosstour    2015  35469  37640  Lucas, Carl             Tue, Feb 11, 2015       D04-04-01 
+ JB127S1307X64B996  Civic        2015  16624  16655  Campbell, Jeanne        Wed, Feb  5, 2015       D04-04-02 
+ JB127S1347X64B998  Civic        2015  16979  16655  Richards, Angela        Tue, Feb 11, 2015       D04-04-06 
+ JH153FU147X6X756X  Odyssey      2015  42255  45825  Campbell, Jeanne        Tue, Feb 11, 2015       D04-04-02 
+ JA111S1317X629782  Accord       2015  20890  22480  Dixon, Patsy            Tue, Feb 11, 2015       D04-04-07 
+ JB121S1207X671CX4  Civic        2015  16437  16455  Dixon, Patsy            Sun, Feb  9, 2015       D04-04-07 
+ JB127S1327X65CAB6  Civic        2015  16979  16655  Campbell, Jeanne        Fri, Feb  7, 2015       D04-04-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB128SU3154371BA3  Civic       2005  13215  17455  Dixon, Patsy            Sat, Feb  8, 2015       D04-04-07 
+ JC131F117416X7435  CR-V        2004  20838  30995  Miller, Julian          Sun, Feb  9, 2015       D04-04-04 
+ JH152SU182486XA97  Odyssey     2002  15300  30375  Russell, Jerry          Wed, Feb  5, 2015       D04-04-03 
+ JH155FU162X56XA99  Odyssey     2002  25226  47825  Russell, Jerry          Sat, Feb  8, 2015       D04-04-03 
+ JG148F1116X5X7441  Insight     2006  20412  24390  Russell, Jerry          Wed, Feb  5, 2015       D04-04-03 
+ JA1X1S12123482CC3  Accord      2002  12764  24089  Russell, Jerry          Sat, Feb  8, 2015       D04-04-03 
+ JH151F1193173A775  Odyssey     2003  28070  44825  Dixon, Patsy            Sat, Feb  8, 2015       D04-04-07 
+ JC132FU163X86XAA7  CR-V        2003  19467  31995  Miller, Julian          Tue, Feb 11, 2015       D04-04-04 
+ JJ163F3152386XAA9  Pilot       2002  21597  42970  Pena, Elaine            Fri, Feb  7, 2015       D04-04-05 
+ JJ164F4153185C9A1  Pilot       2003  32652  53970  Campbell, Jeanne        Tue, Feb 11, 2015       D04-04-02 
+ JD136F1193356XAB3  CR-Z        2003  15596  24705  Pena, Elaine            Sat, Feb  8, 2015       D04-04-05 
+ JH153FU1921971BC5  Odyssey     2002  23025  45825  Dixon, Patsy            Fri, Feb  7, 2015       D04-04-07 
+ JB127S1356X782CX7  Civic       2006  14401  16655  Campbell, Jeanne        Sat, Feb  8, 2015       D04-04-02 
+ JK169F4176314B899  Ridgeline   2006  48498  58750  Wilson, Chad            Sat, Feb  8, 2015       D04-04-08 
+ JH157F310535X7461  Odyssey     2005  33642  45825  Campbell, Jeanne        Sat, Feb  8, 2015       D04-04-02 
+ JC132FU1A55P6XAC3  CR-V        2005  24144  31995  Campbell, Jeanne        Tue, Feb 11, 2015       D04-04-02 
+ JB128SU3442718575  Civic       2004  11929  17455  Dixon, Patsy            Sun, Feb  9, 2015       D04-04-07 
+ JD14AF41032382C17  CR-Z        2003  20493  33705  Pena, Elaine            Fri, Feb  7, 2015       D04-04-05 
+ JH152SU104255C9B9  Odyssey     2004  20430  30375  Dixon, Patsy            Thu, Feb  6, 2015       D04-04-07 
+ JE143FU15647X7471  Crosstour   2006  33829  40640  Wilson, Chad            Mon, Feb 10, 2015       D04-04-08 
+ JE143FU1565P71B13  Crosstour   2006  33829  40640  Lucas, Carl             Wed, Feb  5, 2015       D04-04-01 
+ JH153FU1944P71B15  Odyssey     2004  29760  45825  Wilson, Chad            Fri, Feb  7, 2015       D04-04-08 
+ JH15AS112612X7477  Odyssey     2006  24400  29375  Wilson, Chad            Sat, Feb  8, 2015       D04-04-08 
+ JC133FU172X64B8B9  CR-V        2002  17965  33995  Richards, Angela        Wed, Feb  5, 2015       D04-04-06 
+ JB127S13A23282C31  Civic       2002  8862   16655  Dixon, Patsy            Thu, Feb  6, 2015       D04-04-07 
+ JB127S1383426XA13  Civic       2003  10605  16655  Dixon, Patsy            Thu, Feb  6, 2015       D04-04-07 
+ JJ161FU173465C9X5  Pilot       2003  26920  42970  Richards, Angela        Wed, Feb  5, 2015       D04-04-06 
+ JH151F11942471B27  Odyssey     2004  29120  44825  Campbell, Jeanne        Sun, Feb  9, 2015       D04-04-02 
+ JB128SU32239X7489  Civic       2002  8840   17455  Campbell, Jeanne        Fri, Feb  7, 2015       D04-04-02 
+ JH151F11132682C41  Odyssey     2003  27165  44825  Campbell, Jeanne        Sat, Feb  8, 2015       D04-04-02 

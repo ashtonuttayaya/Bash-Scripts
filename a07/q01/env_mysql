@@ -1,0 +1,4 @@
+export MYSQLU=salesadmin
+export MYSQLP=Woodman123321
+export REPORTS=/home/n_autty/reports
+export ARCHIVE=/home/n_autty/archive

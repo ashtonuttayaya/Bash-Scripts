@@ -1,0 +1,14 @@
+checking dev_v3.txt and dev_v3.sql
+           OK - dev_v3.txt                                                     chxq03-A1
+           OK - dev_v3.sql                                                     chxq03-B1
+ 
+Comparing sales_v1.txt and dev_v3.txt
+           OK - sales and dev output as expected                               chxq03-C1
+
+Comparing sales_v1.sql and dev_v3.sql
+           OK - sales and dev sql files consistent                             chxq03-D1
+
+Checking for the backup files
+           OK - bck_sales_v3.sql.gz                                            chxq03-E1
+           OK - bck_dev_v3.sql.gz                                              chxq03-F1
+

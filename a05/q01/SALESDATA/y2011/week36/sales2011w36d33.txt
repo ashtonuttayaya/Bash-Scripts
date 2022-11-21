@@ -1,0 +1,47 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Fri, Sep  3, 2011 thru Thu, Sep  9, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB123H15833619662  Civic        2011  25181  27600  Wells, Clayton          Sat, Sep  4, 2011       D33-29-01 
+ JC131F11333619664  CR-V         2011  28098  30995  Shelton, Adam           Sun, Sep  5, 2011       D33-29-05 
+ JH153FU1033619666  Odyssey      2011  44438  45825  Morgan, Milton          Sat, Sep  4, 2011       D33-29-03 
+ JJ16AF113336X8558  Pilot        2011  40718  41970  Shelton, Adam           Mon, Sep  6, 2011       D33-29-05 
+ JB127S1353362A78X  Civic        2011  15445  16655  Morgan, Milton          Tue, Sep  7, 2011       D33-29-03 
+ JH155FU1133683X12  Odyssey      2011  45647  47825  Shelton, Adam           Sun, Sep  5, 2011       D33-29-05 
+ JC131F11A3364C9A4  CR-V         2011  29190  30995  Martinez, Katherine     Thu, Sep  9, 2011       D33-29-04 
+ JB121S1283365XAB6  Civic        2011  14761  16455  Shelton, Adam           Thu, Sep  9, 2011       D33-29-05 
+ JB121S122336X8568  Civic        2011  16012  16455  Wells, Clayton          Sun, Sep  5, 2011       D33-29-01 
+ JC132FU103363B8AX  CR-V         2011  31253  31995  Martinez, Katherine     Wed, Sep  8, 2011       D33-29-04 
+ JH158S4133363B8A2  Odyssey      2011  39728  41375  Shelton, Adam           Fri, Sep  3, 2011       D33-29-05 
+ JG148F11533672C14  Insight      2011  23261  24390  Mitchell, John          Tue, Sep  7, 2011       D33-29-02 
+ JB129S14033661BX6  Civic        2011  20602  23055  Martinez, Katherine     Sat, Sep  4, 2011       D33-29-04 
+ JH154SU14336X8578  Odyssey      2011  29014  32375  Mitchell, John          Tue, Sep  7, 2011       D33-29-02 
+ JB129S1423362A7AX  Civic        2011  22348  23055  Shelton, Adam           Sat, Sep  4, 2011       D33-29-05 
+ JH153FU153364C9C2  Odyssey      2011  41675  45825  Wells, Clayton          Sat, Sep  4, 2011       D33-29-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH154SU19X2682749  Odyssey     2007  19793  32375  Mitchell, John          Tue, Sep  7, 2011       D33-29-02 
+ JC132FU14Y494B311  CR-V        2008  20904  31995  Wells, Clayton          Mon, Sep  6, 2011       D33-29-01 
+ JD136F112W26X7CA3  CR-Z        2006  12615  24705  Mitchell, John          Tue, Sep  7, 2011       D33-29-02 
+ JD138FU1822818XB5  CR-Z        2010  22344  27705  Mitchell, John          Thu, Sep  9, 2011       D33-29-02 
+ JH155FU19W2282757  Odyssey     2006  24753  47825  Mitchell, John          Tue, Sep  7, 2011       D33-29-02 
+ JH15AS119X1618XB9  Odyssey     2007  17933  29375  Wells, Clayton          Wed, Sep  8, 2011       D33-29-01 
+ JJ162FU1AYX619421  Pilot       2008  29442  44970  Martinez, Katherine     Mon, Sep  6, 2011       D33-29-04 
+ JE141F1131352A533  Crosstour   2009  27100  37640  Mitchell, John          Sun, Sep  5, 2011       D33-29-02 
+ JC133FU1721483B95  CR-V        2010  27376  33995  Mitchell, John          Sun, Sep  5, 2011       D33-29-02 
+ JG148F118Y3272A87  Insight     2008  15465  24390  Mitchell, John          Mon, Sep  6, 2011       D33-29-02 
+ JB123H155X31X8319  Civic       2007  16833  27600  Shelton, Adam           Mon, Sep  6, 2011       D33-29-05 
+ JD136F1122X83B651  CR-Z        2010  20193  24705  Wells, Clayton          Thu, Sep  9, 2011       D33-29-01 
+ JH155FU1AY354C763  Odyssey     2008  30464  47825  Wells, Clayton          Sat, Sep  4, 2011       D33-29-01 
+ JH155FU10Y454C765  Odyssey     2008  30464  47825  Shelton, Adam           Wed, Sep  8, 2011       D33-29-05 
+ JJ162FU1A2X972A97  Pilot       2010  36156  44970  Shelton, Adam           Tue, Sep  7, 2011       D33-29-05 
+ JB122SU273X172A99  Civic        2011  16023  17255  Wells, Clayton          Sat, Sep  4, 2011       D33-29-01 

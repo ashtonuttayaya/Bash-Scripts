@@ -1,0 +1,37 @@
+#
+#	homework 8 - Nov. 7, 2019
+#
+#	using arrays
+#
+q01 type sa
+q01 start  a01.txt a01.bak
+q01 submit
+q01 clean
+#
+#	Using array provided by command line parameters
+#
+q02 type sc
+q02 start  a02.txt a02.bak
+q02 submit
+q02 clean q02.sh
+#
+#	Reading data into Arrays
+#
+q03 type sc
+q03 start  a03.bak a03.txt stories texts
+q03 submit
+q03 clean q03.sh
+#
+#	Installing bash and using arrays
+#
+q04 type sc
+q04 start  a04.txt a04.bak
+q04 submit
+q04 clean q04.sh
+#
+#	Bash Arithmetic
+#
+q05 type sc
+q05 start  a05.txt a05.bak class1.dat class2.dat
+q05 submit
+q05 clean q05.sh

@@ -1,0 +1,59 @@
+Dealer Name: Olson Honda
+Address:     3074 Davison Highway
+             Norbert, FL
+Dealer ID:   15
+Owner:       Olson, Howard
+Date:        Mon, Mar  5, 2013 thru Sun, Mar 11, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU1A51PX7A38  Odyssey      2013  44872  45825  Murphy, Kelly           Sun, Mar 11, 2013       D15-14-07 
+ JH154SU1751P6X3AX  Odyssey      2013  30075  32375  Ramos, Maxine           Wed, Mar  7, 2013       D15-14-05 
+ JA1X3SU2251P18B52  Accord       2013  23702  25089  Hall, Willie            Sat, Mar 10, 2013       D15-14-08 
+ JA1X5SU2551PX7A44  Accord       2013  26514  27089  Murphy, Kelly           Wed, Mar  7, 2013       D15-14-07 
+ JB121S12351P3AX76  Civic        2013  16530  16455  Elliott, Jacqueline     Tue, Mar  6, 2013       D15-14-01 
+ JD136F11751P6X3A8  CR-Z         2013  23603  24705  Murphy, Kelly           Wed, Mar  7, 2013       D15-14-07 
+ JA115SU3351P18B6X  Accord       2013  24585  25480  Gardner, Joan           Sat, Mar 10, 2013       D15-14-09 
+ JC132FU1451P29C72  CR-V         2013  29729  31995  Bowman, Joan            Mon, Mar  5, 2013       D15-14-03 
+ JK165F11951P825X4  Ridgeline    2013  44816  46750  Bowman, Joan            Wed, Mar  7, 2013       D15-14-03 
+ JH15AS11051P825X6  Odyssey      2013  28697  29375  Woods, Tommy            Sun, Mar 11, 2013       D15-14-02 
+ JD136F11951P825X8  CR-Z         2013  23222  24705  Hall, Willie            Sun, Mar 11, 2013       D15-14-08 
+ JA114FU3A51P29C8X  Accord       2013  31144  33930  Hall, Willie            Thu, Mar  8, 2013       D15-14-08 
+ JH155FU1151P4B1A2  Odyssey      2013  43892  47825  Shelton, Monica         Tue, Mar  6, 2013       D15-14-06 
+ JB121S12551P3AX94  Civic        2013  15759  16455  Hall, Willie            Tue, Mar  6, 2013       D15-14-08 
+ JB121S12951P3AX96  Civic        2013  15417  16455  Hall, Willie            Mon, Mar  5, 2013       D15-14-08 
+ JE141F11251P3AX98  Crosstour    2013  33717  37640  Elliott, Jacqueline     Tue, Mar  6, 2013       D15-14-01 
+ JA111S13851P7141X  Accord       2013  20955  22480  Murphy, Kelly           Sat, Mar 10, 2013       D15-14-07 
+ JE141F11851P29C92  Crosstour    2013  35058  37640  Murphy, Kelly           Wed, Mar  7, 2013       D15-14-07 
+ JH152SU1651P4B1B4  Odyssey      2013  29963  30375  Gonzales, Natalie       Wed, Mar  7, 2013       D15-14-04 
+ JE141F11551P29C96  Crosstour    2013  34291  37640  Shelton, Monica         Tue, Mar  6, 2013       D15-14-06 
+ JH153FU1451P5C2C8  Odyssey      2013  44407  45825  Ramos, Maxine           Sat, Mar 10, 2013       D15-14-05 
+ JG148F11351PX7A8X  Insight      2013  22934  24390  Gonzales, Natalie       Sat, Mar 10, 2013       D15-14-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU174336XCX7  CR-V        2012  26462  31995  Woods, Tommy            Thu, Mar  8, 2013       D15-14-02 
+ JC134F31342229899  CR-V        2012  26462  31995  Elliott, Jacqueline     Tue, Mar  6, 2013       D15-14-01 
+ JJ161FU123326XC11  Pilot       2011  39078  42970  Murphy, Kelly           Tue, Mar  6, 2013       D15-14-07 
+ JG148F114X2218793  Insight     2007  10294  24390  Ramos, Maxine           Fri, Mar  9, 2013       D15-14-05 
+ JH152SU182395CBX5  Odyssey     2010  19584  30375  Ramos, Maxine           Tue, Mar  6, 2013       D15-14-05 
+ JE141F1163294BAC7  Crosstour   2011  27424  37640  Shelton, Monica         Thu, Mar  8, 2013       D15-14-06 
+ JB127S13A31718799  Civic       2011  12555  16655  Hall, Willie            Fri, Mar  9, 2013       D15-14-08 
+ JH153FU17148298B1  Odyssey     2009  28411  45825  Bowman, Joan            Mon, Mar  5, 2013       D15-14-03 
+ JH156S3162195CB13  Odyssey     2010  19584  30375  Ramos, Maxine           Sun, Mar 11, 2013       D15-14-05 
+ JB129S14A23P71X35  Civic       2010  15318  23055  Gonzales, Natalie       Wed, Mar  7, 2013       D15-14-04 
+ JD136F118234187A7  CR-Z        2010  15955  24705  Shelton, Monica         Mon, Mar  5, 2013       D15-14-06 
+ JH152SU14122298B9  Odyssey     2009  18832  30375  Shelton, Monica         Sun, Mar 11, 2013       D15-14-06 
+ JH153FU19115298C1  Odyssey     2009  28411  45825  Murphy, Kelly           Sun, Mar 11, 2013       D15-14-07 
+ JC132FU1A1223A9X3  CR-V        2009  19197  31995  Elliott, Jacqueline     Tue, Mar  6, 2013       D15-14-01 
+ JH155FU1222P82155  Odyssey     2010  31616  47825  Gonzales, Natalie       Tue, Mar  6, 2013       D15-14-04 
+ JC134F3173446XC37  CR-V        2011  23360  31995  Gardner, Joan           Sat, Mar 10, 2013       D15-14-09 
+ JC134F31833P298C9  CR-V        2011  23360  31995  Bowman, Joan            Mon, Mar  5, 2013       D15-14-03 
+ JB127S13712818821  Civic       2009  10326  16655  Gonzales, Natalie       Wed, Mar  7, 2013       D15-14-04 
+ JB121S123Y3P4BB53  Civic       2008  8520   16455  Murphy, Kelly           Sat, Mar 10, 2013       D15-14-07 
+ JB127S1394124BB55  Civic       2012  14037  16655  Hall, Willie            Sat, Mar 10, 2013       D15-14-08 
+ JK165F11412929937  Ridgeline   2009  27114  46750  Hall, Willie            Fri, Mar  9, 2013       D15-14-08 
+ JH153FU131134BB59  Odyssey     2009  27495  45825  Murphy, Kelly           Sat, Mar 10, 2013       D15-14-07 

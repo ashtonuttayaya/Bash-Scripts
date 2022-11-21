@@ -1,0 +1,47 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Fri, Jun 11, 2011 thru Thu, Jun 17, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU133245XAAX  Odyssey      2011  41675  45825  Mitchell, John          Mon, Jun 14, 2011       D33-29-02 
+ JJ16AF112324X8552  Pilot        2011  39874  41970  Mitchell, John          Fri, Jun 11, 2011       D33-29-02 
+ JB123H1573242A774  Civic        2011  26990  27600  Wells, Clayton          Mon, Jun 14, 2011       D33-29-01 
+ JB121S126324X8556  Civic        2011  15595  16455  Shelton, Adam           Sun, Jun 13, 2011       D33-29-05 
+ JB125G1643243B888  Civic        2011  26862  28505  Morgan, Milton          Sun, Jun 13, 2011       D33-29-03 
+ JB129S14A3244C9AX  Civic        2011  20835  23055  Wells, Clayton          Wed, Jun 16, 2011       D33-29-01 
+ JH151F115324X8562  Odyssey      2011  42572  44825  Wells, Clayton          Mon, Jun 14, 2011       D33-29-01 
+ JJ16AF11732472CX4  Pilot        2011  39241  41970  Mitchell, John          Sat, Jun 12, 2011       D33-29-02 
+ JB121S1293243B896  Civic        2011  15012  16455  Morgan, Milton          Tue, Jun 15, 2011       D33-29-03 
+ JK166FU1A32461BC8  Ridgeline    2011  44376  47750  Shelton, Adam           Fri, Jun 11, 2011       D33-29-05 
+ JB129S1423244C9BX  Civic        2011  21999  23055  Mitchell, John          Thu, Jun 17, 2011       D33-29-02 
+ JB127S1343245XAC2  Civic        2011  15023  16655  Morgan, Milton          Wed, Jun 16, 2011       D33-29-03 
+ JC131F11732483X24  CR-V         2011  28410  30995  Morgan, Milton          Sun, Jun 13, 2011       D33-29-03 
+ JB121S12832483X26  Civic        2011  16012  16455  Martinez, Katherine     Sat, Jun 12, 2011       D33-29-04 
+ JB127S1353245XAC8  Civic        2011  15782  16655  Martinez, Katherine     Mon, Jun 14, 2011       D33-29-04 
+ JB121S1283244C9CX  Civic        2011  15012  16455  Shelton, Adam           Sun, Jun 13, 2011       D33-29-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH15AS114YX9291B7  Odyssey     2008  19180  29375  Mitchell, John          Thu, Jun 17, 2011       D33-29-02 
+ JB121S1201X25C419  Civic       2009  12077  16455  Morgan, Milton          Mon, Jun 14, 2011       D33-29-03 
+ JD138FU15V32291C1  CR-Z        2005  11526  27705  Mitchell, John          Mon, Jun 14, 2011       D33-29-02 
+ JH155FU19147X7CA3  Odyssey     2009  34434  47825  Wells, Clayton          Wed, Jun 16, 2011       D33-29-01 
+ JH151F112X32X7CA5  Odyssey     2007  27512  44825  Shelton, Adam           Mon, Jun 14, 2011       D33-29-05 
+ JH153FU17YX16X537  Odyssey     2008  30004  45825  Shelton, Adam           Thu, Jun 17, 2011       D33-29-05 
+ JD138FU13Y384B319  CR-Z        2008  17587  27705  Shelton, Adam           Tue, Jun 15, 2011       D33-29-05 
+ JH158S4133X472A81  Odyssey      2011  37642  41375  Morgan, Milton          Wed, Jun 16, 2011       D33-29-03 
+ JB129S146W1P3B643  Civic       2006  11749  23055  Mitchell, John          Mon, Jun 14, 2011       D33-29-02 
+ JE141F113Y2883B95  Crosstour   2008  33673  37640  Mitchell, John          Thu, Jun 17, 2011       D33-29-02 
+ JB127S13812661977  Civic       2009  11991  16655  Shelton, Adam           Mon, Jun 14, 2011       D33-29-05 
+ JE141F114X442A539  Crosstour   2007  23057  37640  Mitchell, John          Mon, Jun 14, 2011       D33-29-02 
+ JA112F1333144C761  Accord       2011  30208  32930  Martinez, Katherine     Fri, Jun 11, 2011       D33-29-04 
+ JH151F119X214C763  Odyssey     2007  27512  44825  Wells, Clayton          Sat, Jun 12, 2011       D33-29-01 
+ JG148F11224683BA5  Insight     2010  19692  24390  Mitchell, John          Mon, Jun 14, 2011       D33-29-02 
+ JH158S417X313B657  Odyssey     2007  25373  41375  Shelton, Adam           Sun, Jun 13, 2011       D33-29-05 

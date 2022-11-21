@@ -1,0 +1,6 @@
+Checking q02.env
+           OK - q02.env found                                                                    chxq02-A1
+           OK - MYSQL_ADMIN, MYSQL_MGR, MYSQL_PAD and MYSQL_PMG defined                          chxq02-B1
+           OK - MYSQL_ADMIN and MYSQL_PAD work as defined                                        chxq02-C1
+           OK - MYSQL_MGR and MYSQL_PMG work as defined                                          chxq02-D1
+

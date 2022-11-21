@@ -1,0 +1,67 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Wed, Jan  8, 2015 thru Tue, Jan 14, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA113SU317X2197A6  Accord       2015  22636  23480  Howard, Samantha        Sun, Jan 12, 2015       D27-24-05 
+ JC131F1147X283148  CR-V         2015  29871  30995  Perkins, Pearl          Sun, Jan 12, 2015       D27-24-03 
+ JB121S1257X2197BX  Civic        2015  15909  16455  Wright, Marion          Sat, Jan 11, 2015       D27-24-04 
+ JC134F3137X2197B2  CR-V         2015  31629  31995  Perkins, Pearl          Sat, Jan 11, 2015       D27-24-03 
+ JB127S1387X283154  Civic        2015  15735  16655  Scott, Samuel           Tue, Jan 14, 2015       D27-24-06 
+ JA111S1367X25XB26  Accord       2015  21126  22480  Perkins, Pearl          Sun, Jan 12, 2015       D27-24-03 
+ JB123H1527X25XB28  Civic        2015  25421  27600  Wright, Marion          Tue, Jan 14, 2015       D27-24-04 
+ JB121S1247X22A93X  Civic        2015  17052  16455  Howard, Samantha        Sun, Jan 12, 2015       D27-24-05 
+ JA112F1317X23BA42  Accord       2015  32181  32930  Howard, Samantha        Fri, Jan 10, 2015       D27-24-05 
+ JB127S13A7X25XC64  Civic        2015  15646  16655  Wright, Marion          Tue, Jan 14, 2015       D27-24-04 
+ JA113SU377X23BA46  Accord       2015  23005  23480  Perkins, Pearl          Mon, Jan 13, 2015       D27-24-03 
+ JC131F1197X24CB58  CR-V         2015  30835  30995  Hill, Rita              Mon, Jan 13, 2015       D27-24-01 
+ JH152SU127X23BA5X  Odyssey      2015  27877  30375  Scott, Samuel           Sun, Jan 12, 2015       D27-24-06 
+ JC131F1167X261X82  CR-V         2015  29550  30995  Howard, Samantha        Sat, Jan 11, 2015       D27-24-05 
+ JB127S1397X272194  Civic        2015  16357  16655  Wright, Marion          Thu, Jan  9, 2015       D27-24-04 
+ JB121S1207X261X86  Civic        2015  16701  16455  Scott, Samuel           Wed, Jan  8, 2015       D27-24-06 
+ JF147SU167X219838  Fit          2015  17232  16825  Perkins, Pearl          Wed, Jan  8, 2015       D27-24-03 
+ JB121S1267X2X873X  Civic        2015  16349  16455  Howard, Samantha        Mon, Jan 13, 2015       D27-24-05 
+ JG148F1177X2832B2  Insight      2015  24494  24390  Perkins, Pearl          Thu, Jan  9, 2015       D27-24-03 
+ JH151F1187X25XC84  Odyssey      2015  40665  44825  Shelton, Regina         Mon, Jan 13, 2015       D27-24-02 
+ JA111S1317X261X96  Accord       2015  21126  22480  Scott, Samuel           Wed, Jan  8, 2015       D27-24-06 
+ JB127S1367X23BA68  Civic        2015  16446  16655  Shelton, Regina         Mon, Jan 13, 2015       D27-24-02 
+ JH152SU197X21985X  Odyssey      2015  29452  30375  Perkins, Pearl          Tue, Jan 14, 2015       D27-24-03 
+ JH158S4107X23BA72  Odyssey      2015  39950  41375  Wright, Marion          Thu, Jan  9, 2015       D27-24-04 
+ JB127S1397X261XA4  Civic        2015  16268  16655  Perkins, Pearl          Mon, Jan 13, 2015       D27-24-03 
+ JH156S3157X22A966  Odyssey      2015  27877  30375  Wright, Marion          Thu, Jan  9, 2015       D27-24-04 
+ JC131F1177X22A968  CR-V         2015  30032  30995  Howard, Samantha        Tue, Jan 14, 2015       D27-24-05 
+ JA113SU367X24CB9X  Accord       2015  23620  23480  Howard, Samantha        Sat, Jan 11, 2015       D27-24-05 
+ JG148F1187X23BA82  Insight      2015  23218  24390  Scott, Samuel           Sun, Jan 12, 2015       D27-24-06 
+ JB127S1367X25XCA4  Civic        2015  15646  16655  Perkins, Pearl          Thu, Jan  9, 2015       D27-24-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ161FU142483AXX5  Pilot       2002  22677  42970  Shelton, Regina         Fri, Jan 10, 2015       D27-24-02 
+ JB127S1387X13AXX7  Civic        2015  16294  16655  Shelton, Regina         Sat, Jan 11, 2015       D27-24-02 
+ JB127S13232982559  Civic       2003  10605  16655  Wright, Marion          Thu, Jan  9, 2015       D27-24-04 
+ JE141F11421571581  Crosstour   2002  18932  37640  Scott, Samuel           Sun, Jan 12, 2015       D27-24-06 
+ JC132FU114X66X473  CR-V        2004  21496  31995  Howard, Samantha        Thu, Jan  9, 2015       D27-24-05 
+ JB129S1416X26X475  Civic       2006  19585  23055  Wright, Marion          Sun, Jan 12, 2015       D27-24-04 
+ JF146S11413P82697  Fit         2001  6410   16025  Perkins, Pearl          Sun, Jan 12, 2015       D27-24-03 
+ JB123H1555X129X39  Civic       2005  20919  27600  Scott, Samuel           Sun, Jan 12, 2015       D27-24-06 
+ JE145F4154X6826A1  Crosstour   2004  30281  46640  Howard, Samantha        Sat, Jan 11, 2015       D27-24-05 
+ JD137FU143X971593  CR-Z        2003  16216  25705  Howard, Samantha        Mon, Jan 13, 2015       D27-24-05 
+ JH155FU111183A155  Odyssey     2001  20564  47825  Shelton, Regina         Thu, Jan  9, 2015       D27-24-02 
+ JE144F3154143A157  Crosstour   2004  25161  38640  Howard, Samantha        Thu, Jan  9, 2015       D27-24-05 
+ JB127S1384146X489  Civic       2004  11403  16655  Hill, Rita              Mon, Jan 13, 2015       D27-24-01 
+ JH155FU132133A161  Odyssey     2002  25226  47825  Hill, Rita              Tue, Jan 14, 2015       D27-24-01 
+ JB123H15464729X53  Civic       2006  23267  27600  Wright, Marion          Thu, Jan  9, 2015       D27-24-04 
+ JH153FU132236X495  Odyssey     2002  24176  45825  Wright, Marion          Sat, Jan 11, 2015       D27-24-04 
+ JB127S1354X6X7B37  Civic       2004  11091  16655  Howard, Samantha        Wed, Jan  8, 2015       D27-24-05 
+ JF146S1115163A169  Fit         2005  12422  16025  Scott, Samuel           Sun, Jan 12, 2015       D27-24-06 
+ JH153FU12643826C1  Odyssey     2006  37560  45825  Shelton, Regina         Mon, Jan 13, 2015       D27-24-02 
+ JE141F113524826C3  Crosstour   2005  28288  37640  Hill, Rita              Mon, Jan 13, 2015       D27-24-01 
+ JB121S123439X7B45  Civic       2004  11271  16455  Howard, Samantha        Sat, Jan 11, 2015       D27-24-05 
+ JF146S1124346X4A7  Fit         2004  10688  16025  Scott, Samuel           Mon, Jan 13, 2015       D27-24-06 

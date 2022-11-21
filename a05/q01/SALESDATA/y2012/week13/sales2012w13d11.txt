@@ -1,0 +1,37 @@
+Dealer Name: Harrison Honda
+Address:     692 Sanders Ave
+             Port Kiln, SC
+Dealer ID:   11
+Owner:       Harrision, Owen
+Date:        Sat, Mar 25, 2012 thru Fri, Mar 31, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU104134BBAX  Odyssey      2012  44895  47825  Bishop, Joann           Tue, Mar 28, 2012       D11-10-05 
+ JC132FU10413X7762  CR-V         2012  31309  31995  Day, Jennifer           Fri, Mar 31, 2012       D11-10-06 
+ JF146S11041329984  Fit          2012  14992  16025  Lambert, Donna          Thu, Mar 30, 2012       D11-10-04 
+ JA116FU32413711X6  Accord       2012  33651  35930  Bishop, Joann           Mon, Mar 27, 2012       D11-10-05 
+ JB121S12A413X7768  Civic        2012  15214  16455  Burke, Derrick          Tue, Mar 28, 2012       D11-10-01 
+ JA111S1314133AAAX  Accord       2012  20522  22480  Burke, Derrick          Wed, Mar 29, 2012       D11-10-01 
+ JH155FU1A41329992  Odyssey      2012  43206  47825  Mason, Felicia          Wed, Mar 29, 2012       D11-10-02 
+ JD137FU1A41318884  CR-Z         2012  25239  25705  Burke, Derrick          Thu, Mar 30, 2012       D11-10-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU151296XB83  Odyssey     2009  19986  30375  Day, Jennifer           Sat, Mar 25, 2012       D11-10-06 
+ JC132FU17Y4371C95  CR-V        2008  19697  31995  Fields, Joan            Mon, Mar 27, 2012       D11-10-03 
+ JH157F313Y4P29747  Odyssey     2008  28272  45825  Burke, Derrick          Tue, Mar 28, 2012       D11-10-01 
+ JA1X1S1211X56XB89  Accord      2009  15850  24089  Mason, Felicia          Wed, Mar 29, 2012       D11-10-02 
+ JE145F411Y344B971  Crosstour   2008  27849  46640  Day, Jennifer           Thu, Mar 30, 2012       D11-10-06 
+ JH153FU133X829753  Odyssey     2011  37482  45825  Day, Jennifer           Tue, Mar 28, 2012       D11-10-06 
+ JD139F315W4918645  CR-Z        2006  10762  25705  Day, Jennifer           Thu, Mar 30, 2012       D11-10-06 
+ JH152SU1914382XB7  Odyssey     2009  19440  30375  Bishop, Joann           Tue, Mar 28, 2012       D11-10-05 
+ JC132FU111X94B979  CR-V        2009  21052  31995  Fields, Joan            Sat, Mar 25, 2012       D11-10-03 
+ JG148F11A3496XBA1  Insight     2011  20120  24390  Lambert, Donna          Mon, Mar 27, 2012       D11-10-04 
+ JC134F31AX336XBA3  CR-V        2007  16561  31995  Fields, Joan            Sun, Mar 26, 2012       D11-10-03 
+ JH152SU131X76XBA5  Odyssey     2009  19440  30375  Bishop, Joann           Thu, Mar 30, 2012       D11-10-05 
+ JD136F112W36X7547  CR-Z        2006  10332  24705  Lambert, Donna          Fri, Mar 31, 2012       D11-10-04 
+ JD136F1163184B989  CR-Z        2011  20375  24705  Burke, Derrick          Sat, Mar 25, 2012       D11-10-01 

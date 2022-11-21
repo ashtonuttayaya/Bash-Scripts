@@ -1,0 +1,43 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Mon, Apr  2, 2013 thru Sun, Apr  8, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1225144CC58  Civic        2013  15673  16455  Torres, Caroline        Fri, Apr  6, 2013       D34-30-01 
+ JH159F4195142AA4X  Odyssey      2013  51462  56825  Rice, Georgia           Wed, Apr  4, 2013       D34-30-03 
+ JD14AF4135144CC62  CR-Z         2013  32145  33705  Rodriquez, Jorge        Sat, Apr  7, 2013       D34-30-04 
+ JH158S4195142AA44  Odyssey      2013  39947  41375  Webb, Ken               Wed, Apr  4, 2013       D34-30-02 
+ JB127S1325144CC66  Civic        2013  16376  16655  Jensen, Bill            Tue, Apr  3, 2013       D34-30-06 
+ JE141F113514833A8  Crosstour    2013  36016  37640  Webb, Ken               Sat, Apr  7, 2013       D34-30-02 
+ JD139F3125141994X  CR-Z         2013  23873  25705  Webb, Ken               Sun, Apr  8, 2013       D34-30-02 
+ JD136F112514833B2  CR-Z         2013  23349  24705  Rice, Georgia           Thu, Apr  5, 2013       D34-30-03 
+ JD138FU115145XX84  CR-Z         2013  26819  27705  Jensen, Bill            Mon, Apr  2, 2013       D34-30-06 
+ JE143FU185145XX86  Crosstour    2013  38422  40640  Bennett, Michele        Fri, Apr  6, 2013       D34-30-05 
+ JD136F1155144CC78  CR-Z         2013  22715  24705  Webb, Ken               Mon, Apr  2, 2013       D34-30-02 
+ JA111S1315141995X  Accord       2013  20376  22480  Rodriquez, Jorge        Thu, Apr  5, 2013       D34-30-04 
+ JB129S143514X8842  Civic        2013  22306  23055  Rice, Georgia           Fri, Apr  6, 2013       D34-30-03 
+ JE141F1135144CC84  Crosstour    2013  36590  37640  Bennett, Michele        Sun, Apr  8, 2013       D34-30-05 
+ JH155FU17514X8846  Odyssey      2013  46075  47825  Rodriquez, Jorge        Sun, Apr  8, 2013       D34-30-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU152285X887  Odyssey     2010  30300  45825  Bennett, Michele        Tue, Apr  3, 2013       D34-30-05 
+ JG148F115XX772AA9  Insight     2007  9576   24390  Webb, Ken               Fri, Apr  6, 2013       D34-30-02 
+ JH157F3171454C781  Odyssey     2009  27495  45825  Bennett, Michele        Sun, Apr  8, 2013       D34-30-05 
+ JK169F410142X8343  Ridgeline   2009  35250  58750  Bennett, Michele        Tue, Apr  3, 2013       D34-30-05 
+ JH158S4131X83B675  Odyssey     2009  24825  41375  Bennett, Michele        Sat, Apr  7, 2013       D34-30-05 
+ JD136F11AX1P72AB7  CR-Z        2007  10429  24705  Torres, Caroline        Sun, Apr  8, 2013       D34-30-01 
+ JJ162FU13X2483BC9  Pilot       2007  19143  44970  Rodriquez, Jorge        Sun, Apr  8, 2013       D34-30-04 
+ JE143FU12Y412A571  Crosstour   2008  20207  40640  Rodriquez, Jorge        Mon, Apr  2, 2013       D34-30-04 
+ JH15AS11A229X8353  Odyssey     2010  19476  29375  Webb, Ken               Mon, Apr  2, 2013       D34-30-02 
+ JH156S31322472AC5  Odyssey     2010  20134  30375  Rodriquez, Jorge        Sun, Apr  8, 2013       D34-30-04 
+ JB127S1332372A577  Civic       2010  11107  16655  Webb, Ken               Sun, Apr  8, 2013       D34-30-02 
+ JC132FU1A34P3B689  CR-V        2011  23814  31995  Rodriquez, Jorge        Mon, Apr  2, 2013       D34-30-04 
+ JG149FU1422283B11  Insight     2010  16723  25190  Webb, Ken               Sun, Apr  8, 2013       D34-30-02 

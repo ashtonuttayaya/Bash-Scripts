@@ -1,0 +1,50 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Thu, Nov 19, 2010 thru Wed, Nov 25, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH157F31A24761A1X  Odyssey      2010  40784  45825  Martinez, Katherine     Wed, Nov 25, 2010       D33-29-04 
+ JE141F11824772B22  Crosstour    2010  35193  37640  Wells, Clayton          Thu, Nov 19, 2010       D33-29-01 
+ JA112F135247X8484  Accord       2010  31118  32930  Mitchell, John          Mon, Nov 23, 2010       D33-29-02 
+ JG149FU1624761A16  Insight      2010  23930  25190  Martinez, Katherine     Tue, Nov 24, 2010       D33-29-04 
+ JA115SU3024761A18  Accord       2010  22549  25480  Mitchell, John          Sat, Nov 21, 2010       D33-29-02 
+ JC131F11624761A2X  CR-V         2010  28050  30995  Martinez, Katherine     Mon, Nov 23, 2010       D33-29-04 
+ JB127S13824783C42  Civic        2010  14739  16655  Mitchell, John          Wed, Nov 25, 2010       D33-29-02 
+ JC131F11324783C44  CR-V         2010  28515  30995  Morgan, Milton          Tue, Nov 24, 2010       D33-29-03 
+ JB127S13A2474C8X6  Civic        2010  15822  16655  Martinez, Katherine     Fri, Nov 20, 2010       D33-29-04 
+ JB121S1212472A6B8  Civic        2010  15879  16455  Shelton, Adam           Fri, Nov 20, 2010       D33-29-05 
+ JC131F1152472A6CX  CR-V         2010  27740  30995  Martinez, Katherine     Thu, Nov 19, 2010       D33-29-04 
+ JA112F13224783C52  Accord       2010  31777  32930  Mitchell, John          Mon, Nov 23, 2010       D33-29-02 
+ JA1X4FU2424761A34  Accord       2010  31137  34030  Martinez, Katherine     Mon, Nov 23, 2010       D33-29-04 
+ JD139F3122472A6C6  CR-Z         2010  23905  25705  Mitchell, John          Tue, Nov 24, 2010       D33-29-02 
+ JA117S3382472A6C8  Accord       2010  21953  23480  Shelton, Adam           Sun, Nov 22, 2010       D33-29-05 
+ JB129S14A247X851X  Civic        2010  22017  23055  Martinez, Katherine     Fri, Nov 20, 2010       D33-29-04 
+ JB121S123247X8512  Civic        2010  15467  16455  Shelton, Adam           Wed, Nov 25, 2010       D33-29-05 
+ JA1X8F323247X8514  Accord       2010  33009  34030  Mitchell, John          Thu, Nov 19, 2010       D33-29-02 
+ JB121S12224783X96  Civic        2010  15385  16455  Mitchell, John          Sun, Nov 22, 2010       D33-29-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU15X344B375  Odyssey     2007  29856  45825  Shelton, Adam           Mon, Nov 23, 2010       D33-29-05 
+ JH151F113X333A267  Odyssey     2007  29198  44825  Mitchell, John          Sat, Nov 21, 2010       D33-29-02 
+ JB127S130Y153A269  Civic       2008  12059  16655  Morgan, Milton          Sun, Nov 22, 2010       D33-29-03 
+ JH153FU15X433A271  Odyssey     2007  28223  45825  Shelton, Adam           Wed, Nov 25, 2010       D33-29-05 
+ JG148F115X326X5A3  Insight     2007  15752  24390  Morgan, Milton          Sun, Nov 22, 2010       D33-29-03 
+ JH155FU11VX43A275  Odyssey     2005  23462  47825  Shelton, Adam           Tue, Nov 24, 2010       D33-29-05 
+ JJ164F410V5P29167  Pilot       2005  27861  53970  Martinez, Katherine     Sat, Nov 21, 2010       D33-29-04 
+ JB129S14423129169  Civic        2010  21068  23055  Wells, Clayton          Sat, Nov 21, 2010       D33-29-01 
+ JH151F11AW333A281  Odyssey     2006  26490  44825  Shelton, Adam           Tue, Nov 24, 2010       D33-29-05 
+ JB127S133W2P29173  Civic       2006  9588   16655  Shelton, Adam           Thu, Nov 19, 2010       D33-29-05 
+ JE141F118WX73A285  Crosstour   2006  22918  37640  Morgan, Milton          Wed, Nov 25, 2010       D33-29-03 
+ JK166FU16Y1629177  Ridgeline   2008  34218  47750  Shelton, Adam           Thu, Nov 19, 2010       D33-29-05 
+ JH151F11621P18X69  Odyssey      2010  40770  44825  Shelton, Adam           Fri, Nov 20, 2010       D33-29-05 
+ JH157F310WX629181  Odyssey     2006  27090  45825  Shelton, Adam           Sun, Nov 22, 2010       D33-29-05 
+ JB127S130X2P716X3  Civic       2007  10662  16655  Wells, Clayton          Fri, Nov 20, 2010       D33-29-01 
+ JH15AS118X293A295  Odyssey     2007  19032  29375  Wells, Clayton          Tue, Nov 24, 2010       D33-29-01 

@@ -1,0 +1,55 @@
+Dealer Name: Olson Honda
+Address:     3074 Davison Highway
+             Norbert, FL
+Dealer ID:   15
+Owner:       Olson, Howard
+Date:        Sat, Oct 14, 2012 thru Fri, Oct 20, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1274427138X  Civic        2012  16059  16455  Gardner, Joan           Mon, Oct 16, 2012       D15-14-09 
+ JB121S1234426X272  Civic        2012  15806  16455  Gardner, Joan           Sun, Oct 15, 2012       D15-14-09 
+ JB129S14444218A24  Civic        2012  21036  23055  Bowman, Joan            Wed, Oct 18, 2012       D15-14-03 
+ JB129S1484425C166  Civic        2012  21624  23055  Shelton, Monica         Wed, Oct 18, 2012       D15-14-06 
+ JA1X3SU28442X7918  Accord       2012  24262  25089  Bowman, Joan            Sun, Oct 15, 2012       D15-14-03 
+ JB121S121442824AX  Civic        2012  15468  16455  Hall, Willie            Tue, Oct 17, 2012       D15-14-08 
+ JB121S122442824A2  Civic        2012  15552  16455  Gardner, Joan           Sat, Oct 14, 2012       D15-14-09 
+ JB121S124442X7924  Civic        2012  15129  16455  Gardner, Joan           Fri, Oct 20, 2012       D15-14-09 
+ JD137FU1444271396  CR-Z         2012  24716  25705  Bowman, Joan            Mon, Oct 16, 2012       D15-14-03 
+ JB129S14044229B48  Civic        2012  22329  23055  Elliott, Jacqueline     Thu, Oct 19, 2012       D15-14-01 
+ JD137FU1044229B5X  CR-Z         2012  24978  25705  Elliott, Jacqueline     Sun, Oct 15, 2012       D15-14-01 
+ JH153FU154425C182  Odyssey      2012  41647  45825  Gonzales, Natalie       Thu, Oct 19, 2012       D15-14-04 
+ JB127S133442713A4  Civic        2012  15308  16655  Bowman, Joan            Sat, Oct 14, 2012       D15-14-03 
+ JB121S120442X7936  Civic        2012  14960  16455  Ramos, Maxine           Thu, Oct 19, 2012       D15-14-05 
+ JH158S418442X7938  Odyssey      2012  37224  41375  Hall, Willie            Mon, Oct 16, 2012       D15-14-08 
+ JC133FU12442824CX  CR-V         2012  33239  33995  Murphy, Kelly           Mon, Oct 16, 2012       D15-14-07 
+ JB121S12844229B62  Civic        2012  14876  16455  Murphy, Kelly           Sun, Oct 15, 2012       D15-14-07 
+ JC131F1184425C194  CR-V         2012  29715  30995  Gardner, Joan           Sat, Oct 14, 2012       D15-14-09 
+ JC131F1174426X2A6  CR-V         2012  28929  30995  Gardner, Joan           Sat, Oct 14, 2012       D15-14-09 
+ JA115SU35442X7948  Accord       2012  23855  25480  Hall, Willie            Wed, Oct 18, 2012       D15-14-08 
+ JK166FU11442824XX  Ridgeline    2012  45549  47750  Ramos, Maxine           Thu, Oct 19, 2012       D15-14-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU1525P29871  Odyssey     2010  21603  30375  Gonzales, Natalie       Wed, Oct 18, 2012       D15-14-04 
+ JB128SU344216XCB3  Civic        2012  16317  17455  Gardner, Joan           Thu, Oct 19, 2012       D15-14-09 
+ JC131F11123929875  CR-V        2010  22478  30995  Bowman, Joan            Wed, Oct 18, 2012       D15-14-03 
+ JH157F314XX7821X7  Odyssey     2007  21553  45825  Bowman, Joan            Mon, Oct 16, 2012       D15-14-03 
+ JJ163F31412218769  Pilot       2009  28274  42970  Ramos, Maxine           Sat, Oct 14, 2012       D15-14-05 
+ JH154SU1AY165CBB1  Odyssey     2008  19290  32375  Elliott, Jacqueline     Wed, Oct 18, 2012       D15-14-01 
+ JK168F317341X7663  Ridgeline   2011  39042  47750  Gardner, Joan           Mon, Oct 16, 2012       D15-14-09 
+ JH15AS110Y294BAA5  Odyssey     2008  17490  29375  Ramos, Maxine           Wed, Oct 18, 2012       D15-14-05 
+ JH15AS118Y2382117  Odyssey     2008  17490  29375  Murphy, Kelly           Thu, Oct 19, 2012       D15-14-07 
+ JB127S13232P71XX9  Civic       2011  13855  16655  Gonzales, Natalie       Sat, Oct 14, 2012       D15-14-04 
+ JB121S1232376XCX1  Civic       2010  12243  16455  Elliott, Jacqueline     Fri, Oct 20, 2012       D15-14-01 
+ JJ163F313Y4282123  Pilot       2008  26501  42970  Woods, Tommy            Tue, Oct 17, 2012       D15-14-02 
+ JE141F1151463A9A5  Crosstour   2009  24089  37640  Bowman, Joan            Sat, Oct 14, 2012       D15-14-03 
+ JH151F119Y29X7677  Odyssey     2008  27652  44825  Hall, Willie            Tue, Oct 17, 2012       D15-14-08 
+ JH152SU183X371X19  Odyssey     2011  24968  30375  Hall, Willie            Mon, Oct 16, 2012       D15-14-08 
+ JB121S126W1382131  Civic       2006  6785   16455  Hall, Willie            Thu, Oct 19, 2012       D15-14-08 
+ JB127S1391X471X23  Civic       2009  10958  16655  Hall, Willie            Mon, Oct 16, 2012       D15-14-08 
+ JB127S136Y525CBX5  Civic       2008  10186  16655  Elliott, Jacqueline     Sat, Oct 14, 2012       D15-14-01 
+ JB123H1591X34BAC7  Civic       2009  18160  27600  Bowman, Joan            Sat, Oct 14, 2012       D15-14-03 

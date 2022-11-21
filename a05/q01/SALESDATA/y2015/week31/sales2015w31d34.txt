@@ -1,0 +1,51 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Wed, Jul 30, 2015 thru Tue, Aug  5, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU13731725X4  Odyssey      2015  30240  30375  Bennett, Michele        Fri, Aug  1, 2015       D34-30-05 
+ JD136F116731X8B66  CR-Z         2015  23505  24705  Rice, Georgia           Sat, Aug  2, 2015       D34-30-03 
+ JB129S1477314C2A8  Civic        2015  22850  23055  Rice, Georgia           Tue, Aug  5, 2015       D34-30-03 
+ JB123H154731X8B7X  Civic        2015  26570  27600  Jensen, Bill            Sat, Aug  2, 2015       D34-30-06 
+ JB127S1327315X3C2  Civic        2015  16713  16655  Torres, Caroline        Wed, Jul 30, 2015       D34-30-01 
+ JH153FU117315X3C4  Odyssey      2015  44133  45825  Jensen, Bill            Fri, Aug  1, 2015       D34-30-06 
+ JA111S1307313B1A6  Accord       2015  22542  22480  Rodriquez, Jorge        Thu, Jul 31, 2015       D34-30-04 
+ JC135F41173183628  CR-V         2015  39269  39995  Jensen, Bill            Sun, Aug  3, 2015       D34-30-06 
+ JB123H15573119C9X  Civic        2015  27432  27600  Rodriquez, Jorge        Mon, Aug  4, 2015       D34-30-04 
+ JA111S13273172522  Accord       2015  21008  22480  Bennett, Michele        Tue, Aug  5, 2015       D34-30-05 
+ JH151F1147312AXA4  Odyssey      2015  41125  44825  Webb, Ken               Sun, Aug  3, 2015       D34-30-02 
+ JG148F11373161416  Insight      2015  22580  24390  Jensen, Bill            Thu, Jul 31, 2015       D34-30-06 
+ JJ162FU187314C2C8  Pilot        2015  41485  44970  Rodriquez, Jorge        Fri, Aug  1, 2015       D34-30-04 
+ JC131F1197317253X  CR-V         2015  28426  30995  Jensen, Bill            Sat, Aug  2, 2015       D34-30-06 
+ JA1X1S12373172532  Accord       2015  23575  24089  Rice, Georgia           Thu, Jul 31, 2015       D34-30-03 
+ JB121S1237312AXB4  Civic        2015  16964  16455  Rodriquez, Jorge        Fri, Aug  1, 2015       D34-30-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB125G16841483B53  Civic       2004  19200  28505  Bennett, Michele        Sun, Aug  3, 2015       D34-30-05 
+ JH15AS11633483B55  Odyssey     2003  18491  29375  Torres, Caroline        Tue, Aug  5, 2015       D34-30-01 
+ JH154SU16713194B7  Odyssey      2015  30352  32375  Bennett, Michele        Mon, Aug  4, 2015       D34-30-05 
+ JB127S1313X6194B9  Civic       2003  10263  16655  Webb, Ken               Fri, Aug  1, 2015       D34-30-02 
+ JC131F11151761A71  CR-V        2005  22964  30995  Rodriquez, Jorge        Sat, Aug  2, 2015       D34-30-04 
+ JB121S12832361A73  Civic       2003  10481  16455  Jensen, Bill            Mon, Aug  4, 2015       D34-30-06 
+ JE141F11342P5X965  Crosstour   2004  25211  37640  Rice, Georgia           Sat, Aug  2, 2015       D34-30-03 
+ JG148F11263PX8417  Insight     2006  20667  24390  Rice, Georgia           Sat, Aug  2, 2015       D34-30-03 
+ JB127S13314P19529  Civic       2001  7161   16655  Rodriquez, Jorge        Mon, Aug  4, 2015       D34-30-04 
+ JB121S12141P83CA1  Civic       2004  11271  16455  Rice, Georgia           Tue, Aug  5, 2015       D34-30-03 
+ JH152SU134X461A83  Odyssey     2004  19872  30375  Bennett, Michele        Sat, Aug  2, 2015       D34-30-05 
+ JC132FU125165X975  CR-V        2005  24144  31995  Rice, Georgia           Tue, Aug  5, 2015       D34-30-03 
+ JE141F11A41P2A647  Crosstour   2004  24521  37640  Torres, Caroline        Sun, Aug  3, 2015       D34-30-01 
+ JH15AS1134143B759  Odyssey     2004  19772  29375  Torres, Caroline        Tue, Aug  5, 2015       D34-30-01 
+ JD136F1164254C871  CR-Z        2004  16700  24705  Rice, Georgia           Fri, Aug  1, 2015       D34-30-03 
+ JC131F113445X8433  CR-V        2004  20838  30995  Jensen, Bill            Fri, Aug  1, 2015       D34-30-06 
+ JH153FU1534772BA5  Odyssey     2003  28690  45825  Torres, Caroline        Fri, Aug  1, 2015       D34-30-01 
+ JG148F1174X261A97  Insight     2004  16041  24390  Torres, Caroline        Sat, Aug  2, 2015       D34-30-01 
+ JA117S3385394C879  Accord      2005  17894  23480  Rice, Georgia           Sat, Aug  2, 2015       D34-30-03 
+ JB121S12A7245X991  Civic        2015  16113  16455  Rodriquez, Jorge        Thu, Jul 31, 2015       D34-30-04 

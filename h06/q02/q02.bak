@@ -1,0 +1,7 @@
+#!/bin/bash
+#
+user="invalid_username"		# change to the mysql username you created
+pass="invalid_password"		# change to the mysql password you created
+
+mysql -u $user -p$pass < createdb.sql > q02.txt 2>/dev/null
+

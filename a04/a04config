@@ -1,0 +1,35 @@
+#
+#	Getting root access to mysql
+#
+q01 type ac
+q01 start a01.bak a01.txt check01.sh 
+q01 submit
+q01 clean check01.txt script01.txt
+#
+#	Creating user accounts in mysql
+#
+q02 type ac
+q02 start a02.bak a02.txt check02.sh
+q02 submit
+q02 clean script02.txt check02.txt
+#
+#	Creating the database insert files
+#
+q03 type ac
+q03 start a03.bak a03.txt check03.sh
+q03 submit
+q03 clean script03.txt check03.txt
+#
+#	Automating the data file checking routines
+#
+q04 type sc
+q04 start a04.bak a04.txt check04.sh link_data.sh
+q04 submit
+q04 clean q04.sh script04.txt check04.txt agents.sql owners.sql dealers.sql SALESDATA
+#
+#	Automating the mysql data checking routines
+#
+q05 type ac
+q05 start a05.bak a05.txt check05.sh
+q05 submit q05.sql q05.txt
+q05 clean q05.sql q05.txt script05.txt check05.txt

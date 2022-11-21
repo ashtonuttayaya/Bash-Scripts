@@ -1,0 +1,60 @@
+Dealer Name: Walker Honda
+Address:     1240 Harrison Ave
+             Port Kiln, SC
+Dealer ID:   10
+Owner:       Walker, Shelly
+Date:        Tue, Oct 22, 2014 thru Mon, Oct 28, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12064382396  Civic        2014  15272  16455  Wright, Emma            Wed, Oct 23, 2014       D10-07-04 
+ JB127S1366433AB48  Civic        2014  15623  16655  Fields, Roland          Wed, Oct 23, 2014       D10-07-02 
+ JA1X3SU256433AB5X  Accord       2014  24819  25089  Wright, Emma            Sat, Oct 26, 2014       D10-07-04 
+ JC131F11064318932  CR-V         2014  28546  30995  Marshall, Allan         Mon, Oct 28, 2014       D10-07-01 
+ JB127S13A6436X184  Civic        2014  15711  16655  Gardner, Salvador       Sat, Oct 26, 2014       D10-07-03 
+ JA111S1396434BC66  Accord       2014  22678  22480  Gardner, Salvador       Tue, Oct 22, 2014       D10-07-03 
+ JA111S130643823A8  Accord       2014  20691  22480  Gardner, Salvador       Fri, Oct 25, 2014       D10-07-03 
+ JA115SU3A643X783X  Accord       2014  25061  25480  Fields, Roland          Sun, Oct 27, 2014       D10-07-02 
+ JB121S124643823B2  Civic        2014  16574  16455  Alvarez, David          Sat, Oct 26, 2014       D10-07-06 
+ JB127S1386435CX84  Civic        2014  15711  16655  Fields, Roland          Mon, Oct 28, 2014       D10-07-02 
+ JD136F1126436X196  CR-Z         2014  23940  24705  Gardner, Salvador       Sat, Oct 26, 2014       D10-07-03 
+ JE141F11164318948  Crosstour    2014  36227  37640  Alvarez, David          Sun, Oct 27, 2014       D10-07-06 
+ JH159F412643X784X  Odyssey      2014  51375  56825  Alvarez, David          Tue, Oct 22, 2014       D10-07-06 
+ JB129S14A6433AB72  Civic        2014  22877  23055  Wright, Emma            Tue, Oct 22, 2014       D10-07-04 
+ JD137FU166436X1A4  CR-Z         2014  23944  25705  Marshall, Allan         Tue, Oct 22, 2014       D10-07-01 
+ JB127S139643712B6  Civic        2014  16326  16655  Marshall, Allan         Fri, Oct 25, 2014       D10-07-01 
+ JC131F1166433AB78  CR-V         2014  30938  30995  Marshall, Allan         Sun, Oct 27, 2014       D10-07-01 
+ JB127S138643X785X  Civic        2014  16501  16655  Wright, Emma            Wed, Oct 23, 2014       D10-07-04 
+ JB122SU246433AB82  Civic        2014  17065  17255  Gardner, Salvador       Wed, Oct 23, 2014       D10-07-03 
+ JA1X3SU26643712C4  Accord       2014  23779  25089  Gardner, Salvador       Tue, Oct 22, 2014       D10-07-03 
+ JC134F31064318966  CR-V         2014  31743  31995  Ross, Darren            Thu, Oct 24, 2014       D10-07-05 
+ JB129S14864329A78  Civic        2014  23116  23055  Marshall, Allan         Tue, Oct 22, 2014       D10-07-01 
+ JD136F1156431897X  CR-Z         2014  23940  24705  Alvarez, David          Sat, Oct 26, 2014       D10-07-06 
+ JH152SU12643X7862  Odyssey      2014  29242  30375  Fields, Roland          Thu, Oct 24, 2014       D10-07-02 
+ JB121S124643X7864  Civic        2014  16053  16455  Wright, Emma            Sun, Oct 27, 2014       D10-07-04 
+ JH152SU1064382316  Odyssey      2014  27678  30375  Wright, Emma            Sun, Oct 27, 2014       D10-07-04 
+ JB127S13064318978  Civic        2014  15711  16655  Marshall, Allan         Sun, Oct 27, 2014       D10-07-01 
+ JA113SU326434BCBX  Accord       2014  23404  23480  Gardner, Salvador       Fri, Oct 25, 2014       D10-07-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU143374B8C3  CR-V        2003  22664  33995  Marshall, Allan         Sun, Oct 27, 2014       D10-07-01 
+ JG148F11554671B25  Insight     2005  20484  24390  Alvarez, David          Sat, Oct 26, 2014       D10-07-06 
+ JG148F11333171B27  Insight     2003  16344  24390  Wright, Emma            Thu, Oct 24, 2014       D10-07-04 
+ JB127S1372X182C39  Civic       2002  10465  16655  Wright, Emma            Tue, Oct 22, 2014       D10-07-04 
+ JD136F1174493A7C1  CR-Z        2004  18628  24705  Wright, Emma            Thu, Oct 24, 2014       D10-07-04 
+ JC131F11A2253A7C3  CR-V        2002  18732  30995  Alvarez, David          Mon, Oct 28, 2014       D10-07-06 
+ JE141F11034471B35  Crosstour   2003  24377  37640  Wright, Emma            Sat, Oct 26, 2014       D10-07-04 
+ JH154SU15328X7497  Odyssey     2003  21598  32375  Marshall, Allan         Wed, Oct 23, 2014       D10-07-01 
+ JH154SU15412185A9  Odyssey     2004  23796  32375  Fields, Roland          Sun, Oct 27, 2014       D10-07-02 
+ JH151F1103X24B811  Odyssey     2003  28976  44825  Alvarez, David          Thu, Oct 24, 2014       D10-07-06 
+ JE141F1153X73A7X3  Crosstour   2003  24377  37640  Ross, Darren            Tue, Oct 22, 2014       D10-07-05 
+ JB129S1482163A7X5  Civic       2002  13968  23055  Wright, Emma            Sun, Oct 27, 2014       D10-07-04 
+ JH153FU163164B817  Odyssey     2003  29616  45825  Ross, Darren            Tue, Oct 22, 2014       D10-07-05 
+ JC131F1123424B819  CR-V        2003  20690  30995  Gardner, Salvador       Wed, Oct 23, 2014       D10-07-03 
+ JB121S1231316XB71  Civic       2001  8638   16455  Ross, Darren            Sat, Oct 26, 2014       D10-07-05 
+ JC133FU173X918623  CR-V        2003  22044  33995  Marshall, Allan         Mon, Oct 28, 2014       D10-07-01 
+ JH159F4122X882X95  Odyssey     2002  34230  56825  Gardner, Salvador       Mon, Oct 28, 2014       D10-07-03 

@@ -1,0 +1,8 @@
+Looking for bin directory
+           OK - bin directory                                   chxq02-A1
+           OK - decode.sh                                       chxq02-B1
+
+Checking results.txt
+           OK - decode.sh run from bin                          chxq02-C1
+           OK - results.txt content                             chxq02-D1
+

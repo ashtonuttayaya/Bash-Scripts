@@ -1,0 +1,1 @@
+/home/n_autty/class/a07/q04/check04.sh

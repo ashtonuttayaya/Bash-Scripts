@@ -1,0 +1,62 @@
+Dealer Name: Ed's Honda One
+Address:     7243 Lee Road
+             Clarksville, NC
+Dealer ID:   2
+Owner:       Tipton, Ed
+Date:        Thu, Nov  5, 2010 thru Wed, Nov 11, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X1S123245X738X  Accord       2010  21680  24089  Watson, Peggy           Sat, Nov  7, 2010       D02-02-01 
+ JD137FU1324571A22  CR-Z         2010  22748  25705  Shelton, Judith         Sun, Nov  8, 2010       D02-02-03 
+ JB127S1392455C8X4  Civic        2010  16072  16655  Watson, Peggy           Wed, Nov 11, 2010       D02-02-01 
+ JC131F118245X7386  CR-V         2010  28670  30995  Shelton, Marion         Sun, Nov  8, 2010       D02-02-04 
+ JB121S1252455C8X8  Civic        2010  15220  16455  Shelton, Marion         Sun, Nov  8, 2010       D02-02-04 
+ JA1X8F32124582B4X  Accord       2010  30797  34030  Shelton, Judith         Wed, Nov 11, 2010       D02-02-03 
+ JD137FU142456X922  CR-Z         2010  24548  25705  Moore, Carla            Tue, Nov 10, 2010       D02-02-02 
+ JA111S1322454B7X4  Accord       2010  20569  22480  Watson, Peggy           Mon, Nov  9, 2010       D02-02-01 
+ JB123H1562456X926  Civic        2010  24840  27600  Simpson, Greg           Tue, Nov 10, 2010       D02-02-05 
+ JB121S1212454B7X8  Civic        2010  14974  16455  Shelton, Marion         Tue, Nov 10, 2010       D02-02-04 
+ JC132FU112455C82X  CR-V         2010  28475  31995  Watson, Peggy           Sat, Nov  7, 2010       D02-02-01 
+ JB127S138245184B2  Civic        2010  15072  16655  Moore, Carla            Sun, Nov  8, 2010       D02-02-02 
+ JB127S13724571A44  Civic        2010  14989  16655  Shelton, Judith         Thu, Nov  5, 2010       D02-02-03 
+ JC131F11224571A46  CR-V         2010  27430  30995  Shelton, Judith         Sun, Nov  8, 2010       D02-02-03 
+ JH152SU11245X73A8  Odyssey      2010  26881  30375  Snyder, Pauline         Sat, Nov  7, 2010       D02-02-06 
+ JA1X2F1202451852X  Accord       2010  29066  33030  Shelton, Marion         Wed, Nov 11, 2010       D02-02-04 
+ JB127S13424582C92  Civic        2010  14989  16655  Snyder, Pauline         Sat, Nov  7, 2010       D02-02-06 
+ JB121S12024529634  Civic        2010  14974  16455  Moore, Carla            Mon, Nov  9, 2010       D02-02-02 
+ JC131F1192454B856  CR-V         2010  28825  30995  Snyder, Pauline         Tue, Nov 10, 2010       D02-02-06 
+ JC132FU1A24571B88  CR-V         2010  30235  31995  Snyder, Pauline         Wed, Nov 11, 2010       D02-02-06 
+ JA116FU372456XA8X  Accord       2010  33414  35930  Shelton, Marion         Mon, Nov  9, 2010       D02-02-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH154SU16X36X7339  Odyssey     2007  21006  32375  Shelton, Judith         Fri, Nov  6, 2010       D02-02-03 
+ JD136F114W345C891  CR-Z        2006  14898  24705  Snyder, Pauline         Tue, Nov 10, 2010       D02-02-06 
+ JH152SU13Y256X9A3  Odyssey     2008  21708  30375  Shelton, Judith         Thu, Nov  5, 2010       D02-02-03 
+ JJ162FU11W4829565  Pilot       2006  27462  44970  Watson, Peggy           Sun, Nov  8, 2010       D02-02-01 
+ JC131F114X4529567  CR-V        2007  20098  30995  Watson, Peggy           Wed, Nov 11, 2010       D02-02-01 
+ JB129S140126X7349  Civic       2009  18674  23055  Snyder, Pauline         Sat, Nov  7, 2010       D02-02-06 
+ JE142FU10T4318461  Crosstour   2004  15006  38640  Shelton, Marion         Mon, Nov  9, 2010       D02-02-04 
+ JH155FU14W22X7353  Odyssey     2006  29233  47825  Moore, Carla            Thu, Nov  5, 2010       D02-02-02 
+ JD138FU1AW513A685  CR-Z        2006  16758  27705  Snyder, Pauline         Tue, Nov 10, 2010       D02-02-06 
+ JA115SU38W3282BX7  Accord      2006  15379  25480  Shelton, Marion         Tue, Nov 10, 2010       D02-02-04 
+ JH156S313XX829579  Odyssey     2007  26932  30375  Snyder, Pauline         Thu, Nov  5, 2010       D02-02-06 
+ JH152SU19W4829581  Odyssey     2006  17226  30375  Simpson, Greg           Sun, Nov  8, 2010       D02-02-05 
+ JD14AF414X516X9C3  CR-Z        2007  21881  33705  Shelton, Marion         Thu, Nov  5, 2010       D02-02-04 
+ JG148F110X384B7A5  Insight     2007  15321  24390  Watson, Peggy           Thu, Nov  5, 2010       D02-02-01 
+ JC131F118X4P3A697  CR-V        2007  20098  30995  Watson, Peggy           Mon, Nov  9, 2010       D02-02-01 
+ JK166FU15X37X7369  Ridgeline   2007  31123  47750  Shelton, Judith         Mon, Nov  9, 2010       D02-02-03 
+ JH152SU12W234B7B1  Odyssey     2006  17820  30375  Watson, Peggy           Fri, Nov  6, 2010       D02-02-01 
+ JK165F111VX918483  Ridgeline   2005  22925  46750  Watson, Peggy           Mon, Nov  9, 2010       D02-02-01 
+ JH15AS116X38X7375  Odyssey     2007  17991  29375  Shelton, Marion         Mon, Nov  9, 2010       D02-02-04 
+ JC131F1181425C8C7  CR-V        2009  25105  30995  Shelton, Marion         Wed, Nov 11, 2010       D02-02-04 
+ JB123H150Y4118489  Civic       2008  20093  27600  Shelton, Marion         Fri, Nov  6, 2010       D02-02-04 
+ JH153FU141X871A21  Odyssey     2009  37118  45825  Simpson, Greg           Tue, Nov 10, 2010       D02-02-05 
+ JC135F4132X8295A3  CR-V         2010  36198  39995  Moore, Carla            Tue, Nov 10, 2010       D02-02-02 
+ JJ161FU16Y41X7385  Pilot       2008  30776  42970  Shelton, Judith         Sun, Nov  8, 2010       D02-02-03 
+ JH159F41AW3218497  Odyssey     2006  32566  56825  Shelton, Marion         Mon, Nov  9, 2010       D02-02-04 
+ JH153FU18W4518499  Odyssey     2006  26187  45825  Snyder, Pauline         Tue, Nov 10, 2010       D02-02-06 

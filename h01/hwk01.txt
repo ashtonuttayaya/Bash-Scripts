@@ -1,0 +1,166 @@
+Homework 1: submission file hwk01.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Thursday, Sep 2, 2021
+    Time:    14:32
+    USID:    50H2U#O0D4WatmNv4{h1J2c0O2T%ayat6tCudaW_yn4!u2q3e:H4N1i*vaHyGasygantUt8Ue}u1q0MhN@npHeQSj-znMoxtuhNs5A
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a01.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE 
+            
+            END OF QUESTION 1: This unedited file contains 284 characters.
+
+        End output of a01.txt
+
+
+        Start output of check01.txt
+            Checking your directory structure and files
+                       OK - Directory structure                             chxq01-A1
+            
+            Checking files
+                       OK - Required files present                          chxq01-B1
+            
+
+        End output of check01.txt
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: True or False
+            
+            Please do NOT delete any characters in this file. The file a02.bak contains
+            a backup copy of this file. Enter either T or F after each of the letters
+            below. Refer to your printed question for details.
+            
+            A. F
+            
+            B. T
+            
+            C. F
+            
+            D. F
+            
+            E. T
+            
+            END OF QUESTION 2: This unedited file contains 317 characters.
+
+        End output of a02.txt
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: True or False
+            
+            Please do NOT delete any characters in this file. The file a03.bak contains
+            a backup copy of this file. Enter either T or F after each of the letters
+            below. Refer to your printed question for details.
+            
+            A. T 
+            
+            B. T
+            
+            C. F
+            
+            D. F
+            
+            E. T
+            
+            END OF QUESTION 3: This unedited file contains 317 characters.
+
+        End output of a03.txt
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a04.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. Resource
+            
+            B. Process
+            
+            C. Resource
+            
+            D. Resource
+            
+            E. Process
+            
+            END OF QUESTION 4: This unedited file contains 330 characters.
+
+        End output of a04.txt
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: True or False
+            
+            Please do NOT delete any characters in this file. The file a05.bak contains
+            a backup copy of this file. Enter either T or F after each of the letters
+            below. Refer to your printed question for details.
+            
+            A. T
+            
+            B. T
+            
+            C. F
+            
+            D. T
+            
+            E. F
+            
+            END OF QUESTION 5: This unedited file contains 317 characters.
+
+        End output of a05.txt
+
+    All files found for question 5.
+END QUESTION 5
+
+    Begin summary of file submissions
+        Files needed  = 6
+        Files found   = 6
+        Files missing = 0
+    End summary of file submissions
+
+    Begin summary of question checks
+        Question 1: Correct!         a01.txt - 1 of 1 correct, check01.sh gets correct answer, all files present.
+        Question 2: Correct!         a02.txt - 5 of 5 correct, all files present.
+        Question 3: Correct!         a03.txt - 5 of 5 correct, all files present.
+        Question 4: Correct!         a04.txt - 5 of 5 correct, all files present.
+        Question 5: Correct!         a05.txt - 5 of 5 correct, all files present.
+    Good job! You got all 5 questions right
+    End summary of question checks
+
+Homework 1: submission file hwk01.txt completed

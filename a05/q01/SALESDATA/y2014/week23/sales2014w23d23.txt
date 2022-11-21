@@ -1,0 +1,56 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Tue, Jun  4, 2014 thru Mon, Jun 10, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1296235X8X8  Civic        2014  15619  16455  Garrett, Edna           Fri, Jun  7, 2014       D23-21-06 
+ JE141F113623194AX  Crosstour    2014  36034  37640  Payne, Calvin           Fri, Jun  7, 2014       D23-21-03 
+ JH157F3106235X812  Odyssey      2014  43921  45825  Payne, Calvin           Fri, Jun  7, 2014       D23-21-03 
+ JB129S14062372A34  Civic        2014  22877  23055  Jenkins, Corey          Mon, Jun 10, 2014       D23-21-01 
+ JB127S139623X8396  Civic        2014  16238  16655  Jenkins, Corey          Sun, Jun  9, 2014       D23-21-01 
+ JA1X7S3296233B6C8  Accord       2014  24169  25089  Holland, Mitchell       Fri, Jun  7, 2014       D23-21-05 
+ JB127S1346235X82X  Civic        2014  16940  16655  Baker, Mark             Mon, Jun 10, 2014       D23-21-02 
+ JB127S138623194B2  Civic        2014  15623  16655  Jenkins, Corey          Fri, Jun  7, 2014       D23-21-01 
+ JC131F1136233B6X4  CR-V         2014  28227  30995  Jenkins, Corey          Mon, Jun 10, 2014       D23-21-01 
+ JG148F114623X83A6  Insight      2014  23140  24390  Garrett, Edna           Thu, Jun  6, 2014       D23-21-06 
+ JJ163F31A6234C718  Pilot        2014  41457  42970  Payne, Calvin           Thu, Jun  6, 2014       D23-21-03 
+ JH151F1156233B74X  Odyssey      2014  43896  44825  Payne, Calvin           Sun, Jun  9, 2014       D23-21-03 
+ JH15AS1116235X962  Odyssey      2014  27247  29375  Payne, Calvin           Sun, Jun  9, 2014       D23-21-03 
+ JA112F139623X8414  Accord       2014  30785  32930  Garrett, Edna           Thu, Jun  6, 2014       D23-21-06 
+ JE141F11862361A76  Crosstour    2014  35264  37640  Baker, Mark             Sat, Jun  8, 2014       D23-21-02 
+ JG149FU1162383C98  Insight      2014  23611  25190  Holland, Mitchell       Tue, Jun  4, 2014       D23-21-05 
+ JA111S1326233B75X  Accord       2014  21626  22480  Payne, Calvin           Thu, Jun  6, 2014       D23-21-03 
+ JH151F119623X8422  Odyssey      2014  42981  44825  Baker, Mark             Sat, Jun  8, 2014       D23-21-02 
+ JE141F119623X8424  Crosstour    2014  36998  37640  Payne, Calvin           Wed, Jun  5, 2014       D23-21-03 
+ JD136F1166234C866  CR-Z         2014  23300  24705  Baker, Mark             Sun, Jun  9, 2014       D23-21-02 
+ JD136F11A6234C868  CR-Z         2014  24068  24705  Jenkins, Corey          Mon, Jun 10, 2014       D23-21-01 
+ JK166FU1962361A9X  Ridgeline    2014  44514  47750  Holland, Mitchell       Sat, Jun  8, 2014       D23-21-05 
+ JB121S128623X8432  Civic        2014  16053  16455  Holland, Mitchell       Sat, Jun  8, 2014       D23-21-05 
+ JA111S13A623X8434  Accord       2014  22678  22480  Jenkins, Corey          Thu, Jun  6, 2014       D23-21-01 
+ JA1X1S12862383CB6  Accord       2014  22240  24089  Baker, Mark             Thu, Jun  6, 2014       D23-21-02 
+ JB127S13A62372BA8  Civic        2014  15711  16655  Arnold, Marcus          Sun, Jun  9, 2014       D23-21-04 
+ JB121S1266235X99X  Civic        2014  15359  16455  Holland, Mitchell       Fri, Jun  7, 2014       D23-21-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1185X23ABA3  CR-V        2005  25516  30995  Baker, Mark             Mon, Jun 10, 2014       D23-21-02 
+ JH155FU1023429A95  Odyssey     2002  29791  47825  Baker, Mark             Mon, Jun 10, 2014       D23-21-02 
+ JH151F111Y455CXC7  Odyssey     2000  17840  44825  Jenkins, Corey          Sun, Jun  9, 2014       D23-21-01 
+ JH154SU1914529A99  Odyssey     2001  16187  32375  Garrett, Edna           Tue, Jun  4, 2014       D23-21-06 
+ JB121S12322918991  Civic       2002  10341  16455  Garrett, Edna           Tue, Jun  4, 2014       D23-21-06 
+ JC131F112Y1618993  CR-V        2000  12308  30995  Payne, Calvin           Sun, Jun  9, 2014       D23-21-03 
+ JB127S1361516X115  Civic       2001  8743   16655  Jenkins, Corey          Thu, Jun  6, 2014       D23-21-01 
+ JH152SU1934P82337  Odyssey     2003  19728  30375  Jenkins, Corey          Tue, Jun  4, 2014       D23-21-01 
+ JC134F3195156X119  CR-V        2005  26644  31995  Holland, Mitchell       Wed, Jun  5, 2014       D23-21-05 
+ JE141F11351629AB1  Crosstour   2005  31217  37640  Arnold, Marcus          Sun, Jun  9, 2014       D23-21-04 
+ JJ161FU114394BCX3  Pilot       2004  31424  42970  Garrett, Edna           Fri, Jun  7, 2014       D23-21-06 
+ JB127S1324375CX15  Civic       2004  12720  16655  Arnold, Marcus          Mon, Jun 10, 2014       D23-21-04 
+ JG148F11A42282347  Insight     2004  18397  24390  Jenkins, Corey          Fri, Jun  7, 2014       D23-21-01 
+ JD136F1123455CX19  CR-Z        2003  16551  24705  Jenkins, Corey          Tue, Jun  4, 2014       D23-21-01 

@@ -1,0 +1,55 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Mon, Oct 15, 2013 thru Sun, Oct 21, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH159F4155424CBA8  Odyssey      2013  54337  56825  Martinez, Katherine     Sat, Oct 20, 2013       D33-29-04 
+ JH158S412542X877X  Odyssey      2013  37214  41375  Mitchell, John          Thu, Oct 18, 2013       D33-29-02 
+ JC134F31A5423BAA2  CR-V         2013  31689  31995  Shelton, Adam           Mon, Oct 15, 2013       D33-29-05 
+ JD136F1135423BAA4  CR-Z         2013  24364  24705  Mitchell, John          Sun, Oct 21, 2013       D33-29-02 
+ JC132FU185424CBB6  CR-V         2013  28749  31995  Wells, Clayton          Thu, Oct 18, 2013       D33-29-01 
+ JE143FU125425XCC8  Crosstour    2013  37596  40640  Martinez, Katherine     Tue, Oct 16, 2013       D33-29-04 
+ JB121S1265427212X  Civic        2013  16016  16455  Mitchell, John          Fri, Oct 19, 2013       D33-29-02 
+ JD139F3175423BAB2  CR-Z         2013  23873  25705  Martinez, Katherine     Fri, Oct 19, 2013       D33-29-04 
+ JB128SU3454219894  Civic        2013  16860  17455  Martinez, Katherine     Mon, Oct 15, 2013       D33-29-04 
+ JG148F1175422A9A6  Insight      2013  23686  24390  Martinez, Katherine     Sat, Oct 20, 2013       D33-29-04 
+ JH152SU1354219898  Odyssey      2013  27945  30375  Shelton, Adam           Sat, Oct 20, 2013       D33-29-05 
+ JB129S14A5425XC1X  Civic        2013  21119  23055  Wells, Clayton          Fri, Oct 19, 2013       D33-29-01 
+ JE142FU135422A9B2  Crosstour    2013  35580  38640  Shelton, Adam           Sat, Oct 20, 2013       D33-29-05 
+ JH155FU1654261X24  Odyssey      2013  46560  47825  Morgan, Milton          Wed, Oct 17, 2013       D33-29-03 
+ JB127S1325422A9B6  Civic        2013  16116  16655  Shelton, Adam           Wed, Oct 17, 2013       D33-29-05 
+ JH158S41354261X28  Odyssey      2013  39106  41375  Martinez, Katherine     Tue, Oct 16, 2013       D33-29-04 
+ JH159F4145422A9CX  Odyssey      2013  51750  56825  Mitchell, John          Mon, Oct 15, 2013       D33-29-02 
+ JB129S1435424CB12  Civic        2013  21238  23055  Shelton, Adam           Thu, Oct 18, 2013       D33-29-05 
+ JG148F113542198B4  Insight      2013  22307  24390  Shelton, Adam           Tue, Oct 16, 2013       D33-29-05 
+ JA1X8F325542198B6  Accord       2013  31755  34030  Martinez, Katherine     Fri, Oct 19, 2013       D33-29-04 
+ JB121S12A54283258  Civic        2013  15417  16455  Shelton, Adam           Thu, Oct 18, 2013       D33-29-05 
+ JG149FU13542X881X  Insight      2013  23278  25190  Shelton, Adam           Sun, Oct 21, 2013       D33-29-05 
+ JB121S12554219922  Civic        2013  16187  16455  Mitchell, John          Tue, Oct 16, 2013       D33-29-02 
+ JB123H15854283394  Civic        2013  25306  27600  Wells, Clayton          Sun, Oct 21, 2013       D33-29-01 
+ JB121S12454272286  Civic        2013  15845  16455  Mitchell, John          Wed, Oct 17, 2013       D33-29-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S1443196X537  Civic       2011  16923  23055  Martinez, Katherine     Sat, Oct 20, 2013       D33-29-04 
+ JE141F1103446X539  Crosstour   2011  27958  37640  Wells, Clayton          Sat, Oct 20, 2013       D33-29-01 
+ JK166FU111525X861  Ridgeline   2009  28650  47750  Wells, Clayton          Wed, Oct 17, 2013       D33-29-01 
+ JB127S1342145X863  Civic       2010  11107  16655  Martinez, Katherine     Fri, Oct 19, 2013       D33-29-04 
+ JH153FU1224683B95  Odyssey     2010  30300  45825  Martinez, Katherine     Tue, Oct 16, 2013       D33-29-04 
+ JB127S1312412A537  Civic       2010  11107  16655  Wells, Clayton          Mon, Oct 15, 2013       D33-29-01 
+ JA115SU38XX583B99  Accord      2007  10762  25480  Mitchell, John          Sat, Oct 20, 2013       D33-29-02 
+ JH152SU1311772A91  Odyssey     2009  18225  30375  Morgan, Milton          Tue, Oct 16, 2013       D33-29-03 
+ JD136F11732361983  CR-Z        2011  18463  24705  Martinez, Katherine     Wed, Oct 17, 2013       D33-29-04 
+ JG148F11241519435  Insight     2012  20302  24390  Martinez, Katherine     Sun, Oct 21, 2013       D33-29-04 
+ JA1X7S32243961987  Accord      2012  20868  25089  Martinez, Katherine     Fri, Oct 19, 2013       D33-29-04 
+ JD136F1192345X879  CR-Z        2010  16403  24705  Martinez, Katherine     Tue, Oct 16, 2013       D33-29-04 
+ JD136F1161325X881  CR-Z        2009  15317  24705  Martinez, Katherine     Tue, Oct 16, 2013       D33-29-04 
+ JH152SU1722783BB3  Odyssey     2010  20134  30375  Shelton, Adam           Tue, Oct 16, 2013       D33-29-05 
+ JE143FU1725119445  Crosstour   2010  26889  40640  Mitchell, John          Sun, Oct 21, 2013       D33-29-02 

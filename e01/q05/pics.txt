@@ -1,0 +1,22 @@
+in1.html:<p>Here is a pretty picture: <img src=example/prettypicture.jpg alt="Pretty Picture"></p>
+in1.html:<p>Same thing, aligned differently to the paragraph: <img align=top src=example/prettypicture.jpg alt="Pretty Picture"></p>
+in1.html:<p>Another pretty picture: <img align=top src=example/prettypicture2.gif alt="Pretty Picture Too!"></p>
+in1.html:<p>One more pretty picture: <img align=top src=example/prettypicture3.jpeg alt="Pretty Picture Too!"></p>
+in1.html:<p>An ugly picture: <img align=top src=example/uglypicture.jpeg alt="Pretty Picture Too!"></p>
+in2.html:	<td><img src="/html-support/layout_images/bg_left_top.jpg" alt="" width="10" height="10" /></td>
+in2.html:	<td><img src="/html-support/layout_images/bg_right_top.jpg" alt="" width="10" height="10" /></td>
+in2.html:        <img src="/html-support/logos/flamingo-logo.jpeg" alt="FLAMINGO" width="64" height="64" />
+in2.html:        <img src="/html-support/logos/ifip-logo.gif" alt="IFIP WG6.6" width="49" height="58" />    <br />
+in2.html:        <img src="/html-support/logos/simple-logo.gif" alt="The Simple Times" width="75" height="75"/><br />
+in2.html:	<td><img src="/html-support/layout_images/bg_left_bottom.jpg" alt="" width="10" height="10" /></td>
+in2.html:	<td><img src="/html-support/layout_images/bg_right_bottom.jpg" alt="" width="10" height="10" /></td>
+in3.html:addButton("show",BTN_TEXT,"Show","","","","",0,0,"whd_show0.gif","whd_show2.gif","whd_show1.gif");
+in3.html:addButton("hide",BTN_TEXT,"Hide","","","","",0,0,"whd_hide0.gif","whd_hide2.gif","whd_hide1.gif");
+in3.html:addButton("synctoc",BTN_TEXT,"Show Topic in Contents","","","","",0,0,"whd_sync0.gif","whd_sync2.gif","whd_sync1.gif");
+in3.html:<p><img src="htmlpage.jpg" x-maintain-ratio="TRUE" width="301px" height="295px" border="0" class="img_whs1"></p>
+in3.html:<p class="whs2">&lt;CENTER&gt;&lt;IMG SRC=&quot;clouds.jpg&quot; 
+in4.html:<p>Here is a pretty picture: <img src=example/prettypicture.jpg alt="Pretty Picture"></p>
+in4.html:<p>Same thing, aligned differently to the paragraph: <img align=top src=example/prettypicture.jpg alt="Pretty Picture"></p>
+in4.html:<p>Another pretty picture: <img align=top src=example/prettypicture2.gif alt="Pretty Picture Too!"></p>
+in4.html:<p>One more pretty picture: <img align=top src=example/prettypicture3.jpeg alt="Pretty Picture Too!"></p>
+in4.html:<p>An ugly picture: <img align=top src=example/uglypicture.jpeg alt="Pretty Picture Too!"></p>

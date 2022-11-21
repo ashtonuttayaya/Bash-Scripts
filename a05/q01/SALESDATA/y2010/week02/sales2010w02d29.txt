@@ -1,0 +1,67 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Thu, Jan  8, 2010 thru Wed, Jan 14, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA11AF4272X271638  Accord       2010  39087  42030  Graham, Sheila          Sun, Jan 11, 2010       D29-25-03 
+ JA1X4FU262X27164X  Accord       2010  30627  34030  Lucas, Jose             Mon, Jan 12, 2010       D29-25-06 
+ JE141F1192X26X532  Crosstour    2010  36510  37640  Graham, Sheila          Fri, Jan  9, 2010       D29-25-03 
+ JB121S1272X271644  Civic        2010  14891  16455  Lawson, Carolyn         Tue, Jan 13, 2010       D29-25-02 
+ JB123H1532X23A2X6  Civic        2010  24702  27600  Lawson, Carolyn         Tue, Jan 13, 2010       D29-25-02 
+ JH157F3132X271648  Odyssey      2010  43762  45825  Walker, Roland          Mon, Jan 12, 2010       D29-25-04 
+ JD138FU152X23B64X  CR-Z         2010  26042  27705  Graham, Sheila          Fri, Jan  9, 2010       D29-25-03 
+ JA114FU3A2X219422  Accord       2010  31045  33930  Graham, Sheila          Tue, Jan 13, 2010       D29-25-03 
+ JB121S12A2X2X8314  Civic        2010  15467  16455  Coleman, Arnold         Mon, Jan 12, 2010       D29-25-05 
+ JH15AS1142X219426  Odyssey      2010  27612  29375  Graham, Sheila          Sat, Jan 10, 2010       D29-25-03 
+ JF146S1142X22A538  Fit          2010  14903  16025  Lucas, Jose             Sun, Jan 11, 2010       D29-25-06 
+ JJ162FU112X26198X  Pilot        2010  42721  44970  Lawson, Carolyn         Sun, Jan 11, 2010       D29-25-02 
+ JB127S1342X272A92  Civic        2010  15156  16655  Walker, Roland          Wed, Jan 14, 2010       D29-25-04 
+ JA111S1342X22A544  Accord       2010  21580  22480  Lawson, Carolyn         Sun, Jan 11, 2010       D29-25-02 
+ JJ161FU112X283BA6  Pilot        2010  39532  42970  Coleman, Arnold         Fri, Jan  9, 2010       D29-25-05 
+ JA113SU312X261988  Accord       2010  21249  23480  Lawson, Carolyn         Tue, Jan 13, 2010       D29-25-02 
+ JE141F1102X272AAX  Crosstour    2010  36134  37640  Lawson, Carolyn         Thu, Jan  8, 2010       D29-25-02 
+ JA11AF4202X22A552  Accord       2010  40558  42030  Graham, Sheila          Wed, Jan 14, 2010       D29-25-03 
+ JH153FU152X22A554  Odyssey      2010  43304  45825  Graham, Sheila          Wed, Jan 14, 2010       D29-25-03 
+ JB122SU262X219446  Civic        2010  15356  17255  Lucas, Jose             Mon, Jan 12, 2010       D29-25-06 
+ JK167FU162X25X888  Ridgeline    2010  45023  49750  Walker, Roland          Wed, Jan 14, 2010       D29-25-04 
+ JB128SU3A2X2619AX  Civic        2010  15447  17455  Rodriguez, Leonard      Mon, Jan 12, 2010       D29-25-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU10147714C7  Odyssey     2009  37118  45825  Graham, Sheila          Tue, Jan 13, 2010       D29-25-03 
+ JE141F111Y41825X9  Crosstour   2008  26938  37640  Rodriguez, Leonard      Mon, Jan 12, 2010       D29-25-01 
+ JH153FU15X16X7A61  Odyssey     2007  29856  45825  Graham, Sheila          Sun, Jan 11, 2010       D29-25-03 
+ JH153FU19X28X7A63  Odyssey     2007  29040  45825  Coleman, Arnold         Wed, Jan 14, 2010       D29-25-05 
+ JH151F1191X382515  Odyssey     2009  35860  44825  Lucas, Jose             Fri, Jan  9, 2010       D29-25-06 
+ JA111S131Y45X7A67  Accord      2008  16335  22480  Rodriguez, Leonard      Sun, Jan 11, 2010       D29-25-01 
+ JB13ASU472X129C89  Civic        2010  21792  23855  Graham, Sheila          Wed, Jan 14, 2010       D29-25-03 
+ JC134F318X1229C91  CR-V        2007  20756  31995  Graham, Sheila          Mon, Jan 12, 2010       D29-25-03 
+ JJ163F311X2382523  Pilot       2007  27212  42970  Coleman, Arnold         Sun, Jan 11, 2010       D29-25-05 
+ JB127S135Y38X7A75  Civic       2008  12059  16655  Rodriguez, Leonard      Fri, Jan  9, 2010       D29-25-01 
+ JB127S138W293AXA7  Civic       2006  9907   16655  Coleman, Arnold         Wed, Jan 14, 2010       D29-25-05 
+ JB122SU22T523AXA9  Civic       2004  6935   17255  Coleman, Arnold         Thu, Jan  8, 2010       D29-25-05 
+ JH158S414XX66X311  Odyssey     2007  26928  41375  Walker, Roland          Thu, Jan  8, 2010       D29-25-04 
+ JB129S146X3729CA3  Civic       2007  14874  23055  Walker, Roland          Fri, Jan  9, 2010       D29-25-04 
+ JD136F117X2571425  CR-Z        2007  15959  24705  Walker, Roland          Thu, Jan  8, 2010       D29-25-04 
+ JE143FU11X376X317  Crosstour   2007  26445  40640  Rodriguez, Leonard      Wed, Jan 14, 2010       D29-25-01 
+ JH151F11AX414B1C9  Odyssey     2007  28400  44825  Graham, Sheila          Fri, Jan  9, 2010       D29-25-03 
+ JH152SU13W144B1X1  Odyssey     2006  17820  30375  Walker, Roland          Sat, Jan 10, 2010       D29-25-04 
+ JE142FU162X14B1X3  Crosstour    2010  35172  38640  Walker, Roland          Tue, Jan 13, 2010       D29-25-04 
+ JB129S148W3P18BA5  Civic       2006  13875  23055  Graham, Sheila          Fri, Jan  9, 2010       D29-25-03 
+ JG148F113VX871437  Insight     2005  12332  24390  Graham, Sheila          Sun, Jan 11, 2010       D29-25-03 
+ JH156S317Y423AXC9  Odyssey     2008  22130  30375  Rodriguez, Leonard      Wed, Jan 14, 2010       D29-25-01 
+ JD136F116W5129CC1  CR-Z        2006  14898  24705  Rodriguez, Leonard      Mon, Jan 12, 2010       D29-25-01 
+ JJ16AF118X4P6X333  Pilot       2007  26572  41970  Rodriguez, Leonard      Fri, Jan  9, 2010       D29-25-01 
+ JH154SU18W3171445  Odyssey     2006  19654  32375  Graham, Sheila          Thu, Jan  8, 2010       D29-25-03 
+ JH155FU14Y3582557  Odyssey     2008  34938  47825  Rodriguez, Leonard      Thu, Jan  8, 2010       D29-25-01 
+ JC132FU18XX371449  CR-V        2007  20188  31995  Rodriguez, Leonard      Sun, Jan 11, 2010       D29-25-01 
+ JG148F114X334B251  Insight     2007  15321  24390  Coleman, Arnold         Thu, Jan  8, 2010       D29-25-05 
+ JB125G160T3729X33  Civic       2004  11773  28505  Rodriguez, Leonard      Mon, Jan 12, 2010       D29-25-01 
+ JH152SU10X246X475  Odyssey     2007  18613  30375  Walker, Roland          Sun, Jan 11, 2010       D29-25-04 

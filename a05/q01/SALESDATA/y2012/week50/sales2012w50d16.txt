@@ -1,0 +1,55 @@
+Dealer Name: Quality Honda
+Address:     1624 Tupelo Road
+             Norbert, FL
+Dealer ID:   16
+Owner:       Simpson, Homer
+Date:        Sat, Dec  9, 2012 thru Fri, Dec 15, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X1S12045P824C6  Accord       2012  22698  24089  Hunter, Yolanda         Tue, Dec 12, 2012       D16-15-02 
+ JD14AF41745P824C8  CR-Z         2012  31422  33705  Daniels, Rhonda         Fri, Dec 15, 2012       D16-15-06 
+ JH151F11545P4BX9X  Odyssey      2012  43690  44825  Hunter, Yolanda         Sat, Dec  9, 2012       D16-15-02 
+ JC132FU1045P5C1A2  CR-V         2012  29524  31995  Hunter, Yolanda         Thu, Dec 14, 2012       D16-15-02 
+ JH154SU1045P824X4  Odyssey      2012  29378  32375  Rose, Ida               Sat, Dec  9, 2012       D16-15-08 
+ JD136F11845P713C6  CR-Z         2012  22639  24705  Cooper, Joanne          Sat, Dec  9, 2012       D16-15-01 
+ JG148F11845P5C1A8  Insight      2012  22728  24390  Hunter, Yolanda         Thu, Dec 14, 2012       D16-15-02 
+ JB125G16545P6X2CX  Civic        2012  25914  28505  Daniels, Rhonda         Thu, Dec 14, 2012       D16-15-06 
+ JA1X1S12245P18A72  Accord       2012  22330  24089  Murray, Gladys          Wed, Dec 13, 2012       D16-15-07 
+ JH153FU1845P3AC94  Odyssey      2012  42573  45825  Gonzales, Harold        Wed, Dec 13, 2012       D16-15-03 
+ JD137FU1645P29B86  CR-Z         2012  24324  25705  Murray, Gladys          Sun, Dec 10, 2012       D16-15-07 
+ JB121S12145PX7968  Civic        2012  15975  16455  Crawford, Glen          Tue, Dec 12, 2012       D16-15-04 
+ JE144F31745P4BXBX  Crosstour    2012  36549  38640  Cooper, Joanne          Sun, Dec 10, 2012       D16-15-01 
+ JE141F11945P18A82  Crosstour    2012  34852  37640  Gonzales, Harold        Fri, Dec 15, 2012       D16-15-03 
+ JA112F13A45PX7974  Accord       2012  31210  32930  Rose, Ida               Mon, Dec 11, 2012       D16-15-08 
+ JB121S12645P18A86  Civic        2012  16059  16455  Daniels, Rhonda         Fri, Dec 15, 2012       D16-15-06 
+ JG148F11345P5C1C8  Insight      2012  23598  24390  Cooper, Joanne          Mon, Dec 11, 2012       D16-15-01 
+ JB121S12045P18A9X  Civic        2012  15299  16455  Freeman, Vickie         Sun, Dec 10, 2012       D16-15-05 
+ JB127S13245P18A92  Civic        2012  15394  16655  Rose, Ida               Tue, Dec 12, 2012       D16-15-08 
+ JE142FU1445P18A94  Crosstour    2012  36940  38640  Rose, Ida               Mon, Dec 11, 2012       D16-15-08 
+ JA1X2F12345P5C1X6  Accord       2012  31806  33030  Rose, Ida               Sat, Dec  9, 2012       D16-15-08 
+ JF146S11A45P5C1X8  Fit          2012  14662  16025  Gonzales, Harold        Thu, Dec 14, 2012       D16-15-03 
+ JB123H15645P29BBX  Civic        2012  26787  27600  Crawford, Glen          Wed, Dec 13, 2012       D16-15-04 
+ JD136F11745P82442  CR-Z         2012  22136  24705  Crawford, Glen          Sun, Dec 10, 2012       D16-15-04 
+ JD136F11A45P5C114  CR-Z         2012  22891  24705  Gonzales, Harold        Mon, Dec 11, 2012       D16-15-03 
+ JB127S13745P6X226  Civic        2012  15651  16655  Rose, Ida               Sat, Dec  9, 2012       D16-15-08 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JK167FU12334298A3  Ridgeline   2011  40160  49750  Rose, Ida               Tue, Dec 12, 2012       D16-15-08 
+ JB127S134Y5118795  Civic       2008  10186  16655  Daniels, Rhonda         Sat, Dec  9, 2012       D16-15-06 
+ JH156S31A12571X27  Odyssey     2009  19986  30375  Horton, Jon             Tue, Dec 12, 2012       D16-15-09 
+ JB129S14A24582139  Civic       2010  17087  23055  Freeman, Vickie         Thu, Dec 14, 2012       D16-15-05 
+ JH159F417236X7691  Odyssey     2010  41076  56825  Rose, Ida               Mon, Dec 11, 2012       D16-15-08 
+ JB121S12621482143  Civic       2010  12243  16455  Freeman, Vickie         Wed, Dec 13, 2012       D16-15-05 
+ JG148F11A12P6XC25  Insight     2009  16048  24390  Daniels, Rhonda         Thu, Dec 14, 2012       D16-15-06 
+ JF146S1151443A9C7  Fit         2009  10256  16025  Freeman, Vickie         Tue, Dec 12, 2012       D16-15-05 
+ JK167FU13133298B9  Ridgeline   2009  32735  49750  Horton, Jon             Tue, Dec 12, 2012       D16-15-09 
+ JH153FU11Y254BA11  Odyssey     2008  27360  45825  Rose, Ida               Tue, Dec 12, 2012       D16-15-08 
+ JB129S14042971X43  Civic        2012  21357  23055  Rose, Ida               Sun, Dec 10, 2012       D16-15-08 
+ JH152SU131X54BA15  Odyssey     2009  27337  30375  Rose, Ida               Tue, Dec 12, 2012       D16-15-08 
+ JH155FU111155CB27  Odyssey     2009  29747  47825  Freeman, Vickie         Fri, Dec 15, 2012       D16-15-05 
+ JD136F1124186XC39  CR-Z         2012  22968  24705  Daniels, Rhonda         Sat, Dec  9, 2012       D16-15-06 

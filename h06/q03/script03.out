@@ -1,0 +1,14 @@
+Database
+information_schema
+h6db_lcd
+Tables_in_h6db_lcd
+students
+Field	Type	Null	Key	Default	Extra
+pkey	int(11)	NO	PRI	NULL	
+student_id	int(11)	YES		NULL	
+fname	varchar(24)	YES		NULL	
+lname	varchar(24)	YES		NULL	
+gender	tinyint(4)	YES		NULL	
+year	tinyint(4)	YES		NULL	
+gpa	float	YES		NULL	
+hours	int(11)	YES		NULL	

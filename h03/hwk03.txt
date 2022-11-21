@@ -1,0 +1,218 @@
+Homework 3: submission file hwk03.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Wednesday, Sep 22, 2021
+    Time:    13:40
+    USID:    51z2m22#4064Ha7mgvD{E1Q2U0K2G%8yjtbt5uMaA_unf!W0j4H:i3q13*9aJyoaqy6a6tQtXUy}n3A0zhd@np4erSB-jnkoktShesLA
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a01.bak contains a backup copy of this file if you need it.
+            Create your script in the file q01.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 1: This unedited file contains 320 characters.
+
+        End output of a01.txt
+
+
+        Start output of check01.txt
+            Checking tar extraction
+                       OK - tar command                                                     chxq01-A1
+                       OK - web directory and html file extraction                          chxq01-B1
+            
+            Checking grep commands
+                       OK - href counts by file                                             chxq01-C1
+            
+
+        End output of check01.txt
+
+
+        Start output of q01.sh
+            #!/bin/bash
+            tar --wildcards -xf web.tar.gz *.html
+            grep -i href *.html web/*.html
+            
+
+        End output of q01.sh
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            Create your script in the file q02.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 2: This unedited file contains 320 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+            Checking alias and environment variables
+                       OK - Environment variable Q2                              chxq02-A1
+                       OK - Environment variable WEB                             chxq02-B1
+                       OK - alias accounts                                       chxq02-C1
+            
+            Checking functions
+                       OK - function extract definition                          chxq02-D1
+                       Not OK - extract results             ( 0 )                  chxq02-E0
+                       OK - function cleanup definition                          chxq02-F1
+                       OK - cleanup results                                      chxq02-G1
+            
+
+        End output of check02.txt
+
+
+        Start output of q02.sh
+            #!/bin/sh
+            
+            alias accounts="ls /home"
+            
+            function extract {
+            	local input_num=$1
+            
+            tar -ztvf a0${input_num}.tar.gz > t${input_num}.txt
+            }
+            
+            function cleanup {
+            rm -rf t*.txt
+            rm -rf a0*.tar.gz
+            }
+            
+            export Q2=$(cd ~/class/h03/q02;pwd)
+            
+            export WEB=$(cd ~/public_html;pwd)
+
+        End output of q02.sh
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: True or False
+            
+            Please do NOT delete any characters in this file. The file a03.bak contains
+            a backup copy of this file. Enter either T or F after each of the letters
+            below. Refer to your printed question for details.
+            
+            A. F
+            
+            B. T
+            
+            C. F
+            
+            D. T
+            
+            E. T
+            
+            F. T
+            
+            END OF QUESTION 3: This unedited file contains 322 characters.
+
+        End output of a03.txt
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a04.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. PM
+            
+            B. PM
+            
+            C. ITIL
+            
+            D. N
+            
+            E. ITIL
+            
+            F. ITIL
+            
+            G. N
+            
+            H. PM
+            
+            END OF QUESTION 4: This unedited file contains 345 characters.
+
+        End output of a04.txt
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: True or False
+            
+            Please do NOT delete any characters in this file. The file a05.bak contains
+            a backup copy of this file. Enter either T or F after each of the letters
+            below. Refer to your printed question for details.
+            
+            A. F
+            
+            B. F
+            
+            C. T
+            
+            D. F
+            
+            E. F
+            
+            F. T
+            
+            END OF QUESTION 5: This unedited file contains 322 characters.
+
+        End output of a05.txt
+
+    All files found for question 5.
+END QUESTION 5
+
+    Begin summary of file submissions
+        Files needed  = 9
+        Files found   = 9
+        Files missing = 0
+    End summary of file submissions
+
+    Begin summary of question checks
+        Question 1: Needs more work. a01.txt - 1 of 1 correct, check01.sh gets incorrect answer, all files present.
+        Question 2: Needs more work. a02.txt - 1 of 1 correct, check02.sh gets incorrect answer, all files present.
+        Question 3: Correct!         a03.txt - 6 of 6 correct, all files present.
+        Question 4: Correct!         a04.txt - 8 of 8 correct, all files present.
+        Question 5: Correct!         a05.txt - 6 of 6 correct, all files present.
+    3 out of 5 questions correct
+    End summary of question checks
+
+Homework 3: submission file hwk03.txt completed

@@ -1,0 +1,7 @@
+Checking dev_v4.txt and dev_v4.sql
+           Not OK - dev_v4.txt                                 ( 15 )                  chxq04-A0
+           OK - dev_v4.sql                                                          chxq04-B1
+
+Comparing dev_v3.sql and dev_v4.sql
+           OK - dev_v3 and dev_v4 sql files consistent                              chxq04-C1
+

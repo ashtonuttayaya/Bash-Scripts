@@ -1,0 +1,11 @@
+Checking option Y
+           OK - # of sql statements                          chxq05-A1
+           OK - query by year                                chxq05-B1
+
+Checking option G
+           OK - # of sql statements                          chxq05-C1
+           OK - query by gender                              chxq05-D1
+
+Checking invalid option
+           OK - for bad parameter                            chxq05-E1
+

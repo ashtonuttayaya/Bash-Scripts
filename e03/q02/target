@@ -1,0 +1,460 @@
+Exam 2: submission file key_exm02.txt
+
+    Name:    Answer Key
+    User:    st01
+    Host:    vma09
+    Date:    Thursday, Oct 31, 2019
+    Time:    15:16
+    USID:    43d1039#D9f05aBmXvU{29e1R0N2S%z1j0FtJsF!R631z:N5v1g*vycejKF}H2Q0Eel@itKcLOL-8rLexwyscnbA
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Short Answers Answer Key
+            
+            Please do NOT delete any characters in this file.
+            File a01.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. FALSE Answer Key
+            
+            B. FALSE Answer Key
+            
+            C. FALSE Answer Key
+            
+            D. TRUE Answer Key
+            
+            END OF QUESTION 1: This unedited file contains 325 characters. Answer Key
+
+        End output of a01.txt
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Short Answers Answer Key
+            
+            Please do NOT delete any characters in this file.
+            File a02.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 4 Answer Key
+            
+            B. 6 Answer Key
+            
+            C. 3 Answer Key
+            
+            D. 30836 Answer Key
+            
+            E. 45708 Answer Key
+            
+            F. 76544 Answer Key
+            
+            G. YES Answer Key
+            
+            H. YES Answer Key
+            
+            END OF QUESTION 2: This unedited file contains 345 characters. Answer Key
+
+        End output of a02.txt
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Script Creation Answer Key
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            Create your script in the file q03.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE Answer Key
+            
+            END OF QUESTION 3: This unedited file contains 320 characters. Answer Key
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+            Checking script results
+                       Great! - Use statement                                         chxq03-A1
+                       Great! - Select statements                                     chxq03-B1
+                       Great! - Command line parameter check                          chxq03-C1
+                       Great! - Valid Parameter Use                                   chxq03-D1
+            
+
+        End output of check03.txt
+
+
+        Start output of q03.sh
+            #!/bin/bash
+            if [ $# -ne 1 ]
+            then
+            	echo "Year required as command line parameter"
+            	exit
+            fi
+            year=$1
+            
+            if [ $year -lt 2010 ] || [ $year -gt 2015 ]
+            then
+            	echo "Year outside available range (2010 to 2015), quitting"
+            	exit
+            fi
+            
+            cat > q03.sql << SQL
+            use sales;
+            select count(*) as NT from sales_$year;
+            select count(*) as NN from sales_$year where sales_type="new";
+            select count(*) as NU from sales_$year where sales_type="used";
+            SQL
+            
+            mysql -u salesadmin -pLarry12! < q03.sql
+
+        End output of q03.sh
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Short Answers Answer Key
+            
+            Please do NOT delete any characters in this file.
+            File a04.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 8 Answer Key
+            
+            B. 13 Answer Key
+            
+            C. 6 Answer Key
+            
+            D. 72 Answer Key
+            
+            E. 27 Answer Key
+            
+            F. D26-23-01 Answer Key
+            
+            END OF QUESTION 4: This unedited file contains 335 characters. Answer Key
+
+        End output of a04.txt
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: Short Answers Answer Key
+            
+            Please do NOT delete any characters in this file.
+            File a05.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. TRUE Answer Key
+            
+            B. TRUE Answer Key
+            
+            C. FALSE Answer Key
+            
+            D. FALSE Answer Key
+            
+            END OF QUESTION 5: This unedited file contains 325 characters. Answer Key
+
+        End output of a05.txt
+
+    All files found for question 5.
+END QUESTION 5
+
+BEGIN QUESTION 6
+    Checking for required files
+
+        Start output of a06.txt
+            QUESTION 6: Script Creation Answer Key
+            
+            Please do NOT delete any characters in this file.
+            The file a06.bak contains a backup copy of this file if you need it.
+            Create your script in the file q06.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE Answer Key
+            
+            END OF QUESTION 6: This unedited file contains 320 characters. Answer Key
+
+        End output of a06.txt
+
+
+        Start output of check06.txt
+                       Great! - check all reports                                           chxq06-A1
+                       Great! - evaluating report lengths                                   chxq06-B1
+                       Great! - finding "the" word                                          chxq06-C1
+                       Great! - finding words in special locations                          chxq06-D1
+            
+
+        End output of check06.txt
+
+
+        Start output of q06.sh
+            #!/bin/bash
+            echo ""
+            for file in $(ls reports/*.rpt)
+            do
+            	nwords=$(cat $file | wc -w)
+            	if [ $nwords -lt 700 ]
+            	then
+            		result="TOO SHORT"
+            	elif [ $nwords -gt 800 ]
+            	then
+            		result="TOO LONG"
+            	else
+            		result="Great!"
+            	fi
+            	nthe=$(grep -iwo the $file | wc -l)
+            	nsthe=$(grep -iwE "^the" $file | wc -l)
+            	nwe=$(grep -iwE "^we|we$" $file | wc -l)
+            	echo "$file  $nwords:  $result"
+            	echo "       Number of times \"the\" occurs = $nthe" 
+            	echo "       Number of times \"the\" occurs at the start of a line = $nsthe"
+            	echo "       Number of times \"we\" occurs at the start or end of a line = $nwe"
+            	echo "" 
+            done
+            
+
+        End output of q06.sh
+
+    All files found for question 6.
+END QUESTION 6
+
+BEGIN QUESTION 7
+    Checking for required files
+
+        Start output of a07.txt
+            QUESTION 7: Script Creation Answer Key
+            
+            Please do NOT delete any characters in this file.
+            The file a07.bak contains a backup copy of this file if you need it.
+            Create your script in the file q07.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE Answer Key
+            
+            END OF QUESTION 7: This unedited file contains 320 characters. Answer Key
+
+        End output of a07.txt
+
+
+        Start output of check07.txt
+                       Great! - All expected files found                                        chxq07-A1
+                       Great! - All expected dealer results found                               chxq07-B1
+                       Great! - All expected total sales results found                          chxq07-C1
+                       Great! - All expected new sales results found                            chxq07-D1
+            
+
+        End output of check07.txt
+
+
+        Start output of q07.sh
+            #!/bin/bash
+            MYU=salesadmin
+            MYP=Larry12!
+            while read first last
+            do
+            	file="$first""_""$last"
+            	sql="$file"".sql"
+            	out="$file"".rpt"
+            	echo "use sales;" > $sql
+            	echo "select agent_id as \"Agent ID\" from agents where fname=\"$first\" and lname=\"$last\";" >> $sql
+            	echo "select dealers.name as \"Dealer Name\" from agents, dealers where agents.fname=\"$first\" and agents.lname=\"$last\" and dealers.dealer_id=agents.dealer_id;" >> $sql
+            	
+            	for y in {2010..2015}
+            	do
+            cat >> $sql << SQLS
+            select count(*) as "$y All Sales" from agents, sales_$y where agents.agent_id=sales_$y.agent_id and agents.fname="$first" and agents.lname="$last"; 
+            select count(*) as "$y New Sales" from agents, sales_$y where agents.agent_id=sales_$y.agent_id and sales_$y.sales_type="new" and agents.fname="$first" and agents.lname="$last"; 
+            SQLS
+            
+            	done
+            
+            	mysql -u $MYU -p$MYP < $sql > $out 2>/dev/null
+            done < agent_list
+            
+
+        End output of q07.sh
+
+
+        Start output of Jacob_Fuller.sql
+            use sales;
+            select agent_id as "Agent ID" from agents where fname="Jacob" and lname="Fuller";
+            select dealers.name as "Dealer Name" from agents, dealers where agents.fname="Jacob" and agents.lname="Fuller" and dealers.dealer_id=agents.dealer_id;
+            select count(*) as "2010 All Sales" from agents, sales_2010 where agents.agent_id=sales_2010.agent_id and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2010 New Sales" from agents, sales_2010 where agents.agent_id=sales_2010.agent_id and sales_2010.sales_type="new" and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2011 All Sales" from agents, sales_2011 where agents.agent_id=sales_2011.agent_id and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2011 New Sales" from agents, sales_2011 where agents.agent_id=sales_2011.agent_id and sales_2011.sales_type="new" and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2012 All Sales" from agents, sales_2012 where agents.agent_id=sales_2012.agent_id and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2012 New Sales" from agents, sales_2012 where agents.agent_id=sales_2012.agent_id and sales_2012.sales_type="new" and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2013 All Sales" from agents, sales_2013 where agents.agent_id=sales_2013.agent_id and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2013 New Sales" from agents, sales_2013 where agents.agent_id=sales_2013.agent_id and sales_2013.sales_type="new" and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2014 All Sales" from agents, sales_2014 where agents.agent_id=sales_2014.agent_id and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2014 New Sales" from agents, sales_2014 where agents.agent_id=sales_2014.agent_id and sales_2014.sales_type="new" and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2015 All Sales" from agents, sales_2015 where agents.agent_id=sales_2015.agent_id and agents.fname="Jacob" and agents.lname="Fuller"; 
+            select count(*) as "2015 New Sales" from agents, sales_2015 where agents.agent_id=sales_2015.agent_id and sales_2015.sales_type="new" and agents.fname="Jacob" and agents.lname="Fuller"; 
+
+        End output of Jacob_Fuller.sql
+
+
+        Start output of Stacey_Peters.rpt
+            Agent ID
+            D14-13-09
+            Dealer Name
+            Donner Honda
+            2010 All Sales
+            107
+            2010 New Sales
+            64
+            2011 All Sales
+            139
+            2011 New Sales
+            79
+            2012 All Sales
+            88
+            2012 New Sales
+            65
+            2013 All Sales
+            139
+            2013 New Sales
+            61
+            2014 All Sales
+            97
+            2014 New Sales
+            55
+            2015 All Sales
+            157
+            2015 New Sales
+            101
+
+        End output of Stacey_Peters.rpt
+
+    All files found for question 7.
+END QUESTION 7
+
+BEGIN QUESTION 8
+    Checking for required files
+
+        Start output of a08.txt
+            QUESTION 8: Short Answers Answer Key
+            
+            Please do NOT delete any characters in this file.
+            File a08.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. FALSE Answer Key
+            
+            B. FALSE Answer Key
+            
+            C. FALSE Answer Key
+            
+            D. FALSE Answer Key
+            
+            E. FALSE Answer Key
+            
+            F. TRUE Answer Key
+            
+            G. FALSE Answer Key
+            
+            H. FALSE Answer Key
+            
+            END OF QUESTION 8: This unedited file contains 345 characters. Answer Key
+
+        End output of a08.txt
+
+    All files found for question 8.
+END QUESTION 8
+
+BEGIN QUESTION 9
+    Checking for required files
+
+        Start output of a09.txt
+            QUESTION 9: Short Answers Answer Key
+            
+            Please do NOT delete any characters in this file.
+            File a09.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 5296 Answer Key
+            
+            B. 756 Answer Key
+            
+            C. 178 Answer Key
+            
+            D. 4 Answer Key
+            
+            E. 6 Answer Key
+            
+            F. 21 Answer Key
+            
+            END OF QUESTION 9: This unedited file contains 335 characters. Answer Key
+
+        End output of a09.txt
+
+    All files found for question 9.
+END QUESTION 9
+
+BEGIN QUESTION 10
+    Checking for required files
+
+        Start output of a10.txt
+            QUESTION 10: Short Answers Answer Key
+            
+            Please do NOT delete any characters in this file.
+            File a10.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 6 Answer Key
+            
+            B. 7 Answer Key
+            
+            C. 3 Answer Key
+            
+            D. 1 Answer Key
+            
+            E. 2 Answer Key
+            
+            END OF QUESTION 10: This unedited file contains 331 characters. Answer Key
+
+        End output of a10.txt
+
+    All files found for question 10.
+END QUESTION 10
+
+    Begin summary of file submissions
+        Files needed  = 18
+        Files found   = 18
+        Files missing = 0
+    End summary of file submissions
+
+Exam 2: submission file key_exm02.txt completed

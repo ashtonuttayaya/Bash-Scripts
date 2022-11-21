@@ -1,0 +1,64 @@
+Dealer Name: Wallace Honda
+Address:     2132 Tupelo Road
+             Clarksville, NC
+Dealer ID:   4
+Owner:       Wallace, Patrick
+Date:        Sat, Jan  1, 2012 thru Fri, Jan  7, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1234X1X7442  Civic        2012  14876  16455  Dixon, Patsy            Sat, Jan  1, 2012       D04-04-07 
+ JA113SU324X129664  Accord       2012  21537  23480  Campbell, Jeanne        Tue, Jan  4, 2012       D04-04-02 
+ JA1X3SU2A4X1X7446  Accord       2012  22985  25089  Campbell, Jeanne        Mon, Jan  3, 2012       D04-04-02 
+ JA112F1324X16XAA8  Accord       2012  32378  32930  Miller, Julian          Sat, Jan  1, 2012       D04-04-04 
+ JJ161FU194X182CXX  Pilot        2012  41249  42970  Richards, Angela        Sun, Jan  2, 2012       D04-04-06 
+ JA111S1344X1X7452  Accord       2012  21095  22480  Lucas, Carl             Fri, Jan  7, 2012       D04-04-01 
+ JH155FU114X15C9A4  Odyssey      2012  46585  47825  Richards, Angela        Thu, Jan  6, 2012       D04-04-06 
+ JE142FU194X14B896  Crosstour    2012  37135  38640  Lucas, Carl             Tue, Jan  4, 2012       D04-04-01 
+ JC132FU194X13A788  CR-V         2012  30336  31995  Dixon, Patsy            Thu, Jan  6, 2012       D04-04-07 
+ JC132FU154X182C1X  CR-V         2012  28876  31995  Lucas, Carl             Sun, Jan  2, 2012       D04-04-01 
+ JJ163F3114X118572  Pilot        2012  40163  42970  Dixon, Patsy            Fri, Jan  7, 2012       D04-04-07 
+ JC131F1134X118574  CR-V         2012  30029  30995  Wilson, Chad            Mon, Jan  3, 2012       D04-04-08 
+ JB127S1324X182C16  Civic        2012  15308  16655  Miller, Julian          Sat, Jan  1, 2012       D04-04-04 
+ JA113SU394X118578  Accord       2012  22733  23480  Lucas, Carl             Wed, Jan  5, 2012       D04-04-01 
+ JB127S13A4X11858X  Civic        2012  15651  16655  Lucas, Carl             Thu, Jan  6, 2012       D04-04-01 
+ JH157F3124X14B8B2  Odyssey      2012  41647  45825  Miller, Julian          Wed, Jan  5, 2012       D04-04-04 
+ JC131F1184X1X7474  CR-V         2012  30344  30995  Dixon, Patsy            Wed, Jan  5, 2012       D04-04-07 
+ JB127S1354X13A7A6  Civic        2012  15651  16655  Russell, Jerry          Thu, Jan  6, 2012       D04-04-03 
+ JB121S1274X129698  Civic        2012  15975  16455  Lucas, Carl             Mon, Jan  3, 2012       D04-04-01 
+ JC131F1184X14B8CX  CR-V         2012  29243  30995  Wilson, Chad            Sun, Jan  2, 2012       D04-04-08 
+ JB127S1344X171B22  Civic        2012  15736  16655  Dixon, Patsy            Wed, Jan  5, 2012       D04-04-07 
+ JA111S1344X118594  Accord       2012  22242  22480  Lucas, Carl             Fri, Jan  7, 2012       D04-04-01 
+ JB127S1344X14B8C6  Civic        2012  16078  16655  Miller, Julian          Fri, Jan  7, 2012       D04-04-04 
+ JD14AF4124X118598  CR-Z         2012  30568  33705  Pena, Elaine            Sat, Jan  1, 2012       D04-04-05 
+ JC131F1144X13A7CX  CR-V         2012  29558  30995  Campbell, Jeanne        Fri, Jan  7, 2012       D04-04-02 
+ JH154SU1A4X1185A2  Odyssey      2012  31183  32375  Miller, Julian          Mon, Jan  3, 2012       D04-04-04 
+ JH153FU124X182C44  Odyssey      2012  43035  45825  Dixon, Patsy            Sun, Jan  2, 2012       D04-04-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F11A3X54B875  Crosstour   2011  30852  37640  Russell, Jerry          Wed, Jan  5, 2012       D04-04-03 
+ JA111S13A32182CB7  Accord      2011  18573  22480  Russell, Jerry          Fri, Jan  7, 2012       D04-04-03 
+ JJ16AF11623782CB9  Pilot       2010  30380  41970  Richards, Angela        Wed, Jan  5, 2012       D04-04-06 
+ JB127S134Y235C991  Civic       2008  10186  16655  Campbell, Jeanne        Mon, Jan  3, 2012       D04-04-02 
+ JE145F4114X14B883  Crosstour    2012  42820  46640  Lucas, Carl             Thu, Jan  6, 2012       D04-04-01 
+ JE141F11A32929665  Crosstour   2011  30472  37640  Pena, Elaine            Sat, Jan  1, 2012       D04-04-05 
+ JH155FU17Y4529667  Odyssey     2008  29512  47825  Russell, Jerry          Wed, Jan  5, 2012       D04-04-03 
+ JB121S126Y2518559  Civic       2008  10062  16455  Wilson, Chad            Tue, Jan  4, 2012       D04-04-08 
+ JC131F11AX274B891  CR-V        2007  16036  30995  Lucas, Carl             Wed, Jan  5, 2012       D04-04-01 
+ JJ162FU18X114B893  Pilot       2007  22260  44970  Miller, Julian          Sun, Jan  2, 2012       D04-04-04 
+ JB121S1203396XAB5  Civic       2011  13693  16455  Lucas, Carl             Wed, Jan  5, 2012       D04-04-01 
+ JB127S13823382CX7  Civic       2010  12389  16655  Pena, Elaine            Fri, Jan  7, 2012       D04-04-05 
+ JH158S4131513A789  Odyssey     2009  25735  41375  Campbell, Jeanne        Tue, Jan  4, 2012       D04-04-02 
+ JH156S315Y2682C11  Odyssey     2008  17487  30375  Russell, Jerry          Tue, Jan  4, 2012       D04-04-03 
+ JB129S148Y4829683  Civic       2008  14154  23055  Wilson, Chad            Tue, Jan  4, 2012       D04-04-08 
+ JE141F1142186XAC5  Crosstour   2010  27792  37640  Russell, Jerry          Mon, Jan  3, 2012       D04-04-03 
+ JE142FU12YX33A797  Crosstour   2008  23049  38640  Richards, Angela        Fri, Jan  7, 2012       D04-04-06 
+ JC132FU10Y3429689  CR-V        2008  19697  31995  Campbell, Jeanne        Fri, Jan  7, 2012       D04-04-02 
+ JG148F11724418581  Insight     2010  18067  24390  Lucas, Carl             Wed, Jan  5, 2012       D04-04-01 
+ JB128SU3514PX7473  Civic       2009  11485  17455  Campbell, Jeanne        Sun, Jan  2, 2012       D04-04-02 
+ JB121S12611771B15  Civic       2009  10827  16455  Richards, Angela        Wed, Jan  5, 2012       D04-04-06 
+ JH151F119W3P71B17  Odyssey     2006  18984  44825  Campbell, Jeanne        Mon, Jan  3, 2012       D04-04-02 

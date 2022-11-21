@@ -1,0 +1,317 @@
+Homework 7: submission file hwk07.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Sunday, Oct 24, 2021
+    Time:    18:6
+    USID:    5064u29#N0o4ea6muvB{o1H2u062H%syMt9tOu8az_Inq!S67:18v1H*DaLy2aPyzastEt7Up}B7v0qha@GtKcxOq-unToTtWhusvA
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a01.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 4
+            
+            B. 6
+            
+            C. 1
+            
+            D. 3
+            
+            E. 7
+            
+            END OF QUESTION 1: This unedited file contains 330 characters.
+
+        End output of a01.txt
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 2: This unedited file contains 284 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+            Checking q02.env
+                       OK - q02.env found                                                                    chxq02-A1
+                       OK - MYSQL_ADMIN, MYSQL_MGR, MYSQL_PAD and MYSQL_PMG defined                          chxq02-B1
+                       OK - MYSQL_ADMIN and MYSQL_PAD work as defined                                        chxq02-C1
+                       OK - MYSQL_MGR and MYSQL_PMG work as defined                                          chxq02-D1
+            
+
+        End output of check02.txt
+
+
+        Start output of q02.env
+            #!/bin/bash
+            
+            export MYSQL_ADMIN="salesadmin"
+            export MYSQL_MGR="salesmgr"
+            export MYSQL_PAD="Woodman123321"
+            export MYSQL_PMG="Woodman123321"
+
+        End output of q02.env
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            Create your script in the file q03.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. 
+            
+            END OF QUESTION 3: This unedited file contains 320 characters.
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+            Checking for script q03.sh
+                       OK - q03.sh exists and is not empty                                                      chxq03-A1
+            
+            Checking for q03.sql
+                       OK - q03.sql exists and contains at least 1 select statement                             chxq03-B1
+            
+            Checking contents for q03.sql
+                       OK - "use sales;" statement present                                                      chxq03-C1
+                       OK - select from owners statements                                                       chxq03-D1
+                       OK - select from dealers statements                                                      chxq03-E1
+                       OK - select from agents statements                                                       chxq03-F1
+            
+
+        End output of check03.txt
+
+
+        Start output of q03.sh
+            #!/bin/bash
+            
+            
+            source ~/class/h07/q02/q02.env
+            
+            echo "USE sales;" > q03.sql
+            
+            for i in {1..34}
+            do
+            echo "SELECT fname, lname, owner_id FROM owners WHERE owner_id=$i;" >> q03.sql
+            echo "SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=$i;" >> q03.sql 
+            echo "SELECT fname, lname, owner_id FROM agents WHERE owner_id=$i;" >> q03.sql
+            done
+            num_owners=$( mysql -N -u $MYSQL_ADMIN -p$MYSQL_PAD < 'q03.sql' 2>/dev/null )
+            
+
+        End output of q03.sh
+
+
+        Start output of q03.sql
+            USE sales;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=1;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=1;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=1;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=2;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=2;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=2;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=3;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=3;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=3;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=4;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=4;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=4;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=5;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=5;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=5;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=6;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=6;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=6;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=7;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=7;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=7;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=8;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=8;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=8;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=9;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=9;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=9;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=10;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=10;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=10;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=11;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=11;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=11;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=12;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=12;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=12;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=13;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=13;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=13;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=14;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=14;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=14;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=15;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=15;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=15;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=16;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=16;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=16;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=17;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=17;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=17;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=18;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=18;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=18;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=19;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=19;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=19;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=20;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=20;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=20;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=21;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=21;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=21;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=22;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=22;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=22;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=23;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=23;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=23;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=24;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=24;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=24;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=25;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=25;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=25;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=26;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=26;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=26;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=27;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=27;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=27;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=28;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=28;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=28;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=29;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=29;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=29;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=30;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=30;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=30;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=31;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=31;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=31;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=32;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=32;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=32;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=33;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=33;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=33;
+            SELECT fname, lname, owner_id FROM owners WHERE owner_id=34;
+            SELECT COUNT(*), owner_id FROM dealers WHERE owner_id=34;
+            SELECT fname, lname, owner_id FROM agents WHERE owner_id=34;
+
+        End output of q03.sql
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a04.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. FALSE
+            
+            B. TRUE
+            
+            C. TRUE
+            
+            D. TRUE
+            
+            E. TRUE
+            
+            END OF QUESTION 4: This unedited file contains 330 characters.
+
+        End output of a04.txt
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a05.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. FALSE
+            
+            B. TRUE
+            
+            C. TRUE
+            
+            D. TRUE
+            
+            END OF QUESTION 5: This unedited file contains 325 characters.
+
+        End output of a05.txt
+
+    All files found for question 5.
+END QUESTION 5
+
+    Begin summary of file submissions
+        Files needed  = 10
+        Files found   = 10
+        Files missing = 0
+    End summary of file submissions
+
+    Begin summary of question checks
+        Question 1: Correct!         a01.txt - 5 of 5 correct, all files present.
+        Question 2: Correct!         a02.txt - 1 of 1 correct, check02.sh gets correct answer, all files present.
+        Question 3: Needs more work. a03.txt - 0 of 1 correct, check03.sh gets correct answer, all files present.
+        Question 4: Correct!         a04.txt - 5 of 5 correct, all files present.
+        Question 5: Correct!         a05.txt - 4 of 4 correct, all files present.
+    4 out of 5 questions correct
+    End summary of question checks
+
+Homework 7: submission file hwk07.txt completed

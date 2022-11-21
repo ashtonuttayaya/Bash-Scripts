@@ -1,0 +1,59 @@
+Dealer Name: Jones Honda Dealer
+Address:     6957 Davison Highway
+             Clarksville, NC
+Dealer ID:   3
+Owner:       Jones, Kelly
+Date:        Fri, Jun 18, 2011 thru Thu, Jun 24, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1293255C8X8  Civic        2011  15846  16455  Herrera, Julian         Sun, Jun 20, 2011       D03-03-03 
+ JA114FU39325X739X  Accord       2011  30056  33930  Herrera, Julian         Sat, Jun 19, 2011       D03-03-03 
+ JG148F112325X7392  Insight      2011  22768  24390  Smith, Maria            Tue, Jun 22, 2011       D03-03-04 
+ JB126GU61325295B4  Civic        2011  27019  29305  Taylor, Billie          Fri, Jun 18, 2011       D03-03-02 
+ JD136F119325X7396  CR-Z         2011  22935  24705  Graham, Jeffery         Wed, Jun 23, 2011       D03-03-06 
+ JE141F115325X7398  Crosstour    2011  35214  37640  Taylor, Billie          Fri, Jun 18, 2011       D03-03-02 
+ JH15AS1123253A6XX  Odyssey      2011  27380  29375  Larson, Sonia           Sun, Jun 20, 2011       D03-03-05 
+ JD138FU12325X73A2  CR-Z         2011  27092  27705  Larson, Sonia           Wed, Jun 23, 2011       D03-03-05 
+ JB127S135325184B4  Civic        2011  15107  16655  Herrera, Julian         Wed, Jun 23, 2011       D03-03-03 
+ JC131F112325X73A6  CR-V         2011  29659  30995  Smith, Maria            Mon, Jun 21, 2011       D03-03-04 
+ JA115SU3132582B58  Accord       2011  24419  25480  Larson, Sonia           Tue, Jun 22, 2011       D03-03-05 
+ JH154SU14325X741X  Odyssey      2011  29177  32375  Graham, Jeffery         Tue, Jun 22, 2011       D03-03-06 
+ JB127S13A3255C962  Civic        2011  15782  16655  Smith, Maria            Fri, Jun 18, 2011       D03-03-04 
+ JH157F31332529634  Odyssey      2011  41905  45825  Graham, Jeffery         Thu, Jun 24, 2011       D03-03-06 
+ JK165F11232571B86  Ridgeline    2011  44391  46750  Smith, Maria            Sun, Jun 20, 2011       D03-03-04 
+ JB129S1473255C968  Civic        2011  20486  23055  Graham, Jeffery         Wed, Jun 23, 2011       D03-03-06 
+ JB127S1313255C97X  Civic        2011  15529  16655  Smith, Maria            Thu, Jun 24, 2011       D03-03-04 
+ JA1X7S3203253A752  Accord       2011  23795  25089  Smith, Maria            Thu, Jun 24, 2011       D03-03-04 
+ JJ161FU1632571B94  Pilot        2011  41467  42970  Herrera, Julian         Fri, Jun 18, 2011       D03-03-03 
+ JB121S1263256XA86  Civic        2011  16012  16455  Taylor, Billie          Mon, Jun 21, 2011       D03-03-02 
+ JJ162FU153255C978  Pilot        2011  41805  44970  Herrera, Julian         Mon, Jun 21, 2011       D03-03-03 
+ JA1X1S127325X743X  Accord       2011  22247  24089  Herrera, Julian         Sun, Jun 20, 2011       D03-03-03 
+ JB121S12832582CB2  Civic        2011  15262  16455  Mitchell, Sue           Wed, Jun 23, 2011       D03-03-01 
+ JB127S13632571BA4  Civic        2011  15614  16655  Mitchell, Sue           Sun, Jun 20, 2011       D03-03-01 
+ JB127S13A325X7436  Civic        2011  15192  16655  Smith, Maria            Wed, Jun 23, 2011       D03-03-04 
+ JB125G16732571BA8  Civic        2011  26718  28505  Larson, Sonia           Thu, Jun 24, 2011       D03-03-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH157F31AY2P5C8X7  Odyssey     2008  29184  45825  Taylor, Billie          Tue, Jun 22, 2011       D03-03-02 
+ JH155FU10XX171A29  Odyssey     2007  28425  47825  Taylor, Billie          Thu, Jun 24, 2011       D03-03-02 
+ JA113SU39Y476X921  Accord      2008  15301  23480  Larson, Sonia           Fri, Jun 18, 2011       D03-03-05 
+ JD137FU1A217X7393  CR-Z        2010  21003  25705  Graham, Jeffery         Thu, Jun 24, 2011       D03-03-06 
+ JH152SU1612982B45  Odyssey     2009  21870  30375  Graham, Jeffery         Sat, Jun 19, 2011       D03-03-06 
+ JE141F119224295B7  Crosstour   2010  30292  37640  Larson, Sonia           Thu, Jun 24, 2011       D03-03-05 
+ JJ161FU16YX7X7399  Pilot       2008  28126  42970  Taylor, Billie          Thu, Jun 24, 2011       D03-03-02 
+ JH152SU111134B711  Odyssey     2009  22295  30375  Taylor, Billie          Thu, Jun 24, 2011       D03-03-02 
+ JJ163F3132114B713  Pilot       2010  34556  42970  Larson, Sonia           Fri, Jun 18, 2011       D03-03-05 
+ JE142FU1013P82B55  Crosstour   2009  28361  38640  Herrera, Julian         Sun, Jun 20, 2011       D03-03-03 
+ JJ161FU12W296X937  Pilot       2006  20090  42970  Smith, Maria            Thu, Jun 24, 2011       D03-03-04 
+ JE145F41AWX571A49  Crosstour   2006  22982  46640  Graham, Jeffery         Sun, Jun 20, 2011       D03-03-06 
+ JH159F416X1471B81  Odyssey     2007  33825  56825  Larson, Sonia           Mon, Jun 21, 2011       D03-03-05 
+ JE141F117V1882C93  Crosstour   2005  14696  37640  Graham, Jeffery         Mon, Jun 21, 2011       D03-03-06 
+ JJ162FU18YX45C965  Pilot       2008  28636  44970  Graham, Jeffery         Sat, Jun 19, 2011       D03-03-06 
+ JH152SU10125X7417  Odyssey     2009  21870  30375  Herrera, Julian         Sat, Jun 19, 2011       D03-03-03 
+ JG148F1161X171B89  Insight     2009  17902  24390  Herrera, Julian         Wed, Jun 23, 2011       D03-03-03 
+ JJ162FU11X1582CA1  Pilot       2007  26712  44970  Mitchell, Sue           Sat, Jun 19, 2011       D03-03-01 

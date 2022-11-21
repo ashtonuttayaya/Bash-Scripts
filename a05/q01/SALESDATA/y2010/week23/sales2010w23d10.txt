@@ -1,0 +1,60 @@
+Dealer Name: Walker Honda
+Address:     1240 Harrison Ave
+             Port Kiln, SC
+Dealer ID:   10
+Owner:       Walker, Shelly
+Date:        Thu, Jun  4, 2010 thru Wed, Jun 10, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X2F1282233AA44  Accord       2010  31873  33030  Gardner, Salvador       Tue, Jun  9, 2010       D10-07-03 
+ JH152SU192234BB56  Odyssey      2010  28552  30375  Fields, Roland          Wed, Jun 10, 2010       D10-07-02 
+ JB127S13822371188  Civic        2010  15988  16655  Fields, Roland          Sat, Jun  6, 2010       D10-07-02 
+ JH151F1112235CC7X  Odyssey      2010  41239  44825  Alvarez, David          Thu, Jun  4, 2010       D10-07-06 
+ JB121S12322329942  Civic        2010  15796  16455  Ross, Darren            Tue, Jun  9, 2010       D10-07-05 
+ JH159F410223X7724  Odyssey      2010  53415  56825  Ross, Darren            Sun, Jun  7, 2010       D10-07-05 
+ JA111S13922329946  Accord       2010  21356  22480  Gardner, Salvador       Wed, Jun 10, 2010       D10-07-03 
+ JH159F41622318838  Odyssey      2010  51710  56825  Wright, Emma            Fri, Jun  5, 2010       D10-07-04 
+ JB121S1242234BB7X  Civic        2010  15303  16455  Ross, Darren            Tue, Jun  9, 2010       D10-07-05 
+ JA1X1S1252233AA62  Accord       2010  21680  24089  Ross, Darren            Fri, Jun  5, 2010       D10-07-05 
+ JB127S138223822B4  Civic        2010  15738  16655  Gardner, Salvador       Thu, Jun  4, 2010       D10-07-03 
+ JB125G1672234BB76  Civic        2010  27222  28505  Gardner, Salvador       Fri, Jun  5, 2010       D10-07-03 
+ JB121S122223X7738  Civic        2010  14644  16455  Fields, Roland          Sun, Jun  7, 2010       D10-07-02 
+ JB127S13A223711BX  Civic        2010  16072  16655  Fields, Roland          Sun, Jun  7, 2010       D10-07-02 
+ JB127S1322233AA72  Civic        2010  15489  16655  Marshall, Allan         Thu, Jun  4, 2010       D10-07-01 
+ JH153FU112233AA74  Odyssey      2010  43762  45825  Wright, Emma            Mon, Jun  8, 2010       D10-07-04 
+ JB121S12622329966  Civic        2010  14974  16455  Wright, Emma            Wed, Jun 10, 2010       D10-07-04 
+ JA111S13822329968  Accord       2010  21805  22480  Marshall, Allan         Wed, Jun 10, 2010       D10-07-01 
+ JC131F1172231886X  CR-V         2010  27275  30995  Ross, Darren            Tue, Jun  9, 2010       D10-07-05 
+ JA112F13822318862  Accord       2010  29472  32930  Wright, Emma            Thu, Jun  4, 2010       D10-07-04 
+ JB127S1382236XXB4  Civic        2010  16072  16655  Alvarez, David          Fri, Jun  5, 2010       D10-07-06 
+ JB127S1302235CCA6  Civic        2010  15322  16655  Ross, Darren            Sat, Jun  6, 2010       D10-07-05 
+ JB121S1212234BB98  Civic        2010  14480  16455  Alvarez, David          Wed, Jun 10, 2010       D10-07-06 
+ JA1X3SU232235CCBX  Accord       2010  23458  25089  Marshall, Allan         Fri, Jun  5, 2010       D10-07-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ163F310V2418599  Pilot       2005  21035  42970  Gardner, Salvador       Sat, Jun  6, 2010       D10-07-03 
+ JD136F114W27185A1  CR-Z        2006  14898  24705  Fields, Roland          Mon, Jun  8, 2010       D10-07-02 
+ JH152SU19X2971B33  Odyssey     2007  19690  30375  Marshall, Allan         Wed, Jun 10, 2010       D10-07-01 
+ JA1X4FU21Y4482C45  Accord      2008  24812  34030  Wright, Emma            Fri, Jun  5, 2010       D10-07-04 
+ JB129S1432156XA27  Civic        2010  21068  23055  Alvarez, David          Thu, Jun  4, 2010       D10-07-06 
+ JE143FU17X3171B39  Crosstour   2007  26445  40640  Gardner, Salvador       Tue, Jun  9, 2010       D10-07-03 
+ JH152SU15XX14B811  Odyssey     2007  19690  30375  Wright, Emma            Fri, Jun  5, 2010       D10-07-04 
+ JE141F119X25185B3  Crosstour   2007  23801  37640  Gardner, Salvador       Fri, Jun  5, 2010       D10-07-03 
+ JH155FU12X38185B5  Odyssey     2007  30320  47825  Marshall, Allan         Mon, Jun  8, 2010       D10-07-01 
+ JA116FU34X1371B47  Accord      2007  23345  35930  Ross, Darren            Tue, Jun  9, 2010       D10-07-05 
+ JA111S137X434B819  Accord      2007  19937  22480  Alvarez, David          Mon, Jun  8, 2010       D10-07-06 
+ JB122SU2AX244B951  Civic       2007  11057  17255  Fields, Roland          Thu, Jun  4, 2010       D10-07-02 
+ JB121S129X453A843  Civic       2007  10531  16455  Ross, Darren            Sat, Jun  6, 2010       D10-07-05 
+ JH155FU12Y52X7515  Odyssey     2008  34938  47825  Marshall, Allan         Wed, Jun 10, 2010       D10-07-01 
+ JH153FU12X5118627  Odyssey     2007  28223  45825  Wright, Emma            Fri, Jun  5, 2010       D10-07-04 
+ JG148F11015P82X99  Insight     2009  19512  24390  Alvarez, David          Tue, Jun  9, 2010       D10-07-06 
+ JH157F317Y263A851  Odyssey     2008  32832  45825  Gardner, Salvador       Mon, Jun  8, 2010       D10-07-03 
+ JB128SU30V3982XA3  Civic       2005  8691   17455  Marshall, Allan         Fri, Jun  5, 2010       D10-07-01 
+ JE143FU101X44B965  Crosstour   2009  32918  40640  Gardner, Salvador       Fri, Jun  5, 2010       D10-07-03 
+ JB127S136X1518637  Civic       2007  10662  16655  Alvarez, David          Wed, Jun 10, 2010       D10-07-06 
+ JB127S133X4929749  Civic       2007  10371  16655  Gardner, Salvador       Tue, Jun  9, 2010       D10-07-03 

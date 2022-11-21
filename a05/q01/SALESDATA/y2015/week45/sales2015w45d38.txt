@@ -1,0 +1,55 @@
+Dealer Name: Kaplan Honda
+Address:     1605 Nebraska Blvd
+             East Valley, FL
+Dealer ID:   38
+Owner:       Kaplan, Edward
+Date:        Wed, Nov  5, 2015 thru Tue, Nov 11, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1387453C672  Civic        2015  15735  16655  Murphy, Roger           Wed, Nov  5, 2015       D38-34-01 
+ JB121S12074573AB4  Civic        2015  16437  16455  Murphy, Roger           Tue, Nov 11, 2015       D38-34-01 
+ JC131F1107452B566  CR-V         2015  29711  30995  Alvarez, Bill           Fri, Nov  7, 2015       D38-34-02 
+ JH155FU197451A458  Odyssey      2015  44544  47825  Murphy, Roger           Thu, Nov  6, 2015       D38-34-01 
+ JA111S1307452B57X  Accord       2015  21716  22480  Henry, Courtney         Wed, Nov  5, 2015       D38-34-05 
+ JE141F1137452B572  Crosstour    2015  34888  37640  Alvarez, Darrell        Mon, Nov 10, 2015       D38-34-04 
+ JA115SU38745629B4  Accord       2015  25008  25480  Alvarez, Darrell        Wed, Nov  5, 2015       D38-34-04 
+ JB127S134745629B6  Civic        2015  16179  16655  Henry, Courtney         Mon, Nov 10, 2015       D38-34-05 
+ JA111S13974573AC8  Accord       2015  22070  22480  Alvarez, Darrell        Thu, Nov  6, 2015       D38-34-04 
+ JA1X7S3237453C69X  Accord       2015  24379  25089  Lee, Jason              Fri, Nov  7, 2015       D38-34-03 
+ JC133FU1674573AX2  CR-V         2015  31081  33995  Alvarez, Bill           Sat, Nov  8, 2015       D38-34-02 
+ JE141F116745518B4  Crosstour    2015  37408  37640  Rice, Ruth              Wed, Nov  5, 2015       D38-34-06 
+ JE144F31A74584B16  Crosstour    2015  35390  38640  Alvarez, Bill           Tue, Nov 11, 2015       D38-34-02 
+ JA111S131745X9368  Accord       2015  22424  22480  Alvarez, Darrell        Tue, Nov 11, 2015       D38-34-04 
+ JJ161FU197454X7BX  Pilot        2015  40346  42970  Henry, Courtney         Mon, Nov 10, 2015       D38-34-05 
+ JB121S1207453C6A2  Civic        2015  15646  16455  Alvarez, Bill           Sat, Nov  8, 2015       D38-34-02 
+ JD136F116745518C4  CR-Z         2015  24151  24705  Murphy, Roger           Tue, Nov 11, 2015       D38-34-01 
+ JA1X2F1297454X7B6  Accord       2015  33130  33030  Henry, Courtney         Mon, Nov 10, 2015       D38-34-05 
+ JB129S143745X9378  Civic        2015  22487  23055  Alvarez, Bill           Wed, Nov  5, 2015       D38-34-02 
+ JA1X5SU2274573A2X  Accord       2015  26239  27089  Alvarez, Bill           Tue, Nov 11, 2015       D38-34-02 
+ JH152SU1574562912  Odyssey      2015  29137  30375  Murphy, Roger           Fri, Nov  7, 2015       D38-34-01 
+ JB121S12774584B34  Civic        2015  16085  16455  Murphy, Roger           Sat, Nov  8, 2015       D38-34-01 
+ JB127S134745518X6  Civic        2015  16002  16655  Alvarez, Bill           Mon, Nov 10, 2015       D38-34-02 
+ JH153FU127451A498  Odyssey      2015  41316  45825  Lee, Jason              Mon, Nov 10, 2015       D38-34-03 
+ JA1X4FU277454X7XX  Accord       2015  32694  34030  Alvarez, Darrell        Fri, Nov  7, 2015       D38-34-04 
+ JB129S1407451A4A2  Civic        2015  22971  23055  Alvarez, Darrell        Tue, Nov 11, 2015       D38-34-04 
+ JB127S13074584B44  Civic        2015  16002  16655  Murphy, Roger           Mon, Nov 10, 2015       D38-34-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F11A4153B865  Odyssey     2004  28301  44825  Henry, Courtney         Sun, Nov  9, 2015       D38-34-05 
+ JH157F3156273B867  Odyssey     2006  37560  45825  Alvarez, Bill           Sun, Nov  9, 2015       D38-34-02 
+ JG148F11132483XB9  Insight     2003  14904  24390  Alvarez, Bill           Mon, Nov 10, 2015       D38-34-02 
+ JK165F1174X42A761  Ridgeline   2004  31205  46750  Murphy, Roger           Fri, Nov  7, 2015       D38-34-01 
+ JB127S131525X8543  Civic       2005  12885  16655  Rice, Ruth              Fri, Nov  7, 2015       D38-34-06 
+ JH157F3145235XA95  Odyssey     2005  32987  45825  Alvarez, Bill           Thu, Nov  6, 2015       D38-34-02 
+ JH159F4154464C987  Odyssey     2004  52037  56825  Murphy, Roger           Tue, Nov 11, 2015       D38-34-01 
+ JB127S13022P72CB9  Civic       2002  8862   16655  Alvarez, Darrell        Fri, Nov  7, 2015       D38-34-04 
+ JJ164F4155145XAA1  Pilot       2005  38738  53970  Alvarez, Bill           Tue, Nov 11, 2015       D38-34-02 
+ JH152SU113514C993  Odyssey     2003  18495  30375  Alvarez, Darrell        Wed, Nov  5, 2015       D38-34-04 
+ JC132FU125335XAA5  CR-V        2005  23684  31995  Alvarez, Bill           Sun, Nov  9, 2015       D38-34-02 
+ JE141F1173X54C997  Crosstour   2003  23615  37640  Lee, Jason              Wed, Nov  5, 2015       D38-34-03 
+ JB122SU2A43461BB9  Civic       2004  11797  17255  Alvarez, Bill           Thu, Nov  6, 2015       D38-34-02 

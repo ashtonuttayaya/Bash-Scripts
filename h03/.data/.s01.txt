@@ -1,0 +1,7 @@
+Checking tar extraction
+           OK - tar command                                                     chxq01-A1
+           OK - web directory and html file extraction                          chxq01-B1
+
+Checking grep commands
+           Not OK - href counts by file                    ( 59004026 )                  chxq01-C0
+

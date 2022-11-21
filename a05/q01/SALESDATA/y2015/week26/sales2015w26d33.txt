@@ -1,0 +1,67 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Wed, Jun 25, 2015 thru Tue, Jul  1, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S125726X8A86  Civic        2015  16173  16455  Mitchell, John          Wed, Jun 25, 2015       D33-29-02 
+ JB123H15372683538  Civic        2015  27719  27600  Mitchell, John          Fri, Jun 27, 2015       D33-29-02 
+ JA115SU38726X8A9X  Accord       2015  23944  25480  Martinez, Katherine     Fri, Jun 27, 2015       D33-29-04 
+ JH153FU1072619BA2  Odyssey      2015  42255  45825  Wells, Clayton          Mon, Jun 30, 2015       D33-29-01 
+ JJ161FU127262ACB4  Pilot        2015  41228  42970  Shelton, Adam           Thu, Jun 26, 2015       D33-29-05 
+ JB129S14972619BA6  Civic        2015  22245  23055  Shelton, Adam           Wed, Jun 25, 2015       D33-29-05 
+ JB127S13672619BA8  Civic        2015  16802  16655  Morgan, Milton          Sat, Jun 28, 2015       D33-29-03 
+ JA1X5SU267267244X  Accord       2015  27226  27089  Shelton, Adam           Mon, Jun 30, 2015       D33-29-05 
+ JB129S14172661332  Civic        2015  22971  23055  Martinez, Katherine     Mon, Jun 30, 2015       D33-29-04 
+ JB121S1267262ACC4  Civic        2015  16349  16455  Wells, Clayton          Wed, Jun 25, 2015       D33-29-01 
+ JA117S3307265X226  Accord       2015  23743  23480  Shelton, Adam           Tue, Jul  1, 2015       D33-29-05 
+ JB129S14272661338  Civic        2015  21762  23055  Martinez, Katherine     Thu, Jun 26, 2015       D33-29-04 
+ JH152SU157264C25X  Odyssey      2015  29452  30375  Wells, Clayton          Thu, Jun 26, 2015       D33-29-01 
+ JH154SU137264C252  Odyssey      2015  30652  32375  Wells, Clayton          Mon, Jun 30, 2015       D33-29-01 
+ JA113SU3572619C24  Accord       2015  23005  23480  Shelton, Adam           Mon, Jun 30, 2015       D33-29-05 
+ JC131F1147264C256  CR-V         2015  28426  30995  Mitchell, John          Sun, Jun 29, 2015       D33-29-02 
+ JH158S41372661478  Odyssey      2015  38037  41375  Shelton, Adam           Sat, Jun 28, 2015       D33-29-05 
+ JB127S1317266148X  Civic        2015  15824  16655  Mitchell, John          Sun, Jun 29, 2015       D33-29-02 
+ JA112F13A7264C262  Accord       2015  32181  32930  Martinez, Katherine     Wed, Jun 25, 2015       D33-29-04 
+ JA1X5SU2372619C34  Accord       2015  25110  27089  Mitchell, John          Sun, Jun 29, 2015       D33-29-02 
+ JC131F11872672596  CR-V         2015  29550  30995  Shelton, Adam           Sat, Jun 28, 2015       D33-29-05 
+ JC131F1107265X378  CR-V         2015  29550  30995  Wells, Clayton          Sat, Jun 28, 2015       D33-29-01 
+ JA1X1S123726X8B3X  Accord       2015  22314  24089  Mitchell, John          Thu, Jun 26, 2015       D33-29-02 
+ JB129S145726X8B32  Civic        2015  21762  23055  Shelton, Adam           Tue, Jul  1, 2015       D33-29-05 
+ JA1X2F1247265X384  Accord       2015  30910  33030  Shelton, Adam           Sun, Jun 29, 2015       D33-29-05 
+ JJ161FU14726X8B36  Pilot        2015  40567  42970  Wells, Clayton          Sun, Jun 29, 2015       D33-29-01 
+ JH152SU127265X388  Odyssey      2015  28192  30375  Shelton, Adam           Wed, Jun 25, 2015       D33-29-05 
+ JA111S1337263B17X  Accord       2015  21598  22480  Mitchell, John          Mon, Jun 30, 2015       D33-29-02 
+ JA1X1S1217262AX62  Accord       2015  23953  24089  Wells, Clayton          Sat, Jun 28, 2015       D33-29-01 
+ JA1X4FU227262AX64  Accord       2015  33748  34030  Shelton, Adam           Thu, Jun 26, 2015       D33-29-05 
+ JB121S12A7264C286  Civic        2015  16261  16455  Martinez, Katherine     Tue, Jul  1, 2015       D33-29-04 
+ JB121S12A72619C58  Civic        2015  15822  16455  Martinez, Katherine     Thu, Jun 26, 2015       D33-29-04 
+ JH158S414726725CX  Odyssey      2015  38250  41375  Mitchell, John          Mon, Jun 30, 2015       D33-29-02 
+ JH157F31A7265X3A2  Odyssey      2015  44367  45825  Shelton, Adam           Thu, Jun 26, 2015       D33-29-05 
+ JB121S12A726836X4  Civic        2015  16701  16455  Mitchell, John          Tue, Jul  1, 2015       D33-29-02 
+ JA116FU31726725C6  Accord       2015  35387  35930  Shelton, Adam           Mon, Jun 30, 2015       D33-29-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S14A4212A585  Civic       2004  15614  23055  Morgan, Milton          Thu, Jun 26, 2015       D33-29-03 
+ JH153FU1432572AX7  Odyssey     2003  28690  45825  Martinez, Katherine     Sun, Jun 29, 2015       D33-29-04 
+ JA118F33942219479  Accord      2004  22770  33930  Mitchell, John          Tue, Jul  1, 2015       D33-29-02 
+ JC131F11743P619X1  CR-V        2004  20838  30995  Mitchell, John          Sun, Jun 29, 2015       D33-29-02 
+ JE141F11444P2A593  Crosstour   2004  25211  37640  Morgan, Milton          Tue, Jul  1, 2015       D33-29-03 
+ JE141F11043P2A595  Crosstour   2004  24521  37640  Shelton, Adam           Thu, Jun 26, 2015       D33-29-05 
+ JH151F1144X919487  Odyssey     2004  29939  44825  Mitchell, John          Thu, Jun 26, 2015       D33-29-02 
+ JB129S14224383B29  Civic       2002  12222  23055  Shelton, Adam           Tue, Jul  1, 2015       D33-29-05 
+ JH151F11623572A21  Odyssey     2002  23651  44825  Mitchell, John          Mon, Jun 30, 2015       D33-29-02 
+ JH155FU171X62A5A3  Odyssey     2001  17695  47825  Martinez, Katherine     Thu, Jun 26, 2015       D33-29-04 
+ JD138FU13436X8385  CR-Z        2004  18163  27705  Mitchell, John          Mon, Jun 30, 2015       D33-29-02 
+ JH15AS117211X8387  Odyssey     2002  15540  29375  Martinez, Katherine     Mon, Jun 30, 2015       D33-29-04 
+ JB127S1393X33B6B9  Civic       2003  10605  16655  Martinez, Katherine     Fri, Jun 27, 2015       D33-29-04 
+ JG148F11132261921  Insight     2003  14904  24390  Mitchell, John          Sun, Jun 29, 2015       D33-29-02 
+ JH153FU1712283B43  Odyssey     2001  18330  45825  Martinez, Katherine     Fri, Jun 27, 2015       D33-29-04 
+ JE141F1194175X815  Crosstour   2004  25211  37640  Martinez, Katherine     Thu, Jun 26, 2015       D33-29-04 

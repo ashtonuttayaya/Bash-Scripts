@@ -1,0 +1,46 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Fri, Nov 12, 2011 thru Thu, Nov 18, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA118F3313463A642  Accord       2011  31081  33930  King, Michelle          Sat, Nov 13, 2011       D01-01-03 
+ JC131F11A346X7314  CR-V         2011  29971  30995  Harper, Freddie         Fri, Nov 12, 2011       D01-01-05 
+ JB127S1343466X976  Civic        2011  14938  16655  Ryan, Margie            Thu, Nov 18, 2011       D01-01-06 
+ JC131F11A3465C868  CR-V         2011  28722  30995  Wood, Lloyd             Mon, Nov 15, 2011       D01-01-04 
+ JB125G16434671A9X  Civic        2011  27149  28505  King, Michelle          Wed, Nov 17, 2011       D01-01-03 
+ JG148F11934629542  Insight      2011  23138  24390  Jennings, Terry         Tue, Nov 16, 2011       D01-01-02 
+ JH151F1163465C874  Odyssey      2011  40995  44825  Wood, Lloyd             Wed, Nov 17, 2011       D01-01-04 
+ JH152SU1334618436  Odyssey      2011  28305  30375  Harper, Freddie         Sun, Nov 14, 2011       D01-01-05 
+ JC131F11434671A98  CR-V         2011  28566  30995  Ryan, Margie            Wed, Nov 17, 2011       D01-01-06 
+ JB123H1573461844X  Civic        2011  26851  27600  Russell, Connie         Sun, Nov 14, 2011       D01-01-01 
+ JB128SU313466X992  Civic        2011  16177  17455  Harper, Freddie         Tue, Nov 16, 2011       D01-01-05 
+ JH151F11034629554  Odyssey      2011  43022  44825  Harper, Freddie         Tue, Nov 16, 2011       D01-01-05 
+ JB127S13334682BB6  Civic        2011  15276  16655  Ryan, Margie            Wed, Nov 17, 2011       D01-01-06 
+ JB127S1333466X998  Civic        2011  16120  16655  King, Michelle          Mon, Nov 15, 2011       D01-01-03 
+ JE142FU183466X9AX  Crosstour    2011  34978  38640  Russell, Connie         Thu, Nov 18, 2011       D01-01-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU11XX482B93  Odyssey     2007  27477  47825  Russell, Connie         Sat, Nov 13, 2011       D01-01-01 
+ JA111S130X3529535  Accord      2007  13658  22480  Jennings, Terry         Mon, Nov 15, 2011       D01-01-02 
+ JJ162FU1814182B97  Pilot       2009  33007  44970  Wood, Lloyd             Sat, Nov 13, 2011       D01-01-04 
+ JH153FU12Y3P3A649  Odyssey     2008  30004  45825  Harper, Freddie         Mon, Nov 15, 2011       D01-01-05 
+ JB123H1501136X981  Civic       2009  20258  27600  Jennings, Terry         Fri, Nov 12, 2011       D01-01-02 
+ JB121S122Y1418433  Civic       2008  10679  16455  Russell, Connie         Sun, Nov 14, 2011       D01-01-01 
+ JC134F313X3P5C875  CR-V        2007  19557  31995  Russell, Connie         Mon, Nov 15, 2011       D01-01-01 
+ JJ163F310W2P29547  Pilot       2006  20090  42970  Jennings, Terry         Fri, Nov 12, 2011       D01-01-02 
+ JB127S133X4729549  Civic       2007  10047  16655  Harper, Freddie         Sat, Nov 13, 2011       D01-01-05 
+ JH154SU16V21X7331  Odyssey     2005  11645  32375  King, Michelle          Fri, Nov 12, 2011       D01-01-03 
+ JB123H15624782BB3  Civic       2010  22538  27600  Harper, Freddie         Sun, Nov 14, 2011       D01-01-05 
+ JE141F1131246X995  Crosstour   2009  27627  37640  Jennings, Terry         Mon, Nov 15, 2011       D01-01-02 
+ JB123H15514129557  Civic       2009  20258  27600  Ryan, Margie            Tue, Nov 16, 2011       D01-01-06 
+ JC131F11612129559  CR-V        2009  22750  30995  Russell, Connie         Fri, Nov 12, 2011       D01-01-01 
+ JH153FU101126X9A1  Odyssey     2009  33635  45825  King, Michelle          Wed, Nov 17, 2011       D01-01-03 
+ JJ16AF110Y1718453  Pilot       2008  27468  41970  Wood, Lloyd             Sat, Nov 13, 2011       D01-01-04 

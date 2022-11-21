@@ -1,0 +1,44 @@
+Dealer Name: Bill Travers Honda
+Address:     7043 George Parson Highway
+             Grand Traverse, AL
+Dealer ID:   21
+Owner:       Travers, Bill
+Date:        Mon, Dec 24, 2013 thru Mon, Dec 31, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU13552291C2  Odyssey      2013  29963  30375  Oliver, Melanie         Sat, Dec 29, 2013       D21-19-02 
+ JC131F1115523A2X4  CR-V         2013  29611  30995  Carroll, Glenn          Tue, Dec 25, 2013       D21-19-01 
+ JH156S31255218XB6  Odyssey      2013  29497  30375  Washington, Franklin    Sat, Dec 29, 2013       D21-19-06 
+ JH152SU155524B318  Odyssey      2013  28566  30375  Simpson, Georgia        Tue, Dec 25, 2013       D21-19-08 
+ JA113SU3755283B9X  Accord       2013  23309  23480  Powell, Jerome          Sun, Dec 30, 2013       D21-19-03 
+ JB127S1335524C752  Civic        2013  15510  16655  King, Gwendolyn         Sat, Dec 29, 2013       D21-19-04 
+ JE141F11055283B94  Crosstour    2013  33908  37640  Oliver, Melanie         Sun, Dec 30, 2013       D21-19-02 
+ JA1X2F1205525X866  Accord       2013  32356  33030  King, Gwendolyn         Thu, Dec 27, 2013       D21-19-04 
+ JB129S1485522A538  Civic        2013  22306  23055  Oliver, Melanie         Sun, Dec 30, 2013       D21-19-02 
+ JB121S128552X832X  Civic        2013  15930  16455  King, Gwendolyn         Sun, Dec 30, 2013       D21-19-04 
+ JB127S1335522A542  Civic        2013  15597  16655  West, Ashley            Tue, Dec 25, 2013       D21-19-07 
+ JH153FU19552X8324  Odyssey      2013  41617  45825  West, Ashley            Mon, Dec 24, 2013       D21-19-07 
+ JD137FU1055219436  CR-Z         2013  25192  25705  Washington, Franklin    Tue, Dec 25, 2013       D21-19-06 
+ JB129S1435524C768  Civic        2013  21950  23055  Oliver, Melanie         Sat, Dec 29, 2013       D21-19-02 
+ JG148F1195523B66X  Insight      2013  23561  24390  West, Ashley            Fri, Dec 28, 2013       D21-19-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ161FU194215CXA7  Pilot       2012  34479  42970  Oliver, Melanie         Wed, Dec 26, 2013       D21-19-02 
+ JB127S1383515CXA9  Civic       2011  12555  16655  West, Ashley            Mon, Dec 24, 2013       D21-19-07 
+ JG148F11123418971  Insight     2010  16196  24390  Carroll, Glenn          Fri, Dec 28, 2013       D21-19-01 
+ JH15AS1132145CXB3  Odyssey     2010  19476  29375  Evans, Dennis           Sat, Dec 29, 2013       D21-19-05 
+ JD136F1131X7712X5  CR-Z        2009  15317  24705  Carroll, Glenn          Tue, Dec 25, 2013       D21-19-01 
+ JH152SU13252712X7  Odyssey     2010  20134  30375  West, Ashley            Wed, Dec 26, 2013       D21-19-07 
+ JD139F31624P18979  CR-Z        2010  17061  25705  West, Ashley            Wed, Dec 26, 2013       D21-19-07 
+ JE141F111Y266X1X1  Crosstour   2008  18707  37640  King, Gwendolyn         Tue, Dec 25, 2013       D21-19-04 
+ JB129S14241429A93  Civic       2012  19221  23055  West, Ashley            Fri, Dec 28, 2013       D21-19-07 
+ JB127S136YX182325  Civic       2008  8215   16655  Oliver, Melanie         Mon, Dec 24, 2013       D21-19-02 
+ JH157F31A1X94BCB7  Odyssey     2009  27495  45825  West, Ashley            Sat, Dec 29, 2013       D21-19-07 
+ JH152SU1424982329  Odyssey     2010  19584  30375  Evans, Dennis           Fri, Dec 28, 2013       D21-19-05 
+ JH151F1161X329AA1  Odyssey     2009  26895  44825  Evans, Dennis           Mon, Dec 24, 2013       D21-19-05 
+ JD136F1112314BCC3  CR-Z        2010  16403  24705  Evans, Dennis           Wed, Dec 26, 2013       D21-19-05 

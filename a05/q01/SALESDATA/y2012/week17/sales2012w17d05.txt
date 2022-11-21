@@ -1,0 +1,31 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Sat, Apr 22, 2012 thru Fri, Apr 28, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F110417185A6  Insight      2012  23473  24390  Moreno, Tyrone          Sat, Apr 22, 2012       D05-05-03 
+ JA114FU31417185A8  Accord       2012  31801  33930  Foster, Leona           Sat, Apr 22, 2012       D05-05-07 
+ JB127S13341771B4X  Civic        2012  15480  16655  Brooks, Herman          Thu, Apr 27, 2012       D05-05-01 
+ JB121S12341771B42  Civic        2012  14960  16455  Snyder, Norma           Fri, Apr 28, 2012       D05-05-04 
+ JB121S123417X74A4  Civic        2012  15552  16455  Snyder, Norma           Sun, Apr 23, 2012       D05-05-04 
+ JG148F11A417296C6  Insight      2012  22728  24390  Snyder, Norma           Mon, Apr 24, 2012       D05-05-04 
+ JB127S136417296C8  Civic        2012  15907  16655  Foster, Leona           Thu, Apr 27, 2012       D05-05-07 
+ JB127S1334173A84X  Civic        2012  16249  16655  Lynch, Christian        Sat, Apr 22, 2012       D05-05-02 
+ JF146S11141729732  Fit          2012  15074  16025  Neal, Douglas           Tue, Apr 25, 2012       D05-05-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S130146X7479  Civic       2009  10958  16655  Foster, Leona           Fri, Apr 28, 2012       D05-05-07 
+ JH155FU152186XA11  Odyssey     2010  35268  47825  Snyder, Norma           Wed, Apr 26, 2012       D05-05-04 
+ JH151F11734P71B23  Odyssey     2011  36220  44825  Neal, Douglas           Tue, Apr 25, 2012       D05-05-06 
+ JH153FU10W363A7B5  Odyssey     2006  18060  45825  Neal, Douglas           Mon, Apr 24, 2012       D05-05-06 
+ JH151F1163144B8C7  Odyssey     2011  36220  44825  Moreno, Tyrone          Wed, Apr 26, 2012       D05-05-03 
+ JG148F1142X271B29  Insight     2010  18067  24390  Marshall, Donna         Sat, Apr 22, 2012       D05-05-05 
+ JC132FU11Y446XA21  CR-V        2008  19062  31995  Foster, Leona           Mon, Apr 24, 2012       D05-05-07 

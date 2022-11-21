@@ -1,0 +1,54 @@
+Dealer Name: City Honda
+Address:     9489 Ford Parkwark
+             Brookland, GA
+Dealer ID:   25
+Owner:       Porter, Barbara
+Date:        Thu, Apr  2, 2010 thru Wed, Apr  8, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F113214X7B36  Odyssey      2010  42583  44825  Shelton, Alicia         Thu, Apr  2, 2010       D25-22-01 
+ JB127S1322146X498  Civic        2010  14822  16655  Shelton, Alicia         Thu, Apr  2, 2010       D25-22-01 
+ JG148F1162146X4AX  Insight      2010  23048  24390  Fuller, Jacob           Mon, Apr  6, 2010       D25-22-02 
+ JH157F319214826C2  Odyssey      2010  44221  45825  Shelton, Alicia         Mon, Apr  6, 2010       D25-22-01 
+ JB121S1202144B284  Civic        2010  14891  16455  Mcdonald, Eduardo       Thu, Apr  2, 2010       D25-22-05 
+ JC131F1102143A176  CR-V         2010  29445  30995  Wallace, Harry          Mon, Apr  6, 2010       D25-22-04 
+ JF146S1112144B288  Fit          2010  14502  16025  Wallace, Harry          Tue, Apr  7, 2010       D25-22-04 
+ JD136F11221418C6X  CR-Z         2010  21987  24705  Shelton, Alicia         Fri, Apr  3, 2010       D25-22-01 
+ JB127S1342143A182  Civic        2010  14906  16655  Mcdonald, Eduardo       Mon, Apr  6, 2010       D25-22-05 
+ JD136F11421429X74  CR-Z         2010  22975  24705  Mcdonald, Eduardo       Mon, Apr  6, 2010       D25-22-05 
+ JH154SU182146X4B6  Odyssey      2010  29299  32375  Shelton, Alicia         Thu, Apr  2, 2010       D25-22-01 
+ JA1X3SU2621418C68  Accord       2010  24085  25089  Wallace, Harry          Mon, Apr  6, 2010       D25-22-04 
+ JD136F11521418C7X  CR-Z         2010  23840  24705  Mcdonald, Eduardo       Thu, Apr  2, 2010       D25-22-05 
+ JE144F3192146X4C2  Crosstour    2010  34003  38640  Hall, Josephine         Thu, Apr  2, 2010       D25-22-03 
+ JA1X1S12421482614  Accord       2010  22523  24089  Mcdonald, Eduardo       Tue, Apr  7, 2010       D25-22-05 
+ JE141F1152144B2A6  Crosstour    2010  34628  37640  Shelton, Alicia         Fri, Apr  3, 2010       D25-22-01 
+ JG148F11821418C78  Insight      2010  22072  24390  Wallace, Harry          Mon, Apr  6, 2010       D25-22-04 
+ JH151F1172143A1AX  Odyssey      2010  42359  44825  Wallace, Harry          Sat, Apr  4, 2010       D25-22-04 
+ JA113SU34214X7B72  Accord       2010  22658  23480  Hall, Josephine         Fri, Apr  3, 2010       D25-22-03 
+ JC131F11A214X7B74  CR-V         2010  28050  30995  Fuller, Jacob           Mon, Apr  6, 2010       D25-22-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F110V2171389  CR-V        2005  15799  30995  Wallace, Harry          Tue, Apr  7, 2010       D25-22-04 
+ JH151F113XX56X281  Odyssey     2007  28400  44825  Mcdonald, Eduardo       Mon, Apr  6, 2010       D25-22-05 
+ JK166FU1AW39X7923  Ridgeline   2006  29186  47750  Shelton, Alicia         Sun, Apr  5, 2010       D25-22-01 
+ JC132FU11X5PX7925  CR-V        2007  20756  31995  Wallace, Harry          Wed, Apr  8, 2010       D25-22-04 
+ JH152SU14V4429B47  Odyssey     2005  14737  30375  Shelton, Alicia         Sun, Apr  5, 2010       D25-22-01 
+ JH156S319XX429B49  Odyssey     2007  19152  30375  Shelton, Alicia         Mon, Apr  6, 2010       D25-22-01 
+ JD14AF418T29713A1  CR-Z        2004  14009  33705  Hall, Josephine         Wed, Apr  8, 2010       D25-22-03 
+ JA1X5SU2921218A43  Accord       2010  24719  27089  Mcdonald, Eduardo       Fri, Apr  3, 2010       D25-22-05 
+ JE141F111X4418A45  Crosstour   2007  24471  37640  Mcdonald, Eduardo       Fri, Apr  3, 2010       D25-22-05 
+ JH153FU13145X7937  Odyssey     2009  36201  45825  Shelton, Alicia         Sat, Apr  4, 2010       D25-22-01 
+ JE142FU19W2318A49  Crosstour   2006  23538  38640  Shelton, Alicia         Sat, Apr  4, 2010       D25-22-01 
+ JD137FU15XX45C191  CR-Z        2007  16617  25705  Wallace, Harry          Sun, Apr  5, 2010       D25-22-04 
+ JE144F311T46824C3  Crosstour   2004  15006  38640  Mcdonald, Eduardo       Sun, Apr  5, 2010       D25-22-05 
+ JC131F11013418A55  CR-V        2009  24796  30995  Wallace, Harry          Sat, Apr  4, 2010       D25-22-04 
+ JB129S145V523AC77  Civic       2005  11077  23055  Wallace, Harry          Wed, Apr  8, 2010       D25-22-04 
+ JB121S12AY24X7949  Civic       2008  11912  16455  Fuller, Jacob           Wed, Apr  8, 2010       D25-22-02 
+ JD136F11AX434BX91  CR-Z        2007  15523  24705  Fuller, Jacob           Thu, Apr  2, 2010       D25-22-02 
+ JC134F316X4818A63  CR-V        2007  20756  31995  Sullivan, Hazel         Wed, Apr  8, 2010       D25-22-06 
+ JH155FU10V1P4BX95  Odyssey     2005  22289  47825  Mcdonald, Eduardo       Wed, Apr  8, 2010       D25-22-05 

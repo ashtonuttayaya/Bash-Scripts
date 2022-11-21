@@ -1,0 +1,57 @@
+Dealer Name: Walker Honda
+Address:     1240 Harrison Ave
+             Port Kiln, SC
+Dealer ID:   10
+Owner:       Walker, Shelly
+Date:        Sat, Mar  4, 2012 thru Fri, Mar 10, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU1641P18828  Odyssey      2012  41878  45825  Alvarez, David          Mon, Mar  6, 2012       D10-07-06 
+ JB121S12641P4BB6X  Civic        2012  15975  16455  Fields, Roland          Sat, Mar  4, 2012       D10-07-02 
+ JD136F11841P3AA52  CR-Z         2012  23268  24705  Alvarez, David          Mon, Mar  6, 2012       D10-07-06 
+ JB122SU2841P822A4  Civic        2012  16200  17255  Marshall, Allan         Sun, Mar  5, 2012       D10-07-01 
+ JC131F11741P4BB66  CR-V         2012  30344  30995  Ross, Darren            Wed, Mar  8, 2012       D10-07-05 
+ JD136F11141PX7728  CR-Z         2012  23394  24705  Alvarez, David          Tue, Mar  7, 2012       D10-07-06 
+ JB129S14641P4BB7X  Civic        2012  22564  23055  Alvarez, David          Mon, Mar  6, 2012       D10-07-06 
+ JE141F11741P6XX92  Crosstour    2012  34090  37640  Gardner, Salvador       Sun, Mar  5, 2012       D10-07-03 
+ JC132FU1141P5CC84  CR-V         2012  31147  31995  Marshall, Allan         Fri, Mar 10, 2012       D10-07-01 
+ JE141F11341P5CC86  Crosstour    2012  35995  37640  Marshall, Allan         Tue, Mar  7, 2012       D10-07-01 
+ JH155FU1641P711A8  Odyssey      2012  42482  47825  Marshall, Allan         Sun, Mar  5, 2012       D10-07-01 
+ JA111S13141P711BX  Accord       2012  21095  22480  Marshall, Allan         Fri, Mar 10, 2012       D10-07-01 
+ JA111S13941P822C2  Accord       2012  21783  22480  Gardner, Salvador       Fri, Mar 10, 2012       D10-07-03 
+ JD136F11441P29964  CR-Z         2012  23142  24705  Alvarez, David          Fri, Mar 10, 2012       D10-07-06 
+ JC131F11941P5CC96  CR-V         2012  28772  30995  Ross, Darren            Thu, Mar  9, 2012       D10-07-05 
+ JA1X1S12A41P4BB88  Accord       2012  22207  24089  Fields, Roland          Wed, Mar  8, 2012       D10-07-02 
+ JA1X2F12641P2997X  Accord       2012  30299  33030  Marshall, Allan         Fri, Mar 10, 2012       D10-07-01 
+ JA1X2F12741P29972  Accord       2012  32308  33030  Wright, Emma            Wed, Mar  8, 2012       D10-07-04 
+ JA1X1S12741P5CCA4  Accord       2012  22085  24089  Ross, Darren            Mon, Mar  6, 2012       D10-07-05 
+ JA111S13241P5CCA6  Accord       2012  21324  22480  Alvarez, David          Thu, Mar  9, 2012       D10-07-06 
+ JB121S12241PX7758  Civic        2012  16397  16455  Fields, Roland          Sat, Mar  4, 2012       D10-07-02 
+ JG148F11041P4BBAX  Insight      2012  23101  24390  Alvarez, David          Sun, Mar  5, 2012       D10-07-06 
+ JB123H15541PX7762  Civic        2012  27208  27600  Gardner, Salvador       Wed, Mar  8, 2012       D10-07-03 
+ JB122SU2241P5CCB4  Civic        2012  15757  17255  Wright, Emma            Wed, Mar  8, 2012       D10-07-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD14AF411X2182C43  CR-Z        2007  16627  33705  Wright, Emma            Sun, Mar  5, 2012       D10-07-04 
+ JH15AS119352X7495  Odyssey     2011  24158  29375  Wright, Emma            Sat, Mar  4, 2012       D10-07-04 
+ JH152SU192225C917  Odyssey     2010  22460  30375  Ross, Darren            Sun, Mar  5, 2012       D10-07-05 
+ JH152SU121X5X7499  Odyssey     2009  19440  30375  Ross, Darren            Mon, Mar  6, 2012       D10-07-05 
+ JH15AS1141435C921  Odyssey     2009  26584  29375  Ross, Darren            Mon, Mar  6, 2012       D10-07-05 
+ JG148F114218296C3  Insight     2010  18067  24390  Alvarez, David          Fri, Mar 10, 2012       D10-07-06 
+ JB128SU30Y515C925  Civic       2008  10682  17455  Wright, Emma            Fri, Mar 10, 2012       D10-07-04 
+ JD139F3111X96XA37  CR-Z        2009  16913  25705  Marshall, Allan         Sun, Mar  5, 2012       D10-07-01 
+ JH15AS11913P71B49  Odyssey     2009  19328  29375  Marshall, Allan         Wed, Mar  8, 2012       D10-07-01 
+ JF146S1114X9X7511  Fit          2012  15113  16025  Wright, Emma            Fri, Mar 10, 2012       D10-07-04 
+ JH155FU12Y254B953  Odyssey     2008  29512  47825  Marshall, Allan         Wed, Mar  8, 2012       D10-07-01 
+ JD137FU171316XB75  CR-Z        2009  16451  25705  Gardner, Salvador       Sun, Mar  5, 2012       D10-07-03 
+ JB127S137W1929737  Civic       2006  6871   16655  Ross, Darren            Sat, Mar  4, 2012       D10-07-05 
+ JB129S143X346XB79  Civic       2007  11302  23055  Fields, Roland          Sat, Mar  4, 2012       D10-07-02 
+ JG148F11013671C91  Insight     2009  16048  24390  Gardner, Salvador       Wed, Mar  8, 2012       D10-07-03 
+ JE143FU19YX571C93  Crosstour   2008  25057  40640  Gardner, Salvador       Wed, Mar  8, 2012       D10-07-03 
+ JE141F116W1671C95  Crosstour   2006  15894  37640  Marshall, Allan         Thu, Mar  9, 2012       D10-07-01 
+ JK165F115Y4871C97  Ridgeline   2008  26984  46750  Wright, Emma            Fri, Mar 10, 2012       D10-07-04 

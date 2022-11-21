@@ -1,0 +1,48 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Mon, Dec 24, 2013 thru Mon, Dec 31, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC135F4135524C7AX  CR-V         2013  37009  39995  Arnold, Marcus          Wed, Dec 26, 2013       D23-21-04 
+ JG148F11655219472  Insight      2013  23059  24390  Arnold, Marcus          Fri, Dec 28, 2013       D23-21-04 
+ JH151F11555219474  Odyssey      2013  40267  44825  Arnold, Marcus          Sun, Dec 30, 2013       D23-21-04 
+ JC132FU15552619C6  CR-V         2013  30219  31995  Baker, Mark             Sat, Dec 29, 2013       D23-21-02 
+ JH153FU175523B698  Odyssey      2013  44640  45825  Arnold, Marcus          Thu, Dec 27, 2013       D23-21-04 
+ JB123H1585523B6AX  Civic        2013  26295  27600  Payne, Calvin           Thu, Dec 27, 2013       D23-21-03 
+ JH153FU125522A592  Odyssey      2013  41385  45825  Garrett, Edna           Mon, Dec 24, 2013       D23-21-06 
+ JA111S134552X8374  Accord       2013  21534  22480  Arnold, Marcus          Wed, Dec 26, 2013       D23-21-04 
+ JG148F1135523B6A6  Insight      2013  22558  24390  Jenkins, Corey          Wed, Dec 26, 2013       D23-21-01 
+ JA111S136552619X8  Accord       2013  21186  22480  Baker, Mark             Sat, Dec 29, 2013       D23-21-02 
+ JB125G1685522A5AX  Civic        2013  27866  28505  Garrett, Edna           Wed, Dec 26, 2013       D23-21-06 
+ JB127S13555272A22  Civic        2013  15770  16655  Holland, Mitchell       Sun, Dec 30, 2013       D23-21-05 
+ JB122SU2A5524C7C4  Civic        2013  17392  17255  Jenkins, Corey          Sat, Dec 29, 2013       D23-21-01 
+ JA1X1S12755219496  Accord       2013  23897  24089  Garrett, Edna           Thu, Dec 27, 2013       D23-21-06 
+ JB121S1285524C7C8  Civic        2013  16273  16455  Garrett, Edna           Tue, Dec 25, 2013       D23-21-06 
+ JC131F11555283B4X  CR-V         2013  29611  30995  Jenkins, Corey          Tue, Dec 25, 2013       D23-21-01 
+ JG148F1115523B6C2  Insight      2013  24313  24390  Jenkins, Corey          Thu, Dec 27, 2013       D23-21-01 
+ JD14AF414552194A4  CR-Z         2013  31801  33705  Jenkins, Corey          Sun, Dec 30, 2013       D23-21-01 
+ JB127S1375525X816  Civic        2013  15510  16655  Holland, Mitchell       Fri, Dec 28, 2013       D23-21-05 
+ JH155FU1155272A38  Odyssey      2013  46560  47825  Payne, Calvin           Sun, Dec 30, 2013       D23-21-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F1112X329B39  CR-Z        2010  15955  24705  Baker, Mark             Wed, Dec 26, 2013       D23-21-02 
+ JH159F41431718A31  Odyssey     2011  41238  56825  Holland, Mitchell       Thu, Dec 27, 2013       D23-21-05 
+ JJ16AF11123118A33  Pilot       2010  26245  41970  Garrett, Edna           Wed, Dec 26, 2013       D23-21-06 
+ JD138FU1222629B45  CR-Z        2010  17875  27705  Baker, Mark             Tue, Dec 25, 2013       D23-21-02 
+ JE144F31425P3AC57  Crosstour   2010  24873  38640  Baker, Mark             Tue, Dec 25, 2013       D23-21-02 
+ JG148F11832118A39  Insight     2011  18232  24390  Arnold, Marcus          Fri, Dec 28, 2013       D23-21-04 
+ JB127S131X523AC61  Civic       2007  6482   16655  Payne, Calvin           Wed, Dec 26, 2013       D23-21-03 
+ JG149FU143X4713A3  Insight     2011  18819  25190  Jenkins, Corey          Sat, Dec 29, 2013       D23-21-01 
+ JH157F3172X1X7935  Odyssey     2010  30300  45825  Jenkins, Corey          Fri, Dec 28, 2013       D23-21-01 
+ JD138FU10Y22X7937  CR-Z        2008  14427  27705  Baker, Mark             Tue, Dec 25, 2013       D23-21-02 
+ JD136F110247824B9  CR-Z        2010  15955  24705  Garrett, Edna           Fri, Dec 28, 2013       D23-21-06 
+ JC133FU132X329B61  CR-V        2010  22516  33995  Arnold, Marcus          Wed, Dec 26, 2013       D23-21-04 
+ JE143FU18241X7943  Crosstour   2010  26153  40640  Arnold, Marcus          Mon, Dec 24, 2013       D23-21-04 

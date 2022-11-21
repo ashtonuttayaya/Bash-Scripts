@@ -1,0 +1,48 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Wed, Jun  4, 2015 thru Tue, Jun 10, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S121723X84A8  Civic        2015  16525  16455  Holland, Mitchell       Fri, Jun  6, 2015       D23-21-05 
+ JH152SU1372361B7X  Odyssey      2015  28507  30375  Baker, Mark             Tue, Jun 10, 2015       D23-21-02 
+ JB121S124723X8512  Civic        2015  16964  16455  Garrett, Edna           Tue, Jun 10, 2015       D23-21-06 
+ JA115SU367233B844  Accord       2015  24210  25480  Holland, Mitchell       Sun, Jun  8, 2015       D23-21-05 
+ JA1X1S12672361B76  Accord       2015  22944  24089  Payne, Calvin           Thu, Jun  5, 2015       D23-21-03 
+ JB128SU3372319628  Civic        2015  16629  17455  Jenkins, Corey          Sun, Jun  8, 2015       D23-21-01 
+ JG148F114723X852X  Insight      2015  24366  24390  Arnold, Marcus          Fri, Jun  6, 2015       D23-21-04 
+ JA1X1S12172361B82  Accord       2015  24205  24089  Jenkins, Corey          Tue, Jun 10, 2015       D23-21-01 
+ JB129S1447234C964  Civic        2015  22124  23055  Payne, Calvin           Mon, Jun  9, 2015       D23-21-03 
+ JB121S12272319636  Civic        2015  16613  16455  Garrett, Edna           Sun, Jun  8, 2015       D23-21-06 
+ JE141F11572383XA8  Crosstour    2015  36245  37640  Baker, Mark             Tue, Jun 10, 2015       D23-21-02 
+ JB13ASU407232A75X  Civic        2015  22107  23855  Holland, Mitchell       Wed, Jun  4, 2015       D23-21-05 
+ JA1X7S32972383XB2  Accord       2015  25296  25089  Payne, Calvin           Wed, Jun  4, 2015       D23-21-03 
+ JB121S123723X8534  Civic        2015  16173  16455  Arnold, Marcus          Fri, Jun  6, 2015       D23-21-04 
+ JB129S14472372CA6  Civic        2015  22366  23055  Payne, Calvin           Tue, Jun 10, 2015       D23-21-03 
+ JH155FU14723X8538  Odyssey      2015  46013  47825  Jenkins, Corey          Thu, Jun  5, 2015       D23-21-01 
+ JA111S13A723X854X  Accord       2015  21952  22480  Baker, Mark             Mon, Jun  9, 2015       D23-21-02 
+ JB127S13772361BA2  Civic        2015  16979  16655  Baker, Mark             Fri, Jun  6, 2015       D23-21-02 
+ JB123H1537234C984  Civic        2015  27576  27600  Jenkins, Corey          Thu, Jun  5, 2015       D23-21-01 
+ JB127S1347232A766  Civic        2015  15824  16655  Payne, Calvin           Mon, Jun  9, 2015       D23-21-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU12346X7975  CR-V        2003  21355  33995  Jenkins, Corey          Thu, Jun  5, 2015       D23-21-01 
+ JH154SU17413X7977  Odyssey     2004  21152  32375  Garrett, Edna           Tue, Jun 10, 2015       D23-21-06 
+ JJ164F4165243ACA9  Pilot       2005  39506  53970  Payne, Calvin           Wed, Jun  4, 2015       D23-21-03 
+ JB127S13951P71321  Civic       2005  12885  16655  Baker, Mark             Tue, Jun 10, 2015       D23-21-02 
+ JE141F11641118A93  Crosstour   2004  25211  37640  Payne, Calvin           Thu, Jun  5, 2015       D23-21-03 
+ JH15AS11362P71325  Odyssey     2006  24705  29375  Garrett, Edna           Fri, Jun  6, 2015       D23-21-06 
+ JG148F1134313ACB7  Insight     2004  16041  24390  Payne, Calvin           Wed, Jun  4, 2015       D23-21-03 
+ JH151F11245P4BXC9  Odyssey     2004  29120  44825  Arnold, Marcus          Mon, Jun  9, 2015       D23-21-04 
+ JG148F1185X53ACC1  Insight     2005  18562  24390  Payne, Calvin           Sat, Jun  7, 2015       D23-21-03 
+ JH153FU114166X223  Odyssey     2004  29760  45825  Arnold, Marcus          Thu, Jun  5, 2015       D23-21-04 
+ JH151F11822518AA5  Odyssey     2002  22525  44825  Payne, Calvin           Mon, Jun  9, 2015       D23-21-03 
+ JB127S13345P71337  Civic       2004  11403  16655  Arnold, Marcus          Sat, Jun  7, 2015       D23-21-04 
+ JH153FU144X571339  Odyssey     2004  29760  45825  Payne, Calvin           Mon, Jun  9, 2015       D23-21-03 

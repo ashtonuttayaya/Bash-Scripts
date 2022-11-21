@@ -1,0 +1,9 @@
+Checking error processing
+           OK - No file(s) provided                                                      chxq01-A1
+           OK - Non-existent file provided                                               chxq01-B1
+
+Checking functionality
+           OK - Handles 1 or more files                                                  chxq01-C1
+           OK - Count, Total, Min and Max output lines provided                          chxq01-D1
+           OK - Count, Total, Min and Max values are correct                             chxq01-E1
+

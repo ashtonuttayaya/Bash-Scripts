@@ -1,0 +1,58 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Thu, Oct 22, 2010 thru Wed, Oct 28, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH159F414243X7312  Odyssey      2010  53415  56825  Jennings, Terry         Mon, Oct 26, 2010       D01-01-02 
+ JB127S130243X7314  Civic        2010  15822  16655  Harper, Freddie         Fri, Oct 23, 2010       D01-01-05 
+ JG148F11624371A86  Insight      2010  21707  24390  Russell, Connie         Fri, Oct 23, 2010       D01-01-01 
+ JC131F11424371A88  CR-V         2010  27740  30995  Jennings, Terry         Fri, Oct 23, 2010       D01-01-02 
+ JA1X3SU2124371A9X  Accord       2010  22078  25089  Ryan, Margie            Mon, Oct 26, 2010       D01-01-06 
+ JB129S1492436X982  Civic        2010  21095  23055  Ryan, Margie            Wed, Oct 28, 2010       D01-01-06 
+ JC131F1152433A654  CR-V         2010  28360  30995  Ryan, Margie            Wed, Oct 28, 2010       D01-01-06 
+ JA1X1S1252436X986  Accord       2010  21920  24089  Ryan, Margie            Thu, Oct 22, 2010       D01-01-06 
+ JA115SU342434B768  Accord       2010  24078  25480  Ryan, Margie            Tue, Oct 27, 2010       D01-01-06 
+ JJ164F4152432955X  Pilot        2010  51271  53970  Russell, Connie         Sat, Oct 24, 2010       D01-01-01 
+ JD136F119243X7332  CR-Z         2010  21863  24705  Ryan, Margie            Sat, Oct 24, 2010       D01-01-06 
+ JC134F3152435C884  CR-V         2010  29115  31995  Russell, Connie         Tue, Oct 27, 2010       D01-01-01 
+ JA115SU3124329556  Accord       2010  24715  25480  Ryan, Margie            Sun, Oct 25, 2010       D01-01-06 
+ JA1X3SU2824382BB8  Accord       2010  23081  25089  Jennings, Terry         Thu, Oct 22, 2010       D01-01-02 
+ JC133FU1524382BCX  CR-V         2010  32975  33995  King, Michelle          Tue, Oct 27, 2010       D01-01-03 
+ JB127S1382435C892  Civic        2010  15572  16655  Jennings, Terry         Wed, Oct 28, 2010       D01-01-02 
+ JB128SU3824371AB4  Civic        2010  16407  17455  Russell, Connie         Wed, Oct 28, 2010       D01-01-01 
+ JB121S121243X7346  Civic        2010  15549  16455  King, Michelle          Thu, Oct 22, 2010       D01-01-03 
+ JF146S1192433A678  Fit          2010  15303  16025  Russell, Connie         Fri, Oct 23, 2010       D01-01-01 
+ JB127S13124382BXX  Civic        2010  14989  16655  Harper, Freddie         Sat, Oct 24, 2010       D01-01-05 
+ JA115SU352433A682  Accord       2010  23696  25480  Ryan, Margie            Wed, Oct 28, 2010       D01-01-06 
+ JA115SU3924371AC4  Accord       2010  23789  24089  Jennings, Terry         Fri, Oct 23, 2010       D01-01-02 
+ JH15AS117243X7356  Odyssey      2010  28346  29375  Russell, Connie         Mon, Oct 26, 2010       D01-01-01 
+ JH157F3152435C8A8  Odyssey      2010  40784  45825  Jennings, Terry         Tue, Oct 27, 2010       D01-01-02 
+ JC133FU1224371AXX  CR-V         2010  31785  33995  Ryan, Margie            Thu, Oct 22, 2010       D01-01-06 
+ JB122SU2724318472  Civic        2010  16219  17255  Wood, Lloyd             Wed, Oct 28, 2010       D01-01-04 
+ JH15AS1162433A694  Odyssey      2010  25850  29375  Jennings, Terry         Sun, Oct 25, 2010       D01-01-02 
+ JB127S13624371AX6  Civic        2010  15572  16655  Jennings, Terry         Tue, Oct 27, 2010       D01-01-02 
+ JA1X2F12A24318478  Accord       2010  30222  33030  Russell, Connie         Mon, Oct 26, 2010       D01-01-01 
+ JA11AF42624371A1X  Accord       2010  37616  42030  Wood, Lloyd             Wed, Oct 28, 2010       D01-01-04 
+ JC132FU1924329592  CR-V         2010  29595  31995  Jennings, Terry         Tue, Oct 27, 2010       D01-01-02 
+ JA119S4302434B7B4  Accord       2010  29433  31480  Jennings, Terry         Fri, Oct 23, 2010       D01-01-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F1141136X973  Odyssey     2009  36308  44825  Harper, Freddie         Mon, Oct 26, 2010       D01-01-05 
+ JC132FU19X125C865  CR-V        2007  20756  31995  Ryan, Margie            Fri, Oct 23, 2010       D01-01-06 
+ JC131F118X326X977  CR-V        2007  20098  30995  Jennings, Terry         Fri, Oct 23, 2010       D01-01-02 
+ JE142FU18X2582B99  Crosstour   2007  25129  38640  Russell, Connie         Thu, Oct 22, 2010       D01-01-01 
+ JH153FU191395C871  Odyssey     2009  36660  45825  Russell, Connie         Mon, Oct 26, 2010       D01-01-01 
+ JD139F318V1482BA3  CR-Z        2005  12402  25705  King, Michelle          Tue, Oct 27, 2010       D01-01-03 
+ JE141F113V4329545  Crosstour   2005  19288  37640  Wood, Lloyd             Thu, Oct 22, 2010       D01-01-04 
+ JH155FU16X4P18437  Odyssey     2007  31172  47825  Harper, Freddie         Fri, Oct 23, 2010       D01-01-05 
+ JE145F417XX971A99  Crosstour   2007  30393  46640  Jennings, Terry         Thu, Oct 22, 2010       D01-01-02 
+ JB129S14AY2229551  Civic       2008  16757  23055  Harper, Freddie         Thu, Oct 22, 2010       D01-01-05 
+ JH15AS112VX371AA3  Odyssey     2005  25627  29375  King, Michelle          Mon, Oct 26, 2010       D01-01-03 

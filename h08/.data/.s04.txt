@@ -1,0 +1,7 @@
+Checking valid output values
+           OK - Count value                            chxq04-A1
+           OK - Sum value                              chxq04-B1
+           OK - Ave value                              chxq04-C1
+Checking invalid input
+           OK - Exit on error                          chxq04-D1
+

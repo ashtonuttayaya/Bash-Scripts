@@ -1,0 +1,69 @@
+Dealer Name: Jones Honda Dealer
+Address:     6957 Davison Highway
+             Clarksville, NC
+Dealer ID:   3
+Owner:       Jones, Kelly
+Date:        Tue, Sep 24, 2014 thru Mon, Sep 30, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB128SU336394B868  Civic        2014  17070  17455  Graham, Jeffery         Tue, Sep 24, 2014       D03-03-06 
+ JH15AS1176394B87X  Odyssey      2014  29215  29375  Graham, Jeffery         Sat, Sep 28, 2014       D03-03-06 
+ JH151F11263971BA2  Odyssey      2014  42067  44825  Larson, Sonia           Sat, Sep 28, 2014       D03-03-05 
+ JC134F31A639X7434  CR-V         2014  29441  31995  Larson, Sonia           Sat, Sep 28, 2014       D03-03-05 
+ JA111S134639X7436  Accord       2014  20808  22480  Herrera, Julian         Mon, Sep 30, 2014       D03-03-03 
+ JH153FU1263982CB8  Odyssey      2014  41351  45825  Graham, Jeffery         Wed, Sep 25, 2014       D03-03-06 
+ JG148F11963971BBX  Insight      2014  24151  24390  Mitchell, Sue           Sun, Sep 29, 2014       D03-03-01 
+ JG148F11A6393A772  Insight      2014  24151  24390  Herrera, Julian         Thu, Sep 26, 2014       D03-03-03 
+ JB129S1426393A774  Civic        2014  21200  23055  Graham, Jeffery         Mon, Sep 30, 2014       D03-03-06 
+ JH153FU186395C996  Odyssey      2014  41818  45825  Larson, Sonia           Thu, Sep 26, 2014       D03-03-05 
+ JB121S1226393A778  Civic        2014  15619  16455  Graham, Jeffery         Mon, Sep 30, 2014       D03-03-06 
+ JH153FU186391856X  Odyssey      2014  42286  45825  Smith, Maria            Wed, Sep 25, 2014       D03-03-04 
+ JB127S135639X7452  Civic        2014  16062  16655  Mitchell, Sue           Sat, Sep 28, 2014       D03-03-01 
+ JB128SU386393A784  Civic        2014  16611  17455  Smith, Maria            Sun, Sep 29, 2014       D03-03-04 
+ JB127S1326393A786  Civic        2014  16501  16655  Graham, Jeffery         Tue, Sep 24, 2014       D03-03-06 
+ JE141F115639X7458  Crosstour    2014  34878  37640  Herrera, Julian         Fri, Sep 27, 2014       D03-03-03 
+ JB121S1246391857X  Civic        2014  16226  16455  Smith, Maria            Sun, Sep 29, 2014       D03-03-04 
+ JC131F1156396XAC2  CR-V         2014  30778  30995  Taylor, Billie          Sun, Sep 29, 2014       D03-03-02 
+ JB127S131639X7464  Civic        2014  16062  16655  Larson, Sonia           Sat, Sep 28, 2014       D03-03-05 
+ JC132FU116396XAC6  CR-V         2014  29276  31995  Larson, Sonia           Wed, Sep 25, 2014       D03-03-05 
+ JB121S128639X7468  Civic        2014  16574  16455  Larson, Sonia           Thu, Sep 26, 2014       D03-03-05 
+ JH153FU196396XAXX  Odyssey      2014  41818  45825  Taylor, Billie          Sat, Sep 28, 2014       D03-03-02 
+ JE141F11863918582  Crosstour    2014  35264  37640  Larson, Sonia           Sat, Sep 28, 2014       D03-03-05 
+ JB127S13363971B14  Civic        2014  15536  16655  Herrera, Julian         Wed, Sep 25, 2014       D03-03-03 
+ JA1X1S12963982C26  Accord       2014  23239  24089  Herrera, Julian         Tue, Sep 24, 2014       D03-03-03 
+ JC133FU1563971B18  CR-V         2014  33673  33995  Taylor, Billie          Wed, Sep 25, 2014       D03-03-02 
+ JF146S1136391859X  Fit          2014  15147  16025  Smith, Maria            Wed, Sep 25, 2014       D03-03-04 
+ JA1X2F12A6395C9X2  Accord       2014  32572  33030  Herrera, Julian         Thu, Sep 26, 2014       D03-03-03 
+ JB121S12163982C34  Civic        2014  16400  16455  Larson, Sonia           Wed, Sep 25, 2014       D03-03-05 
+ JB127S1376395C9X6  Civic        2014  16940  16655  Smith, Maria            Tue, Sep 24, 2014       D03-03-04 
+ JG148F11A63918598  Insight      2014  23266  24390  Graham, Jeffery         Thu, Sep 26, 2014       D03-03-06 
+ JH15AS117639X749X  Odyssey      2014  29064  29375  Smith, Maria            Thu, Sep 26, 2014       D03-03-04 
+ JJ16AF119639296B2  Pilot        2014  38583  41970  Smith, Maria            Sat, Sep 28, 2014       D03-03-04 
+ JB127S1346396XA24  Civic        2014  15887  16655  Smith, Maria            Mon, Sep 30, 2014       D03-03-04 
+ JC131F119639185A6  CR-V         2014  29183  30995  Smith, Maria            Sat, Sep 28, 2014       D03-03-04 
+ JB121S1236395C918  Civic        2014  15619  16455  Smith, Maria            Thu, Sep 26, 2014       D03-03-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F118332X7395  Crosstour   2003  24377  37640  Smith, Maria            Sun, Sep 29, 2014       D03-03-04 
+ JA1X8F32411P3A6C7  Accord      2001  17865  34030  Taylor, Billie          Mon, Sep 30, 2014       D03-03-02 
+ JD136F1163335C819  CR-Z        2003  16099  24705  Mitchell, Sue           Thu, Sep 26, 2014       D03-03-01 
+ JC131F11911971A41  CR-V        2001  15497  30995  Graham, Jeffery         Wed, Sep 25, 2014       D03-03-06 
+ JH159F41352P5C823  Odyssey     2005  46180  56825  Graham, Jeffery         Fri, Sep 27, 2014       D03-03-06 
+ JH15AS1113174B715  Odyssey     2003  18551  29375  Mitchell, Sue           Sun, Sep 29, 2014       D03-03-01 
+ JH151F11A139184B7  Odyssey     2001  22412  44825  Graham, Jeffery         Sun, Sep 29, 2014       D03-03-06 
+ JH154SU1243782B59  Odyssey     2004  24258  32375  Graham, Jeffery         Thu, Sep 26, 2014       D03-03-06 
+ JC133FU123X6X7411  CR-V        2003  22044  33995  Taylor, Billie          Wed, Sep 25, 2014       D03-03-02 
+ JE141F1183355C963  Crosstour   2003  25063  37640  Graham, Jeffery         Sun, Sep 29, 2014       D03-03-06 
+ JB127S13024418525  Civic       2002  10465  16655  Herrera, Julian         Fri, Sep 27, 2014       D03-03-03 
+ JH151F11A3454B857  Odyssey     2003  29790  44825  Herrera, Julian         Wed, Sep 25, 2014       D03-03-03 
+ JH151F1122434B859  Odyssey     2002  27931  44825  Graham, Jeffery         Fri, Sep 27, 2014       D03-03-06 
+ JJ161FU12Y4P18531  Pilot       2000  17098  42970  Smith, Maria            Wed, Sep 25, 2014       D03-03-04 
+ JB127S13A413X7423  Civic       2004  12720  16655  Smith, Maria            Sat, Sep 28, 2014       D03-03-04 
+ JH154SU193X86XA85  Odyssey     2003  21008  32375  Mitchell, Sue           Tue, Sep 24, 2014       D03-03-01 
+ JE144F3193494B867  Crosstour   2003  25721  38640  Larson, Sonia           Wed, Sep 25, 2014       D03-03-05 
+ JG148F11631382CA9  Insight     2003  15897  24390  Graham, Jeffery         Fri, Sep 27, 2014       D03-03-06 

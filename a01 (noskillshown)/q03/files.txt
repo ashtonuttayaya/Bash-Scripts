@@ -1,0 +1,6 @@
+/home/n_autty/tests
+total 24
+drwxrwxr-x 2 n_autty n_autty 4096 Sep  1 20:08 .
+drwxr-xr-x 9 n_autty n_autty 4096 Sep  1 20:02 ..
+-rw-rw-r-- 1 n_autty n_autty   20 Sep  1 20:08 files.txt
+-rw-rw-r-- 1 n_autty n_autty 8349 Sep  1 20:08 jobs.txt

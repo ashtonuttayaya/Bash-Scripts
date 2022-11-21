@@ -1,0 +1,35 @@
+Dealer Name: Bill Travers Honda
+Address:     7043 George Parson Highway
+             Grand Traverse, AL
+Dealer ID:   21
+Owner:       Travers, Bill
+Date:        Tue, Jul  2, 2014 thru Mon, Jul  8, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12862782752  Civic        2014  16053  16455  Powell, Jerome          Sun, Jul  7, 2014       D21-19-03 
+ JC131F11462782754  CR-V         2014  29981  30995  Evans, Dennis           Tue, Jul  2, 2014       D21-19-05 
+ JH152SU166276X536  Odyssey      2014  28460  30375  West, Ashley            Sun, Jul  7, 2014       D21-19-07 
+ JJ161FU176275C428  Pilot        2014  39044  42970  Washington, Franklin    Sun, Jul  7, 2014       D21-19-06 
+ JD136F1176274C75X  CR-Z         2014  23940  24705  King, Gwendolyn         Thu, Jul  4, 2014       D21-19-04 
+ JD137FU1962719422  CR-Z         2014  24077  25705  Carroll, Glenn          Wed, Jul  3, 2014       D21-19-01 
+ JB127S1396273B644  Civic        2014  16326  16655  Powell, Jerome          Sat, Jul  6, 2014       D21-19-03 
+ JA119S43562783B96  Accord       2014  31408  31480  King, Gwendolyn         Sun, Jul  7, 2014       D21-19-04 
+ JA111S1376272A538  Accord       2014  21509  22480  Carroll, Glenn          Sun, Jul  7, 2014       D21-19-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JK165F111312823A1  Ridgeline   2003  31057  46750  Washington, Franklin    Thu, Jul  4, 2014       D21-19-06 
+ JH153FU1A43229A43  Odyssey     2004  34131  45825  West, Ashley            Tue, Jul  2, 2014       D21-19-07 
+ JB127S13A22P6X185  Civic       2002  10128  16655  Evans, Dennis           Thu, Jul  4, 2014       D21-19-05 
+ JK167FU1743529A47  Ridgeline   2004  35600  49750  Powell, Jerome          Tue, Jul  2, 2014       D21-19-03 
+ JH155FU125274BC69  Odyssey     2005  38492  47825  West, Ashley            Sat, Jul  6, 2014       D21-19-07 
+ JC131F11123429A51  CR-V        2002  19356  30995  Washington, Franklin    Sat, Jul  6, 2014       D21-19-06 
+ JH15AS11A442712A3  Odyssey     2004  21636  29375  West, Ashley            Thu, Jul  4, 2014       D21-19-07 
+ JD138FU163X518945  CR-Z        2003  18019  27705  Evans, Dennis           Mon, Jul  8, 2014       D21-19-05 
+ JH152SU192273AB67  Odyssey     2002  18972  30375  Washington, Franklin    Tue, Jul  2, 2014       D21-19-06 
+ JE141F1116X66X199  Crosstour    2014  34888  37640  Carroll, Glenn          Mon, Jul  8, 2014       D21-19-01 
+ JB127S1382X13AB71  Civic       2002  10465  16655  West, Ashley            Fri, Jul  5, 2014       D21-19-07 

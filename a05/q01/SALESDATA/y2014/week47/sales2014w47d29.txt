@@ -1,0 +1,60 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Tue, Nov 19, 2014 thru Mon, Nov 25, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S13764772X12  Civic        2014  16326  16655  Graham, Sheila          Wed, Nov 20, 2014       D29-25-03 
+ JH153FU156475XBC4  Odyssey      2014  44155  45825  Coleman, Arnold         Tue, Nov 19, 2014       D29-25-05 
+ JA118F33164772X16  Accord       2014  31695  33930  Lucas, Jose             Mon, Nov 25, 2014       D29-25-06 
+ JD136F114647X8678  CR-Z         2014  24068  24705  Lawson, Carolyn         Tue, Nov 19, 2014       D29-25-02 
+ JJ162FU1064772X2X  Pilot        2014  43576  44970  Lucas, Jose             Sun, Nov 24, 2014       D29-25-06 
+ JA1X1S1206473B9B2  Accord       2014  23239  24089  Lawson, Carolyn         Thu, Nov 21, 2014       D29-25-02 
+ JH158S4136475XBX4  Odyssey      2014  39104  41375  Lawson, Carolyn         Wed, Nov 20, 2014       D29-25-02 
+ JB127S13764772X26  Civic        2014  15975  16655  Graham, Sheila          Tue, Nov 19, 2014       D29-25-03 
+ JC131F11564761C18  CR-V         2014  30459  30995  Rodriguez, Leonard      Tue, Nov 19, 2014       D29-25-01 
+ JH156S315647X869X  Odyssey      2014  28147  30375  Graham, Sheila          Fri, Nov 22, 2014       D29-25-03 
+ JE143FU1564783142  Crosstour    2014  38839  40640  Coleman, Arnold         Fri, Nov 22, 2014       D29-25-05 
+ JA113SU3764783144  Accord       2014  23648  23480  Lucas, Jose             Wed, Nov 20, 2014       D29-25-06 
+ JA113SU396472A8B6  Accord       2014  23526  23480  Lucas, Jose             Tue, Nov 19, 2014       D29-25-06 
+ JB127S13664761C28  Civic        2014  16940  16655  Graham, Sheila          Wed, Nov 20, 2014       D29-25-03 
+ JB123H15A647X86AX  Civic        2014  27645  27600  Graham, Sheila          Fri, Nov 22, 2014       D29-25-03 
+ JB121S12A647X86A2  Civic        2014  16053  16455  Coleman, Arnold         Wed, Nov 20, 2014       D29-25-05 
+ JB121S12064761C34  Civic        2014  16053  16455  Lawson, Carolyn         Sat, Nov 23, 2014       D29-25-02 
+ JB121S125647197B6  Civic        2014  16660  16455  Lawson, Carolyn         Sat, Nov 23, 2014       D29-25-02 
+ JH156S3196472A8C8  Odyssey      2014  29867  30375  Rodriguez, Leonard      Mon, Nov 25, 2014       D29-25-01 
+ JA1X1S1226474CB5X  Accord       2014  23489  24089  Graham, Sheila          Thu, Nov 21, 2014       D29-25-03 
+ JD136F11764783292  CR-Z         2014  23172  24705  Rodriguez, Leonard      Fri, Nov 22, 2014       D29-25-01 
+ JH157F31464719824  Odyssey      2014  41585  45825  Graham, Sheila          Wed, Nov 20, 2014       D29-25-03 
+ JB127S131647X8716  Civic        2014  16501  16655  Lucas, Jose             Sun, Nov 24, 2014       D29-25-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD137FU14Y48X7AA1  CR-Z        2000  10956  25705  Graham, Sheila          Sat, Nov 23, 2014       D29-25-03 
+ JB129S140326X7AA3  Civic       2003  15466  23055  Lawson, Carolyn         Tue, Nov 19, 2014       D29-25-02 
+ JD136F1153144B115  CR-Z        2003  16551  24705  Rodriguez, Leonard      Mon, Nov 25, 2014       D29-25-01 
+ JH151F1191X2X7AA7  Odyssey     2001  23533  44825  Lawson, Carolyn         Tue, Nov 19, 2014       D29-25-02 
+ JE141F11352371449  Crosstour   2005  30832  37640  Graham, Sheila          Fri, Nov 22, 2014       D29-25-03 
+ JB129S14534229X31  Civic       2003  21272  23055  Coleman, Arnold         Sun, Nov 24, 2014       D29-25-05 
+ JB127S1353X3X7B13  Civic       2003  11255  16655  Rodriguez, Leonard      Sun, Nov 24, 2014       D29-25-01 
+ JE142FU1A5316X475  Crosstour   2005  32027  38640  Rodriguez, Leonard      Sat, Nov 23, 2014       D29-25-01 
+ JK167FU13319X7B17  Ridgeline   2003  32128  49750  Lawson, Carolyn         Wed, Nov 20, 2014       D29-25-02 
+ JH152SU135323A149  Odyssey     2005  25332  30375  Rodriguez, Leonard      Tue, Nov 19, 2014       D29-25-01 
+ JG148F1133116X481  Insight     2003  16344  24390  Rodriguez, Leonard      Wed, Nov 20, 2014       D29-25-01 
+ JE141F1182456X483  Crosstour   2002  22719  37640  Walker, Roland          Thu, Nov 21, 2014       D29-25-04 
+ JH156S31324529X45  Odyssey     2002  17748  30375  Coleman, Arnold         Tue, Nov 19, 2014       D29-25-05 
+ JH157F3123233A157  Odyssey     2003  29616  45825  Coleman, Arnold         Thu, Nov 21, 2014       D29-25-05 
+ JH155FU1224P3A159  Odyssey     2002  28830  47825  Coleman, Arnold         Sat, Nov 23, 2014       D29-25-05 
+ JE142FU12233826B1  Crosstour   2002  23319  38640  Walker, Roland          Tue, Nov 19, 2014       D29-25-04 
+ JB121S1201293A163  Civic       2001  8638   16455  Lawson, Carolyn         Mon, Nov 25, 2014       D29-25-02 
+ JC133FU113454B275  CR-V        2003  22044  33995  Lucas, Jose             Fri, Nov 22, 2014       D29-25-06 
+ JE143FU10326715A7  Crosstour   2003  27037  40640  Rodriguez, Leonard      Mon, Nov 25, 2014       D29-25-01 
+ JB129S1463125C389  Civic       2003  15466  23055  Coleman, Arnold         Wed, Nov 20, 2014       D29-25-05 
+ JD136F1112174B281  CR-Z        2002  14958  24705  Rodriguez, Leonard      Thu, Nov 21, 2014       D29-25-01 
+ JH15AS1142116X4A3  Odyssey     2002  17168  29375  Rodriguez, Leonard      Tue, Nov 19, 2014       D29-25-01 

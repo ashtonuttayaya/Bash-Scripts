@@ -1,0 +1,14 @@
+Looking for q01.sh and finder.in
+           OK - q01.sh and finder.in locations                           chxq01-A1
+
+Looking for finder.sh backup files (versions 00 and 01)
+           OK - v00 backup                                               chxq01-B1
+           OK - v01 backup                                               chxq01-C1
+
+Checking log files
+           OK - success.log                                              chxq01-D1
+           OK - error.log                                                chxq01-E1
+
+Checking for required changes
+           OK - change to input for file name                            chxq01-F1
+

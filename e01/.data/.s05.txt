@@ -1,0 +1,8 @@
+Checking for required files hrefs.txt and pics.txt
+           OK - hrefs.txt and pics.txt found                                       chxq05-A1
+
+Examining file content of hrefs.txt and pics.txt
+           OK - hrefs.txt content                                                  chxq05-B1
+           OK - pics.txt content                                                   chxq05-C1
+           OK - number of gifs output to the terminal                              chxq05-D1
+

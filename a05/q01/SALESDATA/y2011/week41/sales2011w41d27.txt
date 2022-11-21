@@ -1,0 +1,53 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Fri, Oct  8, 2011 thru Thu, Oct 14, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU183414B3X6  CR-V         2011  28836  31995  Howard, Samantha        Fri, Oct  8, 2011       D27-24-05 
+ JB129S147341291B8  Civic        2011  20952  23055  Howard, Samantha        Sun, Oct 10, 2011       D27-24-05 
+ JC134F31734118XBX  CR-V         2011  30125  31995  Shelton, Regina         Tue, Oct 12, 2011       D27-24-02 
+ JB121S12034118XB2  Civic        2011  15429  16455  Perkins, Pearl          Fri, Oct  8, 2011       D27-24-03 
+ JC131F11734118XB4  CR-V         2011  28098  30995  Shelton, Regina         Mon, Oct 11, 2011       D27-24-02 
+ JC134F31A3413A2X6  CR-V         2011  28675  31995  Howard, Samantha        Thu, Oct 14, 2011       D27-24-05 
+ JB122SU223414B318  Civic        2011  16081  17255  Scott, Samuel           Mon, Oct 11, 2011       D27-24-06 
+ JA113SU363413B64X  Accord       2011  22875  23480  Shelton, Regina         Thu, Oct 14, 2011       D27-24-02 
+ JB129S14A3414C752  Civic        2011  22116  23055  Howard, Samantha        Fri, Oct  8, 2011       D27-24-05 
+ JB126GU6A3415X864  Civic        2011  28644  29305  Scott, Samuel           Mon, Oct 11, 2011       D27-24-06 
+ JH154SU193415X866  Odyssey      2011  29992  32375  Wright, Marion          Wed, Oct 13, 2011       D27-24-04 
+ JA111S13334119428  Accord       2011  21456  22480  Scott, Samuel           Thu, Oct 14, 2011       D27-24-06 
+ JJ163F312341X832X  Pilot        2011  39307  42970  Perkins, Pearl          Thu, Oct 14, 2011       D27-24-03 
+ JH154SU183413B652  Odyssey      2011  29829  32375  Howard, Samantha        Mon, Oct 11, 2011       D27-24-05 
+ JC131F11A34172A94  CR-V         2011  29502  30995  Wright, Marion          Thu, Oct 14, 2011       D27-24-04 
+ JC132FU113412A546  CR-V         2011  29320  31995  Howard, Samantha        Thu, Oct 14, 2011       D27-24-05 
+ JH154SU193413B658  Odyssey      2011  29666  32375  Scott, Samuel           Sat, Oct  9, 2011       D27-24-06 
+ JC134F3193416199X  CR-V         2011  30931  31995  Wright, Marion          Mon, Oct 11, 2011       D27-24-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC134F31112818B83  CR-V        2009  23484  31995  Perkins, Pearl          Sat, Oct  9, 2011       D27-24-03 
+ JH153FU18Y495C2C5  Odyssey     2008  30004  45825  Howard, Samantha        Mon, Oct 11, 2011       D27-24-05 
+ JH152SU1114629C97  Odyssey     2009  21870  30375  Shelton, Regina         Mon, Oct 11, 2011       D27-24-02 
+ JH159F414W11X7A79  Odyssey     2006  29478  56825  Howard, Samantha        Fri, Oct  8, 2011       D27-24-05 
+ JD136F11514482531  CR-Z        2009  17787  24705  Perkins, Pearl          Fri, Oct  8, 2011       D27-24-03 
+ JE143FU182494B1C3  Crosstour   2010  33100  40640  Howard, Samantha        Mon, Oct 11, 2011       D27-24-05 
+ JJ16AF111Y1282535  Pilot       2008  26716  41970  Scott, Samuel           Thu, Oct 14, 2011       D27-24-06 
+ JH158S41811371427  Odyssey     2009  30369  41375  Perkins, Pearl          Thu, Oct 14, 2011       D27-24-03 
+ JH155FU17Y1PX7A89  Odyssey     2008  31320  47825  Wright, Marion          Sat, Oct  9, 2011       D27-24-04 
+ JH151F116Y344B1X1  Odyssey     2008  29346  44825  Hill, Rita              Thu, Oct 14, 2011       D27-24-01 
+ JD136F114Y4PX7A93  CR-Z        2008  16107  24705  Scott, Samuel           Sat, Oct  9, 2011       D27-24-06 
+ JB121S123X1P5C215  Civic       2007  9923   16455  Perkins, Pearl          Fri, Oct  8, 2011       D27-24-03 
+ JH157F319X1P4B1X7  Odyssey     2007  27225  45825  Hill, Rita              Mon, Oct 11, 2011       D27-24-01 
+ JC131F1113146X329  CR-V         2011  28300  30995  Shelton, Regina         Sun, Oct 10, 2011       D27-24-02 
+ JK166FU17YX95C221  Ridgeline   2008  31271  47750  Hill, Rita              Thu, Oct 14, 2011       D27-24-01 
+ JE141F111X393AXX3  Crosstour   2007  23057  37640  Perkins, Pearl          Mon, Oct 11, 2011       D27-24-03 
+ JC132FU18X3229CC5  CR-V        2007  19557  31995  Shelton, Regina         Tue, Oct 12, 2011       D27-24-02 
+ JH153FU1AW475C227  Odyssey     2006  23703  45825  Hill, Rita              Wed, Oct 13, 2011       D27-24-01 
+ JD138FU13Y4P6X339  CR-Z        2008  18081  27705  Howard, Samantha        Fri, Oct  8, 2011       D27-24-05 
+ JH154SU12Y493A141  Odyssey     2008  20576  32375  Hill, Rita              Sat, Oct  9, 2011       D27-24-01 

@@ -1,0 +1,1 @@
+/home/n_autty/class/e01/q05/check05.sh

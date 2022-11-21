@@ -1,0 +1,53 @@
+#
+#	Exam 1 FALL 2019
+#
+#
+q01 type sa
+q01 start  a01.txt a01.bak
+q01 submit
+q01 clean
+#
+q02 type ac
+q02 start  a02.txt a02.bak q02files.tar
+q02 submit
+q02 clean stories files
+#
+q03 type sa
+q03 start  a03.bak a03.txt
+q03 submit
+q03 clean
+#
+q04 type sc
+q04 start  a04.txt a04.bak t1.html t2.html t3.html t4.html t5.html
+q04 submit q04.sh
+q04 clean q04.sh
+#
+q05 type sc
+q05 start  a05.txt a05.bak in1.html in2.html in3.html in4.html
+q05 submit q05.sh hrefs.txt pics.txt
+q05 clean q05.sh hrefs.txt pics.txt
+#
+q06 type sa
+q06 start  a06.txt a06.bak
+q06 submit
+q06 clean
+#
+q07 type sc
+q07 start a07.txt a07.bak
+q07 submit
+q07 clean q07.sh
+#
+q08 type sc
+q08 start a08.txt a08.bak s1.txt s2.txt
+q08 submit
+q08 clean q08.sh
+#
+q09 type sc 
+q09 start a09.txt a09.bak s1.txt s2.txt s3.txt s4.txt
+q09 submit headers.txt
+q09 clean q09.sh headers.txt
+#
+q10 type sa
+q10 start a10.txt a10.bak
+q10 submit 
+q10 clean

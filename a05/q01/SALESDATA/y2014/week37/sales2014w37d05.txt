@@ -1,0 +1,33 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Tue, Sep 10, 2014 thru Mon, Sep 16, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X2F120637X7546  Accord       2014  32742  33030  Marshall, Donna         Fri, Sep 13, 2014       D05-05-05 
+ JA111S13663729768  Accord       2014  21042  22480  Snyder, Norma           Tue, Sep 10, 2014       D05-05-04 
+ JA111S1326373A88X  Accord       2014  21509  22480  Marshall, Donna         Wed, Sep 11, 2014       D05-05-05 
+ JB121S12563771CC2  Civic        2014  15966  16455  Foster, Leona           Wed, Sep 11, 2014       D05-05-07 
+ JA1X1S12363718664  Accord       2014  23864  24089  Foster, Leona           Thu, Sep 12, 2014       D05-05-07 
+ JB121S122637X7556  Civic        2014  16834  16455  Snyder, Norma           Sun, Sep 15, 2014       D05-05-04 
+ JK169F41563729778  Ridgeline    2014  53685  58750  Marshall, Donna         Wed, Sep 11, 2014       D05-05-05 
+ JA117S3356372978X  Accord       2014  21942  23480  Snyder, Norma           Sat, Sep 14, 2014       D05-05-04 
+ JH15AS1106373A892  Odyssey      2014  27701  29375  Marshall, Donna         Tue, Sep 10, 2014       D05-05-05 
+ JB127S13063718674  Civic        2014  15887  16655  Snyder, Norma           Wed, Sep 11, 2014       D05-05-04 
+ JH15AS11263729786  Odyssey      2014  27550  29375  Marshall, Donna         Sat, Sep 14, 2014       D05-05-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S1483X35C9B7  Civic       2003  15466  23055  Neal, Douglas           Fri, Sep 13, 2014       D05-05-06 
+ JB129S1462X55C9B9  Civic       2002  14433  23055  Neal, Douglas           Wed, Sep 11, 2014       D05-05-06 
+ JH153FU172264B8B1  Odyssey     2002  28551  45825  Marshall, Donna         Wed, Sep 11, 2014       D05-05-05 
+ JH153FU1234729693  Odyssey     2003  29616  45825  Ford, Roger             Fri, Sep 13, 2014       D05-05-08 
+ JB129S1433523A7A5  Civic       2003  15466  23055  Snyder, Norma           Sun, Sep 15, 2014       D05-05-04 
+ JA111S1363X66XAX7  Accord      2003  15087  22480  Marshall, Donna         Sat, Sep 14, 2014       D05-05-05 
+ JJ163F3101486XAX9  Pilot       2001  20410  42970  Ford, Roger             Wed, Sep 11, 2014       D05-05-08 

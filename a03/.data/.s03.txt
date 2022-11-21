@@ -1,0 +1,11 @@
+           OK - q03.sh                                        chxq03-A1
+           OK - finder_v02.sh                                 chxq03-B1
+           OK - finder.sh                                     chxq03-C1
+
+Looking for log files
+           OK - success.log                                   chxq03-D1
+           OK - error.log                                     chxq03-E1
+
+Checking log file contents
+           OK - user count in logs                            chxq03-F1
+

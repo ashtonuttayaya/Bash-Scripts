@@ -1,0 +1,42 @@
+USE budget;
+CREATE IF NOT EXISTS TABLE expenses( name_id INT, fname VARCHAR(25),
+lname VARCHAR(25), item VARCHAR(25), cost DECIMAL(8,2) NOT NULL,
+edate DATE, primary key(expense_id) );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '10', 'RUSS', './wFRANKS', 'DINNER', '43.12', '2019-11-23' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '12', 'SUSAN', 'SMITH', 'LUNCH', '12.67', '2019-11-12' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '15', 'SINDY', 'GOMEZ', 'DINNER', '87.88', '2019-11-28' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '21', 'ROBERT', 'TYLER', 'GAS', '49.33', '2019-11-26' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '10', 'RUSS', 'FRANKS', 'BREAKFAST', '6.75', '2019-11-24' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '12', 'SUSAN', 'SMITH', 'DINNER', '67.22', '2019-11-13' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '15', 'SINDY', 'GOMEZ', 'HOTEL', '137.99', '2019-11-07' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '21', 'ROBERT', 'TYLER', 'LUNCH', '8.35', '2019-11-09' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '10', 'RUSS', 'FRANKS', 'DINNER', '102.17', '2019-11-25' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '12', 'SUSAN', 'SMITH', 'HOTEL', '98.85', '2019-11-18' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '15', 'SINDY', 'GOMEZ', 'GAS', '23.07', '2019-11-14' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '21', 'ROBERT', 'TYLER', 'DINNER', '32.46', '2019-11-14' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '18', 'KYLE', 'JAMES', 'DINNER', '72.13', '2019-11-25' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '18', 'KYLE', 'JAMES', 'HOTEL', '159.89', '2019-11-25' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '19', 'NICK', 'BLASS', 'GAS', '31.76', '2019-11-16' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '19', 'NICK', 'BLASS', 'DINNER', '31.56', '2019-11-16' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '19', 'NICK', 'BLASS', 'BREAKFAST', '8.29', '2019-11-17' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '19', 'NICK', 'BLASS', 'LUNCH', '18.40', '2019-11-17' );
+INSERT INTO expenses ( name_id, fname, lname, item, cost, edate )
+VALUES( '19', 'NICK', 'BLASS', 'DINNER', '49.75', '2019-11-17' );

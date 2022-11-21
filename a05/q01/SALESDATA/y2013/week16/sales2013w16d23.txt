@@ -1,0 +1,48 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Mon, Apr 16, 2013 thru Sun, Apr 22, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH15AS11451672AX6  Odyssey      2013  27345  29375  Arnold, Marcus          Thu, Apr 19, 2013       D23-21-04 
+ JA111S135516X8368  Accord       2013  22228  22480  Arnold, Marcus          Sun, Apr 22, 2013       D23-21-04 
+ JB121S122516619XX  Civic        2013  15759  16455  Garrett, Edna           Fri, Apr 20, 2013       D23-21-06 
+ JB121S1205164C7B2  Civic        2013  15673  16455  Holland, Mitchell       Tue, Apr 17, 2013       D23-21-05 
+ JH152SU185162A594  Odyssey      2013  29187  30375  Garrett, Edna           Sat, Apr 21, 2013       D23-21-06 
+ JH151F1115165X8C6  Odyssey      2013  42087  44825  Payne, Calvin           Mon, Apr 16, 2013       D23-21-03 
+ JB127S1325164C7B8  Civic        2013  16376  16655  Arnold, Marcus          Wed, Apr 18, 2013       D23-21-04 
+ JB123H15751683B3X  Civic        2013  25588  27600  Garrett, Edna           Mon, Apr 16, 2013       D23-21-06 
+ JH153FU185165X8X2  Odyssey      2013  43942  45825  Payne, Calvin           Fri, Apr 20, 2013       D23-21-03 
+ JA113SU3151661914  Accord       2013  22584  23480  Baker, Mark             Sat, Apr 21, 2013       D23-21-02 
+ JB127S13551661916  Civic        2013  16030  16655  Baker, Mark             Thu, Apr 19, 2013       D23-21-02 
+ JB127S1335165X8X8  Civic        2013  16550  16655  Jenkins, Corey          Mon, Apr 16, 2013       D23-21-01 
+ JB127S134516X839X  Civic        2013  16290  16655  Baker, Mark             Tue, Apr 17, 2013       D23-21-02 
+ JB129S14751661922  Civic        2013  22306  23055  Arnold, Marcus          Fri, Apr 20, 2013       D23-21-04 
+ JK166FU1751661924  Ridgeline    2013  43340  47750  Payne, Calvin           Sat, Apr 21, 2013       D23-21-03 
+ JH15AS1145164C7X6  Odyssey      2013  26744  29375  Payne, Calvin           Sat, Apr 21, 2013       D23-21-03 
+ JB121S1265165X818  Civic        2013  16016  16455  Jenkins, Corey          Tue, Apr 17, 2013       D23-21-01 
+ JA111S13A51683B5X  Accord       2013  21071  22480  Jenkins, Corey          Thu, Apr 19, 2013       D23-21-01 
+ JB129S1435162A5C2  Civic        2013  22780  23055  Arnold, Marcus          Sat, Apr 21, 2013       D23-21-04 
+ JB122SU23516194B4  Civic        2013  16674  17255  Baker, Mark             Sat, Apr 21, 2013       D23-21-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12751429B45  Civic        2013  15706  16455  Baker, Mark             Fri, Apr 20, 2013       D23-21-02 
+ JJ161FU1741829B47  Pilot       2012  35352  42970  Holland, Mitchell       Sun, Apr 22, 2013       D23-21-05 
+ JB127S13532729B49  Civic       2011  12315  16655  Baker, Mark             Thu, Apr 19, 2013       D23-21-02 
+ JK168F3193X9X7931  Ridgeline   2011  43380  47750  Garrett, Edna           Mon, Apr 16, 2013       D23-21-06 
+ JC132FU1912529B53  CR-V        2009  19197  31995  Holland, Mitchell       Fri, Apr 20, 2013       D23-21-05 
+ JB121S123226X7935  Civic       2010  10975  16455  Jenkins, Corey          Thu, Apr 19, 2013       D23-21-01 
+ JE142FU10X45713A7  Crosstour   2007  16421  38640  Baker, Mark             Sun, Apr 22, 2013       D23-21-02 
+ JH155FU17212713A9  Odyssey     2010  29887  47825  Jenkins, Corey          Sat, Apr 21, 2013       D23-21-01 
+ JD136F1161X6824C1  CR-Z        2009  15317  24705  Payne, Calvin           Sat, Apr 21, 2013       D23-21-03 
+ JB127S1334153AC73  Civic       2012  14037  16655  Holland, Mitchell       Sun, Apr 22, 2013       D23-21-05 
+ JB121S1224296X2A5  Civic       2012  13875  16455  Jenkins, Corey          Mon, Apr 16, 2013       D23-21-01 
+ JB121S121333713B7  Civic       2011  12408  16455  Baker, Mark             Mon, Apr 16, 2013       D23-21-02 
+ JK166FU142X929B69  Ridgeline   2010  31567  47750  Garrett, Edna           Tue, Apr 17, 2013       D23-21-06 

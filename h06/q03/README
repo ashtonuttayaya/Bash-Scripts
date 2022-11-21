@@ -1,0 +1,14 @@
+This is the README file for Homework 6, Question 4. 
+This is a script submission question.
+There are 3 files in this directory
+
+	README		This file.  It is used to describe the use of each of the files in this directory
+
+	a04.txt		Used to store your answers to this question
+	a04.bak		A backup copy of the unmodified a01.txt file
+
+
+    Data files need to complete the question
+        correct04.sh
+        q04.check
+        q04.test

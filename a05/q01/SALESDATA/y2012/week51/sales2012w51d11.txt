@@ -1,0 +1,37 @@
+Dealer Name: Harrison Honda
+Address:     692 Sanders Ave
+             Port Kiln, SC
+Dealer ID:   11
+Owner:       Harrision, Owen
+Date:        Sat, Dec 16, 2012 thru Fri, Dec 22, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X9S4234513AA92  Accord       2012  31023  33089  Burke, Derrick          Thu, Dec 21, 2012       D11-10-01 
+ JA1X4FU2A4513AA94  Accord       2012  31376  34030  Mason, Felicia          Tue, Dec 19, 2012       D11-10-02 
+ JH157F3104514BBA6  Odyssey      2012  43729  45825  Mason, Felicia          Thu, Dec 21, 2012       D11-10-02 
+ JH155FU1445129988  Odyssey      2012  45619  47825  Lambert, Donna          Tue, Dec 19, 2012       D11-10-04 
+ JE141F1124515CCCX  Crosstour    2012  36185  37640  Bishop, Joann           Thu, Dec 21, 2012       D11-10-05 
+ JH156S31345182222  Odyssey      2012  27742  30375  Lambert, Donna          Sun, Dec 17, 2012       D11-10-04 
+ JA112F13A4515CCC4  Accord       2012  30876  32930  Burke, Derrick          Mon, Dec 18, 2012       D11-10-01 
+ JB121S1204515CCC6  Civic        2012  15721  16455  Burke, Derrick          Thu, Dec 21, 2012       D11-10-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB128SU3AX3418635  Civic       2007  8927   17455  Burke, Derrick          Mon, Dec 18, 2012       D11-10-01 
+ JK165F1171473A857  Ridgeline   2009  29920  46750  Lambert, Donna          Thu, Dec 21, 2012       D11-10-04 
+ JK165F11A1X5X7529  Ridgeline   2009  29920  46750  Mason, Felicia          Mon, Dec 18, 2012       D11-10-02 
+ JH157F319X4P4B971  Odyssey     2007  21553  45825  Fields, Joan            Sun, Dec 17, 2012       D11-10-03 
+ JB127S135WX671CA3  Civic       2006  6871   16655  Bishop, Joann           Tue, Dec 19, 2012       D11-10-05 
+ JB127S13711P4B975  Civic       2009  10958  16655  Mason, Felicia          Sun, Dec 17, 2012       D11-10-02 
+ JB127S1311273A867  Civic       2009  10958  16655  Bishop, Joann           Mon, Dec 18, 2012       D11-10-05 
+ JB127S13AY1P29759  Civic       2008  9858   16655  Bishop, Joann           Fri, Dec 22, 2012       D11-10-05 
+ JB127S1353314B981  Civic       2011  13684  16655  Mason, Felicia          Mon, Dec 18, 2012       D11-10-02 
+ JC131F1132X7X7543  CR-V        2010  22915  30995  Day, Jennifer           Wed, Dec 20, 2012       D11-10-06 
+ JJ162FU152475CA95  Pilot       2010  33173  44970  Mason, Felicia          Wed, Dec 20, 2012       D11-10-02 
+ JE141F11AY183A877  Crosstour   2008  22449  37640  Day, Jennifer           Thu, Dec 21, 2012       D11-10-06 
+ JD137FU11W373A879  CR-Z        2006  10762  25705  Lambert, Donna          Thu, Dec 21, 2012       D11-10-04 
+ JC131F1191X729771  CR-V        2009  19836  30995  Mason, Felicia          Mon, Dec 18, 2012       D11-10-02 

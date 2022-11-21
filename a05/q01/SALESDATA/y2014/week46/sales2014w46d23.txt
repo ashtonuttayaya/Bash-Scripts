@@ -1,0 +1,56 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Tue, Nov 12, 2014 thru Mon, Nov 18, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X1S1216465X812  Accord       2014  23489  24089  Baker, Mark             Tue, Nov 12, 2014       D23-21-02 
+ JB123H15A6465X814  Civic        2014  26362  27600  Jenkins, Corey          Tue, Nov 12, 2014       D23-21-01 
+ JA1X1S1296465X816  Accord       2014  24114  24089  Baker, Mark             Mon, Nov 18, 2014       D23-21-02 
+ JB125G16A6464C7X8  Civic        2014  27493  28505  Baker, Mark             Thu, Nov 14, 2014       D23-21-02 
+ JA111S13A6466193X  Accord       2014  21275  22480  Garrett, Edna           Sat, Nov 16, 2014       D23-21-06 
+ JH151F11664661932  Odyssey      2014  43438  44825  Payne, Calvin           Sat, Nov 16, 2014       D23-21-03 
+ JH158S4156465X824  Odyssey      2014  38681  41375  Payne, Calvin           Fri, Nov 15, 2014       D23-21-03 
+ JE141F11364672A46  Crosstour    2014  36034  37640  Jenkins, Corey          Wed, Nov 13, 2014       D23-21-01 
+ JA1X1S128646194B8  Accord       2014  22365  24089  Payne, Calvin           Fri, Nov 15, 2014       D23-21-03 
+ JJ16AF119646X841X  Pilot        2014  39440  41970  Garrett, Edna           Mon, Nov 18, 2014       D23-21-06 
+ JB121S1226465X962  Civic        2014  15445  16455  Jenkins, Corey          Thu, Nov 14, 2014       D23-21-01 
+ JB127S13164683C94  Civic        2014  15887  16655  Garrett, Edna           Fri, Nov 15, 2014       D23-21-06 
+ JA112F1366463B746  Accord       2014  29939  32930  Garrett, Edna           Tue, Nov 12, 2014       D23-21-06 
+ JB121S12564661A78  Civic        2014  16053  16455  Payne, Calvin           Tue, Nov 12, 2014       D23-21-03 
+ JB123H1576461953X  Civic        2014  26362  27600  Garrett, Edna           Thu, Nov 14, 2014       D23-21-06 
+ JG148F1176463B752  Insight      2014  23266  24390  Garrett, Edna           Tue, Nov 12, 2014       D23-21-06 
+ JC132FU1264661A84  CR-V         2014  29769  31995  Holland, Mitchell       Fri, Nov 15, 2014       D23-21-05 
+ JA1X9S427646X8426  Accord       2014  32289  33089  Arnold, Marcus          Tue, Nov 12, 2014       D23-21-04 
+ JB121S1266465X978  Civic        2014  15619  16455  Payne, Calvin           Sun, Nov 17, 2014       D23-21-03 
+ JC132FU196464C87X  CR-V         2014  30756  31995  Payne, Calvin           Fri, Nov 15, 2014       D23-21-03 
+ JH152SU136463B762  Odyssey      2014  29554  30375  Holland, Mitchell       Tue, Nov 12, 2014       D23-21-05 
+ JC132FU17646X8434  CR-V         2014  29276  31995  Payne, Calvin           Sat, Nov 16, 2014       D23-21-03 
+ JB121S12764619546  Civic        2014  16747  16455  Jenkins, Corey          Sat, Nov 16, 2014       D23-21-01 
+ JA115SU30646X8438  Accord       2014  24137  25480  Garrett, Edna           Wed, Nov 13, 2014       D23-21-06 
+ JB127S1306464C88X  Civic        2014  15799  16655  Holland, Mitchell       Sun, Nov 17, 2014       D23-21-05 
+ JE145F4186462A662  Crosstour    2014  44687  46640  Payne, Calvin           Tue, Nov 12, 2014       D23-21-03 
+ JH154SU136464C884  Odyssey      2014  32110  32375  Payne, Calvin           Sat, Nov 16, 2014       D23-21-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU1A5393ABA7  Odyssey     2005  25020  30375  Jenkins, Corey          Sun, Nov 17, 2014       D23-21-01 
+ JB127S1371515CXC9  Civic       2001  8743   16655  Garrett, Edna           Wed, Nov 13, 2014       D23-21-06 
+ JB127S1362X8X7881  Civic       2002  10128  16655  Jenkins, Corey          Tue, Nov 12, 2014       D23-21-01 
+ JH159F41431418993  Odyssey     2003  36656  56825  Holland, Mitchell       Mon, Nov 18, 2014       D23-21-05 
+ JH153FU18314X7885  Odyssey     2003  29616  45825  Payne, Calvin           Fri, Nov 15, 2014       D23-21-03 
+ JH151F11A52429AA7  Odyssey     2005  36580  44825  Holland, Mitchell       Sat, Nov 16, 2014       D23-21-05 
+ JH153FU171X93ABB9  Odyssey     2001  24058  45825  Payne, Calvin           Tue, Nov 12, 2014       D23-21-03 
+ JH155FU1A4X582341  Odyssey     2004  35599  47825  Payne, Calvin           Fri, Nov 15, 2014       D23-21-03 
+ JH15AS11A21P5CX13  Odyssey     2002  18352  29375  Holland, Mitchell       Tue, Nov 12, 2014       D23-21-05 
+ JA111S1382256X125  Accord      2002  14077  22480  Holland, Mitchell       Sun, Nov 17, 2014       D23-21-05 
+ JC133FU1821982347  CR-V        2002  21216  33995  Jenkins, Corey          Thu, Nov 14, 2014       D23-21-01 
+ JB129S1413X7X7899  Civic       2003  15043  23055  Garrett, Edna           Wed, Nov 13, 2014       D23-21-06 
+ JB122SU22Y245CX21  Civic       2000  7322   17255  Payne, Calvin           Sun, Nov 17, 2014       D23-21-03 
+ JD136F11052882353  CR-Z        2005  20484  24705  Holland, Mitchell       Wed, Nov 13, 2014       D23-21-05 

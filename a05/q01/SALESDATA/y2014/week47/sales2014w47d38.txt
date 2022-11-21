@@ -1,0 +1,55 @@
+Dealer Name: Kaplan Honda
+Address:     1605 Nebraska Blvd
+             East Valley, FL
+Dealer ID:   38
+Owner:       Kaplan, Edward
+Date:        Tue, Nov 19, 2014 thru Mon, Nov 25, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1146472AX4X  CR-V         2014  29343  30995  Lee, Jason              Fri, Nov 22, 2014       D38-34-03 
+ JB121S122647836A2  Civic        2014  15532  16455  Alvarez, Darrell        Sun, Nov 24, 2014       D38-34-04 
+ JA113SU3064719C34  Accord       2014  21698  23480  Henry, Courtney         Thu, Nov 21, 2014       D38-34-05 
+ JA111S13664772596  Accord       2014  22094  22480  Alvarez, Darrell        Mon, Nov 25, 2014       D38-34-04 
+ JB13ASU496474C268  Civic        2014  23888  23855  Rice, Ruth              Thu, Nov 21, 2014       D38-34-06 
+ JC131F112647X8B3X  CR-V         2014  30300  30995  Alvarez, Darrell        Sun, Nov 24, 2014       D38-34-04 
+ JB121S125647836B2  Civic        2014  16487  16455  Rice, Ruth              Thu, Nov 21, 2014       D38-34-06 
+ JB121S1296472AX54  Civic        2014  15879  16455  Alvarez, Bill           Thu, Nov 21, 2014       D38-34-02 
+ JB129S14A6472AX56  Civic        2014  21200  23055  Rice, Ruth              Tue, Nov 19, 2014       D38-34-06 
+ JB121S1266472AX58  Civic        2014  15359  16455  Alvarez, Bill           Wed, Nov 20, 2014       D38-34-02 
+ JC134F311647614AX  CR-V         2014  30427  31995  Alvarez, Darrell        Sun, Nov 24, 2014       D38-34-04 
+ JB127S1366474C282  Civic        2014  15799  16655  Henry, Courtney         Fri, Nov 22, 2014       D38-34-05 
+ JE143FU18647725B4  Crosstour    2014  40086  40640  Rice, Ruth              Sun, Nov 24, 2014       D38-34-06 
+ JB127S13A647725B6  Civic        2014  15975  16655  Lee, Jason              Wed, Nov 20, 2014       D38-34-03 
+ JE142FU196473B178  Crosstour    2014  37958  38640  Murphy, Roger           Fri, Nov 22, 2014       D38-34-01 
+ JH157F31A6473B18X  Odyssey      2014  41585  45825  Rice, Ruth              Sat, Nov 23, 2014       D38-34-06 
+ JD136F1186472AX72  CR-Z         2014  22532  24705  Henry, Courtney         Mon, Nov 25, 2014       D38-34-05 
+ JA1X4FU256474C294  Accord       2014  32135  34030  Henry, Courtney         Mon, Nov 25, 2014       D38-34-05 
+ JA1X1S122647836X6  Accord       2014  22365  24089  Murphy, Roger           Thu, Nov 21, 2014       D38-34-01 
+ JG148F11364719C68  Insight      2014  23266  24390  Rice, Ruth              Sat, Nov 23, 2014       D38-34-06 
+ JA1X1S12264719C7X  Accord       2014  22739  24089  Murphy, Roger           Sun, Nov 24, 2014       D38-34-01 
+ JB121S1236472AX82  Civic        2014  16747  16455  Henry, Courtney         Mon, Nov 25, 2014       D38-34-05 
+ JA1X4FU236475X3B4  Accord       2014  30913  34030  Lee, Jason              Sun, Nov 24, 2014       D38-34-03 
+ JA115SU3A6473B196  Accord       2014  24929  25480  Alvarez, Darrell        Mon, Nov 25, 2014       D38-34-04 
+ JD139F31564783618  CR-Z         2014  24476  25705  Henry, Courtney         Tue, Nov 19, 2014       D38-34-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU1023772B83  Odyssey     2002  18972  30375  Lee, Jason              Sat, Nov 23, 2014       D38-34-03 
+ JB128SU3161472B85  Civic        2014  16722  17455  Rice, Ruth              Thu, Nov 21, 2014       D38-34-06 
+ JB129S1423X74C857  Civic       2003  15043  23055  Alvarez, Darrell        Sat, Nov 23, 2014       D38-34-04 
+ JJ162FU1142772B89  Pilot       2004  32225  44970  Rice, Ruth              Tue, Nov 19, 2014       D38-34-06 
+ JH152SU1633883CA1  Odyssey     2003  19728  30375  Alvarez, Darrell        Mon, Nov 25, 2014       D38-34-04 
+ JH153FU184332A643  Odyssey     2004  41850  45825  Rice, Ruth              Tue, Nov 19, 2014       D38-34-06 
+ JH157F3163X419535  Odyssey     2003  29616  45825  Rice, Ruth              Sun, Nov 24, 2014       D38-34-06 
+ JF146S1193514C867  Fit         2003  10544  16025  Murphy, Roger           Mon, Nov 25, 2014       D38-34-01 
+ JE141F11132361A89  Crosstour   2003  24377  37640  Henry, Courtney         Thu, Nov 21, 2014       D38-34-05 
+ JH152SU114X183CB1  Odyssey     2004  21921  30375  Alvarez, Darrell        Tue, Nov 19, 2014       D38-34-04 
+ JC132FU1643183CB3  CR-V        2004  23979  31995  Alvarez, Bill           Thu, Nov 21, 2014       D38-34-02 
+ JH154SU17Y312A655  Odyssey     2000  11895  32375  Alvarez, Bill           Wed, Nov 20, 2014       D38-34-02 
+ JH155FU1734383CB7  Odyssey     2003  30896  47825  Murphy, Roger           Tue, Nov 19, 2014       D38-34-01 
+ JE145F4115495X989  Crosstour   2005  38507  46640  Henry, Courtney         Thu, Nov 21, 2014       D38-34-05 
+ JB128SU3835P4C881  Civic       2003  11781  17455  Henry, Courtney         Tue, Nov 19, 2014       D38-34-05 

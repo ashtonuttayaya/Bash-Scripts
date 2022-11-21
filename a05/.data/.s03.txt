@@ -1,0 +1,16 @@
+Checking q03.sql
+           OK - file q03.sql                                              chxq03-A1
+           OK - Cars in July 2013                                         chxq03-B1
+           OK - Odyssey in 2015                                           chxq03-C1
+           OK - Cars sold by Linda Carr                                   chxq03-D1
+           OK - VIN select                                                chxq03-E1
+           OK - Profit data                                               chxq03-F1
+
+Checking q03.txt
+           OK - q03.txt                                                   chxq03-G1
+           OK - Cars in 2010                                              chxq03-H1
+           OK - Cars in July 2013                                         chxq03-I1
+           OK - Odysseys in 2015                                          chxq03-J1
+           OK - Cars sold by Linda Carr                                   chxq03-K1
+           OK - Profit for vin=JE142FU145525XBX8                          chxq03-L1
+

@@ -1,0 +1,33 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Tue, Jun  4, 2014 thru Mon, Jun 10, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F11762382XC6  CR-V         2014  30300  30995  Lynch, Christian        Tue, Jun  4, 2014       D05-05-02 
+ JA1X2F12A62318658  Accord       2014  31894  33030  Foster, Leona           Sun, Jun  9, 2014       D05-05-07 
+ JH152SU13623X755X  Odyssey      2014  29085  30375  Moreno, Tyrone          Sun, Jun  9, 2014       D05-05-03 
+ JB127S13862329772  Civic        2014  15711  16655  Snyder, Norma           Sun, Jun  9, 2014       D05-05-04 
+ JC131F119623X7554  CR-V         2014  28227  30995  Neal, Douglas           Wed, Jun  5, 2014       D05-05-06 
+ JB127S1376234B996  Civic        2014  15887  16655  Foster, Leona           Mon, Jun 10, 2014       D05-05-07 
+ JE141F11862329778  Crosstour    2014  35071  37640  Neal, Douglas           Sat, Jun  8, 2014       D05-05-06 
+ JB127S1306236XBCX  Civic        2014  15448  16655  Neal, Douglas           Sat, Jun  8, 2014       D05-05-06 
+ JC134F3146234B9A2  CR-V         2014  29112  31995  Ford, Roger             Tue, Jun  4, 2014       D05-05-08 
+ JB127S13862318674  Civic        2014  16150  16655  Marshall, Donna         Wed, Jun  5, 2014       D05-05-05 
+ JB121S1226233A896  Civic        2014  15445  16455  Snyder, Norma           Fri, Jun  7, 2014       D05-05-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F11331P4B8A7  CR-Z        2003  16551  24705  Brooks, Herman          Sat, Jun  8, 2014       D05-05-01 
+ JB127S13252P3A799  Civic       2005  14219  16655  Ford, Roger             Sun, Jun  9, 2014       D05-05-08 
+ JB121S124Y4782C21  Civic       2000  6978   16455  Foster, Leona           Tue, Jun  4, 2014       D05-05-07 
+ JB121S12A31382C23  Civic       2003  11123  16455  Lynch, Christian        Tue, Jun  4, 2014       D05-05-02 
+ JB127S1386163A7A5  Civic        2014  16090  16655  Moreno, Tyrone          Sun, Jun  9, 2014       D05-05-03 
+ JH155FU19YX6X7477  Odyssey     2000  20468  47825  Moreno, Tyrone          Wed, Jun  5, 2014       D05-05-03 
+ JB121S125536X7479  Civic       2005  14057  16455  Snyder, Norma           Wed, Jun  5, 2014       D05-05-04 

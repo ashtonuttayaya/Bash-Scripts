@@ -1,0 +1,54 @@
+Dealer Name: Adams Honda
+Address:     4008 Lee Road
+             Louderdale, FL
+Dealer ID:   32
+Owner:       Adams, Jon
+Date:        Thu, Feb  5, 2010 thru Wed, Feb 11, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE143FU122X661A98  Crosstour    2010  36169  40640  Freeman, Arthur         Sat, Feb  7, 2010       D32-28-05 
+ JA115SU372X683CCX  Accord       2010  24333  25480  Spencer, Sean           Sat, Feb  7, 2010       D32-28-02 
+ JC131F11A2X661AA2  CR-V         2010  27430  30995  Anderson, Brad          Fri, Feb  6, 2010       D32-28-03 
+ JB129S1442X63B774  Civic        2010  20864  23055  Spencer, Sean           Wed, Feb 11, 2010       D32-28-02 
+ JB121S1202X63B776  Civic        2010  15056  16455  Freeman, Arthur         Wed, Feb 11, 2010       D32-28-05 
+ JH159F4122X672BB8  Odyssey      2010  53415  56825  Hicks, Andre            Mon, Feb  9, 2010       D32-28-01 
+ JA115SU332X6X845X  Accord       2010  23441  25480  Hicks, Andre            Sun, Feb  8, 2010       D32-28-01 
+ JB127S1312X683CX2  Civic        2010  15822  16655  Freeman, Arthur         Tue, Feb 10, 2010       D32-28-05 
+ JD136F1112X683CX4  CR-Z         2010  22605  24705  Hicks, Andre            Mon, Feb  9, 2010       D32-28-01 
+ JB127S1382X661AB6  Civic        2010  14822  16655  Bryant, Raul            Sat, Feb  7, 2010       D32-28-04 
+ JB127S1312X661AB8  Civic        2010  15072  16655  Freeman, Arthur         Wed, Feb 11, 2010       D32-28-05 
+ JC132FU132X62A68X  CR-V         2010  28795  31995  Bryant, Raul            Tue, Feb 10, 2010       D32-28-04 
+ JH155FU122X63B792  Odyssey      2010  45433  47825  Anderson, Brad          Sat, Feb  7, 2010       D32-28-03 
+ JA1X7S3282X661AC4  Accord       2010  22580  25089  Bryant, Raul            Wed, Feb 11, 2010       D32-28-04 
+ JH155FU182X672BX6  Odyssey      2010  45672  47825  Spencer, Sean           Sat, Feb  7, 2010       D32-28-02 
+ JB125G1662X65X9B8  Civic        2010  26794  28505  Bryant, Raul            Mon, Feb  9, 2010       D32-28-04 
+ JA111S1392X6X847X  Accord       2010  21243  22480  Bryant, Raul            Sat, Feb  7, 2010       D32-28-04 
+ JA1X1S1272X672B12  Accord       2010  21318  24089  Anderson, Brad          Sun, Feb  8, 2010       D32-28-03 
+ JA117S3322X62A694  Accord       2010  22775  23480  Anderson, Brad          Mon, Feb  9, 2010       D32-28-03 
+ JC131F1112X6X8476  CR-V         2010  28515  30995  Bryant, Raul            Tue, Feb 10, 2010       D32-28-04 
+ JE141F1102X619588  Crosstour    2010  33687  37640  Hicks, Andre            Sun, Feb  8, 2010       D32-28-01 
+ JC132FU142X62A6AX  CR-V         2010  29435  31995  Bryant, Raul            Sun, Feb  8, 2010       D32-28-04 
+ JC135F4172X6X8482  CR-V         2010  37195  39995  Spencer, Sean           Fri, Feb  6, 2010       D32-28-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU16T355C327  Odyssey     2004  18680  47825  Freeman, Arthur         Thu, Feb  5, 2010       D32-28-05 
+ JB121S128X265C329  Civic       2007  10531  16455  Bryant, Raul            Tue, Feb 10, 2010       D32-28-04 
+ JD14AF417X4218X21  CR-Z        2007  21881  33705  Hicks, Andre            Fri, Feb  6, 2010       D32-28-01 
+ JC134F315X4471683  CR-V        2007  20188  31995  Hicks, Andre            Fri, Feb  6, 2010       D32-28-01 
+ JH158S418T4P18X25  Odyssey     2004  16100  41375  Hicks, Andre            Sun, Feb  8, 2010       D32-28-01 
+ JH152SU10V1P3A247  Odyssey     2005  15474  30375  Spencer, Sean           Tue, Feb 10, 2010       D32-28-02 
+ JG148F116TX318X29  Insight     2004  20938  24390  Freeman, Arthur         Wed, Feb 11, 2010       D32-28-05 
+ JH152SU14Y4271691  Odyssey     2008  22130  30375  Spencer, Sean           Tue, Feb 10, 2010       D32-28-02 
+ JD136F116124827A3  CR-Z        2009  20011  24705  Spencer, Sean           Mon, Feb  9, 2010       D32-28-02 
+ JJ161FU12W514B365  Pilot       2006  26222  42970  Hicks, Andre            Mon, Feb  9, 2010       D32-28-01 
+ JH152SU1AWX571697  Odyssey     2006  17820  30375  Hicks, Andre            Mon, Feb  9, 2010       D32-28-01 
+ JC132FU10X523A259  CR-V        2007  20756  31995  Spencer, Sean           Wed, Feb 11, 2010       D32-28-02 
+ JH155FU10V3P827B1  Odyssey     2005  24635  47825  Spencer, Sean           Tue, Feb 10, 2010       D32-28-02 
+ JB127S136148716A3  Civic       2009  13490  16655  Spencer, Sean           Wed, Feb 11, 2010       D32-28-02 
+ JJ16AF115121X7C35  Pilot       2009  33995  41970  Anderson, Brad          Tue, Feb 10, 2010       D32-28-03 
+ JG148F11813718X47  Insight     2009  19755  24390  Spencer, Sean           Thu, Feb  5, 2010       D32-28-02 

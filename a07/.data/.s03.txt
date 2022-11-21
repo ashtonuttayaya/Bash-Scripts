@@ -1,0 +1,7 @@
+Checking script q03.sh performance
+           OK - report.tmp contains all years for all, new and used car sales by model                           chxq03-A1
+           OK - passed test for sales by model                                                                   chxq03-B1
+           OK - passed sum rule test: Total = New + Used                                                         chxq03-C1
+           OK - passed report fixed line length test                                                             chxq03-D1
+           OK - passed invalid parameter test                                                                    chxq03-E1
+

@@ -1,0 +1,55 @@
+Dealer Name: Kaplan Honda
+Address:     1605 Nebraska Blvd
+             East Valley, FL
+Dealer ID:   38
+Owner:       Kaplan, Edward
+Date:        Wed, Jul  9, 2015 thru Tue, Jul 15, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S12072873ABX  Civic        2015  16613  16455  Alvarez, Bill           Fri, Jul 11, 2015       D38-34-02 
+ JC132FU137284X782  CR-V         2015  31464  31995  Alvarez, Bill           Wed, Jul  9, 2015       D38-34-02 
+ JB121S1227281A454  Civic        2015  16525  16455  Rice, Ruth              Tue, Jul 15, 2015       D38-34-06 
+ JA112F1357282B566  Accord       2015  32863  32930  Murphy, Roger           Wed, Jul  9, 2015       D38-34-01 
+ JE141F11272873AB8  Crosstour    2015  36051  37640  Murphy, Roger           Sat, Jul 12, 2015       D38-34-01 
+ JE141F113728518AX  Crosstour    2015  36439  37640  Rice, Ruth              Sun, Jul 13, 2015       D38-34-06 
+ JH154SU137284X792  Odyssey      2015  30652  32375  Henry, Courtney         Wed, Jul  9, 2015       D38-34-05 
+ JA1X2F1297284X794  Accord       2015  30056  33030  Henry, Courtney         Sat, Jul 12, 2015       D38-34-05 
+ JB129S149728518A6  Civic        2015  22487  23055  Henry, Courtney         Fri, Jul 11, 2015       D38-34-05 
+ JB127S13A7282B578  Civic        2015  17157  16655  Alvarez, Darrell        Wed, Jul  9, 2015       D38-34-04 
+ JD138FU117284X7AX  CR-Z         2015  26956  27705  Rice, Ruth              Tue, Jul 15, 2015       D38-34-06 
+ JJ161FU16728X9362  Pilot        2015  39465  42970  Lee, Jason              Mon, Jul 14, 2015       D38-34-03 
+ JA1X3SU2A7283C694  Accord       2015  24116  25089  Henry, Courtney         Thu, Jul 10, 2015       D38-34-05 
+ JA113SU397282B586  Accord       2015  21652  23480  Henry, Courtney         Tue, Jul 15, 2015       D38-34-05 
+ JB125G16A7281A478  Civic        2015  26222  28505  Henry, Courtney         Sat, Jul 12, 2015       D38-34-05 
+ JE143FU197281A48X  Crosstour    2015  37379  40640  Rice, Ruth              Mon, Jul 14, 2015       D38-34-06 
+ JA111S13772873A12  Accord       2015  21008  22480  Lee, Jason              Mon, Jul 14, 2015       D38-34-03 
+ JD136F110728518C4  CR-Z         2015  24538  24705  Henry, Courtney         Thu, Jul 10, 2015       D38-34-05 
+ JE141F111728629X6  Crosstour    2015  35663  37640  Henry, Courtney         Tue, Jul 15, 2015       D38-34-05 
+ JH155FU1A7283C6A8  Odyssey      2015  46257  47825  Alvarez, Darrell        Tue, Jul 15, 2015       D38-34-04 
+ JC132FU197283C6BX  CR-V         2015  30967  31995  Alvarez, Darrell        Wed, Jul  9, 2015       D38-34-04 
+ JA1X1S1247284X7C2  Accord       2015  23575  24089  Rice, Ruth              Wed, Jul  9, 2015       D38-34-06 
+ JH153FU117282B5A4  Odyssey      2015  44837  45825  Lee, Jason              Fri, Jul 11, 2015       D38-34-03 
+ JA115SU36728518X6  Accord       2015  25141  25480  Alvarez, Bill           Wed, Jul  9, 2015       D38-34-02 
+ JC133FU19728X9388  CR-V         2015  31256  33995  Rice, Ruth              Sun, Jul 13, 2015       D38-34-06 
+ JB129S1447281A4AX  Civic        2015  21520  23055  Lee, Jason              Thu, Jul 10, 2015       D38-34-03 
+ JD14AF414728X9392  CR-Z         2015  30824  33705  Henry, Courtney         Wed, Jul  9, 2015       D38-34-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB125G16844219643  Civic       2004  19200  28505  Rice, Ruth              Mon, Jul 14, 2015       D38-34-06 
+ JH154SU1A44983XB5  Odyssey     2004  21746  32375  Alvarez, Bill           Wed, Jul  9, 2015       D38-34-02 
+ JH156S31441572CA7  Odyssey     2004  20430  30375  Murphy, Roger           Sat, Jul 12, 2015       D38-34-01 
+ JG148F1113X25XA89  Insight     2003  15400  24390  Lee, Jason              Thu, Jul 10, 2015       D38-34-03 
+ JJ161FU195384C981  Pilot       2005  32200  42970  Alvarez, Bill           Fri, Jul 11, 2015       D38-34-02 
+ JK165F11033172CB3  Ridgeline   2003  42480  46750  Alvarez, Bill           Fri, Jul 11, 2015       D38-34-02 
+ JA117S33052861BA5  Accord      2005  17894  23480  Henry, Courtney         Thu, Jul 10, 2015       D38-34-05 
+ JH15AS1133295XA97  Odyssey     2003  18491  29375  Murphy, Roger           Tue, Jul 15, 2015       D38-34-01 
+ JA111S1342154C989  Accord      2002  11920  22480  Henry, Courtney         Sat, Jul 12, 2015       D38-34-05 
+ JJ161FU1841883XX1  Pilot       2004  27932  42970  Alvarez, Bill           Sat, Jul 12, 2015       D38-34-02 
+ JB121S12531972CC3  Civic       2003  10481  16455  Henry, Courtney         Sat, Jul 12, 2015       D38-34-05 
+ JH152SU1912P72CC5  Odyssey     2001  12150  30375  Lee, Jason              Fri, Jul 11, 2015       D38-34-03 
+ JD136F1194X82A777  CR-Z        2004  16243  24705  Henry, Courtney         Fri, Jul 11, 2015       D38-34-05 

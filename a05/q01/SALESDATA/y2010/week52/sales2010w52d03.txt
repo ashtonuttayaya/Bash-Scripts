@@ -1,0 +1,56 @@
+Dealer Name: Jones Honda Dealer
+Address:     6957 Davison Highway
+             Clarksville, NC
+Dealer ID:   3
+Owner:       Jones, Kelly
+Date:        Thu, Dec 24, 2010 thru Thu, Dec 31, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S13725229638  Civic        2010  15738  16655  Larson, Sonia           Mon, Dec 28, 2010       D03-03-05 
+ JB129S14A2523A75X  Civic        2010  22132  23055  Mitchell, Sue           Fri, Dec 25, 2010       D03-03-01 
+ JB127S13925229642  Civic        2010  15405  16655  Taylor, Billie          Mon, Dec 28, 2010       D03-03-02 
+ JC131F11A252X7424  CR-V         2010  27275  30995  Herrera, Julian         Sat, Dec 26, 2010       D03-03-03 
+ JC131F1132526XA86  CR-V         2010  28980  30995  Herrera, Julian         Thu, Dec 24, 2010       D03-03-03 
+ JE144F31325271B98  Crosstour    2010  35742  38640  Herrera, Julian         Wed, Dec 30, 2010       D03-03-03 
+ JB125G1662524B87X  Civic        2010  26367  28505  Smith, Maria            Sat, Dec 26, 2010       D03-03-04 
+ JB121S12025229652  Civic        2010  14974  16455  Larson, Sonia           Sun, Dec 27, 2010       D03-03-05 
+ JA111S13825271BA4  Accord       2010  20681  22480  Mitchell, Sue           Sun, Dec 27, 2010       D03-03-01 
+ JB127S134252X7436  Civic        2010  15239  16655  Mitchell, Sue           Mon, Dec 28, 2010       D03-03-01 
+ JB121S1272526XA98  Civic        2010  15879  16455  Herrera, Julian         Sat, Dec 26, 2010       D03-03-03 
+ JA114FU332523A77X  Accord       2010  30028  33930  Herrera, Julian         Mon, Dec 28, 2010       D03-03-03 
+ JB127S13625282CC2  Civic        2010  15239  16655  Herrera, Julian         Wed, Dec 30, 2010       D03-03-03 
+ JA1X4FU262523A774  Accord       2010  30797  34030  Larson, Sonia           Thu, Dec 24, 2010       D03-03-05 
+ JH153FU122523A776  Odyssey      2010  43762  45825  Taylor, Billie          Tue, Dec 29, 2010       D03-03-02 
+ JH15AS11025218558  Odyssey      2010  27906  29375  Graham, Jeffery         Wed, Dec 30, 2010       D03-03-06 
+ JB127S1312523A78X  Civic        2010  15322  16655  Herrera, Julian         Mon, Dec 28, 2010       D03-03-03 
+ JB125G1612526XAB2  Civic        2010  25369  28505  Taylor, Billie          Fri, Dec 25, 2010       D03-03-02 
+ JD137FU1125271BC4  CR-Z         2010  24805  25705  Smith, Maria            Tue, Dec 29, 2010       D03-03-04 
+ JJ161FU1825271BC6  Pilot        2010  38673  42970  Graham, Jeffery         Sat, Dec 26, 2010       D03-03-06 
+ JH153FU1325229678  Odyssey      2010  42846  45825  Graham, Jeffery         Tue, Dec 29, 2010       D03-03-06 
+ JD139F31A2522968X  CR-Z         2010  24805  25705  Smith, Maria            Fri, Dec 25, 2010       D03-03-04 
+ JB123H1572524B8A2  Civic        2010  25668  27600  Graham, Jeffery         Mon, Dec 28, 2010       D03-03-06 
+ JB129S14325218574  Civic        2010  20749  23055  Larson, Sonia           Sun, Dec 27, 2010       D03-03-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH159F415X3282B37  Odyssey     2007  37094  56825  Taylor, Billie          Tue, Dec 29, 2010       D03-03-02 
+ JH152SU11Y325C8X9  Odyssey     2008  21708  30375  Graham, Jeffery         Sun, Dec 27, 2010       D03-03-06 
+ JD14AF412Y25295B1  CR-Z        2008  24105  33705  Taylor, Billie          Mon, Dec 28, 2010       D03-03-02 
+ JC133FU17XX85C813  CR-V        2007  22072  33995  Herrera, Julian         Tue, Dec 29, 2010       D03-03-03 
+ JE143FU13X393A6C5  Crosstour   2007  25721  40640  Taylor, Billie          Sun, Dec 27, 2010       D03-03-02 
+ JH151F115V32184A7  Odyssey     2005  20864  44825  Smith, Maria            Thu, Dec 24, 2010       D03-03-04 
+ JB129S14813P4B7X9  Civic       2009  18674  23055  Herrera, Julian         Tue, Dec 29, 2010       D03-03-03 
+ JD138FU17225295C1  CR-Z         2010  25276  27705  Mitchell, Sue           Sat, Dec 26, 2010       D03-03-01 
+ JH155FU16T4482B53  Odyssey     2004  18680  47825  Graham, Jeffery         Sat, Dec 26, 2010       D03-03-06 
+ JE143FU14T173A6X5  Crosstour   2004  15806  40640  Graham, Jeffery         Mon, Dec 28, 2010       D03-03-06 
+ JC131F118X2282B57  CR-V        2007  20098  30995  Herrera, Julian         Sat, Dec 26, 2010       D03-03-03 
+ JH154SU14V3771A49  Odyssey     2005  16524  32375  Smith, Maria            Tue, Dec 29, 2010       D03-03-04 
+ JG148F113V324B851  Insight     2005  11745  24390  Taylor, Billie          Sat, Dec 26, 2010       D03-03-02 
+ JG148F117X434B853  Insight     2007  15752  24390  Herrera, Julian         Fri, Dec 25, 2010       D03-03-03 
+ JH153FU15V343A745  Odyssey     2005  21339  45825  Mitchell, Sue           Wed, Dec 30, 2010       D03-03-01 
+ JH15AS11AYX13A747  Odyssey     2008  20988  29375  Taylor, Billie          Tue, Dec 29, 2010       D03-03-02 
+ JC131F116YX24B859  CR-V        2008  22154  30995  Larson, Sonia           Tue, Dec 29, 2010       D03-03-05 

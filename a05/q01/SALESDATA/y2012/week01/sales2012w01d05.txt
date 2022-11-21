@@ -1,0 +1,31 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Sat, Jan  1, 2012 thru Fri, Jan  7, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1324X15C916  Civic        2012  15907  16655  Snyder, Norma           Sat, Jan  1, 2012       D05-05-04 
+ JA1X5SU294X16XA28  Accord       2012  26162  27089  Snyder, Norma           Sun, Jan  2, 2012       D05-05-04 
+ JA1X1S12A4X16XA3X  Accord       2012  22453  24089  Lynch, Christian        Thu, Jan  6, 2012       D05-05-02 
+ JA1X1S12A4X13A7X2  Accord       2012  23312  24089  Moreno, Tyrone          Tue, Jan  4, 2012       D05-05-03 
+ JG148F1174X1X74A4  Insight      2012  22728  24390  Lynch, Christian        Fri, Jan  7, 2012       D05-05-02 
+ JA111S1304X182C56  Accord       2012  20751  22480  Marshall, Donna         Tue, Jan  4, 2012       D05-05-05 
+ JA112F1374X13A7X8  Accord       2012  29708  32930  Ford, Roger             Sun, Jan  2, 2012       D05-05-08 
+ JB127S1334X171C8X  Civic        2012  15394  16655  Snyder, Norma           Sat, Jan  1, 2012       D05-05-04 
+ JC134F3184X182X92  CR-V         2012  29524  31995  Brooks, Herman          Sun, Jan  2, 2012       D05-05-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S1472473A7A9  Civic       2010  17087  23055  Brooks, Herman          Sun, Jan  2, 2012       D05-05-01 
+ JD139F3113223A7B1  CR-Z        2011  21185  25705  Marshall, Donna         Thu, Jan  6, 2012       D05-05-05 
+ JE145F41AX324B8C3  Crosstour   2007  23095  46640  Ford, Roger             Thu, Jan  6, 2012       D05-05-08 
+ JC131F1172X85C9X5  CR-V        2010  22915  30995  Lynch, Christian        Sun, Jan  2, 2012       D05-05-02 
+ JG148F11321282C37  Insight     2010  17722  24390  Moreno, Tyrone          Fri, Jan  7, 2012       D05-05-03 
+ JG148F11812782C39  Insight     2009  21951  24390  Neal, Douglas           Thu, Jan  6, 2012       D05-05-06 
+ JH15AS1143X8X7491  Odyssey     2011  24158  29375  Lynch, Christian        Mon, Jan  3, 2012       D05-05-02 

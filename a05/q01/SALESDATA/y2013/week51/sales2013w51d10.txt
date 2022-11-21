@@ -1,0 +1,51 @@
+Dealer Name: Walker Honda
+Address:     1240 Harrison Ave
+             Port Kiln, SC
+Dealer ID:   10
+Owner:       Walker, Shelly
+Date:        Mon, Dec 17, 2013 thru Sun, Dec 23, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F11955129A48  Crosstour    2013  34100  37640  Marshall, Allan         Wed, Dec 19, 2013       D10-07-01 
+ JA113SU375511894X  Accord       2013  23068  23480  Fields, Roland          Wed, Dec 19, 2013       D10-07-02 
+ JC131F11A55118942  CR-V         2013  29136  30995  Ross, Darren            Mon, Dec 17, 2013       D10-07-05 
+ JC131F117551823B4  CR-V         2013  28978  30995  Alvarez, David          Sat, Dec 22, 2013       D10-07-06 
+ JC131F1145516X196  CR-V         2013  30086  30995  Wright, Emma            Mon, Dec 17, 2013       D10-07-04 
+ JK166FU13551X7838  Ridgeline    2013  44793  47750  Marshall, Allan         Mon, Dec 17, 2013       D10-07-01 
+ JC133FU135513AB7X  CR-V         2013  32589  33995  Fields, Roland          Sun, Dec 23, 2013       D10-07-02 
+ JA111S1305515CX92  Accord       2013  21881  22480  Gardner, Salvador       Wed, Dec 19, 2013       D10-07-03 
+ JH158S4165513AB74  Odyssey      2013  39316  41375  Marshall, Allan         Mon, Dec 17, 2013       D10-07-01 
+ JE141F110551823C6  Crosstour    2013  36399  37640  Ross, Darren            Mon, Dec 17, 2013       D10-07-05 
+ JE142FU195513AB78  Crosstour    2013  35776  38640  Ross, Darren            Tue, Dec 18, 2013       D10-07-05 
+ JB127S13655129A7X  Civic        2013  16030  16655  Gardner, Salvador       Tue, Dec 18, 2013       D10-07-03 
+ JH15AS1145513AB82  Odyssey      2013  27195  29375  Gardner, Salvador       Sat, Dec 22, 2013       D10-07-03 
+ JC131F11955118964  CR-V         2013  29928  30995  Fields, Roland          Sun, Dec 23, 2013       D10-07-02 
+ JC133FU105514BC96  CR-V         2013  31029  33995  Ross, Darren            Fri, Dec 21, 2013       D10-07-05 
+ JD136F112551X7858  CR-Z         2013  23095  24705  Wright, Emma            Mon, Dec 17, 2013       D10-07-04 
+ JH157F3135511897X  Odyssey      2013  41850  45825  Alvarez, David          Mon, Dec 17, 2013       D10-07-06 
+ JA1X4FU2255129A82  Accord       2013  33143  34030  Alvarez, David          Fri, Dec 21, 2013       D10-07-06 
+ JC131F11555129A84  CR-V         2013  28186  30995  Wright, Emma            Mon, Dec 17, 2013       D10-07-04 
+ JB127S1345514BCA6  Civic        2013  16290  16655  Gardner, Salvador       Fri, Dec 21, 2013       D10-07-03 
+ JG148F11A551712X8  Insight      2013  24062  24390  Marshall, Allan         Tue, Dec 18, 2013       D10-07-01 
+ JJ164F4185516X1XX  Pilot        2013  53005  53970  Gardner, Salvador       Tue, Dec 18, 2013       D10-07-03 
+ JH153FU16551X7872  Odyssey      2013  42082  45825  Marshall, Allan         Mon, Dec 17, 2013       D10-07-01 
+ JH155FU165514BCB4  Odyssey      2013  43407  47825  Ross, Darren            Sun, Dec 23, 2013       D10-07-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU11Y12296B9  Odyssey     2008  22800  45825  Alvarez, David          Tue, Dec 18, 2013       D10-07-06 
+ JG149FU113445C921  Insight     2011  18460  25190  Gardner, Salvador       Wed, Dec 19, 2013       D10-07-03 
+ JD137FU1613371B43  CR-Z        2009  15423  25705  Wright, Emma            Sun, Dec 23, 2013       D10-07-04 
+ JJ162FU12232185B5  Pilot       2010  28111  44970  Gardner, Salvador       Tue, Dec 18, 2013       D10-07-03 
+ JB121S1213323A7X7  Civic       2011  12408  16455  Alvarez, David          Mon, Dec 17, 2013       D10-07-06 
+ JD136F1182325C929  CR-Z        2010  15955  24705  Gardner, Salvador       Mon, Dec 17, 2013       D10-07-03 
+ JC131F11814P4B951  CR-V        2009  19216  30995  Marshall, Allan         Tue, Dec 18, 2013       D10-07-01 
+ JB121S12A2X929733  Civic       2010  10975  16455  Ross, Darren            Fri, Dec 21, 2013       D10-07-05 
+ JH154SU1112871C85  Odyssey     2009  20072  32375  Alvarez, David          Thu, Dec 20, 2013       D10-07-06 
+ JH153FU1344318627  Odyssey     2012  37200  45825  Fields, Roland          Wed, Dec 19, 2013       D10-07-02 
+ JE143FU1721771C89  Crosstour   2010  26889  40640  Alvarez, David          Fri, Dec 21, 2013       D10-07-06 
+ JB127S134222X7521  Civic       2010  11107  16655  Wright, Emma            Mon, Dec 17, 2013       D10-07-04 

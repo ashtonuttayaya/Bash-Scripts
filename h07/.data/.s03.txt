@@ -1,0 +1,12 @@
+Checking for script q03.sh
+           OK - q03.sh exists and is not empty                                                      chxq03-A1
+
+Checking for q03.sql
+           OK - q03.sql exists and contains at least 1 select statement                             chxq03-B1
+
+Checking contents for q03.sql
+           OK - "use sales;" statement present                                                      chxq03-C1
+           OK - select from owners statements                                                       chxq03-D1
+           OK - select from dealers statements                                                      chxq03-E1
+           OK - select from agents statements                                                       chxq03-F1
+

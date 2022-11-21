@@ -1,0 +1,35 @@
+#
+#	Getting creating the sql insert files
+#
+q01 type ac
+q01 start a01.bak a01.txt check01.sh annual_sales.pl SALESDATA
+q01 submit env_mysql
+q01 clean check01.txt s2010 s2011 s2012 s2013 s2014 s2015 env_mysql script01.txt
+#
+#	Inserting the data into the database
+#
+q02 type ac
+q02 start a02.bak a02.txt check02.sh
+q02 submit
+q02 clean SALESDATA s2010 s2011 s2012 s2013 s2014 s2015
+#
+#	Checking the data
+#
+q03 type ac
+q03 start a03.bak a03.txt check03.sh
+q03 submit q03.sql q03.txt
+q03 clean script03.txt check03.txt q03.sql q03.txt
+#
+#	Automating the data file checking routines
+#
+q04 type sc
+q04 start a04.bak a04.txt check04.sh
+q04 submit
+q04 clean q04.sh .q04_txt script04.txt check04.txt SALESDATA
+#
+#	Creating and compressing a database backup file
+#
+q05 type ac
+q05 start a05.bak a05.txt check05.sh size.pl
+q05 submit
+q05 clean script05.txt check05.txt size env_mysql

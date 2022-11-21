@@ -1,0 +1,46 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Fri, Jan  8, 2011 thru Thu, Jan 14, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1163X23A644  CR-V         2011  30283  30995  King, Michelle          Fri, Jan  8, 2011       D01-01-03 
+ JJ16AF1103X23A646  Pilot        2011  37131  41970  Russell, Connie         Mon, Jan 11, 2011       D01-01-01 
+ JJ161FU1A3X23A648  Pilot        2011  41683  42970  Russell, Connie         Sun, Jan 10, 2011       D01-01-01 
+ JE141F11A3X21843X  Crosstour    2011  36539  37640  Jennings, Terry         Fri, Jan  8, 2011       D01-01-02 
+ JB121S1223X2X7322  Civic        2011  14928  16455  Wood, Lloyd             Mon, Jan 11, 2011       D01-01-04 
+ JH156S3103X2X7324  Odyssey      2011  29223  30375  Jennings, Terry         Sun, Jan 10, 2011       D01-01-02 
+ JA1X4FU263X26X986  Accord       2011  31857  34030  Wood, Lloyd             Tue, Jan 12, 2011       D01-01-04 
+ JE141F1183X229548  Crosstour    2011  35782  37640  Ryan, Margie            Tue, Jan 12, 2011       D01-01-06 
+ JB129S1413X271AAX  Civic        2011  20719  23055  King, Michelle          Tue, Jan 12, 2011       D01-01-03 
+ JB127S1393X25C882  Civic        2011  14938  16655  Jennings, Terry         Tue, Jan 12, 2011       D01-01-02 
+ JC133FU123X218444  CR-V         2011  31824  33995  Harper, Freddie         Wed, Jan 13, 2011       D01-01-05 
+ JH152SU143X2X7336  Odyssey      2011  28764  30375  Russell, Connie         Wed, Jan 13, 2011       D01-01-01 
+ JH151F1163X282BB8  Odyssey      2011  40094  44825  Harper, Freddie         Sat, Jan  9, 2011       D01-01-05 
+ JB127S1303X25C89X  Civic        2011  16204  16655  Russell, Connie         Thu, Jan 14, 2011       D01-01-01 
+ JC133FU133X271AB2  CR-V         2011  30969  33995  King, Michelle          Tue, Jan 12, 2011       D01-01-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1361225C865  Civic       2009  12224  16655  Harper, Freddie         Mon, Jan 11, 2011       D01-01-05 
+ JE141F115X454B757  Crosstour   2007  22314  37640  Wood, Lloyd             Thu, Jan 14, 2011       D01-01-04 
+ JJ161FU13Y1271A89  Pilot       2008  28126  42970  Ryan, Margie            Thu, Jan 14, 2011       D01-01-06 
+ JE141F114Y2929541  Crosstour   2008  23945  37640  King, Michelle          Mon, Jan 11, 2011       D01-01-03 
+ JE142FU16YX682BA3  Crosstour   2008  24585  38640  King, Michelle          Sat, Jan  9, 2011       D01-01-03 
+ JH153FU16WX518435  Odyssey     2006  23703  45825  Russell, Connie         Tue, Jan 12, 2011       D01-01-01 
+ JB121S122Y5P6X987  Civic       2008  10679  16455  Wood, Lloyd             Sun, Jan 10, 2011       D01-01-04 
+ JD138FU12Y466X989  CR-Z        2008  17587  27705  Jennings, Terry         Thu, Jan 14, 2011       D01-01-02 
+ JF146S111Y3918441  Fit         2008  10112  16025  Ryan, Margie            Sat, Jan  9, 2011       D01-01-06 
+ JE141F111V164B773  Crosstour   2005  14696  37640  Harper, Freddie         Fri, Jan  8, 2011       D01-01-05 
+ JK168F310Y224B775  Ridgeline   2008  31271  47750  Jennings, Terry         Fri, Jan  8, 2011       D01-01-02 
+ JJ163F318Y276X997  Pilot       2008  26587  42970  Ryan, Margie            Tue, Jan 12, 2011       D01-01-06 
+ JA1X2F125W3982BB9  Accord      2006  16986  33030  Wood, Lloyd             Tue, Jan 12, 2011       D01-01-04 
+ JB128SU33Y2471AB1  Civic       2008  11027  17455  Ryan, Margie            Mon, Jan 11, 2011       D01-01-06 
+ JB121S12021829563  Civic       2010  13510  16455  Harper, Freddie         Wed, Jan 13, 2011       D01-01-05 
+ JC131F115X4P82BC5  CR-V        2007  18327  30995  King, Michelle          Mon, Jan 11, 2011       D01-01-03 

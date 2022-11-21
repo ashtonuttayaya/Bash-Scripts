@@ -1,0 +1,53 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Fri, Oct 29, 2011 thru Thu, Nov  4, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA12AF430344291B4  Accord       2011  40258  41930  Scott, Samuel           Sun, Oct 31, 2011       D27-24-06 
+ JG148F113344291B6  Insight      2011  23507  24390  Hill, Rita              Wed, Nov  3, 2011       D27-24-01 
+ JG148F1143446X528  Insight      2011  21784  24390  Scott, Samuel           Mon, Nov  1, 2011       D27-24-06 
+ JA116FU32344291CX  Accord       2011  34528  35930  Scott, Samuel           Mon, Nov  1, 2011       D27-24-06 
+ JH153FU17344X7CA2  Odyssey      2011  42366  45825  Perkins, Pearl          Fri, Oct 29, 2011       D27-24-03 
+ JG149FU11344X7CA4  Insight      2011  24525  25190  Shelton, Regina         Wed, Nov  3, 2011       D27-24-02 
+ JB129S1493443A2X6  Civic        2011  22348  23055  Shelton, Regina         Thu, Nov  4, 2011       D27-24-02 
+ JH153FU153446X538  Odyssey      2011  41214  45825  Scott, Samuel           Thu, Nov  4, 2011       D27-24-06 
+ JC132FU1034472A8X  CR-V         2011  28514  31995  Shelton, Regina         Thu, Nov  4, 2011       D27-24-02 
+ JB127S1323444C752  Civic        2011  15192  16655  Hill, Rita              Sun, Oct 31, 2011       D27-24-01 
+ JA1X1S12634483B94  Accord       2011  23584  24089  Shelton, Regina         Mon, Nov  1, 2011       D27-24-02 
+ JB121S12034419426  Civic        2011  14845  16455  Perkins, Pearl          Sun, Oct 31, 2011       D27-24-03 
+ JA1X1S1293444C758  Accord       2011  23463  24089  Perkins, Pearl          Sun, Oct 31, 2011       D27-24-03 
+ JB121S1273443B65X  Civic        2011  15762  16455  Scott, Samuel           Sat, Oct 30, 2011       D27-24-06 
+ JA1X1S1243443B652  Accord       2011  22733  24089  Scott, Samuel           Thu, Nov  4, 2011       D27-24-06 
+ JB127S13334461984  Civic        2011  15445  16655  Shelton, Regina         Fri, Oct 29, 2011       D27-24-02 
+ JC132FU103442A546  CR-V         2011  29320  31995  Hill, Rita              Tue, Nov  2, 2011       D27-24-01 
+ JA1X1S1253443B658  Accord       2011  22976  24089  Hill, Rita              Fri, Oct 29, 2011       D27-24-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S132XX85C2C1  Civic       2007  9723   16655  Wright, Marion          Thu, Nov  4, 2011       D27-24-04 
+ JC133FU16Y525C2C3  CR-V        2008  22220  33995  Shelton, Regina         Sat, Oct 30, 2011       D27-24-02 
+ JF146S113Y31X7A75  Fit         2008  10112  16025  Shelton, Regina         Wed, Nov  3, 2011       D27-24-02 
+ JB129S142122X7A77  Civic       2009  16922  23055  Hill, Rita              Thu, Nov  4, 2011       D27-24-01 
+ JK166FU17Y4671419  Ridgeline   2008  31271  47750  Perkins, Pearl          Mon, Nov  1, 2011       D27-24-03 
+ JD139F310Y276X311  CR-Z        2008  16765  25705  Shelton, Regina         Sun, Oct 31, 2011       D27-24-02 
+ JH151F110W373AXB3  Odyssey     2006  23178  44825  Shelton, Regina         Sat, Oct 30, 2011       D27-24-02 
+ JE144F316Y2471425  Crosstour   2008  25277  38640  Hill, Rita              Sat, Oct 30, 2011       D27-24-01 
+ JB127S130WX929CA7  Civic       2006  8389   16655  Wright, Marion          Fri, Oct 29, 2011       D27-24-04 
+ JE141F1181X2X7A89  Crosstour   2009  27100  37640  Scott, Samuel           Sun, Oct 31, 2011       D27-24-06 
+ JH152SU1611882541  Odyssey     2009  22295  30375  Hill, Rita              Sun, Oct 31, 2011       D27-24-01 
+ JC131F115Y3P5C213  CR-V        2008  19692  30995  Perkins, Pearl          Sat, Oct 30, 2011       D27-24-03 
+ JC131F119YX782545  CR-V        2008  20246  30995  Scott, Samuel           Thu, Nov  4, 2011       D27-24-06 
+ JH156S31834P29CB7  Odyssey      2011  27896  30375  Hill, Rita              Thu, Nov  4, 2011       D27-24-01 
+ JB127S136Y33X7A99  Civic       2008  10810  16655  Wright, Marion          Mon, Nov  1, 2011       D27-24-04 
+ JH154SU1AY3371441  Odyssey     2008  21154  32375  Perkins, Pearl          Sat, Oct 30, 2011       D27-24-03 
+ JH155FU12X3482553  Odyssey     2007  28425  47825  Wright, Marion          Sun, Oct 31, 2011       D27-24-04 
+ JE141F116XX33AXX5  Crosstour   2007  22314  37640  Howard, Samantha        Wed, Nov  3, 2011       D27-24-05 
+ JJ161FU12Y2582557  Pilot       2008  28126  42970  Shelton, Regina         Thu, Nov  4, 2011       D27-24-02 
+ JH155FU11Y4682559  Odyssey     2008  30464  47825  Perkins, Pearl          Mon, Nov  1, 2011       D27-24-03 

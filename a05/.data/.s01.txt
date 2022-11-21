@@ -1,0 +1,21 @@
+Checking environment definitions and SALESDATA
+           OK - env_mysql found                                            chxq01-A1
+           OK - MYSQL_DATA defined                                         chxq01-B1
+           OK - MYSQL_PASS set                                             chxq01-C1
+           OK - MYSQL_USER (salesadmin) set                                chxq01-D1
+           OK - SALESDATA found                                            chxq01-E1
+
+Checking sql files
+           OK - s2010 directory found                                      chxq01-F1
+           OK - s2010 sql file found                                       chxq01-G1
+           OK - s2011 directory found                                      chxq01-H1
+           OK - s2011 sql file found                                       chxq01-I1
+           OK - s2012 directory found                                      chxq01-J1
+           OK - s2012 sql file found                                       chxq01-K1
+           OK - s2013 directory found                                      chxq01-L1
+           OK - s2013 sql file found                                       chxq01-M1
+           OK - s2014 directory found                                      chxq01-N1
+           OK - s2014 sql file found                                       chxq01-O1
+           OK - s2015 directory found                                      chxq01-P1
+           OK - s2015 sql file found                                       chxq01-Q1
+

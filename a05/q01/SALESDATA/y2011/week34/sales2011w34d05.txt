@@ -1,0 +1,32 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Fri, Aug 20, 2011 thru Thu, Aug 26, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S14533418594  Civic        2011  21999  23055  Brooks, Herman          Sun, Aug 22, 2011       D05-05-01 
+ JC133FU143343A7B6  CR-V         2011  32166  33995  Lynch, Christian        Sun, Aug 22, 2011       D05-05-02 
+ JC131F11A334296A8  CR-V         2011  29971  30995  Brooks, Herman          Thu, Aug 26, 2011       D05-05-01 
+ JA115SU313343A7CX  Accord       2011  22620  25480  Lynch, Christian        Wed, Aug 25, 2011       D05-05-02 
+ JB121S122334185A2  Civic        2011  15262  16455  Brooks, Herman          Thu, Aug 26, 2011       D05-05-01 
+ JA1X1S122334185A4  Accord       2011  23098  24089  Lynch, Christian        Mon, Aug 23, 2011       D05-05-02 
+ JA1X3SU25334296B6  Accord       2011  24048  25089  Lynch, Christian        Wed, Aug 25, 2011       D05-05-02 
+ JB127S134334185A8  Civic        2011  14854  16655  Marshall, Donna         Tue, Aug 24, 2011       D05-05-05 
+ JH152SU1133471B4X  Odyssey      2011  28917  30375  Snyder, Norma           Wed, Aug 25, 2011       D05-05-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC134F310YX582C35  CR-V        2008  20904  31995  Neal, Douglas           Wed, Aug 25, 2011       D05-05-06 
+ JG148F1191326XA17  Insight     2009  17560  24390  Marshall, Donna         Thu, Aug 26, 2011       D05-05-05 
+ JH155FU1AX165C9X9  Odyssey     2007  29372  47825  Marshall, Donna         Fri, Aug 20, 2011       D05-05-05 
+ JB122SU2614P296B1  Civic       2009  12665  17255  Foster, Leona           Tue, Aug 24, 2011       D05-05-07 
+ JB128SU38Y23X7493  Civic       2008  11337  17455  Snyder, Norma           Wed, Aug 25, 2011       D05-05-04 
+ JH155FU171X5296B5  Odyssey     2009  34434  47825  Marshall, Donna         Sat, Aug 21, 2011       D05-05-05 
+ JB123H159123X7497  Civic       2009  20258  27600  Lynch, Christian        Mon, Aug 23, 2011       D05-05-02 
+ JG148F113X19185A9  Insight     2007  14364  24390  Foster, Leona           Thu, Aug 26, 2011       D05-05-07 

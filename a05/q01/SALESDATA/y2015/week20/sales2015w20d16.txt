@@ -1,0 +1,64 @@
+Dealer Name: Quality Honda
+Address:     1624 Tupelo Road
+             Norbert, FL
+Dealer ID:   16
+Owner:       Simpson, Homer
+Date:        Wed, May 14, 2015 thru Tue, May 20, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X1S12872P4B2X2  Accord       2015  22944  24089  Murray, Gladys          Sat, May 17, 2015       D16-15-07 
+ JC133FU1272P71534  CR-V         2015  32661  33995  Hunter, Yolanda         Sat, May 17, 2015       D16-15-02 
+ JC131F11A72P82646  CR-V         2015  29389  30995  Freeman, Vickie         Fri, May 16, 2015       D16-15-05 
+ JE143FU1372P18CA8  Crosstour    2015  38214  40640  Gonzales, Harold        Wed, May 14, 2015       D16-15-03 
+ JH151F11972P7154X  Odyssey      2015  42274  44825  Daniels, Rhonda         Fri, May 16, 2015       D16-15-06 
+ JA1X3SU2472P4B212  Accord       2015  24903  25089  Rose, Ida               Sun, May 18, 2015       D16-15-08 
+ JH152SU1A72PX7BA4  Odyssey      2015  29137  30375  Cooper, Joanne          Tue, May 20, 2015       D16-15-01 
+ JA1X4FU2772P71546  Accord       2015  32342  34030  Daniels, Rhonda         Mon, May 19, 2015       D16-15-06 
+ JA1X3SU2172P5C328  Accord       2015  25296  25089  Daniels, Rhonda         Sun, May 18, 2015       D16-15-06 
+ JB121S12572P6X57X  Civic        2015  16876  16455  Rose, Ida               Tue, May 20, 2015       D16-15-08 
+ JH153FU1372P82792  Odyssey      2015  41316  45825  Gonzales, Harold        Sun, May 18, 2015       D16-15-03 
+ JH153FU1A72P4B354  Odyssey      2015  42489  45825  Rose, Ida               Wed, May 14, 2015       D16-15-08 
+ JD136F11272PX7C16  CR-Z         2015  24151  24705  Murray, Gladys          Mon, May 19, 2015       D16-15-07 
+ JB121S12172P71688  Civic        2015  15909  16455  Horton, Jon             Wed, May 14, 2015       D16-15-09 
+ JB127S13972P6X58X  Civic        2015  16979  16655  Cooper, Joanne          Fri, May 16, 2015       D16-15-01 
+ JB125G16872P71692  Civic        2015  26370  28505  Hunter, Yolanda         Fri, May 16, 2015       D16-15-02 
+ JB129S14472P71694  Civic        2015  21882  23055  Murray, Gladys          Fri, May 16, 2015       D16-15-07 
+ JB127S13372P827A6  Civic        2015  16535  16655  Freeman, Vickie         Sat, May 17, 2015       D16-15-05 
+ JA113SU3872P3A258  Accord       2015  22144  23480  Daniels, Rhonda         Sat, May 17, 2015       D16-15-06 
+ JB127S13272P18X4X  Civic        2015  16713  16655  Freeman, Vickie         Tue, May 20, 2015       D16-15-05 
+ JA117S33672P18X42  Accord       2015  23005  23480  Hunter, Yolanda         Thu, May 15, 2015       D16-15-02 
+ JB124HU5772P29154  Civic        2015  28491  28400  Hunter, Yolanda         Sat, May 17, 2015       D16-15-02 
+ JH153FU1272P3A266  Odyssey      2015  41316  45825  Gonzales, Harold        Sat, May 17, 2015       D16-15-03 
+ JH154SU1872P827B8  Odyssey      2015  31490  32375  Cooper, Joanne          Tue, May 20, 2015       D16-15-01 
+ JD136F11172P18X5X  CR-Z         2015  24151  24705  Horton, Jon             Mon, May 19, 2015       D16-15-09 
+ JB121S12172P3A272  Civic        2015  15558  16455  Murray, Gladys          Mon, May 19, 2015       D16-15-07 
+ JB121S12372P6X5A4  Civic        2015  15909  16455  Freeman, Vickie         Sun, May 18, 2015       D16-15-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU15421X7751  Odyssey     2004  30597  45825  Daniels, Rhonda         Sun, May 18, 2015       D16-15-06 
+ JH156S3114485CCA3  Odyssey     2004  19872  30375  Hunter, Yolanda         Fri, May 16, 2015       D16-15-02 
+ JH158S41A34P5CCA5  Odyssey     2003  25095  41375  Rose, Ida               Mon, May 19, 2015       D16-15-08 
+ JH156S31255PX7757  Odyssey     2005  22518  30375  Daniels, Rhonda         Wed, May 14, 2015       D16-15-06 
+ JH152SU19444822X9  Odyssey     2004  20430  30375  Murray, Gladys          Fri, May 16, 2015       D16-15-07 
+ JB121S12924P82211  Civic       2002  8757   16455  Horton, Jon             Tue, May 20, 2015       D16-15-09 
+ JB127S1372274BBA3  Civic       2002  8862   16655  Rose, Ida               Sun, May 18, 2015       D16-15-08 
+ JH153FU124274BBA5  Odyssey     2004  29760  45825  Gonzales, Harold        Wed, May 14, 2015       D16-15-03 
+ JG148F1104X84BBA7  Insight     2004  16492  24390  Freeman, Vickie         Mon, May 19, 2015       D16-15-05 
+ JB127S13542118879  Civic       2004  11403  16655  Horton, Jon             Sat, May 17, 2015       D16-15-09 
+ JB121S12254882221  Civic       2005  12738  16455  Murray, Gladys          Wed, May 14, 2015       D16-15-07 
+ JJ161FU194123AAA3  Pilot       2004  28718  42970  Freeman, Vickie         Sun, May 18, 2015       D16-15-05 
+ JH153FU123333AAA5  Odyssey     2003  28690  45825  Daniels, Rhonda         Sun, May 18, 2015       D16-15-06 
+ JA115SU3751682227  Accord      2005  19362  25480  Horton, Jon             Thu, May 15, 2015       D16-15-09 
+ JC133FU124X6X7779  CR-V        2004  22812  33995  Freeman, Vickie         Fri, May 16, 2015       D16-15-05 
+ JB129S146252X7781  Civic       2002  11640  23055  Freeman, Vickie         Sat, May 17, 2015       D16-15-05 
+ JH153FU1222982233  Odyssey     2002  23025  45825  Murray, Gladys          Thu, May 15, 2015       D16-15-07 
+ JB127S1374X33AAB5  Civic       2004  11403  16655  Gonzales, Harold        Fri, May 16, 2015       D16-15-03 
+ JD137FU126226XX17  CR-Z        2006  21732  25705  Hunter, Yolanda         Sun, May 18, 2015       D16-15-02 
+ JB121S1264295CCX9  Civic       2004  11271  16455  Freeman, Vickie         Tue, May 20, 2015       D16-15-05 
+ JD137FU1A433188A1  CR-Z        2004  17358  25705  Hunter, Yolanda         Sun, May 18, 2015       D16-15-02 
+ JB127S130317188A3  Civic       2003  10605  16655  Gonzales, Harold        Mon, May 19, 2015       D16-15-03 

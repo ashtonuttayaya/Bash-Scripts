@@ -1,0 +1,71 @@
+Dealer Name: Lance Honda
+Address:     1136 Brooklin Ave
+             Norbert, FL
+Dealer ID:   17
+Owner:       Lance, Samuel
+Date:        Wed, Nov  5, 2015 thru Tue, Nov 11, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F116745716B6  CR-V         2015  30192  30995  Hansen, Ralph           Fri, Nov  7, 2015       D17-16-09 
+ JC133FU14745X7C48  CR-V         2015  34066  33995  Herrera, Nina           Sun, Nov  9, 2015       D17-16-03 
+ JC134F3107456X5BX  CR-V         2015  31960  31995  Herrera, Nina           Fri, Nov  7, 2015       D17-16-03 
+ JB127S1357456X5B2  Civic        2015  16357  16655  Herrera, Nina           Sun, Nov  9, 2015       D17-16-03 
+ JB121S1267454B394  Civic        2015  16437  16455  Baker, Lynn             Tue, Nov 11, 2015       D17-16-08 
+ JA1X1S124745X7C56  Accord       2015  24331  24089  Baker, Lynn             Sun, Nov  9, 2015       D17-16-08 
+ JA1X5SU20745827X8  Accord       2015  27085  27089  Medina, Emily           Sun, Nov  9, 2015       D17-16-07 
+ JA116FU327454B3AX  Accord       2015  35758  35930  Lambert, Anita          Sun, Nov  9, 2015       D17-16-01 
+ JD136F1147455C4B2  CR-Z         2015  23763  24705  Rodriguez, Mathew       Sat, Nov  8, 2015       D17-16-06 
+ JA117S3387454B3A4  Accord       2015  22267  23480  Baker, Lynn             Thu, Nov  6, 2015       D17-16-08 
+ JC131F11274518X76  CR-V         2015  30032  30995  Lambert, Anita          Sat, Nov  8, 2015       D17-16-01 
+ JH156S3147453A298  Odyssey      2015  28665  30375  West, Sally             Thu, Nov  6, 2015       D17-16-04 
+ JE141F1167453A2AX  Crosstour    2015  35276  37640  Hansen, Ralph           Tue, Nov 11, 2015       D17-16-09 
+ JA1X7S32574571612  Accord       2015  23461  25089  Rodriguez, Mathew       Fri, Nov  7, 2015       D17-16-06 
+ JB129S14474571614  Civic        2015  22608  23055  Herrera, Nina           Mon, Nov 10, 2015       D17-16-03 
+ JG148F11974571616  Insight      2015  24111  24390  Lambert, Anita          Sat, Nov  8, 2015       D17-16-01 
+ JC132FU127455C4C8  CR-V         2015  30304  31995  Rodriguez, Mathew       Sat, Nov  8, 2015       D17-16-06 
+ JB121S128745X7C8X  Civic        2015  15909  16455  Lambert, Anita          Sat, Nov  8, 2015       D17-16-01 
+ JD139F310745X7C82  CR-Z         2015  25890  25705  Herrera, Nina           Sat, Nov  8, 2015       D17-16-03 
+ JJ16AF111745291A4  Pilot        2015  39647  41970  West, Sally             Thu, Nov  6, 2015       D17-16-04 
+ JB121S121745291A6  Civic        2015  15997  16455  Cole, Peter             Wed, Nov  5, 2015       D17-16-02 
+ JA112F1337453A2B8  Accord       2015  33033  32930  Lambert, Anita          Fri, Nov  7, 2015       D17-16-01 
+ JC133FU11745291BX  CR-V         2015  33539  33995  Lambert, Anita          Mon, Nov 10, 2015       D17-16-01 
+ JA1X7S3267455C412  Accord       2015  25427  25089  Lambert, Anita          Wed, Nov  5, 2015       D17-16-01 
+ JB127S1377453A2C4  Civic        2015  16802  16655  West, Sally             Sun, Nov  9, 2015       D17-16-04 
+ JB129S146745X7C96  Civic        2015  23333  23055  Morris, Bobbie          Tue, Nov 11, 2015       D17-16-05 
+ JB129S14774571638  Civic        2015  21641  23055  Hansen, Ralph           Tue, Nov 11, 2015       D17-16-09 
+ JJ162FU127454B31X  Pilot        2015  41485  44970  Hansen, Ralph           Tue, Nov 11, 2015       D17-16-09 
+ JC134F317745291C2  CR-V         2015  29808  31995  Hansen, Ralph           Mon, Nov 10, 2015       D17-16-09 
+ JB121S1207456X534  Civic        2015  16085  16455  Lambert, Anita          Tue, Nov 11, 2015       D17-16-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1155315CC15  Insight     2005  18562  24390  Baker, Lynn             Mon, Nov 10, 2015       D17-16-08 
+ JH152SU165X64BBX7  Odyssey     2005  22955  30375  Lambert, Anita          Thu, Nov  6, 2015       D17-16-01 
+ JJ162FU154X43AAC9  Pilot       2004  30034  44970  West, Sally             Fri, Nov  7, 2015       D17-16-04 
+ JD136F117444188B1  CR-Z        2004  16700  24705  Rodriguez, Mathew       Tue, Nov 11, 2015       D17-16-06 
+ JH15AS11543P3AAX3  Odyssey     2004  19232  29375  West, Sally             Fri, Nov  7, 2015       D17-16-04 
+ JB127S133436188B5  Civic       2004  11091  16655  Hansen, Ralph           Tue, Nov 11, 2015       D17-16-09 
+ JH151F1163266XX37  Odyssey     2003  27165  44825  Rodriguez, Mathew       Sat, Nov  8, 2015       D17-16-06 
+ JH152SU191443AAX9  Odyssey     2001  12150  30375  Herrera, Nina           Sun, Nov  9, 2015       D17-16-03 
+ JH151F11A3244BC51  Odyssey     2003  27165  44825  Lambert, Anita          Thu, Nov  6, 2015       D17-16-01 
+ JB121S12823P4BC53  Civic       2002  8757   16455  Herrera, Nina           Mon, Nov 10, 2015       D17-16-03 
+ JE142FU1441629A35  Crosstour   2004  25869  38640  Morris, Bobbie          Tue, Nov 11, 2015       D17-16-05 
+ JH155FU143483AB47  Odyssey     2003  28965  47825  Baker, Lynn             Sat, Nov  8, 2015       D17-16-08 
+ JK165F11A2X382399  Ridgeline   2002  24661  46750  Lambert, Anita          Sat, Nov  8, 2015       D17-16-01 
+ JH154SU13445X7821  Odyssey     2004  21152  32375  Lambert, Anita          Sat, Nov  8, 2015       D17-16-01 
+ JH151F111644X7823  Odyssey     2006  36300  44825  Morris, Bobbie          Tue, Nov 11, 2015       D17-16-05 
+ JH15AS118532823A5  Odyssey     2005  22221  29375  Baker, Lynn             Mon, Nov 10, 2015       D17-16-08 
+ JE143FU134456X187  Crosstour   2004  26441  40640  Lambert, Anita          Wed, Nov  5, 2015       D17-16-01 
+ JD136F1165X16X189  CR-Z        2005  18435  24705  Baker, Lynn             Sat, Nov  8, 2015       D17-16-08 
+ JH152SU126X4823B1  Odyssey     2006  25200  30375  Rodriguez, Mathew       Sat, Nov  8, 2015       D17-16-06 
+ JH153FU143216X193  Odyssey     2003  28690  45825  Morris, Bobbie          Mon, Nov 10, 2015       D17-16-05 
+ JK167FU1345P823B5  Ridgeline   2004  32272  49750  Lambert, Anita          Sat, Nov  8, 2015       D17-16-01 
+ JE143FU143274BC77  Crosstour   2003  25475  40640  Morris, Bobbie          Thu, Nov  6, 2015       D17-16-05 
+ JH152SU115125CX89  Odyssey     2005  22518  30375  Medina, Emily           Sat, Nov  8, 2015       D17-16-07 
+ JH151F110438712B1  Odyssey     2004  29939  44825  Rodriguez, Mathew       Sun, Nov  9, 2015       D17-16-06 
+ JH153FU102333AB73  Odyssey     2002  23025  45825  Hansen, Ralph           Mon, Nov 10, 2015       D17-16-09 
+ JD137FU193476X1A5  CR-Z        2003  16216  25705  Morris, Bobbie          Sun, Nov  9, 2015       D17-16-05 

@@ -1,0 +1,55 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Mon, Mar 26, 2013 thru Sun, Apr  1, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ16AF1135134C9X6  Pilot        2013  40299  41970  Rodriguez, Leonard      Sat, Mar 31, 2013       D29-25-01 
+ JA1X3SU26513196A8  Accord       2013  24218  25089  Coleman, Arnold         Fri, Mar 30, 2013       D29-25-05 
+ JH157F31A51383X5X  Odyssey      2013  43245  45825  Lawson, Carolyn         Fri, Mar 30, 2013       D29-25-02 
+ JA112F1365135XA22  Accord       2013  32428  32930  Rodriguez, Leonard      Sun, Apr  1, 2013       D29-25-01 
+ JB127S1385135XA24  Civic        2013  15337  16655  Coleman, Arnold         Thu, Mar 29, 2013       D29-25-05 
+ JC131F1135135XA26  CR-V         2013  29769  30995  Graham, Sheila          Fri, Mar 30, 2013       D29-25-03 
+ JB121S121513X85A8  Civic        2013  15417  16455  Graham, Sheila          Fri, Mar 30, 2013       D29-25-03 
+ JA1X1S12A5133B94X  Accord       2013  23897  24089  Coleman, Arnold         Tue, Mar 27, 2013       D29-25-05 
+ JC131F1105132A832  CR-V         2013  29611  30995  Rodriguez, Leonard      Fri, Mar 30, 2013       D29-25-01 
+ JD139F31A513X8614  CR-Z         2013  24005  25705  Graham, Sheila          Sun, Apr  1, 2013       D29-25-03 
+ JC133FU175133B946  CR-V         2013  31896  33995  Graham, Sheila          Mon, Mar 26, 2013       D29-25-03 
+ JB127S13A5134CA58  Civic        2013  16463  16655  Walker, Roland          Sun, Apr  1, 2013       D29-25-04 
+ JB121S12A5134CA6X  Civic        2013  15930  16455  Rodriguez, Leonard      Sat, Mar 31, 2013       D29-25-01 
+ JB127S13651319732  Civic        2013  16030  16655  Rodriguez, Leonard      Sat, Mar 31, 2013       D29-25-01 
+ JC133FU1A5134CA64  CR-V         2013  31203  33995  Graham, Sheila          Thu, Mar 29, 2013       D29-25-03 
+ JA112F13551319736  Accord       2013  31084  32930  Graham, Sheila          Fri, Mar 30, 2013       D29-25-03 
+ JA1X3SU2551319738  Accord       2013  24991  25089  Graham, Sheila          Tue, Mar 27, 2013       D29-25-03 
+ JB121S129513X863X  Civic        2013  16359  16455  Lawson, Carolyn         Wed, Mar 28, 2013       D29-25-02 
+ JE142FU19513X8632  Crosstour    2013  35186  38640  Coleman, Arnold         Sat, Mar 31, 2013       D29-25-05 
+ JB127S1385135XB84  Civic        2013  16116  16655  Lawson, Carolyn         Sun, Apr  1, 2013       D29-25-02 
+ JB127S1315135XB86  Civic        2013  15856  16655  Lawson, Carolyn         Thu, Mar 29, 2013       D29-25-02 
+ JB121S120513X8638  Civic        2013  15160  16455  Walker, Roland          Sun, Apr  1, 2013       D29-25-04 
+ JG148F11A5133B97X  Insight      2013  23561  24390  Lawson, Carolyn         Sat, Mar 31, 2013       D29-25-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE142FU121213A151  Crosstour   2009  34969  38640  Lawson, Carolyn         Tue, Mar 27, 2013       D29-25-02 
+ JH155FU112455C373  Odyssey     2010  31616  47825  Rodriguez, Leonard      Wed, Mar 28, 2013       D29-25-01 
+ JB129S144X3129X45  Civic       2007  9720   23055  Coleman, Arnold         Thu, Mar 29, 2013       D29-25-05 
+ JH152SU151354B267  Odyssey     2009  18225  30375  Lucas, Jose             Sat, Mar 31, 2013       D29-25-06 
+ JG148F11A4466X489  Insight     2012  20302  24390  Lucas, Jose             Sat, Mar 31, 2013       D29-25-06 
+ JH15AS117112826B1  Odyssey     2009  17625  29375  Lawson, Carolyn         Tue, Mar 27, 2013       D29-25-02 
+ JC132FU152X26X493  CR-V        2010  21200  31995  Coleman, Arnold         Sat, Mar 31, 2013       D29-25-05 
+ JC134F317249715A5  CR-V        2010  21200  31995  Graham, Sheila          Mon, Mar 26, 2013       D29-25-03 
+ JH155FU10434826B7  Odyssey     2012  39285  47825  Rodriguez, Leonard      Fri, Mar 30, 2013       D29-25-01 
+ JE142FU19X3PX7B39  Crosstour   2007  34371  38640  Lucas, Jose             Wed, Mar 28, 2013       D29-25-06 
+ JC132FU1AXX56X4A1  CR-V        2007  13564  31995  Graham, Sheila          Sat, Mar 31, 2013       D29-25-03 
+ JC131F111212826C3  CR-V        2010  20542  30995  Coleman, Arnold         Tue, Mar 27, 2013       D29-25-05 
+ JE145F415214826C5  Crosstour   2010  30837  46640  Walker, Roland          Wed, Mar 28, 2013       D29-25-04 
+ JJ162FU1012729X67  Pilot       2009  26982  44970  Graham, Sheila          Sun, Apr  1, 2013       D29-25-03 
+ JH158S4141X929X69  Odyssey     2009  24825  41375  Coleman, Arnold         Sun, Apr  1, 2013       D29-25-05 
+ JD136F11211P18C61  CR-Z        2009  14823  24705  Rodriguez, Leonard      Thu, Mar 29, 2013       D29-25-01 
+ JH154SU1322718C63  Odyssey     2010  20864  32375  Lawson, Carolyn         Wed, Mar 28, 2013       D29-25-02 

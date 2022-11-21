@@ -1,0 +1,49 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Mon, Dec 24, 2013 thru Mon, Dec 31, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA113SU3255261B72  Accord       2013  21377  23480  Howard, Samantha        Tue, Dec 25, 2013       D27-24-05 
+ JB121S12955283X94  Civic        2013  15759  16455  Shelton, Regina         Tue, Dec 25, 2013       D27-24-02 
+ JE141F1105523B846  Crosstour    2013  34483  37640  Shelton, Regina         Sat, Dec 29, 2013       D27-24-02 
+ JB127S1395522A738  Civic        2013  16030  16655  Hill, Rita              Sat, Dec 29, 2013       D27-24-01 
+ JD137FU155522A74X  CR-Z         2013  23873  25705  Hill, Rita              Sat, Dec 29, 2013       D27-24-01 
+ JH153FU12552X8522  Odyssey      2013  43245  45825  Perkins, Pearl          Wed, Dec 26, 2013       D27-24-03 
+ JB129S14155272C94  Civic        2013  22662  23055  Perkins, Pearl          Fri, Dec 28, 2013       D27-24-03 
+ JC131F1125524C966  CR-V         2013  30403  30995  Scott, Samuel           Wed, Dec 26, 2013       D27-24-06 
+ JB127S1345524C968  Civic        2013  15943  16655  Hill, Rita              Fri, Dec 28, 2013       D27-24-01 
+ JA1X3SU2455283XBX  Accord       2013  23960  25089  Howard, Samantha        Thu, Dec 27, 2013       D27-24-05 
+ JB121S129552X8532  Civic        2013  16530  16455  Howard, Samantha        Sat, Dec 29, 2013       D27-24-05 
+ JA1X1S12955272CA4  Accord       2013  23897  24089  Scott, Samuel           Fri, Dec 28, 2013       D27-24-06 
+ JH15AS1125522A756  Odyssey      2013  28697  29375  Shelton, Regina         Sun, Dec 30, 2013       D27-24-02 
+ JA111S1385523B868  Accord       2013  20839  22480  Wright, Marion          Fri, Dec 28, 2013       D27-24-04 
+ JC133FU1355283XCX  CR-V         2013  32069  33995  Scott, Samuel           Tue, Dec 25, 2013       D27-24-06 
+ JD138FU155522A762  CR-Z         2013  27244  27705  Scott, Samuel           Thu, Dec 27, 2013       D27-24-06 
+ JB121S125552X8544  Civic        2013  15417  16455  Scott, Samuel           Fri, Dec 28, 2013       D27-24-06 
+ JA1X1S12255283XC6  Accord       2013  21916  24089  Wright, Marion          Thu, Dec 27, 2013       D27-24-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU14Y346X389  Odyssey     2008  24990  47825  Wright, Marion          Fri, Dec 28, 2013       D27-24-04 
+ JJ161FU1A348714A1  Pilot       2011  31262  42970  Hill, Rita              Fri, Dec 28, 2013       D27-24-01 
+ JG148F1193136X393  Insight     2011  17884  24390  Perkins, Pearl          Wed, Dec 26, 2013       D27-24-03 
+ JH154SU19149X7A35  Odyssey     2009  20072  32375  Hill, Rita              Sun, Dec 30, 2013       D27-24-01 
+ JH151F11544129C57  Odyssey     2012  36855  44825  Scott, Samuel           Wed, Dec 26, 2013       D27-24-06 
+ JK169F4144X23AX69  Ridgeline   2012  46945  58750  Howard, Samantha        Mon, Dec 24, 2013       D27-24-05 
+ JE141F1134X85C291  Crosstour   2012  30652  37640  Hill, Rita              Wed, Dec 26, 2013       D27-24-01 
+ JG148F1171X56X3A3  Insight     2009  15121  24390  Perkins, Pearl          Tue, Dec 25, 2013       D27-24-03 
+ JA114FU332X718B55  Accord      2010  22473  33930  Shelton, Regina         Sun, Dec 30, 2013       D27-24-02 
+ JC131F1162176X3A7  CR-V        2010  20542  30995  Wright, Marion          Mon, Dec 24, 2013       D27-24-04 
+ JB129S149X2118B59  Civic       2007  9720   23055  Perkins, Pearl          Tue, Dec 25, 2013       D27-24-03 
+ JD139F3144385C2A1  CR-Z        2012  21367  25705  Howard, Samantha        Wed, Dec 26, 2013       D27-24-05 
+ JH159F417Y266X3B3  Odyssey     2008  29715  56825  Shelton, Regina         Sun, Dec 30, 2013       D27-24-02 
+ JD136F11AX264B195  CR-Z        2007  10429  24705  Howard, Samantha        Tue, Dec 25, 2013       D27-24-05 
+ JH155FU1A2234B197  Odyssey     2010  30752  47825  Wright, Marion          Thu, Dec 27, 2013       D27-24-04 
+ JH153FU15Y34714C9  Odyssey     2008  23940  45825  Perkins, Pearl          Tue, Dec 25, 2013       D27-24-03 

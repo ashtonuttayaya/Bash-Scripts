@@ -1,0 +1,48 @@
+Dealer Name: Bill Travers Honda
+Address:     7043 George Parson Highway
+             Grand Traverse, AL
+Dealer ID:   21
+Owner:       Travers, Bill
+Date:        Sat, Sep  2, 2012 thru Fri, Sep  8, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S135436X7B14  Civic        2012  16078  16655  King, Gwendolyn         Thu, Sep  7, 2012       D21-19-04 
+ JA111S1344366X476  Accord       2012  21554  22480  Powell, Jerome          Fri, Sep  8, 2012       D21-19-03 
+ JC133FU194364B258  CR-V         2012  30656  33995  Washington, Franklin    Mon, Sep  4, 2012       D21-19-06 
+ JD139F31243618C3X  CR-Z         2012  23408  25705  Evans, Dennis           Thu, Sep  7, 2012       D21-19-05 
+ JD136F1164363A152  CR-Z         2012  24400  24705  Oliver, Melanie         Sun, Sep  3, 2012       D21-19-02 
+ JC132FU174366X484  CR-V         2012  30011  31995  Evans, Dennis           Thu, Sep  7, 2012       D21-19-05 
+ JB128SU3943618C36  Civic        2012  17009  17455  Evans, Dennis           Sat, Sep  2, 2012       D21-19-05 
+ JA111S1344364B268  Accord       2012  21439  22480  Evans, Dennis           Mon, Sep  4, 2012       D21-19-05 
+ JB127S1344366X49X  Civic        2012  16420  16655  King, Gwendolyn         Thu, Sep  7, 2012       D21-19-04 
+ JB121S1244365C382  Civic        2012  15129  16455  King, Gwendolyn         Tue, Sep  5, 2012       D21-19-04 
+ JB128SU34436826B4  Civic        2012  17099  17455  Evans, Dennis           Fri, Sep  8, 2012       D21-19-05 
+ JB121S1254364B276  Civic        2012  15045  16455  Simpson, Georgia        Thu, Sep  7, 2012       D21-19-08 
+ JA1X3SU244365C388  Accord       2012  24262  25089  Powell, Jerome          Mon, Sep  4, 2012       D21-19-03 
+ JB128SU314366X4AX  Civic        2012  17367  17455  Carroll, Glenn          Sun, Sep  3, 2012       D21-19-01 
+ JB128SU344363A172  Civic        2012  16741  17455  West, Ashley            Sat, Sep  2, 2012       D21-19-07 
+ JA1X1S1244363A174  Accord       2012  23434  24089  West, Ashley            Tue, Sep  5, 2012       D21-19-07 
+ JA1X7S3214366X4A6  Accord       2012  24262  25089  Carroll, Glenn          Sat, Sep  2, 2012       D21-19-01 
+ JH152SU154366X4A8  Odyssey      2012  29437  30375  Carroll, Glenn          Sat, Sep  2, 2012       D21-19-01 
+ JB127S13743629X7X  Civic        2012  15308  16655  Oliver, Melanie         Sat, Sep  2, 2012       D21-19-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S144X4129A73  Civic       2007  11867  23055  Oliver, Melanie         Fri, Sep  8, 2012       D21-19-02 
+ JD137FU1414229A75  CR-Z        2009  16913  25705  Oliver, Melanie         Sat, Sep  2, 2012       D21-19-02 
+ JG148F11715229A77  Insight     2009  15609  24390  Carroll, Glenn          Thu, Sep  7, 2012       D21-19-01 
+ JA118F3313155CXA9  Accord      2011  27847  33930  West, Ashley            Sun, Sep  3, 2012       D21-19-07 
+ JC134F31233182311  CR-V        2011  26280  31995  King, Gwendolyn         Sun, Sep  3, 2012       D21-19-04 
+ JH155FU1AY1129A83  Odyssey     2008  43078  47825  Powell, Jerome          Wed, Sep  6, 2012       D21-19-03 
+ JB127S13435P4BCA5  Civic       2011  13855  16655  Washington, Franklin    Mon, Sep  4, 2012       D21-19-06 
+ JC135F41512318977  CR-V        2009  25596  39995  Evans, Dennis           Fri, Sep  8, 2012       D21-19-05 
+ JG148F116Y166X1C9  Insight     2008  14982  24390  Evans, Dennis           Sat, Sep  2, 2012       D21-19-05 
+ JB129S1422166X1X1  Civic       2010  17087  23055  King, Gwendolyn         Wed, Sep  6, 2012       D21-19-04 
+ JH152SU173356X1X3  Odyssey     2011  24968  30375  King, Gwendolyn         Sun, Sep  3, 2012       D21-19-04 
+ JG148F11812P82325  Insight     2009  15609  24390  Carroll, Glenn          Sun, Sep  3, 2012       D21-19-01 
+ JH153FU1513371217  Odyssey     2009  30152  45825  West, Ashley            Wed, Sep  6, 2012       D21-19-07 
+ JH159F4112X9X7879  Odyssey     2010  41076  56825  Carroll, Glenn          Mon, Sep  4, 2012       D21-19-01 

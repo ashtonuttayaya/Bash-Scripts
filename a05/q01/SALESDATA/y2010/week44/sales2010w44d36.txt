@@ -1,0 +1,40 @@
+Dealer Name: Zeigler Honda
+Address:     2940 Davison Highway
+             Sawyer, TN
+Dealer ID:   36
+Owner:       Zeigler, Martin
+Date:        Thu, Oct 29, 2010 thru Wed, Nov  4, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ162FU192444C9C8  Pilot        2010  39573  44970  Fleming, Larry          Thu, Oct 29, 2010       D36-32-05 
+ JB122SU2724461B2X  Civic        2010  15184  17255  Gonzales, Brian         Sun, Nov  1, 2010       D36-32-03 
+ JA1X1S12924483X42  Accord       2010  23245  24089  Fleming, Larry          Thu, Oct 29, 2010       D36-32-05 
+ JH153FU1924461B24  Odyssey      2010  41013  45825  Washington, Jerry       Sun, Nov  1, 2010       D36-32-01 
+ JB127S134244X8596  Civic        2010  15988  16655  Gonzales, Brian         Sat, Oct 31, 2010       D36-32-03 
+ JG148F11124483X48  Insight      2010  21951  24390  Webb, Hector            Sun, Nov  1, 2010       D36-32-02 
+ JC131F116244X85AX  CR-V         2010  28515  30995  Gonzales, Brian         Sun, Nov  1, 2010       D36-32-03 
+ JB127S133244196B2  Civic        2010  15738  16655  Carr, Linda             Tue, Nov  3, 2010       D36-32-04 
+ JG148F116244X85A4  Insight      2010  23292  24390  Washington, Jerry       Wed, Nov  4, 2010       D36-32-01 
+ JB121S121244X85A6  Civic        2010  15796  16455  Washington, Jerry       Fri, Oct 30, 2010       D36-32-01 
+ JB127S134244196B8  Civic        2010  15905  16655  Webb, Hector            Fri, Oct 30, 2010       D36-32-02 
+ JK165F1152444CA5X  Ridgeline    2010  43711  46750  Fleming, Larry          Sun, Nov  1, 2010       D36-32-05 
+ JA1X3SU2324483192  Accord       2010  24210  25089  Gonzales, Brian         Sat, Oct 31, 2010       D36-32-03 
+ JA111S13A244X8614  Accord       2010  20681  22480  Webb, Hector            Wed, Nov  4, 2010       D36-32-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S133W523B651  Accord      2006  13519  22480  Washington, Jerry       Wed, Nov  4, 2010       D36-32-01 
+ JE141F114W1883BA3  Crosstour   2006  22179  37640  Carr, Linda             Fri, Oct 30, 2010       D36-32-04 
+ JD136F1131242A545  CR-Z        2009  19764  24705  Webb, Hector            Sat, Oct 31, 2010       D36-32-02 
+ JE141F112W154C767  Crosstour   2006  22179  37640  Washington, Jerry       Sat, Oct 31, 2010       D36-32-01 
+ JD136F115X5P19439  CR-Z        2007  15959  24705  Washington, Jerry       Sat, Oct 31, 2010       D36-32-01 
+ JK166FU12X415X881  Ridgeline   2007  31123  47750  Armstrong, Amber        Sun, Nov  1, 2010       D36-32-06 
+ JH154SU17X343B663  Odyssey     2007  20432  32375  Fleming, Larry          Sat, Oct 31, 2010       D36-32-05 
+ JG148F111X385X885  Insight     2007  15752  24390  Washington, Jerry       Mon, Nov  2, 2010       D36-32-01 
+ JH157F318Y3783BB7  Odyssey     2008  32193  45825  Washington, Jerry       Sun, Nov  1, 2010       D36-32-01 
+ JB128SU361X32A559  Civic       2009  14138  17455  Fleming, Larry          Thu, Oct 29, 2010       D36-32-05 
+ JB127S13A21P19451  Civic        2010  15192  16655  Armstrong, Amber        Thu, Oct 29, 2010       D36-32-06 

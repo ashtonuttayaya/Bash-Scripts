@@ -1,0 +1,8 @@
+checking script performance
+           OK - terminal output when all files exist                                        chxq09-A1
+           OK - terminal output when some files missing                                     chxq09-B1
+           OK - headers.txt created                                                         chxq09-C1
+           OK - headers.txt content for valid files                                         chxq09-D1
+           OK - teminal ouput when all files missing                                        chxq09-E1
+           OK - headers.txt content when all files missing                                  chxq09-F1
+

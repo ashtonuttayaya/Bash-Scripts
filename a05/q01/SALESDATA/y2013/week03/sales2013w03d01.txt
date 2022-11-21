@@ -1,0 +1,56 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Mon, Jan 15, 2013 thru Sun, Jan 21, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X6FU245X33A648  Accord       2013  35053  36030  Russell, Connie         Fri, Jan 19, 2013       D01-01-01 
+ JG148F1125X3X732X  Insight      2013  24062  24390  King, Michelle          Fri, Jan 19, 2013       D01-01-03 
+ JA111S13A5X34B762  Accord       2013  22344  22480  Wood, Lloyd             Sun, Jan 21, 2013       D01-01-04 
+ JB121S1295X3X7324  Civic        2013  15331  16455  Ryan, Margie            Sat, Jan 20, 2013       D01-01-06 
+ JD136F11A5X3X7326  CR-Z         2013  23095  24705  Russell, Connie         Fri, Jan 19, 2013       D01-01-01 
+ JC131F1155X382BA8  CR-V         2013  29928  30995  Ryan, Margie            Thu, Jan 18, 2013       D01-01-06 
+ JC131F1125X36X99X  CR-V         2013  28978  30995  Jennings, Terry         Tue, Jan 16, 2013       D01-01-02 
+ JE141F1165X318442  Crosstour    2013  34483  37640  King, Michelle          Wed, Jan 17, 2013       D01-01-03 
+ JH159F4165X382BB4  Odyssey      2013  52037  56825  Harper, Freddie         Wed, Jan 17, 2013       D01-01-05 
+ JB127S1345X318446  Civic        2013  16463  16655  King, Michelle          Sun, Jan 21, 2013       D01-01-03 
+ JB127S13A5X371AA8  Civic        2013  16030  16655  Ryan, Margie            Fri, Jan 19, 2013       D01-01-06 
+ JA1X4FU265X35C89X  Accord       2013  32275  34030  Russell, Connie         Mon, Jan 15, 2013       D01-01-01 
+ JB127S13A5X36X9A2  Civic        2013  16636  16655  King, Michelle          Fri, Jan 19, 2013       D01-01-03 
+ JB121S1245X33A674  Civic        2013  16016  16455  King, Michelle          Thu, Jan 18, 2013       D01-01-03 
+ JB127S1395X3X7346  Civic        2013  16463  16655  King, Michelle          Tue, Jan 16, 2013       D01-01-03 
+ JB121S1215X3X7348  Civic        2013  15588  16455  Jennings, Terry         Wed, Jan 17, 2013       D01-01-02 
+ JA115SU355X32957X  Accord       2013  23408  25480  Harper, Freddie         Wed, Jan 17, 2013       D01-01-05 
+ JC131F1125X34B792  CR-V         2013  29136  30995  Wood, Lloyd             Tue, Jan 16, 2013       D01-01-04 
+ JH154SU165X371AC4  Odyssey      2013  29249  32375  King, Michelle          Sat, Jan 20, 2013       D01-01-03 
+ JA1X1S1215X329576  Accord       2013  22906  24089  King, Michelle          Thu, Jan 18, 2013       D01-01-03 
+ JH153FU195X318468  Odyssey      2013  43710  45825  King, Michelle          Sat, Jan 20, 2013       D01-01-03 
+ JC134F3125X33A69X  CR-V         2013  30219  31995  Jennings, Terry         Sat, Jan 20, 2013       D01-01-02 
+ JB121S1215X382B12  Civic        2013  16187  16455  Russell, Connie         Wed, Jan 17, 2013       D01-01-01 
+ JB129S1455X371AX4  Civic        2013  22306  23055  Wood, Lloyd             Sun, Jan 21, 2013       D01-01-04 
+ JG148F1115X3X7366  Insight      2013  23310  24390  King, Michelle          Wed, Jan 17, 2013       D01-01-03 
+ JE143FU185X35C8B8  Crosstour    2013  38422  40640  Russell, Connie         Tue, Jan 16, 2013       D01-01-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1291X25C869  Civic       2009  10202  16455  Ryan, Margie            Tue, Jan 16, 2013       D01-01-06 
+ JA115SU34Y294B761  Accord      2008  13258  25480  Jennings, Terry         Mon, Jan 15, 2013       D01-01-02 
+ JE141F1141345C873  Crosstour   2009  22584  37640  Wood, Lloyd             Thu, Jan 18, 2013       D01-01-04 
+ JH155FU112155C875  Odyssey     2010  30752  47825  Ryan, Margie            Thu, Jan 18, 2013       D01-01-06 
+ JG148F1112X182BA7  Insight     2010  16196  24390  Harper, Freddie         Sun, Jan 21, 2013       D01-01-05 
+ JB129S1471X86X989  Civic       2009  14294  23055  Jennings, Terry         Tue, Jan 16, 2013       D01-01-02 
+ JB127S1344386X991  Civic       2012  14037  16655  King, Michelle          Thu, Jan 18, 2013       D01-01-03 
+ JJ163F3112276X993  Pilot       2010  27644  42970  Harper, Freddie         Wed, Jan 17, 2013       D01-01-05 
+ JB127S1392X63A665  Civic       2010  11107  16655  Russell, Connie         Wed, Jan 17, 2013       D01-01-01 
+ JH157F3172X64B777  Odyssey     2010  30300  45825  Ryan, Margie            Wed, Jan 17, 2013       D01-01-06 
+ JG148F119YX55C889  Insight     2008  12082  24390  Russell, Connie         Sat, Jan 20, 2013       D01-01-01 
+ JB127S131X3982BC1  Civic       2007  6968   16655  Russell, Connie         Fri, Jan 19, 2013       D01-01-01 
+ JH153FU1033618453  Odyssey     2011  33318  45825  Harper, Freddie         Thu, Jan 18, 2013       D01-01-05 
+ JC134F31123218455  CR-V        2010  20620  31995  Harper, Freddie         Thu, Jan 18, 2013       D01-01-05 
+ JD136F1141X282BC7  CR-Z        2009  15317  24705  Russell, Connie         Thu, Jan 18, 2013       D01-01-01 

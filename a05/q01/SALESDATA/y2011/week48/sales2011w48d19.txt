@@ -1,0 +1,24 @@
+Dealer Name: Thomas Team Honda
+Address:     2825 Kline Ave
+             Grayland, TN
+Dealer ID:   19
+Owner:       Thomas, Phil
+Date:        Fri, Nov 26, 2011 thru Thu, Dec  2, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU183485C2AX  CR-V         2011  31311  33995  Rodriguez, Marc         Fri, Nov 26, 2011       D19-18-02 
+ JH15AS11734829C72  Odyssey      2011  27084  29375  Graham, Keith           Thu, Dec  2, 2011       D19-18-06 
+ JE141F1153484B194  Crosstour    2011  35214  37640  Rodriguez, Marc         Sun, Nov 28, 2011       D19-18-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ163F31032P3AB93  Pilot        2011  39078  42970  Rodriguez, Marc         Sat, Nov 27, 2011       D19-18-02 
+ JJ161FU11W4782315  Pilot       2006  22204  42970  Hughes, Hazel           Sun, Nov 28, 2011       D19-18-01 
+ JH151F116YX282317  Odyssey     2008  28544  44825  Graham, Keith           Sat, Nov 27, 2011       D19-18-06 
+ JH152SU16Y3329A89  Odyssey     2008  19838  30375  Sanchez, Walter         Fri, Nov 26, 2011       D19-18-08 
+ JG148F11A139X7871  Insight     2009  17902  24390  Daniels, Ernest         Tue, Nov 30, 2011       D19-18-04 
+ JA117S33332829A93  Accord       2011  21656  23480  Rodriguez, Marc         Wed, Dec  1, 2011       D19-18-02 

@@ -1,0 +1,15 @@
+USE sales;
+SELECT agent_id FROM agents WHERE fname='Roland' and lname='Walker';
+SELECT name FROM dealers INNER JOIN agents ON agents.dealer_id = dealers.dealer_id WHERE agents.fname='Roland' AND agents.lname='Walker';
+SELECT COUNT(*) FROM sales_2010 INNER JOIN agents ON agents.agent_id = sales_2010.agent_id WHERE agents.fname='Roland' and agents.lname='Walker';
+SELECT COUNT(*) FROM sales_2011 INNER JOIN agents ON agents.agent_id = sales_2011.agent_id WHERE agents.fname='Roland' and agents.lname='Walker';
+SELECT COUNT(*) FROM sales_2012 INNER JOIN agents ON agents.agent_id = sales_2012.agent_id WHERE agents.fname='Roland' and agents.lname='Walker';
+SELECT COUNT(*) FROM sales_2013 INNER JOIN agents ON agents.agent_id = sales_2013.agent_id WHERE agents.fname='Roland' and agents.lname='Walker';
+SELECT COUNT(*) FROM sales_2014 INNER JOIN agents ON agents.agent_id = sales_2014.agent_id WHERE agents.fname='Roland' and agents.lname='Walker';
+SELECT COUNT(*) FROM sales_2015 INNER JOIN agents ON agents.agent_id = sales_2015.agent_id WHERE agents.fname='Roland' and agents.lname='Walker';
+SELECT COUNT(*) FROM sales_2010 INNER JOIN agents ON agents.agent_id = sales_2010.agent_id WHERE agents.fname='Roland' and agents.lname='Walker' and sales_type='new';
+SELECT COUNT(*) FROM sales_2011 INNER JOIN agents ON agents.agent_id = sales_2011.agent_id WHERE agents.fname='Roland' and agents.lname='Walker' and sales_type='new';
+SELECT COUNT(*) FROM sales_2012 INNER JOIN agents ON agents.agent_id = sales_2012.agent_id WHERE agents.fname='Roland' and agents.lname='Walker' and sales_type='new';
+SELECT COUNT(*) FROM sales_2013 INNER JOIN agents ON agents.agent_id = sales_2013.agent_id WHERE agents.fname='Roland' and agents.lname='Walker' and sales_type='new';
+SELECT COUNT(*) FROM sales_2014 INNER JOIN agents ON agents.agent_id = sales_2014.agent_id WHERE agents.fname='Roland' and agents.lname='Walker' and sales_type='new';
+SELECT COUNT(*) FROM sales_2015 INNER JOIN agents ON agents.agent_id = sales_2015.agent_id WHERE agents.fname='Roland' and agents.lname='Walker' and sales_type='new';

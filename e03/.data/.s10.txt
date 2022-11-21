@@ -1,0 +1,10 @@
+Examining Error Checking
+           OK - If title is not in database                                 chxq10-A1
+           OK - If no title was provided                                    chxq10-B1
+           OK - If title is found more than once                            chxq10-C1
+
+Checking functionality
+           OK - Single word titles located                                  chxq10-D1
+           OK - Multiple word titles located                                chxq10-E1
+           OK - Correct values returned                                     chxq10-F1
+

@@ -1,0 +1,14 @@
+STARTING ./pinger.sh
+      USER: n_autty
+      DATE: Wed Sep  8 20:20:37 EDT 2021
+      HOST: 192.168.60.50
+
+Scanning starting from vma40
+Scanning for vm at vma11.cci.local ...done with vma11.cci.local
+Scanning for vm at vma12.cci.local ...done with vma12.cci.local
+Scanning for vm at vma13.cci.local ...done with vma13.cci.local
+Scanning for vm at vma14.cci.local ...done with vma14.cci.local
+Scanning for vm at vma15.cci.local ...done with vma15.cci.local
+
+Scanning complete from vma40
+ENDING ./pinger.sh

@@ -1,0 +1,59 @@
+Dealer Name: Adams Honda
+Address:     4008 Lee Road
+             Louderdale, FL
+Dealer ID:   32
+Owner:       Adams, Jon
+Date:        Fri, May 28, 2011 thru Thu, Jun  3, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F11732261A32  Insight      2011  23384  24390  Hicks, Andre            Fri, May 28, 2011       D32-28-01 
+ JH151F1143224C814  Odyssey      2011  43248  44825  Freeman, Arthur         Fri, May 28, 2011       D32-28-05 
+ JH154SU1532261A36  Odyssey      2011  29666  32375  Bryant, Raul            Wed, Jun  2, 2011       D32-28-04 
+ JD138FU1632272B48  CR-Z         2011  27092  27705  Bryant, Raul            Sun, May 30, 2011       D32-28-04 
+ JH153FU143225XA6X  Odyssey      2011  41675  45825  Hicks, Andre            Tue, Jun  1, 2011       D32-28-01 
+ JD138FU193225XA62  CR-Z         2011  26393  27705  Freeman, Arthur         Mon, May 31, 2011       D32-28-05 
+ JB129S14A3225XA64  Civic        2011  21766  23055  Freeman, Arthur         Sat, May 29, 2011       D32-28-05 
+ JC132FU103224C956  CR-V         2011  28514  31995  Hicks, Andre            Fri, May 28, 2011       D32-28-01 
+ JA1X7S32632261B78  Accord       2011  23921  25089  Hicks, Andre            Thu, Jun  3, 2011       D32-28-01 
+ JB122SU2A3222A74X  Civic        2011  16256  17255  Bryant, Raul            Mon, May 31, 2011       D32-28-04 
+ JC133FU13322X8522  CR-V         2011  32166  33995  Hicks, Andre            Tue, Jun  1, 2011       D32-28-01 
+ JH159F41832261B84  Odyssey      2011  55053  56825  Spencer, Sean           Fri, May 28, 2011       D32-28-02 
+ JC131F11532283XA6  CR-V         2011  29346  30995  Hicks, Andre            Mon, May 31, 2011       D32-28-01 
+ JA111S1303225XA78  Accord       2011  21796  22480  Freeman, Arthur         Sat, May 29, 2011       D32-28-05 
+ JH15AS1193224C97X  Odyssey      2011  26640  29375  Anderson, Brad          Mon, May 31, 2011       D32-28-03 
+ JB121S12932219642  Civic        2011  15512  16455  Hicks, Andre            Thu, Jun  3, 2011       D32-28-01 
+ JB121S12432272CA4  Civic        2011  15929  16455  Freeman, Arthur         Fri, May 28, 2011       D32-28-05 
+ JB121S128322X8536  Civic        2011  16179  16455  Freeman, Arthur         Sun, May 30, 2011       D32-28-05 
+ JB127S13032219648  Civic        2011  15782  16655  Anderson, Brad          Tue, Jun  1, 2011       D32-28-03 
+ JA117S336322X854X  Accord       2011  22282  23480  Hicks, Andre            Fri, May 28, 2011       D32-28-01 
+ JH159F41A32219652  Odyssey      2011  52486  56825  Spencer, Sean           Tue, Jun  1, 2011       D32-28-02 
+ JB121S1203222A764  Civic        2011  16012  16455  Freeman, Arthur         Mon, May 31, 2011       D32-28-05 
+ JE141F11932219656  Crosstour    2011  34835  37640  Bryant, Raul            Sun, May 30, 2011       D32-28-04 
+ JH153FU10322X8548  Odyssey      2011  43056  45825  Spencer, Sean           Fri, May 28, 2011       D32-28-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F1123213A287  Crosstour    2011  34471  37640  Bryant, Raul            Sun, May 30, 2011       D32-28-04 
+ JE141F118VX6827X9  Crosstour   2005  15798  37640  Freeman, Arthur         Thu, Jun  3, 2011       D32-28-05 
+ JH153FU12W11X7C61  Odyssey     2006  21446  45825  Hicks, Andre            Wed, Jun  2, 2011       D32-28-01 
+ JG149FU1124682713  Insight     2010  20586  25190  Bryant, Raul            Sat, May 29, 2011       D32-28-04 
+ JH158S41AYX45C4B5  Odyssey     2008  26336  41375  Bryant, Raul            Thu, Jun  3, 2011       D32-28-04 
+ JH153FU12Y36716X7  Odyssey     2008  30004  45825  Anderson, Brad          Sat, May 29, 2011       D32-28-03 
+ JC131F116W265C4B9  CR-V        2006  15918  30995  Hicks, Andre            Mon, May 31, 2011       D32-28-01 
+ JD136F112YX86X5X1  CR-Z        2008  16107  24705  Bryant, Raul            Wed, Jun  2, 2011       D32-28-04 
+ JB127S139Y155C4C3  Civic       2008  10515  16655  Bryant, Raul            Tue, Jun  1, 2011       D32-28-04 
+ JC131F119X4371615  CR-V        2007  18937  30995  Bryant, Raul            Thu, Jun  3, 2011       D32-28-04 
+ JD136F117Y253A2A7  CR-Z        2008  15667  24705  Freeman, Arthur         Mon, May 31, 2011       D32-28-05 
+ JB127S133Y13X7C79  Civic       2008  10810  16655  Anderson, Brad          Fri, May 28, 2011       D32-28-03 
+ JB125G165147X7C81  Civic       2009  20922  28505  Freeman, Arthur         Sat, May 29, 2011       D32-28-05 
+ JH15AS113W1P4B3C3  Odyssey     2006  15067  29375  Bryant, Raul            Mon, May 31, 2011       D32-28-04 
+ JH151F1171136X515  Odyssey     2009  31646  44825  Hicks, Andre            Mon, May 31, 2011       D32-28-01 
+ JE143FU131X771627  Crosstour   2009  29829  40640  Spencer, Sean           Wed, Jun  2, 2011       D32-28-02 
+ JB121S121X275C4X9  Civic       2007  9923   16455  Hicks, Andre            Wed, Jun  2, 2011       D32-28-01 
+ JH152SU1A2225C411  Odyssey     2010  24480  30375  Bryant, Raul            Sun, May 30, 2011       D32-28-04 
+ JK167FU17YX45C413  Ridgeline   2008  30804  49750  Bryant, Raul            Tue, Jun  1, 2011       D32-28-04 
+ JH153FU1AXX282745  Odyssey     2007  27225  45825  Anderson, Brad          Mon, May 31, 2011       D32-28-03 

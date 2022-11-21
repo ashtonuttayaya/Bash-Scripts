@@ -1,0 +1,42 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Sat, Dec 16, 2012 thru Fri, Dec 22, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S13345171A84  Accord       2012  20407  22480  King, Michelle          Sat, Dec 16, 2012       D01-01-03 
+ JA1X5SU2545129536  Accord       2012  25886  27089  Ryan, Margie            Wed, Dec 20, 2012       D01-01-06 
+ JC131F1134515C868  CR-V         2012  29558  30995  Jennings, Terry         Tue, Dec 19, 2012       D01-01-02 
+ JB123H1524516X98X  Civic        2012  25104  27600  Ryan, Margie            Tue, Dec 19, 2012       D01-01-06 
+ JA111S1304515C872  Accord       2012  21898  22480  Ryan, Margie            Sun, Dec 17, 2012       D01-01-06 
+ JH153FU1A4513A654  Odyssey      2012  44424  45825  Harper, Freddie         Tue, Dec 19, 2012       D01-01-05 
+ JB125G16A45118436  Civic        2012  27362  28505  Harper, Freddie         Tue, Dec 19, 2012       D01-01-05 
+ JB127S131451X7328  Civic        2012  15993  16655  Wood, Lloyd             Sat, Dec 16, 2012       D01-01-04 
+ JA113SU32451X733X  Accord       2012  22254  23480  Jennings, Terry         Mon, Dec 18, 2012       D01-01-02 
+ JH155FU164513A662  Odyssey      2012  42482  47825  King, Michelle          Sat, Dec 16, 2012       D01-01-03 
+ JH154SU114514B774  Odyssey      2012  29706  32375  Harper, Freddie         Thu, Dec 21, 2012       D01-01-05 
+ JB127S13045171AA6  Civic        2012  15223  16655  Harper, Freddie         Mon, Dec 18, 2012       D01-01-05 
+ JA1X9S424451X7338  Accord       2012  32029  33089  Russell, Connie         Mon, Dec 18, 2012       D01-01-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F11714729535  Odyssey     2009  40566  44825  King, Michelle          Sat, Dec 16, 2012       D01-01-03 
+ JA111S1334164B757  Accord       2012  20955  22480  Harper, Freddie         Sat, Dec 16, 2012       D01-01-05 
+ JH153FU1023929539  Odyssey     2010  33800  45825  King, Michelle          Sun, Dec 17, 2012       D01-01-03 
+ JD136F11224P5C871  CR-Z        2010  18298  24705  Ryan, Margie            Sun, Dec 17, 2012       D01-01-06 
+ JC135F4142X46X983  CR-V        2010  29521  39995  Russell, Connie         Wed, Dec 20, 2012       D01-01-01 
+ JH155FU171X118435  Odyssey     2009  43281  47825  Harper, Freddie         Mon, Dec 18, 2012       D01-01-05 
+ JB121S124Y3418437  Civic       2008  10062  16455  Russell, Connie         Fri, Dec 22, 2012       D01-01-01 
+ JD14AF419W23X7329  CR-Z        2006  13212  33705  Harper, Freddie         Fri, Dec 22, 2012       D01-01-05 
+ JC131F1184X618441  CR-V         2012  28503  30995  Wood, Lloyd             Thu, Dec 21, 2012       D01-01-04 
+ JB129S141Y346X993  Civic       2008  14154  23055  Ryan, Margie            Wed, Dec 20, 2012       D01-01-06 
+ JA1X6FU21X436X995  Accord      2007  18679  36030  Harper, Freddie         Mon, Dec 18, 2012       D01-01-05 
+ JJ163F312YX471AA7  Pilot       2008  24792  42970  Jennings, Terry         Sun, Dec 17, 2012       D01-01-02 
+ JH154SU12XX382BB9  Odyssey     2007  16760  32375  King, Michelle          Fri, Dec 22, 2012       D01-01-03 
+ JE143FU1A15118451  Crosstour   2009  26741  40640  Jennings, Terry         Mon, Dec 18, 2012       D01-01-02 

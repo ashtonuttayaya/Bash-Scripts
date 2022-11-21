@@ -1,0 +1,55 @@
+Dealer Name: King Honda
+Address:     9974 Brooklin Ave
+             Port Kiln, SC
+Dealer ID:   12
+Owner:       King, Carl
+Date:        Fri, Nov 26, 2011 thru Thu, Dec  2, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S135348299A6  Accord       2011  21456  22480  Graves, Edwin           Tue, Nov 30, 2011       D12-11-01 
+ JB129S14634818898  Civic        2011  21301  23055  Graves, Edwin           Thu, Dec  2, 2011       D12-11-01 
+ JA112F134348X779X  Accord       2011  30668  32930  Graves, Edwin           Wed, Dec  1, 2011       D12-11-01 
+ JA1X1S129348X7792  Accord       2011  22855  24089  Carroll, Judith         Mon, Nov 29, 2011       D12-11-02 
+ JG148F118348188A4  Insight      2011  21907  24390  Graves, Edwin           Thu, Dec  2, 2011       D12-11-01 
+ JB127S130348299B6  Civic        2011  15360  16655  Carroll, Judith         Sat, Nov 27, 2011       D12-11-02 
+ JC131F116348299B8  CR-V         2011  28722  30995  Carroll, Judith         Tue, Nov 30, 2011       D12-11-02 
+ JA1X1S1263486XX3X  Accord       2011  21517  24089  Graves, Edwin           Thu, Dec  2, 2011       D12-11-01 
+ JG149FU1734871142  Insight      2011  23254  25190  Graves, Edwin           Sun, Nov 28, 2011       D12-11-01 
+ JA119S435348188B4  Accord       2011  29644  31480  Graves, Edwin           Sun, Nov 28, 2011       D12-11-01 
+ JC131F115348299C6  CR-V         2011  30127  30995  Graves, Edwin           Wed, Dec  1, 2011       D12-11-01 
+ JC133FU17348X77A8  CR-V         2011  30969  33995  Carroll, Judith         Mon, Nov 29, 2011       D12-11-02 
+ JD139F3103486X17X  CR-Z         2011  25022  25705  Graves, Edwin           Tue, Nov 30, 2011       D12-11-01 
+ JC132FU173485CX62  CR-V         2011  31253  31995  Graves, Edwin           Sat, Nov 27, 2011       D12-11-01 
+ JH153FU1434871284  Odyssey      2011  42366  45825  Graves, Edwin           Sat, Nov 27, 2011       D12-11-01 
+ JB127S1363484BC56  Civic        2011  14854  16655  Graves, Edwin           Fri, Nov 26, 2011       D12-11-01 
+ JE141F115348X7818  Crosstour    2011  34646  37640  Carroll, Judith         Sun, Nov 28, 2011       D12-11-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F1151X73A8C1  CR-Z        2009  17787  24705  Graves, Edwin           Fri, Nov 26, 2011       D12-11-01 
+ JH158S4121X9X7593  Odyssey     2009  30369  41375  Graves, Edwin           Sat, Nov 27, 2011       D12-11-01 
+ JE142FU1AW284B9X5  Crosstour   2006  18982  38640  Graves, Edwin           Tue, Nov 30, 2011       D12-11-01 
+ JH152SU12Y5P5CA17  Odyssey     2008  19296  30375  Graves, Edwin           Sun, Nov 28, 2011       D12-11-01 
+ JC131F11521171C39  CR-V        2010  25288  30995  Graves, Edwin           Mon, Nov 29, 2011       D12-11-01 
+ JH152SU18X46297C1  Odyssey     2007  17955  30375  Carroll, Judith         Fri, Nov 26, 2011       D12-11-02 
+ JJ163F315Y2171C43  Pilot       2008  27356  42970  Carroll, Judith         Sun, Nov 28, 2011       D12-11-02 
+ JB129S148X4382X55  Civic       2007  13563  23055  Graves, Edwin           Mon, Nov 29, 2011       D12-11-01 
+ JD137FU10Y2271C47  CR-Z        2008  16765  25705  Carroll, Judith         Wed, Dec  1, 2011       D12-11-02 
+ JC131F1121X3X75A9  CR-V        2009  22750  30995  Graves, Edwin           Tue, Nov 30, 2011       D12-11-01 
+ JD138FU18YX471X81  CR-Z        2008  17587  27705  Graves, Edwin           Mon, Nov 29, 2011       D12-11-01 
+ JH155FU18Y326XC73  Odyssey     2008  30464  47825  Graves, Edwin           Wed, Dec  1, 2011       D12-11-01 
+ JH151F119W2418725  Odyssey     2006  23178  44825  Carroll, Judith         Sat, Nov 27, 2011       D12-11-02 
+ JH153FU141313A947  Odyssey     2009  32994  45825  Graves, Edwin           Fri, Nov 26, 2011       D12-11-01 
+ JB129S149Y45X7619  Civic       2008  15022  23055  Carroll, Judith         Tue, Nov 30, 2011       D12-11-02 
+ JH155FU1AY46X7621  Odyssey     2008  29607  47825  Carroll, Judith         Wed, Dec  1, 2011       D12-11-02 
+ JJ162FU111X718733  Pilot       2009  32378  44970  Graves, Edwin           Sat, Nov 27, 2011       D12-11-01 
+ JH159F41815118735  Odyssey     2009  41709  56825  Graves, Edwin           Sat, Nov 27, 2011       D12-11-01 
+ JB129S142Y5P29847  Civic       2008  15022  23055  Graves, Edwin           Mon, Nov 29, 2011       D12-11-01 
+ JH152SU19Y4P3A959  Odyssey     2008  19838  30375  Carroll, Judith         Tue, Nov 30, 2011       D12-11-02 
+ JE141F115127821B1  Crosstour   2009  27627  37640  Carroll, Judith         Sat, Nov 27, 2011       D12-11-02 
+ JH153FU17Y174BA73  Odyssey     2008  29184  45825  Carroll, Judith         Tue, Nov 30, 2011       D12-11-02 
+ JB121S125Y3P6XC95  Civic       2008  10679  16455  Graves, Edwin           Thu, Dec  2, 2011       D12-11-01 

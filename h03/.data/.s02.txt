@@ -1,0 +1,11 @@
+Checking alias and environment variables
+           OK - Environment variable Q2                              chxq02-A1
+           OK - Environment variable WEB                             chxq02-B1
+           OK - alias accounts                                       chxq02-C1
+
+Checking functions
+           OK - function extract definition                          chxq02-D1
+           OK - extract results                                      chxq02-E1
+           OK - function cleanup definition                          chxq02-F1
+           OK - cleanup results                                      chxq02-G1
+

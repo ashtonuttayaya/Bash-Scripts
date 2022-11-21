@@ -1,0 +1,1 @@
+/home/n_autty/class/a04/q02/check02.sh

@@ -1,0 +1,50 @@
+#
+#	Creating baseline data
+#	Note:  work01.sh must create sales_v6100.sql and sales_v6100.txt
+#
+q01 type ac
+q01 start a01.bak a01.txt check01.sh
+q01 submit sales_v1.sql sales_v1.txt
+q01 clean sales_v1.txt sales_v1.sql
+#
+#	Replicating the development database
+#	Note: work02.sh must replicate the sales databases as dev
+#
+q02 type ac
+q02 start a02.bak a02.txt check02.sh
+q02 submit
+q02 clean env_mysql
+#
+#	Creating backup databases
+#	Note:  work03.sh must create the backup databases and must also
+#	       create dev_v3.sql and dev_v3.txt
+#
+q03 type ac
+q03 start a03.bak a03.txt check03.sh
+q03 submit dev_v3.sql dev_v3.txt
+q03 clean  dev_v3.sql dev_v3.txt
+#
+#	Updating the development database
+#	Note:  work04.sh must insert the 2016 data and must also
+#	       create dev_v4.sql and dev_v4.txt
+#
+q04 type ac
+q04 start a04.bak a04.txt check04.sh
+q04 submit dev_v4.sql dev_v4.txt
+q04 clean dev_v4.sql dev_v4.txt update_dev2016.sql
+#
+#	Updating the sales database
+#	Note:  	work05.sh must update the sales database and must also
+#		create sales_v5.sql and sales_v5.txt
+#
+q05 type ac
+q05 start a05.bak a05.txt check05.sh
+q05 submit sales_v5.sql sales_v5.txt
+q05 clean sales_v5.sql sales_v5.txt update_sales2016.sql insert.sh mysql
+#
+#	Creating and compressing a sales database backup file
+#
+q06 type ac
+q06 start a06.bak a06.txt check06.sh
+q06 submit
+q06 clean

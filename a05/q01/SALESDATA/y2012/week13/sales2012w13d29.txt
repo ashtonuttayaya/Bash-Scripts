@@ -1,0 +1,57 @@
+Dealer Name: Carter Honda
+Address:     2499 Bob Jones St
+             Louderdale, FL
+Dealer ID:   29
+Owner:       Carter, Jimmy
+Date:        Sat, Mar 25, 2012 thru Fri, Mar 31, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S13341383CCX  Civic        2012  15137  16655  Graham, Sheila          Sun, Mar 26, 2012       D29-25-03 
+ JB123H1514132A662  Civic        2012  26647  27600  Lawson, Carolyn         Sun, Mar 26, 2012       D29-25-02 
+ JB127S13A41319554  Civic        2012  16078  16655  Rodriguez, Leonard      Thu, Mar 30, 2012       D29-25-01 
+ JH153FU1041372BB6  Odyssey      2012  44886  45825  Lucas, Jose             Sat, Mar 25, 2012       D29-25-06 
+ JH151F1184135X998  Odyssey      2012  39842  44825  Graham, Sheila          Tue, Mar 28, 2012       D29-25-03 
+ JJ161FU164131956X  Pilot        2012  40163  42970  Graham, Sheila          Thu, Mar 30, 2012       D29-25-03 
+ JH159F4184133B782  Odyssey      2012  50402  56825  Lawson, Carolyn         Sat, Mar 25, 2012       D29-25-02 
+ JH157F3194134C894  Odyssey      2012  44655  45825  Graham, Sheila          Sat, Mar 25, 2012       D29-25-03 
+ JG148F1174135X9A6  Insight      2012  22977  24390  Graham, Sheila          Thu, Mar 30, 2012       D29-25-03 
+ JA1X7S32641361AB8  Accord       2012  24262  25089  Lawson, Carolyn         Sat, Mar 25, 2012       D29-25-02 
+ JA1X5SU264131957X  Accord       2012  25611  27089  Rodriguez, Leonard      Thu, Mar 30, 2012       D29-25-01 
+ JA1X8F3204134C8A2  Accord       2012  31204  34030  Walker, Roland          Fri, Mar 31, 2012       D29-25-04 
+ JB127S137413X8464  Civic        2012  15480  16655  Lucas, Jose             Fri, Mar 31, 2012       D29-25-06 
+ JA111S13A4134C8A6  Accord       2012  20751  22480  Lawson, Carolyn         Wed, Mar 29, 2012       D29-25-02 
+ JA1X3SU224133B798  Accord       2012  24006  25089  Lucas, Jose             Thu, Mar 30, 2012       D29-25-06 
+ JK167FU134135X9CX  Ridgeline    2012  44929  49750  Graham, Sheila          Wed, Mar 29, 2012       D29-25-03 
+ JD136F112413X8472  CR-Z         2012  22891  24705  Coleman, Arnold         Tue, Mar 28, 2012       D29-25-05 
+ JD137FU1441372B14  CR-Z         2012  23147  25705  Coleman, Arnold         Sun, Mar 26, 2012       D29-25-05 
+ JA113SU354135X9C6  Accord       2012  21656  23480  Walker, Roland          Mon, Mar 27, 2012       D29-25-04 
+ JA117S3334132A698  Accord       2012  22015  23480  Lucas, Jose             Sun, Mar 26, 2012       D29-25-06 
+ JB121S12A41361A1X  Civic        2012  16059  16455  Graham, Sheila          Mon, Mar 27, 2012       D29-25-03 
+ JJ163F31841383C32  Pilot        2012  40163  42970  Coleman, Arnold         Wed, Mar 29, 2012       D29-25-05 
+ JA1X1S12641319594  Accord       2012  22207  24089  Graham, Sheila          Fri, Mar 31, 2012       D29-25-03 
+ JC134F3124135X9X6  CR-V         2012  31309  31995  Lawson, Carolyn         Fri, Mar 31, 2012       D29-25-02 
+ JH155FU1841383C38  Odyssey      2012  45378  47825  Coleman, Arnold         Wed, Mar 29, 2012       D29-25-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB122SU23X22X7B13  Civic       2007  8822   17255  Coleman, Arnold         Wed, Mar 29, 2012       D29-25-05 
+ JC131F11AYX529X35  CR-V        2008  19077  30995  Rodriguez, Leonard      Thu, Mar 30, 2012       D29-25-01 
+ JC131F11AX325C367  CR-V        2007  16036  30995  Coleman, Arnold         Wed, Mar 29, 2012       D29-25-05 
+ JH151F11214582699  Odyssey     2009  28688  44825  Graham, Sheila          Tue, Mar 28, 2012       D29-25-03 
+ JB121S128137826A1  Civic       2009  10827  16455  Graham, Sheila          Sat, Mar 25, 2012       D29-25-03 
+ JH151F1183276X483  Odyssey     2011  36220  44825  Lawson, Carolyn         Sun, Mar 26, 2012       D29-25-02 
+ JG148F111Y2318C35  Insight     2008  14499  24390  Coleman, Arnold         Sun, Mar 26, 2012       D29-25-05 
+ JG148F110Y22X7B27  Insight     2008  14982  24390  Walker, Roland          Mon, Mar 27, 2012       D29-25-04 
+ JE143FU1612771599  Crosstour   2009  26009  40640  Lawson, Carolyn         Fri, Mar 31, 2012       D29-25-02 
+ JH15AS110Y283A161  Odyssey     2008  17490  29375  Lucas, Jose             Sat, Mar 25, 2012       D29-25-06 
+ JD136F117125X7B33  CR-Z        2009  16255  24705  Graham, Sheila          Sat, Mar 25, 2012       D29-25-03 
+ JB121S1253X218C45  Civic       2011  13693  16455  Lawson, Carolyn         Tue, Mar 28, 2012       D29-25-02 
+ JE141F11A331826B7  Crosstour   2011  34471  37640  Coleman, Arnold         Tue, Mar 28, 2012       D29-25-05 
+ JH152SU101375C389  Odyssey     2009  19440  30375  Coleman, Arnold         Fri, Mar 31, 2012       D29-25-05 
+ JH152SU18X456X4A1  Odyssey     2007  14962  30375  Lawson, Carolyn         Wed, Mar 29, 2012       D29-25-02 
+ JB121S1252X518C53  Civic       2010  12243  16455  Lawson, Carolyn         Sun, Mar 26, 2012       D29-25-02 
+ JH152SU1AX166X4A5  Odyssey     2007  14214  30375  Lawson, Carolyn         Mon, Mar 27, 2012       D29-25-02 

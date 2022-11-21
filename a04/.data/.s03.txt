@@ -1,0 +1,12 @@
+Checking sql file contents
+           OK - INSERT count in agents.sql                           chxq03-A1
+           OK - INSERT count in dealers.sql                          chxq03-B1
+           OK - INSERT count in owners.sql                           chxq03-C1
+
+Checking database counts
+           OK - a03.txt                                              chxq03-D1
+           OK - Part A.                                              chxq03-E1
+           OK - Part B.                                              chxq03-F1
+           OK - Part C.                                              chxq03-G1
+           OK - Part D.                                              chxq03-H1
+

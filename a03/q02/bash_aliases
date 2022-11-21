@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+#       Add my environment variables if the file exists.
+#
+if   [   -f  ~/myenv   ]
+then
+        source  ~/myenv
+fi

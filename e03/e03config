@@ -1,0 +1,40 @@
+q01 type sc
+q01 start file1 file2 file3 file4
+q01 submit q01.sh
+q01 clean 
+q02 type sc
+q02 start a02.txt a02.back backup target
+q02 submit q02.sh
+q02 clean
+q03 type sc
+q03 start file1.txt file2.txt standard.txt
+q03 submit q03.sh
+q03 clean
+q04 type sa
+q04 start
+q04 submit
+q04 clean
+q05 type sa
+q05 start
+q05 submit
+q05 clean
+q06 type sa
+q06 start
+q06 submit
+q06 clean
+q07 type sa
+q07 start
+q07 submit
+q07 clean
+q08 type sa
+q08 start
+q08 submit
+q08 clean
+q09 type sc
+q09 start dec.txt
+q09 submit q09.sh
+q09 clean
+q10 type sc
+q10 start movies.dat
+q10 submit q10.sh
+q10 clean

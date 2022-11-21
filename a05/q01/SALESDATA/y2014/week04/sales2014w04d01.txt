@@ -1,0 +1,56 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Tue, Jan 22, 2014 thru Mon, Jan 28, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ161FU146X471A84  Pilot        2014  41676  42970  Wood, Lloyd             Fri, Jan 25, 2014       D01-01-04 
+ JH151F1106X46X976  Odyssey      2014  41609  44825  King, Michelle          Mon, Jan 28, 2014       D01-01-03 
+ JA1X1S1246X4X7318  Accord       2014  22989  24089  King, Michelle          Mon, Jan 28, 2014       D01-01-03 
+ JB122SU286X43A65X  Civic        2014  17519  17255  Wood, Lloyd             Sat, Jan 26, 2014       D01-01-04 
+ JA113SU306X43A652  Accord       2014  21698  23480  Ryan, Margie            Mon, Jan 28, 2014       D01-01-06 
+ JB127S1396X471A94  Civic        2014  17028  16655  Russell, Connie         Wed, Jan 23, 2014       D01-01-01 
+ JA117S3306X43A656  Accord       2014  23161  23480  Ryan, Margie            Tue, Jan 22, 2014       D01-01-06 
+ JH156S31A6X429548  Odyssey      2014  29711  30375  Wood, Lloyd             Fri, Jan 25, 2014       D01-01-04 
+ JA1X3SU276X44B77X  Accord       2014  24559  25089  Harper, Freddie         Thu, Jan 24, 2014       D01-01-05 
+ JC132FU146X4X7332  CR-V         2014  30756  31995  Jennings, Terry         Thu, Jan 24, 2014       D01-01-02 
+ JC134F3186X429554  CR-V         2014  30921  31995  Jennings, Terry         Sun, Jan 27, 2014       D01-01-02 
+ JB125G1676X45C886  Civic        2014  26023  28505  Harper, Freddie         Sat, Jan 26, 2014       D01-01-05 
+ JJ161FU106X418448  Pilot        2014  41457  42970  Russell, Connie         Thu, Jan 24, 2014       D01-01-01 
+ JB123H1556X4X734X  Civic        2014  25792  27600  Russell, Connie         Wed, Jan 23, 2014       D01-01-01 
+ JG148F11A6X482BC2  Insight      2014  24404  24390  Wood, Lloyd             Thu, Jan 24, 2014       D01-01-04 
+ JD138FU196X4X7344  CR-Z         2014  25315  27705  Ryan, Margie            Thu, Jan 24, 2014       D01-01-06 
+ JC131F1136X418456  CR-V         2014  30300  30995  King, Michelle          Thu, Jan 24, 2014       D01-01-03 
+ JH152SU186X4X7348  Odyssey      2014  28616  30375  Wood, Lloyd             Sun, Jan 27, 2014       D01-01-04 
+ JA111S13A6X482BXX  Accord       2014  21977  22480  Wood, Lloyd             Sat, Jan 26, 2014       D01-01-04 
+ JE141F1146X44B792  Crosstour    2014  34878  37640  King, Michelle          Sun, Jan 27, 2014       D01-01-03 
+ JB123H1526X471AC4  Civic        2014  25222  27600  Harper, Freddie         Thu, Jan 24, 2014       D01-01-05 
+ JH153FU166X482BX6  Odyssey      2014  41118  45825  King, Michelle          Wed, Jan 23, 2014       D01-01-03 
+ JB127S13A6X4X7358  Civic        2014  16150  16655  Jennings, Terry         Wed, Jan 23, 2014       D01-01-02 
+ JA1X3SU276X45C8BX  Accord       2014  23390  25089  Ryan, Margie            Sat, Jan 26, 2014       D01-01-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F112448X7315  CR-V        2004  23245  30995  Wood, Lloyd             Tue, Jan 22, 2014       D01-01-04 
+ JC135F41313518427  CR-V        2001  19997  39995  Russell, Connie         Fri, Jan 25, 2014       D01-01-01 
+ JB127S13A3X33A649  Civic       2003  11255  16655  Russell, Connie         Fri, Jan 25, 2014       D01-01-01 
+ JG148F11255P3A651  Insight     2005  20232  24390  Ryan, Margie            Sat, Jan 26, 2014       D01-01-06 
+ JG148F1192433A653  Insight     2002  15261  24390  King, Michelle          Sun, Jan 27, 2014       D01-01-03 
+ JC132FU144243A655  CR-V        2004  23522  31995  Wood, Lloyd             Sat, Jan 26, 2014       D01-01-04 
+ JH158S41A5396X987  Odyssey     2005  33820  41375  Ryan, Margie            Tue, Jan 22, 2014       D01-01-06 
+ JH157F3111196X989  Odyssey     2001  21766  45825  Wood, Lloyd             Mon, Jan 28, 2014       D01-01-04 
+ JH151F119Y426X991  Odyssey     2000  19178  44825  Jennings, Terry         Fri, Jan 25, 2014       D01-01-02 
+ JC131F11A31618443  CR-V        2003  20124  30995  Wood, Lloyd             Fri, Jan 25, 2014       D01-01-04 
+ JH154SU1215171AA5  Odyssey     2001  29299  32375  Ryan, Margie            Fri, Jan 25, 2014       D01-01-06 
+ JB127S13522P5C887  Civic       2002  10465  16655  Russell, Connie         Fri, Jan 25, 2014       D01-01-01 
+ JC132FU123X918449  CR-V        2003  21348  31995  Jennings, Terry         Wed, Jan 23, 2014       D01-01-02 
+ JH154SU112174B781  Odyssey     2002  19560  32375  Russell, Connie         Wed, Jan 23, 2014       D01-01-01 
+ JB129S1486X3X7343  Civic        2014  21882  23055  Russell, Connie         Fri, Jan 25, 2014       D01-01-01 
+ JB125G1652393A675  Civic       2002  17812  28505  Harper, Freddie         Tue, Jan 22, 2014       D01-01-05 
+ JB121S1273344B787  Civic       2003  11123  16455  Harper, Freddie         Thu, Jan 24, 2014       D01-01-05 

@@ -1,0 +1,62 @@
+Dealer Name: Harrison Honda
+Address:     692 Sanders Ave
+             Port Kiln, SC
+Dealer ID:   11
+Owner:       Harrision, Owen
+Date:        Tue, Jan  8, 2014 thru Mon, Jan 14, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1316X23ABAX  Civic        2014  15975  16655  Burke, Derrick          Wed, Jan  9, 2014       D11-10-01 
+ JA111S13A6X23ABA2  Accord       2014  22327  22480  Fields, Joan            Fri, Jan 11, 2014       D11-10-03 
+ JB127S1336X2X7874  Civic        2014  16150  16655  Fields, Joan            Mon, Jan 14, 2014       D11-10-03 
+ JD14AF4156X2X7876  CR-Z         2014  32355  33705  Burke, Derrick          Sun, Jan 13, 2014       D11-10-01 
+ JB127S13A6X24BCB8  Civic        2014  15536  16655  Day, Jennifer           Sun, Jan 13, 2014       D11-10-06 
+ JA116FU346X28233X  Accord       2014  35540  35930  Lambert, Donna          Fri, Jan 11, 2014       D11-10-04 
+ JB122SU2A6X24BCC2  Civic        2014  16430  17255  Fields, Joan            Sat, Jan 12, 2014       D11-10-03 
+ JA1X1S1206X24BCC4  Accord       2014  23239  24089  Lambert, Donna          Fri, Jan 11, 2014       D11-10-04 
+ JB129S1496X23ABB6  Civic        2014  21559  23055  Lambert, Donna          Sun, Jan 13, 2014       D11-10-04 
+ JB121S12A6X229AA8  Civic        2014  15532  16455  Fields, Joan            Thu, Jan 10, 2014       D11-10-03 
+ JC132FU156X2X789X  CR-V         2014  31743  31995  Burke, Derrick          Fri, Jan 11, 2014       D11-10-01 
+ JG148F1176X271232  Insight      2014  24025  24390  Bishop, Joann           Thu, Jan 10, 2014       D11-10-05 
+ JH15AS1136X23ABC4  Odyssey      2014  28307  29375  Mason, Felicia          Sun, Jan 13, 2014       D11-10-02 
+ JH15AS1146X2X7896  Odyssey      2014  27853  29375  Burke, Derrick          Fri, Jan 11, 2014       D11-10-01 
+ JA111S1366X23ABC8  Accord       2014  22444  22480  Fields, Joan            Sun, Jan 13, 2014       D11-10-03 
+ JB129S1496X25CX2X  Civic        2014  22877  23055  Fields, Joan            Sat, Jan 12, 2014       D11-10-03 
+ JG148F1136X24BC12  Insight      2014  22381  24390  Burke, Derrick          Tue, Jan  8, 2014       D11-10-01 
+ JC131F1196X25CX24  CR-V         2014  29662  30995  Lambert, Donna          Fri, Jan 11, 2014       D11-10-04 
+ JG149FU196X229AC6  Insight      2014  24133  25190  Day, Jennifer           Mon, Jan 14, 2014       D11-10-06 
+ JA118F3346X24BC18  Accord       2014  31695  33930  Bishop, Joann           Fri, Jan 11, 2014       D11-10-05 
+ JE141F1156X2X791X  Crosstour    2014  35842  37640  Lambert, Donna          Fri, Jan 11, 2014       D11-10-04 
+ JH154SU126X23AC42  Odyssey      2014  30779  32375  Mason, Felicia          Fri, Jan 11, 2014       D11-10-02 
+ JG148F1186X271384  Insight      2014  22508  24390  Lambert, Donna          Wed, Jan  9, 2014       D11-10-04 
+ JB121S1206X23AC46  Civic        2014  16313  16455  Lambert, Donna          Sun, Jan 13, 2014       D11-10-04 
+ JB127S1336X26X278  Civic        2014  16062  16655  Fields, Joan            Sat, Jan 12, 2014       D11-10-03 
+ JB121S1236X25C17X  Civic        2014  16747  16455  Fields, Joan            Sat, Jan 12, 2014       D11-10-03 
+ JB127S1316X2824A2  Civic        2014  15711  16655  Burke, Derrick          Mon, Jan 14, 2014       D11-10-01 
+ JB127S1396X218A34  Civic        2014  17028  16655  Day, Jennifer           Fri, Jan 11, 2014       D11-10-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH154SU1631382X95  Odyssey     2003  21008  32375  Burke, Derrick          Wed, Jan  9, 2014       D11-10-01 
+ JB125G1663X66XB77  Civic       2003  19052  28505  Bishop, Joann           Sun, Jan 13, 2014       D11-10-05 
+ JH153FU173323A849  Odyssey     2003  30448  45825  Fields, Joan            Sat, Jan 12, 2014       D11-10-03 
+ JK167FU163446XB81  Ridgeline   2003  31224  49750  Bishop, Joann           Thu, Jan 10, 2014       D11-10-05 
+ JB121S12941829743  Civic       2004  12573  16455  Bishop, Joann           Fri, Jan 11, 2014       D11-10-05 
+ JH153FU1231271C95  Odyssey     2003  41878  45825  Day, Jennifer           Thu, Jan 10, 2014       D11-10-06 
+ JG148F11A313X7527  Insight     2003  15897  24390  Bishop, Joann           Wed, Jan  9, 2014       D11-10-05 
+ JK166FU16Y143A859  Ridgeline   2000  17584  47750  Burke, Derrick          Thu, Jan 10, 2014       D11-10-01 
+ JB127S1353463A861  Civic       2003  10947  16655  Fields, Joan            Mon, Jan 14, 2014       D11-10-03 
+ JH153FU1232129753  Odyssey     2003  28783  45825  Mason, Felicia          Thu, Jan 10, 2014       D11-10-02 
+ JB121S1284524B975  Civic       2004  12573  16455  Burke, Derrick          Thu, Jan 10, 2014       D11-10-01 
+ JD136F1152183A867  CR-Z        2002  15456  24705  Fields, Joan            Fri, Jan 11, 2014       D11-10-03 
+ JH153FU1631871CA9  Odyssey     2003  29616  45825  Lambert, Donna          Fri, Jan 11, 2014       D11-10-04 
+ JB127S1353X329761  Civic       2003  11255  16655  Lambert, Donna          Wed, Jan  9, 2014       D11-10-04 
+ JH153FU182135CA93  Odyssey     2002  27630  45825  Burke, Derrick          Thu, Jan 10, 2014       D11-10-01 
+ JJ16AF1104X74B985  Pilot       2004  31301  41970  Fields, Joan            Fri, Jan 11, 2014       D11-10-03 
+ JG148F11353382XC7  Insight     2005  20484  24390  Burke, Derrick          Fri, Jan 11, 2014       D11-10-01 
+ JH152SU121346XBA9  Odyssey     2001  15187  30375  Burke, Derrick          Sun, Jan 13, 2014       D11-10-01 
+ JB127S13914P18661  Civic       2001  8743   16655  Burke, Derrick          Thu, Jan 10, 2014       D11-10-01 

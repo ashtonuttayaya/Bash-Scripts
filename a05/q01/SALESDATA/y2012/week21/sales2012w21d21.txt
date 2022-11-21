@@ -1,0 +1,48 @@
+Dealer Name: Bill Travers Honda
+Address:     7043 George Parson Highway
+             Grand Traverse, AL
+Dealer ID:   21
+Owner:       Travers, Bill
+Date:        Sat, May 20, 2012 thru Fri, May 26, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S142421X7B14  Civic        2012  20801  23055  Evans, Dennis           Mon, May 22, 2012       D21-19-05 
+ JA115SU354215C366  Accord       2012  23985  25480  Simpson, Georgia        Thu, May 25, 2012       D21-19-08 
+ JB127S1314215C368  Civic        2012  16164  16655  Powell, Jerome          Thu, May 25, 2012       D21-19-03 
+ JB129S1494216X48X  Civic        2012  21507  23055  West, Ashley            Thu, May 25, 2012       D21-19-07 
+ JD136F111421X7B22  CR-Z         2012  22513  24705  King, Gwendolyn         Thu, May 25, 2012       D21-19-04 
+ JA1X2F1274215C374  Accord       2012  31303  33030  Powell, Jerome          Sat, May 20, 2012       D21-19-03 
+ JA114FU31421826A6  Accord       2012  33004  33930  Carroll, Glenn          Sat, May 20, 2012       D21-19-01 
+ JB121S12842171598  Civic        2012  16059  16455  Evans, Dennis           Thu, May 25, 2012       D21-19-05 
+ JA1X5SU204215C38X  Accord       2012  26299  27089  Carroll, Glenn          Thu, May 25, 2012       D21-19-01 
+ JB121S127421X7B32  Civic        2012  15214  16455  Evans, Dennis           Thu, May 25, 2012       D21-19-05 
+ JC133FU1142129X54  CR-V         2012  33067  33995  King, Gwendolyn         Tue, May 23, 2012       D21-19-04 
+ JA112F1394214B276  Accord       2012  30542  32930  Carroll, Glenn          Tue, May 23, 2012       D21-19-01 
+ JA1X1S12A42129X58  Accord       2012  21962  24089  Evans, Dennis           Mon, May 22, 2012       D21-19-05 
+ JH152SU194215C39X  Odyssey      2012  29129  30375  Carroll, Glenn          Wed, May 24, 2012       D21-19-01 
+ JB121S12542129X62  Civic        2012  15637  16455  Simpson, Georgia        Fri, May 26, 2012       D21-19-08 
+ JG148F11742129X64  Insight      2012  22977  24390  Oliver, Melanie         Wed, May 24, 2012       D21-19-02 
+ JB124HU594214B286  Civic        2012  27984  28400  Powell, Jerome          Fri, May 26, 2012       D21-19-03 
+ JB123H156421826C8  Civic        2012  26787  27600  King, Gwendolyn         Mon, May 22, 2012       D21-19-04 
+ JE141F11742129X7X  Crosstour    2012  35614  37640  Powell, Jerome          Fri, May 26, 2012       D21-19-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH156S3182343AB83  Odyssey     2010  21603  30375  Evans, Dennis           Thu, May 25, 2012       D21-19-05 
+ JH152SU18W5P823X5  Odyssey     2006  11880  30375  Oliver, Melanie         Sat, May 20, 2012       D21-19-02 
+ JD138FU1314729A77  CR-Z        2009  18229  27705  Carroll, Glenn          Sat, May 20, 2012       D21-19-01 
+ JA111S13715P5CXA9  Accord      2009  14791  22480  Washington, Franklin    Mon, May 22, 2012       D21-19-06 
+ JH159F4112X65CXB1  Odyssey     2010  41874  56825  Carroll, Glenn          Sun, May 21, 2012       D21-19-01 
+ JH154SU11X3P712X3  Odyssey     2007  15164  32375  West, Ashley            Thu, May 25, 2012       D21-19-07 
+ JB129S145XX8X7865  Civic       2007  11302  23055  King, Gwendolyn         Wed, May 24, 2012       D21-19-04 
+ JG148F115WX229A87  Insight     2006  9486   24390  King, Gwendolyn         Sat, May 20, 2012       D21-19-04 
+ JB127S13815P29A89  Civic       2009  10958  16655  Evans, Dennis           Mon, May 22, 2012       D21-19-05 
+ JC132FU184X36X1X1  CR-V         2012  29403  31995  Powell, Jerome          Sun, May 21, 2012       D21-19-03 
+ JB128SU33YX3X7873  Civic       2008  10682  17455  Powell, Jerome          Sun, May 21, 2012       D21-19-03 
+ JE141F115YX64BCB5  Crosstour   2008  23197  37640  Evans, Dennis           Sun, May 21, 2012       D21-19-05 
+ JJ163F3112254BCB7  Pilot       2010  31100  42970  King, Gwendolyn         Thu, May 25, 2012       D21-19-04 
+ JH157F3131184BCB9  Odyssey     2009  30152  45825  Powell, Jerome          Wed, May 24, 2012       D21-19-03 

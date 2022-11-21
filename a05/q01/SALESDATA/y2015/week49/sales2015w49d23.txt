@@ -1,0 +1,48 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Wed, Dec  3, 2015 thru Tue, Dec  9, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S1387492A73X  Accord       2015  21126  22480  Garrett, Edna           Wed, Dec  3, 2015       D23-21-06 
+ JD136F1187495XA62  CR-Z         2015  24667  24705  Holland, Mitchell       Mon, Dec  8, 2015       D23-21-05 
+ JG148F119749X8514  Insight      2015  22580  24390  Garrett, Edna           Tue, Dec  9, 2015       D23-21-06 
+ JD136F11674972C86  CR-Z         2015  24925  24705  Holland, Mitchell       Wed, Dec  3, 2015       D23-21-05 
+ JB127S13774919628  Civic        2015  16535  16655  Baker, Mark             Thu, Dec  4, 2015       D23-21-02 
+ JA114FU3274961B8X  Accord       2015  32601  33930  Holland, Mitchell       Sat, Dec  6, 2015       D23-21-05 
+ JA115SU38749X8522  Accord       2015  23944  25480  Payne, Calvin           Tue, Dec  9, 2015       D23-21-03 
+ JE143FU127494C964  Crosstour    2015  40303  40640  Garrett, Edna           Thu, Dec  4, 2015       D23-21-06 
+ JB127S13274972C96  Civic        2015  16624  16655  Baker, Mark             Wed, Dec  3, 2015       D23-21-02 
+ JA113SU31749X8528  Accord       2015  22144  23480  Baker, Mark             Sat, Dec  6, 2015       D23-21-02 
+ JC135F4187495XA8X  CR-V         2015  39680  39995  Jenkins, Corey          Sat, Dec  6, 2015       D23-21-01 
+ JH154SU1A74919642  Odyssey      2015  30652  32375  Jenkins, Corey          Mon, Dec  8, 2015       D23-21-01 
+ JB121S1267493B864  Civic        2015  15646  16455  Garrett, Edna           Mon, Dec  8, 2015       D23-21-06 
+ JB127S1377494C976  Civic        2015  17157  16655  Holland, Mitchell       Thu, Dec  4, 2015       D23-21-05 
+ JB121S123749X8538  Civic        2015  15734  16455  Holland, Mitchell       Mon, Dec  8, 2015       D23-21-05 
+ JA1X9S4257493B87X  Accord       2015  31134  33089  Holland, Mitchell       Mon, Dec  8, 2015       D23-21-05 
+ JA1X3SU207494C982  Accord       2015  23592  25089  Holland, Mitchell       Wed, Dec  3, 2015       D23-21-05 
+ JH15AS11574961BA4  Odyssey      2015  28212  29375  Holland, Mitchell       Sat, Dec  6, 2015       D23-21-05 
+ JA1X3SU2974983XC6  Accord       2015  23592  25089  Baker, Mark             Sat, Dec  6, 2015       D23-21-02 
+ JH152SU117492A768  Odyssey      2015  30082  30375  Baker, Mark             Fri, Dec  5, 2015       D23-21-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F11633618A87  CR-Z        2003  15596  24705  Jenkins, Corey          Thu, Dec  4, 2015       D23-21-01 
+ JH155FU1625271319  Odyssey     2002  43485  47825  Arnold, Marcus          Sun, Dec  7, 2015       D23-21-04 
+ JB127S13421682431  Civic       2002  15192  16655  Garrett, Edna           Tue, Dec  9, 2015       D23-21-06 
+ JE141F1167446X213  Crosstour    2015  35285  37640  Payne, Calvin           Wed, Dec  3, 2015       D23-21-03 
+ JD137FU1142P18A95  CR-Z        2004  16883  25705  Jenkins, Corey          Thu, Dec  4, 2015       D23-21-01 
+ JH156S3183193ACB7  Odyssey     2003  19111  30375  Garrett, Edna           Sun, Dec  7, 2015       D23-21-06 
+ JB127S1354473ACB9  Civic       2004  11403  16655  Arnold, Marcus          Wed, Dec  3, 2015       D23-21-04 
+ JH153FU1961518AA1  Odyssey     2006  37560  45825  Arnold, Marcus          Fri, Dec  5, 2015       D23-21-04 
+ JK166FU1A14818AA3  Ridgeline   2001  17667  47750  Holland, Mitchell       Fri, Dec  5, 2015       D23-21-05 
+ JE141F1105156X225  Crosstour   2005  28288  37640  Baker, Mark             Tue, Dec  9, 2015       D23-21-02 
+ JG148F11141529BB7  Insight     2004  16041  24390  Payne, Calvin           Wed, Dec  3, 2015       D23-21-03 
+ JH151F11443918AA9  Odyssey     2004  29120  44825  Payne, Calvin           Fri, Dec  5, 2015       D23-21-03 
+ JF146S1113465C121  Fit         2003  9885   16025  Payne, Calvin           Tue, Dec  9, 2015       D23-21-03 

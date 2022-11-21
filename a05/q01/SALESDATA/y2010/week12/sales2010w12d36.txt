@@ -1,0 +1,40 @@
+Dealer Name: Zeigler Honda
+Address:     2940 Davison Highway
+             Sawyer, TN
+Dealer ID:   36
+Owner:       Zeigler, Martin
+Date:        Thu, Mar 19, 2010 thru Wed, Mar 25, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F1112123B8B4  Odyssey      2010  41014  44825  Washington, Jerry       Mon, Mar 23, 2010       D36-32-01 
+ JG149FU1621261B16  Insight      2010  22796  25190  Washington, Jerry       Fri, Mar 20, 2010       D36-32-01 
+ JB121S1292122A7A8  Civic        2010  15385  16455  Washington, Jerry       Sat, Mar 21, 2010       D36-32-01 
+ JB125G16821261B2X  Civic        2010  27222  28505  Carr, Linda             Sun, Mar 22, 2010       D36-32-04 
+ JB129S149212X8592  Civic        2010  20634  23055  Carr, Linda             Sun, Mar 22, 2010       D36-32-04 
+ JA1X5SU2021272C34  Accord       2010  24109  27089  Washington, Jerry       Sat, Mar 21, 2010       D36-32-01 
+ JH154SU1421283X46  Odyssey      2010  28975  32375  Fleming, Larry          Mon, Mar 23, 2010       D36-32-05 
+ JB127S1392123B8C8  Civic        2010  14739  16655  Webb, Hector            Mon, Mar 23, 2010       D36-32-02 
+ JA1X5SU2921272C4X  Accord       2010  25328  27089  Fleming, Larry          Wed, Mar 25, 2010       D36-32-05 
+ JB127S13421272C42  Civic        2010  16072  16655  Washington, Jerry       Fri, Mar 20, 2010       D36-32-01 
+ JB121S12421283X54  Civic        2010  15961  16455  Armstrong, Amber        Mon, Mar 23, 2010       D36-32-06 
+ JB127S1332124C916  Civic        2010  15322  16655  Gonzales, Brian         Mon, Mar 23, 2010       D36-32-03 
+ JA1X7S3282124C918  Accord       2010  22705  25089  Gonzales, Brian         Fri, Mar 20, 2010       D36-32-03 
+ JJ163F31521261C7X  Pilot        2010  40606  42970  Carr, Linda             Fri, Mar 20, 2010       D36-32-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD137FU10W4172A87  CR-Z        2006  15518  25705  Carr, Linda             Sun, Mar 22, 2010       D36-32-04 
+ JH15AS117W2861979  Odyssey     2006  17220  29375  Gonzales, Brian         Fri, Mar 20, 2010       D36-32-03 
+ JK165F118Y194C761  Ridgeline   2008  41872  46750  Washington, Jerry       Sat, Mar 21, 2010       D36-32-01 
+ JB121S128X12X8323  Civic       2007  10531  16455  Gonzales, Brian         Fri, Mar 20, 2010       D36-32-03 
+ JB127S137X1272A95  Civic       2007  10371  16655  Webb, Hector            Fri, Mar 20, 2010       D36-32-02 
+ JF146S11AY2583BA7  Fit         2008  11376  16025  Fleming, Larry          Mon, Mar 23, 2010       D36-32-05 
+ JH155FU10V3719439  Odyssey     2005  22289  47825  Fleming, Larry          Wed, Mar 25, 2010       D36-32-05 
+ JB129S141WX119441  Civic       2006  13875  23055  Armstrong, Amber        Sun, Mar 22, 2010       D36-32-06 
+ JH157F317X232A553  Odyssey     2007  29856  45825  Armstrong, Amber        Sat, Mar 21, 2010       D36-32-06 
+ JJ163F317X4661995  Pilot       2007  26447  42970  Gonzales, Brian         Sun, Mar 22, 2010       D36-32-03 
+ JH151F113XX75X887  Odyssey     2007  28400  44825  Carr, Linda             Thu, Mar 19, 2010       D36-32-04 

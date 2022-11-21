@@ -1,0 +1,40 @@
+Dealer Name: Zeigler Honda
+Address:     2940 Davison Highway
+             Sawyer, TN
+Dealer ID:   36
+Owner:       Zeigler, Martin
+Date:        Thu, Sep 24, 2010 thru Wed, Sep 30, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC135F41723983X32  CR-V         2010  35995  39995  Gonzales, Brian         Tue, Sep 29, 2010       D36-32-03 
+ JB129S14823972C24  Civic        2010  21210  23055  Fleming, Larry          Thu, Sep 24, 2010       D36-32-05 
+ JB129S1482393B8B6  Civic        2010  22017  23055  Washington, Jerry       Wed, Sep 30, 2010       D36-32-01 
+ JC131F11023972C28  CR-V         2010  29445  30995  Carr, Linda             Thu, Sep 24, 2010       D36-32-04 
+ JH157F319239X859X  Odyssey      2010  44221  45825  Washington, Jerry       Fri, Sep 25, 2010       D36-32-01 
+ JC132FU12239X8592  CR-V         2010  29275  31995  Carr, Linda             Fri, Sep 25, 2010       D36-32-04 
+ JC131F117239X8594  CR-V         2010  27275  30995  Washington, Jerry       Mon, Sep 28, 2010       D36-32-01 
+ JB127S1382392A7B6  Civic        2010  15738  16655  Fleming, Larry          Wed, Sep 30, 2010       D36-32-05 
+ JB127S13523961B28  Civic        2010  15322  16655  Washington, Jerry       Thu, Sep 24, 2010       D36-32-01 
+ JA1X1S1272395XA2X  Accord       2010  22161  24089  Washington, Jerry       Tue, Sep 29, 2010       D36-32-01 
+ JB127S1332392A7C2  Civic        2010  15738  16655  Carr, Linda             Sun, Sep 27, 2010       D36-32-04 
+ JC131F11623983X54  CR-V         2010  30065  30995  Gonzales, Brian         Fri, Sep 25, 2010       D36-32-03 
+ JB125G1642392A7C6  Civic        2010  26937  28505  Fleming, Larry          Tue, Sep 29, 2010       D36-32-05 
+ JD139F31923961B38  CR-Z         2010  24291  25705  Armstrong, Amber        Sun, Sep 27, 2010       D36-32-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU10W122A535  Odyssey     2006  27993  45825  Fleming, Larry          Wed, Sep 30, 2010       D36-32-05 
+ JK167FU14XX95X867  Ridgeline   2007  31552  49750  Armstrong, Amber        Sun, Sep 27, 2010       D36-32-06 
+ JH159F414X132A539  Odyssey     2007  36080  56825  Washington, Jerry       Thu, Sep 24, 2010       D36-32-01 
+ JB127S13AY2972A91  Civic       2008  14869  16655  Webb, Hector            Fri, Sep 25, 2010       D36-32-02 
+ JA113SU3AW144C763  Accord      2006  14139  23480  Washington, Jerry       Tue, Sep 29, 2010       D36-32-01 
+ JH153FU18Y3472A95  Odyssey     2008  33470  45825  Fleming, Larry          Fri, Sep 25, 2010       D36-32-05 
+ JH153FU19X2719437  Odyssey     2007  29040  45825  Armstrong, Amber        Fri, Sep 25, 2010       D36-32-06 
+ JH151F110Y1561989  Odyssey     2008  32736  44825  Webb, Hector            Mon, Sep 28, 2010       D36-32-02 
+ JB128SU31X1883BB1  Civic       2007  11189  17455  Fleming, Larry          Thu, Sep 24, 2010       D36-32-05 
+ JA117S33913572AA3  Accord      2009  19018  23480  Webb, Hector            Wed, Sep 30, 2010       D36-32-02 
+ JB121S121Y523B665  Civic       2008  11912  16455  Webb, Hector            Mon, Sep 28, 2010       D36-32-02 

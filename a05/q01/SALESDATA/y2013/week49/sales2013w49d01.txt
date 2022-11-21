@@ -1,0 +1,56 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Mon, Dec  3, 2013 thru Sun, Dec  9, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1295493A642  Civic        2013  15074  16455  Ryan, Margie            Mon, Dec  3, 2013       D01-01-06 
+ JH153FU115496X974  Odyssey      2013  42547  45825  Ryan, Margie            Mon, Dec  3, 2013       D01-01-06 
+ JA1X5SU2754971A86  Accord       2013  25542  27089  Jennings, Terry         Thu, Dec  6, 2013       D01-01-02 
+ JH151F11854929538  Odyssey      2013  42087  44825  Jennings, Terry         Sat, Dec  8, 2013       D01-01-02 
+ JE145F4135495C87X  Crosstour    2013  44239  46640  Harper, Freddie         Tue, Dec  4, 2013       D01-01-05 
+ JD136F1115496X982  CR-Z         2013  24237  24705  Russell, Connie         Thu, Dec  6, 2013       D01-01-01 
+ JE141F11A54929544  Crosstour    2013  34675  37640  Jennings, Terry         Sun, Dec  9, 2013       D01-01-02 
+ JG148F11554918436  Insight      2013  22934  24390  Ryan, Margie            Sat, Dec  8, 2013       D01-01-06 
+ JE144F31154971A98  Crosstour    2013  37349  38640  Ryan, Margie            Fri, Dec  7, 2013       D01-01-06 
+ JG148F111549X733X  Insight      2013  22433  24390  Ryan, Margie            Tue, Dec  4, 2013       D01-01-06 
+ JH153FU105493A662  Odyssey      2013  43477  45825  Russell, Connie         Tue, Dec  4, 2013       D01-01-01 
+ JA1X4FU2854982BB4  Accord       2013  32275  34030  Wood, Lloyd             Thu, Dec  6, 2013       D01-01-04 
+ JH153FU105495C886  Odyssey      2013  44640  45825  Jennings, Terry         Sun, Dec  9, 2013       D01-01-02 
+ JJ162FU145494B778  Pilot        2013  41993  44970  King, Michelle          Fri, Dec  7, 2013       D01-01-03 
+ JC131F11554982BCX  CR-V         2013  29136  30995  Wood, Lloyd             Sat, Dec  8, 2013       D01-01-04 
+ JA1X2F12454982BC2  Accord       2013  30671  33030  Jennings, Terry         Mon, Dec  3, 2013       D01-01-02 
+ JH156S3185495C894  Odyssey      2013  28410  30375  Harper, Freddie         Thu, Dec  6, 2013       D01-01-05 
+ JB121S12254918456  Civic        2013  16102  16455  Harper, Freddie         Sun, Dec  9, 2013       D01-01-05 
+ JA117S3345495C898  Accord       2013  21860  23480  King, Michelle          Sun, Dec  9, 2013       D01-01-03 
+ JC131F111549X735X  CR-V         2013  30244  30995  Russell, Connie         Tue, Dec  4, 2013       D01-01-01 
+ JA118F3385493A682  Accord       2013  32528  33930  Russell, Connie         Wed, Dec  5, 2013       D01-01-01 
+ JB129S14054971AC4  Civic        2013  22780  23055  Ryan, Margie            Fri, Dec  7, 2013       D01-01-06 
+ JA1X2F128549X7356  Accord       2013  31682  33030  King, Michelle          Mon, Dec  3, 2013       D01-01-03 
+ JA1X3SU285496X9B8  Accord       2013  24475  25089  Ryan, Margie            Thu, Dec  6, 2013       D01-01-06 
+ JC131F1125496X9CX  CR-V         2013  28503  30995  Russell, Connie         Thu, Dec  6, 2013       D01-01-01 
+ JD136F11854971AX2  CR-Z         2013  23857  24705  King, Michelle          Wed, Dec  5, 2013       D01-01-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU17XX882B93  Odyssey     2007  20371  47825  Jennings, Terry         Sun, Dec  9, 2013       D01-01-02 
+ JG148F1164415C865  Insight     2012  20302  24390  Harper, Freddie         Tue, Dec  4, 2013       D01-01-05 
+ JH154SU1741229537  Odyssey     2012  26770  32375  Jennings, Terry         Thu, Dec  6, 2013       D01-01-02 
+ JD137FU1AY47X7319  CR-Z        2008  12740  25705  Wood, Lloyd             Fri, Dec  7, 2013       D01-01-04 
+ JH157F3172135C871  Odyssey     2010  29472  45825  Jennings, Terry         Mon, Dec  3, 2013       D01-01-02 
+ JA115SU36241X7323  Accord      2010  16913  25480  Jennings, Terry         Fri, Dec  7, 2013       D01-01-02 
+ JB13ASU462X83A655  Civic       2010  15411  23855  King, Michelle          Wed, Dec  5, 2013       D01-01-03 
+ JD136F11341629547  CR-Z        2012  20557  24705  Ryan, Margie            Sat, Dec  8, 2013       D01-01-06 
+ JH155FU17X4429549  Odyssey     2007  20371  47825  Ryan, Margie            Tue, Dec  4, 2013       D01-01-06 
+ JH15AS1193133A661  Odyssey     2011  21891  29375  Harper, Freddie         Sat, Dec  8, 2013       D01-01-05 
+ JB129S14312P3A663  Civic       2009  13833  23055  Wood, Lloyd             Wed, Dec  5, 2013       D01-01-04 
+ JD136F11922582BB5  CR-Z        2010  15955  24705  Wood, Lloyd             Sat, Dec  8, 2013       D01-01-04 
+ JH152SU10225X7337  Odyssey     2010  27693  30375  Ryan, Margie            Tue, Dec  4, 2013       D01-01-06 
+ JB127S1382X518449  Civic       2010  11107  16655  Ryan, Margie            Thu, Dec  6, 2013       D01-01-06 
+ JH154SU1A2115C891  Odyssey     2010  20864  32375  Jennings, Terry         Thu, Dec  6, 2013       D01-01-02 

@@ -1,0 +1,22 @@
+#
+#	creates a script to look for specific files in all user's home directories
+#
+q01 type sc
+q01 start a01.bak a01.txt check01.sh finder_v00.sh user_input.sh redirect.sh
+q01 submit
+q01 clean q01.sh finder_v01.sh error.log success.log check01.txt script01.txt
+#
+#	Creates environment variables and aliases ~/myenv, ~/.bash_aliases
+#
+q02 type ac
+q02 start a02.bak a02.txt check02.sh
+q02 submit myenv bash_aliases
+q02 clean myenv bash_aliases script02.txt check02.txt
+#
+#	Change program to use ~/tmp directory, aliases, creates a backup, 
+#	Checking looks at ~/tmp/summary03.log, q03.sh ~/backup/final_v02.sh and ~/bin/final.sh
+#
+q03 type sc
+q03 start a03.bak a03.txt check03.sh
+q03 submit
+q03 clean q03.sh script03.txt check03.txt

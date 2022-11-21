@@ -1,0 +1,283 @@
+Activity 4: submission file lab04.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Saturday, Oct 16, 2021
+    Time:    22:14
+    USID:    5166f1U#M0w4bagmHvG{1122r0b2U%MydtotDuJan_unQ!B4w14:f2V2L*1auyNa7yAaLtwt3Um}h4M0fay@ptTcuOV-Vn3oQtPh6sGA
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a01.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 1: This unedited file contains 284 characters.
+
+        End output of a01.txt
+
+
+        Start output of check01.txt
+            Checking mysql modifications
+                       OK - mysqld_safe status (should no longer be running)                          chxq01-A1
+                       OK - mysqld restart                                                            chxq01-B1
+            
+            Confirming mysqld process status - mysql    36559     1  0 Oct13 ?        00:02:33 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+            
+
+        End output of check01.txt
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE
+            
+            B. YES
+            
+            C. YES
+            
+            D. YES
+            
+            E. YES
+            
+            F. YES
+            
+            G. YES
+            
+            END OF QUESTION 2: This unedited file contains 314 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+                       OK - mysqld running                                                                                                   chxq02-A1
+            
+            IMPORTANT CHECKS
+                      Make sure you have
+                      1) shared the root, saleadmin and salesmgr passwords with your partners
+                      2) set the privileges for the salesadmin and salesmgr accounts
+                         TO check this, log into mysql as root and use the commands
+                         SHOW GRANTS FOR 'salesadmin'@'localhost'; 
+                         SHOW GRANTS FOR 'salesmgr'@'localhost';   
+            
+
+        End output of check02.txt
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. 243
+            
+            B. 39
+            
+            C. 39
+            
+            D. 40
+            
+            END OF QUESTION 3: This unedited file contains 299 characters.
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+            Checking sql file contents
+                       OK - INSERT count in agents.sql                           chxq03-A1
+                       OK - INSERT count in dealers.sql                          chxq03-B1
+                       OK - INSERT count in owners.sql                           chxq03-C1
+            
+            Checking database counts
+                       OK - a03.txt                                              chxq03-D1
+                       OK - Part A.                                              chxq03-E1
+                       OK - Part B.                                              chxq03-F1
+                       OK - Part C.                                              chxq03-G1
+                       OK - Part D.                                              chxq03-H1
+            
+
+        End output of check03.txt
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a04.bak contains a backup copy of this file if you need it.
+            Create your script in the file q04.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 4: This unedited file contains 320 characters.
+
+        End output of a04.txt
+
+
+        Start output of check04.txt
+            Looking for q04.sh
+                       OK - q04.sh                                      chxq04-A1
+            
+            Checking soft links
+                       OK - soft links                                  chxq04-B1
+            
+            Checking q04.sh output
+                       OK - Agent count                                 chxq04-C1
+                       OK - Dealer count                                chxq04-D1
+                       OK - Owner count                                 chxq04-E1
+                       OK - Alabama count                               chxq04-F1
+                       OK - Walker count                                chxq04-G1
+            
+
+        End output of check04.txt
+
+
+        Start output of q04.sh
+            #!/bin/bash
+            
+            agents_sql=$(grep agent_id, *.sql | wc -l)
+            agents_txt=$(wc -l SALESDATA/agents.txt)
+            
+            dealers_txt=$(grep -i honda SALESDATA/dealerships.txt | wc -l)
+            dealers_sql=$(grep dealer_id, dealers.sql | wc -l)
+            
+            owners_sql=$(grep owner_id, owners.sql | wc -l)
+            
+            alabama_sql=$(grep "'AL'," dealers.sql | wc -l) 
+            alabama_txt=$(grep ", AL" SALESDATA/dealerships.txt | wc -l)
+            
+            walker_txt=$(grep -i "walker," SALESDATA/dealerships.txt | wc -l)
+            walker_sql=$(grep -i "'walker" owners.sql | wc -l)
+            
+            echo "Initial Data File Counts"
+            echo "Agents: DATA =$agents_txt SQL = $agents_sql"
+            echo "Dealers: DATA = $dealers_txt SQL = $dealers_sql"
+            echo "Owners: DATA = $dealers_txt SQL = $owners_sql"
+            echo "Alabama: DATA = $alabama_txt SQL = $alabama_sql"
+            echo "Walker: DATA = $walker_txt SQL = $walker_sql"
+            
+
+        End output of q04.sh
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a05.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE
+            
+            B. 243
+            
+            C. 34
+            
+            D. 1
+            
+            E. 11
+            
+            F. 1
+            
+            G. 2
+            
+            H. 20
+            
+            END OF QUESTION 5: This unedited file contains 319 characters.
+
+        End output of a05.txt
+
+
+        Start output of check05.txt
+            Checking for q05.sql and q05.txt
+                       OK - q05.sql                          chxq05-A1
+                       OK - q05.txt                          chxq05-B1
+            
+            Checking the sql statements in q05.sql
+                       OK - part a                           chxq05-C1
+                       Not OK - part b  ( 3 )                  chxq05-D0
+                       Not OK - part c  ( 0 )                  chxq05-E0
+                       OK - part d                           chxq05-F1
+                       OK - part e                           chxq05-G1
+                       Not OK - part f  ( 0 )                  chxq05-H0
+                       Not OK - part g  ( 0 )                  chxq05-I0
+            
+            Checking answers in a05.txt file
+                       OK - a05.txt                          chxq05-J1
+                       OK - part b                           chxq05-K1
+                       OK - part c                           chxq05-L1
+                       Not OK - part d  ( 0 )                  chxq05-M0
+                       OK - part e                           chxq05-N1
+                       OK - part f                           chxq05-O1
+                       Not OK - part g  ( 0 )                  chxq05-P0
+                       OK - part h                           chxq05-Q1
+            
+
+        End output of check05.txt
+
+
+        Start output of q05.sql
+            USE sales;
+            SELECT COUNT(*) FROM agents;
+            SELECT DISTINCT COUNT(*) FROM owners;
+            SELECT COUNT(*) FROM owners WHERE fname="Bill";
+            SELECT COUNT(*) FROM dealers WHERE state="AL";
+            SELECT COUNT(*) FROM dealers WHERE city="Sawyer" AND state="TN";
+            SELECT COUNT(*) FROM owners WHERE lname="Walker";
+             SELECT COUNT(*) FROM agents WHERE owner_id="20";
+            
+
+        End output of q05.sql
+
+
+        File q05.txt IS MISSING
+
+    All files found for question 5.
+END QUESTION 5
+
+    Begin summary of file submissions
+        Files needed  = 13
+        Files found   = 12
+        Files missing = 1
+        Question 5 q05.txt not found
+    End summary of file submissions
+
+Activity 4: submission file lab04.txt completed

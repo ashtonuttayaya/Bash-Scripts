@@ -1,0 +1,53 @@
+Dealer Name: Olson Honda
+Address:     3074 Davison Highway
+             Norbert, FL
+Dealer ID:   15
+Owner:       Olson, Howard
+Date:        Thu, Sep 24, 2010 thru Wed, Sep 30, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X4FU232393ABC2  Accord       2010  30116  34030  Ramos, Maxine           Thu, Sep 24, 2010       D15-14-05 
+ JH15AS1102394BCX4  Odyssey      2010  27906  29375  Gonzales, Natalie       Sun, Sep 27, 2010       D15-14-04 
+ JA111S13A23929AB6  Accord       2010  19894  22480  Gonzales, Natalie       Wed, Sep 30, 2010       D15-14-04 
+ JJ162FU10239X7898  Pilot        2010  41597  44970  Murphy, Kelly           Wed, Sep 30, 2010       D15-14-07 
+ JG148F1112397124X  Insight      2010  23048  24390  Murphy, Kelly           Fri, Sep 25, 2010       D15-14-07 
+ JA111S131239189B2  Accord       2010  21468  22480  Gardner, Joan           Tue, Sep 29, 2010       D15-14-09 
+ JH151F112239X78A4  Odyssey      2010  42359  44825  Gonzales, Natalie       Wed, Sep 30, 2010       D15-14-04 
+ JA1X5SU242393ABX6  Accord       2010  24650  27089  Murphy, Kelly           Mon, Sep 28, 2010       D15-14-07 
+ JB127S1322393ABX8  Civic        2010  15655  16655  Gonzales, Natalie       Wed, Sep 30, 2010       D15-14-04 
+ JB127S139239X791X  Civic        2010  15489  16655  Bowman, Joan            Mon, Sep 28, 2010       D15-14-03 
+ JA111S1342393AC42  Accord       2010  20456  22480  Ramos, Maxine           Wed, Sep 30, 2010       D15-14-05 
+ JB125G16223918A24  Civic        2010  25797  28505  Gardner, Joan           Sat, Sep 26, 2010       D15-14-09 
+ JD136F1192395C166  CR-Z         2010  22234  24705  Bowman, Joan            Sun, Sep 27, 2010       D15-14-03 
+ JC134F3142393AC48  CR-V         2010  29435  31995  Woods, Tommy            Tue, Sep 29, 2010       D15-14-02 
+ JD136F118239X792X  CR-Z         2010  22110  24705  Murphy, Kelly           Tue, Sep 29, 2010       D15-14-07 
+ JB128SU372395C172  Civic        2010  16058  17455  Murphy, Kelly           Thu, Sep 24, 2010       D15-14-07 
+ JB121S12723929B44  Civic        2010  15303  16455  Murphy, Kelly           Sun, Sep 27, 2010       D15-14-07 
+ JG148F1142393AC56  Insight      2010  22926  24390  Woods, Tommy            Fri, Sep 25, 2010       D15-14-02 
+ JH152SU1A2396X288  Odyssey      2010  26881  30375  Bowman, Joan            Mon, Sep 28, 2010       D15-14-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU13X246XCB5  CR-V        2007  20756  31995  Bowman, Joan            Mon, Sep 28, 2010       D15-14-03 
+ JB127S134XX95CBA7  Civic       2007  10662  16655  Hall, Willie            Sun, Sep 27, 2010       D15-14-08 
+ JB121S123X24821X9  Civic       2007  10531  16455  Murphy, Kelly           Sat, Sep 26, 2010       D15-14-07 
+ JH151F112Y476XCC1  Odyssey     2008  32112  44825  Murphy, Kelly           Tue, Sep 29, 2010       D15-14-07 
+ JE141F117W446XCC3  Crosstour   2006  22918  37640  Shelton, Monica         Mon, Sep 28, 2010       D15-14-06 
+ JH153FU13XX229885  Odyssey     2007  29856  45825  Ramos, Maxine           Thu, Sep 24, 2010       D15-14-05 
+ JJ161FU16216X7667  Pilot        2010  38659  42970  Murphy, Kelly           Wed, Sep 30, 2010       D15-14-07 
+ JH15AS110X17X7669  Odyssey     2007  18512  29375  Bowman, Joan            Mon, Sep 28, 2010       D15-14-03 
+ JG148F113Y463A9A1  Insight     2008  17398  24390  Bowman, Joan            Wed, Sep 30, 2010       D15-14-03 
+ JH157F31A11PX7673  Odyssey     2009  36201  45825  Bowman, Joan            Wed, Sep 30, 2010       D15-14-03 
+ JB127S136X185CBC5  Civic       2007  10662  16655  Gardner, Joan           Tue, Sep 29, 2010       D15-14-09 
+ JH15AS11AT3P18787  Odyssey     2004  25566  29375  Shelton, Monica         Tue, Sep 29, 2010       D15-14-06 
+ JH155FU19WX282129  Odyssey     2006  28290  47825  Hall, Willie            Sat, Sep 26, 2010       D15-14-08 
+ JG148F11AWX571X21  Insight     2006  14229  24390  Ramos, Maxine           Thu, Sep 24, 2010       D15-14-05 
+ JH153FU16X353A9B3  Odyssey     2007  29040  45825  Hall, Willie            Sun, Sep 27, 2010       D15-14-08 
+ JB127S13A1324BAC5  Civic       2009  13324  16655  Elliott, Jacqueline     Sat, Sep 26, 2010       D15-14-01 
+ JH152SU15W1482137  Odyssey     2006  17820  30375  Bowman, Joan            Tue, Sep 29, 2010       D15-14-03 
+ JH15AS11AW23X7689  Odyssey     2006  17220  29375  Gardner, Joan           Thu, Sep 24, 2010       D15-14-09 
+ JE141F112X52187A1  Crosstour   2007  23801  37640  Gardner, Joan           Sun, Sep 27, 2010       D15-14-09 

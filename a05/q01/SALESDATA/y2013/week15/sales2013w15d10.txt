@@ -1,0 +1,51 @@
+Dealer Name: Walker Honda
+Address:     1240 Harrison Ave
+             Port Kiln, SC
+Dealer ID:   10
+Owner:       Walker, Shelly
+Date:        Mon, Apr  9, 2013 thru Sun, Apr 15, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA113SU315153AB58  Accord       2013  21618  23480  Fields, Roland          Mon, Apr  9, 2013       D10-07-02 
+ JA113SU365155CX8X  Accord       2013  23309  23480  Wright, Emma            Mon, Apr  9, 2013       D10-07-04 
+ JD136F1135155CX82  CR-Z         2013  23349  24705  Fields, Roland          Fri, Apr 13, 2013       D10-07-02 
+ JA111S1345153AB64  Accord       2013  21186  22480  Fields, Roland          Sat, Apr 14, 2013       D10-07-02 
+ JD136F11151529A56  CR-Z         2013  24237  24705  Alvarez, David          Sat, Apr 14, 2013       D10-07-06 
+ JB121S12851529A58  Civic        2013  15845  16455  Wright, Emma            Sat, Apr 14, 2013       D10-07-04 
+ JE141F1185155CX9X  Crosstour    2013  35249  37640  Ross, Darren            Tue, Apr 10, 2013       D10-07-05 
+ JA1X3SU2951529A62  Accord       2013  23316  25089  Alvarez, David          Fri, Apr 13, 2013       D10-07-06 
+ JD136F11751518954  CR-Z         2013  22461  24705  Ross, Darren            Sun, Apr 15, 2013       D10-07-05 
+ JB129S1435156X1A6  Civic        2013  21238  23055  Ross, Darren            Sat, Apr 14, 2013       D10-07-05 
+ JC132FU115155CX98  CR-V         2013  29076  31995  Gardner, Salvador       Sat, Apr 14, 2013       D10-07-03 
+ JH153FU1851529A7X  Odyssey      2013  42547  45825  Wright, Emma            Sun, Apr 15, 2013       D10-07-04 
+ JB127S1355154BC92  Civic        2013  16636  16655  Marshall, Allan         Sun, Apr 15, 2013       D10-07-01 
+ JA1X1S1285153AB84  Accord       2013  22535  24089  Fields, Roland          Wed, Apr 11, 2013       D10-07-02 
+ JH15AS1115156X1B6  Odyssey      2013  28247  29375  Marshall, Allan         Sun, Apr 15, 2013       D10-07-01 
+ JB123H15A5153AB88  Civic        2013  26437  27600  Fields, Roland          Mon, Apr  9, 2013       D10-07-02 
+ JC133FU1A51529A8X  CR-V         2013  32936  33995  Fields, Roland          Wed, Apr 11, 2013       D10-07-02 
+ JA115SU3251582312  Accord       2013  24454  25480  Marshall, Allan         Thu, Apr 12, 2013       D10-07-01 
+ JG148F1125153AB94  Insight      2013  23937  24390  Gardner, Salvador       Fri, Apr 13, 2013       D10-07-03 
+ JB123H1505154BCA6  Civic        2013  25447  27600  Gardner, Salvador       Sat, Apr 14, 2013       D10-07-03 
+ JD136F11A51518978  CR-Z         2013  24111  24705  Marshall, Allan         Sun, Apr 15, 2013       D10-07-01 
+ JA1X9S42851529A9X  Accord       2013  30218  33089  Fields, Roland          Sun, Apr 15, 2013       D10-07-02 
+ JB123H15A5153ABA2  Civic        2013  26013  27600  Fields, Roland          Tue, Apr 10, 2013       D10-07-02 
+ JA1X5SU255156X1X4  Accord       2013  26514  27089  Marshall, Allan         Thu, Apr 12, 2013       D10-07-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JF146S11732PX7499  Fit         2011  11862  16025  Alvarez, David          Mon, Apr  9, 2013       D10-07-06 
+ JC133FU12238296C1  CR-V        2010  22516  33995  Fields, Roland          Wed, Apr 11, 2013       D10-07-02 
+ JH159F414324296C3  Odyssey     2011  41238  56825  Alvarez, David          Thu, Apr 12, 2013       D10-07-06 
+ JD138FU153X382C55  CR-Z        2011  20271  27705  Marshall, Allan         Thu, Apr 12, 2013       D10-07-01 
+ JB127S1312X95C927  Civic       2010  11107  16655  Marshall, Allan         Sun, Apr 15, 2013       D10-07-01 
+ JB121S12811782C59  Civic       2009  10202  16455  Gardner, Salvador       Thu, Apr 12, 2013       D10-07-03 
+ JE141F11313529731  Crosstour   2009  23336  37640  Fields, Roland          Tue, Apr 10, 2013       D10-07-02 
+ JE141F1162X6X7513  Crosstour   2010  34078  37640  Wright, Emma            Sun, Apr 15, 2013       D10-07-04 
+ JH153FU1A2145CA65  Odyssey     2010  30300  45825  Alvarez, David          Thu, Apr 12, 2013       D10-07-06 
+ JE141F11335282X97  Crosstour   2011  27424  37640  Ross, Darren            Thu, Apr 12, 2013       D10-07-05 
+ JG148F11214829739  Insight     2009  14634  24390  Fields, Roland          Thu, Apr 12, 2013       D10-07-02 
+ JC134F3111124B961  CR-V        2009  19197  31995  Marshall, Allan         Tue, Apr 10, 2013       D10-07-01 

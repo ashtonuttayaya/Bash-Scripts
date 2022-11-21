@@ -1,0 +1,33 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Tue, Dec 10, 2014 thru Mon, Dec 16, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA113SU3A65PX755X  Accord       2014  23282  23480  Ford, Roger             Tue, Dec 10, 2014       D05-05-08 
+ JA1X1S12165P5CAA2  Accord       2014  23739  24089  Lynch, Christian        Sun, Dec 15, 2014       D05-05-02 
+ JB127S13A65P6XBB4  Civic        2014  16501  16655  Neal, Douglas           Sat, Dec 14, 2014       D05-05-06 
+ JA111S13065P6XBB6  Accord       2014  21275  22480  Moreno, Tyrone          Wed, Dec 11, 2014       D05-05-03 
+ JB121S12965P18668  Civic        2014  16574  16455  Ford, Roger             Sun, Dec 15, 2014       D05-05-08 
+ JB129S14965P3A89X  Civic        2014  22278  23055  Moreno, Tyrone          Wed, Dec 11, 2014       D05-05-03 
+ JA113SU3965P6XBC2  Accord       2014  21942  23480  Ford, Roger             Tue, Dec 10, 2014       D05-05-08 
+ JA1X3SU2565P3A894  Accord       2014  24299  25089  Snyder, Norma           Fri, Dec 13, 2014       D05-05-04 
+ JJ161FU1765P71CX6  Pilot        2014  40579  42970  Snyder, Norma           Tue, Dec 10, 2014       D05-05-04 
+ JE142FU1065P71CX8  Crosstour    2014  36376  38640  Marshall, Donna         Wed, Dec 11, 2014       D05-05-05 
+ JB127S13965P6XBXX  Civic        2014  16501  16655  Foster, Leona           Sat, Dec 14, 2014       D05-05-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F1133474B8B1  Odyssey     2003  29790  44825  Moreno, Tyrone          Tue, Dec 10, 2014       D05-05-03 
+ JH156S310Y2629693  Odyssey     2000  12964  30375  Foster, Leona           Wed, Dec 11, 2014       D05-05-07 
+ JG148F11645182C25  Insight     2004  18046  24390  Ford, Roger             Wed, Dec 11, 2014       D05-05-08 
+ JH15AS1132424B8B7  Odyssey     2002  18352  29375  Ford, Roger             Wed, Dec 11, 2014       D05-05-08 
+ JB127S1393335C9C9  Civic       2003  11255  16655  Ford, Roger             Wed, Dec 11, 2014       D05-05-08 
+ JH153FU186443A7B1  Odyssey      2014  42255  45825  Marshall, Donna         Fri, Dec 13, 2014       D05-05-05 
+ JH156S31344P5C9X3  Odyssey     2004  22356  30375  Foster, Leona           Sat, Dec 14, 2014       D05-05-07 

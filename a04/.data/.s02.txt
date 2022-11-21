@@ -1,0 +1,10 @@
+           OK - mysqld running                                                                                                   chxq02-A1
+
+IMPORTANT CHECKS
+          Make sure you have
+          1) shared the root, saleadmin and salesmgr passwords with your partners
+          2) set the privileges for the salesadmin and salesmgr accounts
+             TO check this, log into mysql as root and use the commands
+             SHOW GRANTS FOR 'salesadmin'@'localhost'; 
+             SHOW GRANTS FOR 'salesmgr'@'localhost';   
+

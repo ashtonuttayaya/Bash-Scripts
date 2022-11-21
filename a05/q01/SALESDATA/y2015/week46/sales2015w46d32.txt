@@ -1,0 +1,68 @@
+Dealer Name: Adams Honda
+Address:     4008 Lee Road
+             Louderdale, FL
+Dealer ID:   32
+Owner:       Adams, Jon
+Date:        Wed, Nov 12, 2015 thru Tue, Nov 18, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH15AS115746X89A2  Odyssey      2015  28364  29375  Anderson, Brad          Mon, Nov 17, 2015       D32-28-03 
+ JH15AS119746X89A4  Odyssey      2015  27755  29375  Hicks, Andre            Mon, Nov 17, 2015       D32-28-01 
+ JA115SU3074661236  Accord       2015  25540  25480  Anderson, Brad          Wed, Nov 12, 2015       D32-28-03 
+ JC131F1177462ABC8  CR-V         2015  30032  30995  Anderson, Brad          Fri, Nov 14, 2015       D32-28-03 
+ JB121S1257467248X  Civic        2015  16964  16455  Bryant, Raul            Sun, Nov 16, 2015       D32-28-04 
+ JB127S1367464C152  Civic        2015  16802  16655  Spencer, Sean           Sun, Nov 16, 2015       D32-28-02 
+ JA115SU3474683594  Accord       2015  25008  25480  Freeman, Arthur         Mon, Nov 17, 2015       D32-28-05 
+ JA115SU39746X8A16  Accord       2015  23678  25480  Bryant, Raul            Mon, Nov 17, 2015       D32-28-04 
+ JB121S1287462AC38  Civic        2015  15909  16455  Anderson, Brad          Tue, Nov 18, 2015       D32-28-03 
+ JJ162FU1A7465X27X  Pilot        2015  41715  44970  Anderson, Brad          Fri, Nov 14, 2015       D32-28-03 
+ JH156S3127465X272  Odyssey      2015  29767  30375  Hicks, Andre            Wed, Nov 12, 2015       D32-28-01 
+ JH157F319746X8A24  Odyssey      2015  41316  45825  Spencer, Sean           Tue, Nov 18, 2015       D32-28-02 
+ JB129S14374672496  Civic        2015  23091  23055  Anderson, Brad          Sun, Nov 16, 2015       D32-28-03 
+ JD136F119746835A8  CR-Z         2015  24667  24705  Anderson, Brad          Mon, Nov 17, 2015       D32-28-03 
+ JB124HU517462AC5X  Civic        2015  27605  28400  Anderson, Brad          Fri, Nov 14, 2015       D32-28-03 
+ JB121S12774619B42  Civic        2015  16701  16455  Bryant, Raul            Wed, Nov 12, 2015       D32-28-04 
+ JB129S1417465X284  Civic        2015  22245  23055  Bryant, Raul            Fri, Nov 14, 2015       D32-28-04 
+ JB121S12474619B46  Civic        2015  15822  16455  Anderson, Brad          Wed, Nov 12, 2015       D32-28-03 
+ JB127S1317463BX68  Civic        2015  16535  16655  Bryant, Raul            Sun, Nov 16, 2015       D32-28-04 
+ JB129S14674619B5X  Civic        2015  21882  23055  Bryant, Raul            Wed, Nov 12, 2015       D32-28-04 
+ JB127S130746724B2  Civic        2015  16891  16655  Freeman, Arthur         Mon, Nov 17, 2015       D32-28-05 
+ JB126GU6A7463BX74  Civic        2015  27082  29305  Bryant, Raul            Tue, Nov 18, 2015       D32-28-04 
+ JB121S127746724B6  Civic        2015  16349  16455  Freeman, Arthur         Sun, Nov 16, 2015       D32-28-05 
+ JB128SU30746724B8  Civic        2015  16907  17455  Spencer, Sean           Mon, Nov 17, 2015       D32-28-02 
+ JH153FU107463BX8X  Odyssey      2015  42959  45825  Spencer, Sean           Fri, Nov 14, 2015       D32-28-02 
+ JH151F1197463BX82  Odyssey      2015  41584  44825  Bryant, Raul            Wed, Nov 12, 2015       D32-28-04 
+ JC131F11974619B64  CR-V         2015  29389  30995  Freeman, Arthur         Sat, Nov 15, 2015       D32-28-05 
+ JG148F118746724C6  Insight      2015  22835  24390  Bryant, Raul            Sat, Nov 15, 2015       D32-28-04 
+ JK165F112746835X8  Ridgeline    2015  45002  46750  Spencer, Sean           Wed, Nov 12, 2015       D32-28-02 
+ JC133FU127463BX9X  CR-V         2015  31256  33995  Hicks, Andre            Wed, Nov 12, 2015       D32-28-01 
+ JB127S1357465X2B2  Civic        2015  16446  16655  Hicks, Andre            Thu, Nov 13, 2015       D32-28-01 
+ JB125G1627465X2B4  Civic        2015  26370  28505  Bryant, Raul            Sat, Nov 15, 2015       D32-28-04 
+ JB121S120746724X6  Civic        2015  15646  16455  Hicks, Andre            Mon, Nov 17, 2015       D32-28-01 
+ JH154SU13746724X8  Odyssey      2015  29982  32375  Freeman, Arthur         Wed, Nov 12, 2015       D32-28-05 
+ JH151F1167462AC9X  Odyssey      2015  41814  44825  Hicks, Andre            Sun, Nov 16, 2015       D32-28-01 
+ JA1X1S1227463BXA2  Accord       2015  23196  24089  Bryant, Raul            Sat, Nov 15, 2015       D32-28-04 
+ JH155FU1574619B84  Odyssey      2015  46013  47825  Anderson, Brad          Sat, Nov 15, 2015       D32-28-03 
+ JA113SU38746613X6  Accord       2015  22144  23480  Freeman, Arthur         Sat, Nov 15, 2015       D32-28-05 
+ JH155FU14746613X8  Odyssey      2015  44789  47825  Bryant, Raul            Mon, Nov 17, 2015       D32-28-04 
+ JB121S1277465X2XX  Civic        2015  16261  16455  Hicks, Andre            Mon, Nov 17, 2015       D32-28-01 
+ JB128SU397463BXB2  Civic        2015  16536  17455  Bryant, Raul            Wed, Nov 12, 2015       D32-28-04 
+ JH158S41774672424  Odyssey      2015  40375  41375  Bryant, Raul            Sat, Nov 15, 2015       D32-28-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F11145P19453  Odyssey     2004  29939  44825  Anderson, Brad          Wed, Nov 12, 2015       D32-28-03 
+ JB127S1364135X895  Civic       2004  11403  16655  Anderson, Brad          Wed, Nov 12, 2015       D32-28-03 
+ JD136F11A319X8347  CR-Z        2003  15596  24705  Spencer, Sean           Tue, Nov 18, 2015       D32-28-02 
+ JG148F1105X9619A9  Insight     2005  22761  24390  Bryant, Raul            Tue, Nov 18, 2015       D32-28-04 
+ JC131F11132119461  CR-V        2003  19495  30995  Anderson, Brad          Thu, Nov 13, 2015       D32-28-03 
+ JH153FU193X63B683  Odyssey     2003  27765  45825  Freeman, Arthur         Sun, Nov 16, 2015       D32-28-05 
+ JD136F1194364C795  CR-Z        2004  16700  24705  Anderson, Brad          Sat, Nov 15, 2015       D32-28-03 
+ JE141F11921783BX7  Crosstour   2002  18932  37640  Hicks, Andre            Tue, Nov 18, 2015       D32-28-01 
+ JH158S4145114C799  Odyssey     2005  30438  41375  Hicks, Andre            Sat, Nov 15, 2015       D32-28-01 
+ JD136F1113182A581  CR-Z        2003  15093  24705  Freeman, Arthur         Wed, Nov 12, 2015       D32-28-05 
+ JD139F31451772AX3  CR-Z        2005  19528  25705  Bryant, Raul            Mon, Nov 17, 2015       D32-28-04 

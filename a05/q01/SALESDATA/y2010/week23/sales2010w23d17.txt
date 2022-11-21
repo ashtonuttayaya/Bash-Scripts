@@ -1,0 +1,48 @@
+Dealer Name: Lance Honda
+Address:     1136 Brooklin Ave
+             Norbert, FL
+Dealer ID:   17
+Owner:       Lance, Samuel
+Date:        Thu, Jun  4, 2010 thru Wed, Jun 10, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA112F13422382414  Accord       2010  31612  32930  Medina, Emily           Fri, Jun  5, 2010       D17-16-07 
+ JB127S1362236X2C6  Civic        2010  16072  16655  Morris, Bobbie          Fri, Jun  5, 2010       D17-16-05 
+ JA1X3SU2222318A78  Accord       2010  23081  25089  Herrera, Nina           Sat, Jun  6, 2010       D17-16-03 
+ JH155FU132235C1CX  Odyssey      2010  45433  47825  Herrera, Nina           Sun, Jun  7, 2010       D17-16-03 
+ JC131F1122234BXB2  CR-V         2010  29135  30995  Hansen, Ralph           Mon, Jun  8, 2010       D17-16-09 
+ JB127S134223X7974  Civic        2010  16155  16655  West, Sally             Tue, Jun  9, 2010       D17-16-04 
+ JD136F1132236X2X6  CR-Z         2010  23593  24705  Lambert, Anita          Wed, Jun 10, 2010       D17-16-01 
+ JH155FU1622329B98  Odyssey      2010  46151  47825  Lambert, Anita          Tue, Jun  9, 2010       D17-16-01 
+ JH151F115223X798X  Odyssey      2010  42583  44825  Cole, Peter             Wed, Jun 10, 2010       D17-16-02 
+ JA112F1382233ACB2  Accord       2010  30130  32930  Rodriguez, Mathew       Sat, Jun  6, 2010       D17-16-06 
+ JB127S137223X7984  Civic        2010  16155  16655  Rodriguez, Mathew       Mon, Jun  8, 2010       D17-16-06 
+ JB129S147223X7986  Civic        2010  22248  23055  Baker, Lynn             Sun, Jun  7, 2010       D17-16-08 
+ JA114FU3422318A98  Accord       2010  32063  33930  Rodriguez, Mathew       Fri, Jun  5, 2010       D17-16-06 
+ JA116FU37223X799X  Accord       2010  33414  35930  Rodriguez, Mathew       Wed, Jun 10, 2010       D17-16-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F110W45X7727  CR-V        2006  18798  30995  Lambert, Anita          Tue, Jun  9, 2010       D17-16-01 
+ JH159F41AX33822A9  Odyssey     2007  36080  56825  Medina, Emily           Sun, Jun  7, 2010       D17-16-07 
+ JJ162FU1A14P711A1  Pilot       2009  35526  44970  Lambert, Anita          Wed, Jun 10, 2010       D17-16-01 
+ JK169F41AT345CC83  Ridgeline   2004  21321  58750  Morris, Bobbie          Sat, Jun  6, 2010       D17-16-05 
+ JH153FU15TX33AA65  Odyssey     2004  17880  45825  West, Sally             Mon, Jun  8, 2010       D17-16-04 
+ JD137FU12W166XX97  CR-Z        2006  15518  25705  Herrera, Nina           Mon, Jun  8, 2010       D17-16-03 
+ JC131F113113822B9  CR-V        2009  24796  30995  Rodriguez, Mathew       Sun, Jun  7, 2010       D17-16-06 
+ JH152SU16WX929961  Odyssey     2006  18414  30375  Herrera, Nina           Thu, Jun  4, 2010       D17-16-03 
+ JB127S13AX294BB83  Civic       2007  10371  16655  Hansen, Ralph           Tue, Jun  9, 2010       D17-16-09 
+ JJ161FU17144711B5  Pilot       2009  34805  42970  Rodriguez, Mathew       Tue, Jun  9, 2010       D17-16-06 
+ JH158S41A1X329967  Odyssey     2009  33513  41375  West, Sally             Tue, Jun  9, 2010       D17-16-04 
+ JK169F416TX35CC99  Ridgeline   2004  23050  58750  Baker, Lynn             Mon, Jun  8, 2010       D17-16-08 
+ JE144F314X2718861  Crosstour   2007  25129  38640  Baker, Lynn             Tue, Jun  9, 2010       D17-16-08 
+ JG148F110T2P822X3  Insight     2004  10003  24390  Cole, Peter             Wed, Jun 10, 2010       D17-16-02 
+ JB127S133W41711C5  Civic       2006  9907   16655  Rodriguez, Mathew       Wed, Jun 10, 2010       D17-16-06 
+ JD136F117TX2711C7  CR-Z        2004  10139  24705  Hansen, Ralph           Wed, Jun 10, 2010       D17-16-09 
+ JH151F113W5PX7759  Odyssey     2006  26490  44825  Baker, Lynn             Mon, Jun  8, 2010       D17-16-08 
+ JH153FU12X196XXC1  Odyssey     2007  41064  45825  Cole, Peter             Tue, Jun  9, 2010       D17-16-02 
+ JK167FU17WX982213  Ridgeline   2006  29445  49750  Morris, Bobbie          Sun, Jun  7, 2010       D17-16-05 

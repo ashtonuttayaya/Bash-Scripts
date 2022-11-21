@@ -1,0 +1,35 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Thu, May 14, 2010 thru Wed, May 20, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F11122P5C92X  Crosstour    2010  33876  37640  Brooks, Herman          Mon, May 18, 2010       D05-05-01 
+ JA1X2F12322P5C922  Accord       2010  31213  33030  Moreno, Tyrone          Mon, May 18, 2010       D05-05-03 
+ JB127S13922P71B44  Civic        2010  14656  16655  Ford, Roger             Fri, May 15, 2010       D05-05-08 
+ JA119S43422P71B46  Accord       2010  29906  31480  Moreno, Tyrone          Thu, May 14, 2010       D05-05-03 
+ JH153FU1122P71B48  Odyssey      2010  41471  45825  Neal, Douglas           Sat, May 16, 2010       D05-05-06 
+ JD136F11922P1862X  CR-Z         2010  23222  24705  Neal, Douglas           Thu, May 14, 2010       D05-05-06 
+ JB121S12422PX7512  Civic        2010  15138  16455  Moreno, Tyrone          Thu, May 14, 2010       D05-05-03 
+ JA1X7S32A22P5CA64  Accord       2010  22580  25089  Marshall, Donna         Sat, May 16, 2010       D05-05-05 
+ JB129S14322P29736  Civic        2010  20518  23055  Moreno, Tyrone          Tue, May 19, 2010       D05-05-03 
+ JH153FU1322P82X98  Odyssey      2010  40784  45825  Neal, Douglas           Sun, May 17, 2010       D05-05-06 
+ JH154SU1A22P71C9X  Odyssey      2010  28813  32375  Moreno, Tyrone          Sun, May 17, 2010       D05-05-03 
+ JJ161FU1022P29742  Pilot        2010  39962  42970  Foster, Leona           Wed, May 20, 2010       D05-05-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JK167FU16X523A7A5  Ridgeline   2007  30664  49750  Foster, Leona           Mon, May 18, 2010       D05-05-07 
+ JB127S139V453A7A7  Civic       2005  7877   16655  Ford, Roger             Wed, May 20, 2010       D05-05-08 
+ JA115SU39XX23A7A9  Accord      2007  16469  25480  Brooks, Herman          Thu, May 14, 2010       D05-05-01 
+ JG148F113W294B8C1  Insight     2006  14703  24390  Snyder, Norma           Tue, May 19, 2010       D05-05-04 
+ JH156S312XX63A7B3  Odyssey     2007  19690  30375  Moreno, Tyrone          Sun, May 17, 2010       D05-05-03 
+ JH153FU14Y4418595  Odyssey     2008  33470  45825  Brooks, Herman          Fri, May 15, 2010       D05-05-01 
+ JE141F1121X73A7B7  Crosstour   2009  30488  37640  Lynch, Christian        Sat, May 16, 2010       D05-05-02 
+ JE143FU13X5P82C39  Crosstour   2007  26445  40640  Brooks, Herman          Sun, May 17, 2010       D05-05-01 

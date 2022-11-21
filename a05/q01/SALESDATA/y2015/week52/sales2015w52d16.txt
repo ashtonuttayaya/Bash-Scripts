@@ -1,0 +1,64 @@
+Dealer Name: Quality Honda
+Address:     1624 Tupelo Road
+             Norbert, FL
+Dealer ID:   16
+Owner:       Simpson, Homer
+Date:        Wed, Dec 24, 2015 thru Wed, Dec 31, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F11575271534  Insight      2015  23091  24390  Hunter, Yolanda         Fri, Dec 26, 2015       D16-15-02 
+ JA111S1347525C316  Accord       2015  22778  22480  Daniels, Rhonda         Tue, Dec 30, 2015       D16-15-06 
+ JH153FU13752X7B98  Odyssey      2015  42724  45825  Gonzales, Harold        Sat, Dec 27, 2015       D16-15-03 
+ JA115SU397525C32X  Accord       2015  23678  25480  Hunter, Yolanda         Wed, Dec 24, 2015       D16-15-02 
+ JH151F11A75271542  Odyssey      2015  44341  44825  Daniels, Rhonda         Sat, Dec 27, 2015       D16-15-06 
+ JA1X1S12275218CB4  Accord       2015  22188  24089  Horton, Jon             Thu, Dec 25, 2015       D16-15-09 
+ JB127S132752X7BA6  Civic        2015  16179  16655  Gonzales, Harold        Wed, Dec 24, 2015       D16-15-03 
+ JE141F115752X7BA8  Crosstour    2015  34500  37640  Hunter, Yolanda         Fri, Dec 26, 2015       D16-15-02 
+ JB127S1367526X57X  Civic        2015  16979  16655  Hunter, Yolanda         Wed, Dec 24, 2015       D16-15-02 
+ JH155FU1475271682  Odyssey      2015  43320  47825  Freeman, Vickie         Mon, Dec 29, 2015       D16-15-05 
+ JC131F11475229134  CR-V         2015  29229  30995  Crawford, Glen          Tue, Dec 30, 2015       D16-15-04 
+ JB129S1407525C466  Civic        2015  21641  23055  Gonzales, Harold        Wed, Dec 24, 2015       D16-15-03 
+ JA111S137752X7C18  Accord       2015  22306  22480  Gonzales, Harold        Tue, Dec 30, 2015       D16-15-03 
+ JB121S1217524B36X  Civic        2015  16437  16455  Rose, Ida               Fri, Dec 26, 2015       D16-15-08 
+ JA1X3SU217524B362  Accord       2015  24379  25089  Daniels, Rhonda         Sun, Dec 28, 2015       D16-15-06 
+ JE143FU127523A254  Crosstour    2015  37588  40640  Murray, Gladys          Tue, Dec 30, 2015       D16-15-07 
+ JH152SU1275271696  Odyssey      2015  30240  30375  Horton, Jon             Fri, Dec 26, 2015       D16-15-09 
+ JH153FU1075271698  Odyssey      2015  45072  45825  Murray, Gladys          Thu, Dec 25, 2015       D16-15-07 
+ JB121S120752716AX  Civic        2015  16085  16455  Daniels, Rhonda         Tue, Dec 30, 2015       D16-15-06 
+ JC134F3197526X592  CR-V         2015  31298  31995  Horton, Jon             Sun, Dec 28, 2015       D16-15-09 
+ JJ162FU117524B374  Pilot        2015  43559  44970  Hunter, Yolanda         Tue, Dec 30, 2015       D16-15-02 
+ JB123H156752827B6  Civic        2015  26283  27600  Crawford, Glen          Wed, Dec 24, 2015       D16-15-04 
+ JA113SU33752716A8  Accord       2015  23620  23480  Rose, Ida               Sat, Dec 27, 2015       D16-15-08 
+ JC131F1187522916X  CR-V         2015  28265  30995  Crawford, Glen          Tue, Dec 30, 2015       D16-15-04 
+ JD138FU1675229162  CR-Z         2015  26956  27705  Daniels, Rhonda         Thu, Dec 25, 2015       D16-15-06 
+ JH157F3177525C494  Odyssey      2015  45541  45825  Murray, Gladys          Wed, Dec 24, 2015       D16-15-07 
+ JH15AS11575218X56  Odyssey      2015  27602  29375  Hunter, Yolanda         Wed, Dec 24, 2015       D16-15-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH15AS112418822X3  Odyssey     2004  19772  29375  Rose, Ida               Thu, Dec 25, 2015       D16-15-08 
+ JH153FU143473AA85  Odyssey     2003  28690  45825  Daniels, Rhonda         Thu, Dec 25, 2015       D16-15-06 
+ JF146S11A645X7757  Fit         2006  13891  16025  Freeman, Vickie         Sun, Dec 28, 2015       D16-15-05 
+ JG148F114423X7759  Insight     2004  16492  24390  Horton, Jon             Sat, Dec 27, 2015       D16-15-09 
+ JH152SU135465CCB1  Odyssey     2005  22518  30375  Daniels, Rhonda         Sun, Dec 28, 2015       D16-15-06 
+ JA112F1315366XXC3  Accord      2005  24831  32930  Daniels, Rhonda         Tue, Dec 30, 2015       D16-15-06 
+ JB127S13A3146XXC5  Civic       2003  10605  16655  Hunter, Yolanda         Sat, Dec 27, 2015       D16-15-02 
+ JG148F1184X55CCB7  Insight     2004  22683  24390  Rose, Ida               Fri, Dec 26, 2015       D16-15-08 
+ JH156S31544482219  Odyssey     2004  20430  30375  Hunter, Yolanda         Thu, Dec 25, 2015       D16-15-02 
+ JJ16AF11141182221  Pilot       2004  28060  41970  Rose, Ida               Tue, Dec 30, 2015       D16-15-08 
+ JD136F1106334BBB3  CR-Z        2006  20922  24705  Gonzales, Harold        Thu, Dec 25, 2015       D16-15-03 
+ JD137FU1852982225  CR-Z        2005  19528  25705  Murray, Gladys          Fri, Dec 26, 2015       D16-15-07 
+ JH151F11841P18887  Odyssey     2004  40950  44825  Rose, Ida               Tue, Dec 30, 2015       D16-15-08 
+ JE142FU1441518889  Crosstour   2004  25869  38640  Hunter, Yolanda         Mon, Dec 29, 2015       D16-15-02 
+ JJ161FU1042218891  Pilot       2004  27932  42970  Murray, Gladys          Sat, Dec 27, 2015       D16-15-07 
+ JH156S3153X6X7783  Odyssey     2003  18495  30375  Murray, Gladys          Mon, Dec 29, 2015       D16-15-07 
+ JH151F11932782235  Odyssey     2003  27165  44825  Cooper, Joanne          Mon, Dec 29, 2015       D16-15-01 
+ JH159F41521771127  Odyssey     2002  28525  56825  Rose, Ida               Wed, Dec 24, 2015       D16-15-08 
+ JH15AS1145466XX19  Odyssey     2005  22221  29375  Freeman, Vickie         Sun, Dec 28, 2015       D16-15-05 
+ JB128SU31239X7791  Civic       2002  9282   17455  Horton, Jon             Wed, Dec 24, 2015       D16-15-09 
+ JA111S1335365CC13  Accord      2005  17160  22480  Rose, Ida               Fri, Dec 26, 2015       D16-15-08 
+ JH15AS1104465CC15  Odyssey     2004  19232  29375  Hunter, Yolanda         Sun, Dec 28, 2015       D16-15-02 

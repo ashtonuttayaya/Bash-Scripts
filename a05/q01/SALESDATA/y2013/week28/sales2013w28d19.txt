@@ -1,0 +1,24 @@
+Dealer Name: Thomas Team Honda
+Address:     2825 Kline Ave
+             Grayland, TN
+Dealer ID:   19
+Owner:       Thomas, Phil
+Date:        Mon, Jul  9, 2013 thru Sun, Jul 15, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA113SU30528X7C58  Accord       2013  21618  23480  Graham, Keith           Mon, Jul  9, 2013       D19-18-06 
+ JB127S138528716XX  Civic        2013  15423  16655  Hughes, Hazel           Thu, Jul 12, 2013       D19-18-01 
+ JH152SU1252818X72  Odyssey      2013  29187  30375  Rodriguez, Marc         Wed, Jul 11, 2013       D19-18-02 
+ JB121S125528X7C64  Civic        2013  16530  16455  Rice, Joann             Wed, Jul 11, 2013       D19-18-07 
+ JB127S1375284B3A6  Civic        2013  15250  16655  Hughes, Hazel           Sun, Jul 15, 2013       D19-18-01 
+ JF146S116528X7C68  Fit          2013  15113  16025  Rodriguez, Marc         Tue, Jul 10, 2013       D19-18-02 
+ JA1X1S12A5282919X  Accord       2013  23030  24089  Rodriguez, Marc         Mon, Jul  9, 2013       D19-18-02 
+ JH152SU185286X5X2  Odyssey      2013  28255  30375  Graham, Keith           Sun, Jul 15, 2013       D19-18-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH157F3162143AB65  Odyssey     2010  30300  45825  Sanchez, Walter         Wed, Jul 11, 2013       D19-18-08 

@@ -1,0 +1,7 @@
+Checking input error protection
+           OK - file type checks                                chxq05-A1
+           OK - missing file check                              chxq05-B1
+
+Checking normal operation
+           OK - quizzes & update tests                          chxq05-C1
+

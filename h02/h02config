@@ -1,0 +1,15 @@
+q01 type sa
+q01 start a01.bak a01.txt
+q01 submit
+q02 type sa
+q02 start a02.bak a02.txt
+q02 submit
+q03 type sa
+q03 start a03.bak a03.txt
+q03 submit
+q04 type sa
+q04 start a04.bak a04.txt
+q04 submit
+q05 type sa
+q05 start a05.bak a05.txt
+q05 submit

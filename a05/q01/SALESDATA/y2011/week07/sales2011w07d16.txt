@@ -1,0 +1,63 @@
+Dealer Name: Quality Honda
+Address:     1624 Tupelo Road
+             Norbert, FL
+Dealer ID:   16
+Owner:       Simpson, Homer
+Date:        Fri, Feb 12, 2011 thru Thu, Feb 18, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD137FU163X73AC64  CR-Z         2011  23077  25705  Daniels, Rhonda         Mon, Feb 15, 2011       D16-15-06 
+ JB127S1373X7X7936  Civic        2011  15951  16655  Murray, Gladys          Thu, Feb 18, 2011       D16-15-07 
+ JH151F1103X73AC68  Odyssey      2011  40545  44825  Murray, Gladys          Sun, Feb 14, 2011       D16-15-07 
+ JB127S1333X729B6X  Civic        2011  15951  16655  Hunter, Yolanda         Fri, Feb 12, 2011       D16-15-02 
+ JB121S1213X7X7942  Civic        2011  14761  16455  Gonzales, Harold        Mon, Feb 15, 2011       D16-15-03 
+ JB125G1643X74BX84  Civic        2011  26718  28505  Hunter, Yolanda         Thu, Feb 18, 2011       D16-15-02 
+ JC133FU113X73AC76  CR-V         2011  31311  33995  Daniels, Rhonda         Sun, Feb 14, 2011       D16-15-06 
+ JC131F1153X7X7948  CR-V         2011  28410  30995  Murray, Gladys          Tue, Feb 16, 2011       D16-15-07 
+ JB121S1243X75C1AX  Civic        2011  15846  16455  Hunter, Yolanda         Thu, Feb 18, 2011       D16-15-02 
+ JB123H1553X7824X2  Civic        2011  26294  27600  Freeman, Vickie         Mon, Feb 15, 2011       D16-15-05 
+ JB121S1233X718A64  Civic        2011  15762  16455  Gonzales, Harold        Fri, Feb 12, 2011       D16-15-03 
+ JA1X7S3283X74BX96  Accord       2011  22276  25089  Freeman, Vickie         Wed, Feb 17, 2011       D16-15-05 
+ JB127S1383X729B78  Civic        2011  16289  16655  Hunter, Yolanda         Thu, Feb 18, 2011       D16-15-02 
+ JB121S1263X74BXAX  Civic        2011  16179  16455  Daniels, Rhonda         Tue, Feb 16, 2011       D16-15-06 
+ JB127S1393X75C1B2  Civic        2011  15529  16655  Cooper, Joanne          Sun, Feb 14, 2011       D16-15-01 
+ JC131F1143X75C1B4  CR-V         2011  28098  30995  Hunter, Yolanda         Thu, Feb 18, 2011       D16-15-02 
+ JA117S3383X7X7966  Accord       2011  21334  23480  Murray, Gladys          Sun, Feb 14, 2011       D16-15-07 
+ JA1X2F12A3X75C1B8  Accord       2011  29763  33030  Horton, Jon             Fri, Feb 12, 2011       D16-15-09 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH157F311X35822C5  Odyssey     2007  27225  45825  Crawford, Glen          Tue, Feb 16, 2011       D16-15-04 
+ JH155FU17X22711B7  Odyssey     2007  29372  47825  Daniels, Rhonda         Thu, Feb 18, 2011       D16-15-06 
+ JH152SU1AX11X7749  Odyssey     2007  18553  30375  Rose, Ida               Sat, Feb 13, 2011       D16-15-08 
+ JF146S118Y47X7751  Fit         2008  10396  16025  Hunter, Yolanda         Sun, Feb 14, 2011       D16-15-02 
+ JB13ASU43X173AA83  Civic       2007  14043  23855  Murray, Gladys          Thu, Feb 18, 2011       D16-15-07 
+ JC131F115YX65CCA5  CR-V        2008  20246  30995  Horton, Jon             Thu, Feb 18, 2011       D16-15-09 
+ JH153FU141X43AA87  Odyssey     2009  33635  45825  Hunter, Yolanda         Thu, Feb 18, 2011       D16-15-02 
+ JE141F1152X6822X9  Crosstour   2010  30670  37640  Cooper, Joanne          Sat, Feb 13, 2011       D16-15-01 
+ JE141F110Y123AA91  Crosstour   2008  24619  37640  Murray, Gladys          Thu, Feb 18, 2011       D16-15-07 
+ JB127S139131X7763  Civic       2009  12224  16655  Freeman, Vickie         Thu, Feb 18, 2011       D16-15-05 
+ JJ163F314114711X5  Pilot       2009  30336  42970  Hunter, Yolanda         Sun, Feb 14, 2011       D16-15-02 
+ JH159F4191253AA97  Odyssey     2009  40914  56825  Gonzales, Harold        Mon, Feb 15, 2011       D16-15-03 
+ JH155FU19Y1518879  Odyssey     2008  30464  47825  Freeman, Vickie         Fri, Feb 12, 2011       D16-15-05 
+ JA117S330Y3P6XXX1  Accord      2008  15301  23480  Rose, Ida               Thu, Feb 18, 2011       D16-15-08 
+ JH156S31423318883  Odyssey     2010  24174  30375  Murray, Gladys          Mon, Feb 15, 2011       D16-15-07 
+ JB121S129Y365CCC5  Civic       2008  10679  16455  Crawford, Glen          Sun, Feb 14, 2011       D16-15-04 
+ JB121S124Y314BBB7  Civic       2008  10679  16455  Murray, Gladys          Sat, Feb 13, 2011       D16-15-07 
+ JH15AS11522618889  Odyssey     2010  23976  29375  Hunter, Yolanda         Mon, Feb 15, 2011       D16-15-02 
+ JB127S1362X7X7781  Civic       2010  13672  16655  Murray, Gladys          Sat, Feb 13, 2011       D16-15-07 
+ JG149FU10YX15CCX3  Insight     2008  15977  25190  Cooper, Joanne          Sat, Feb 13, 2011       D16-15-01 
+ JE142FU19133X7785  Crosstour   2009  28361  38640  Cooper, Joanne          Fri, Feb 12, 2011       D16-15-01 
+ JJ161FU14Y3418897  Pilot       2008  27356  42970  Hunter, Yolanda         Sun, Feb 14, 2011       D16-15-02 
+ JB127S136W146XX19  Civic       2006  8389   16655  Daniels, Rhonda         Tue, Feb 16, 2011       D16-15-06 
+ JJ161FU12Y2P3AAC1  Pilot       2008  28126  42970  Freeman, Vickie         Mon, Feb 15, 2011       D16-15-05 
+ JB127S136252299B3  Civic       2010  13672  16655  Daniels, Rhonda         Sat, Feb 13, 2011       D16-15-06 
+ JH151F1182464BBX5  Odyssey     2010  36490  44825  Cooper, Joanne          Fri, Feb 12, 2011       D16-15-01 
+ JH154SU13Y465CC17  Odyssey     2008  21154  32375  Murray, Gladys          Thu, Feb 18, 2011       D16-15-07 
+ JH153FU14Y18188A9  Odyssey     2008  41268  45825  Rose, Ida               Tue, Feb 16, 2011       D16-15-08 
+ JC131F111Y19299C1  CR-V        2008  20246  30995  Murray, Gladys          Tue, Feb 16, 2011       D16-15-07 
+ JH15AS1102X26XX33  Odyssey     2010  23976  29375  Horton, Jon             Sun, Feb 14, 2011       D16-15-09 

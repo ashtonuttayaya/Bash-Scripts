@@ -1,0 +1,62 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Sat, Feb 26, 2012 thru Fri, Mar  3, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F11A4X983BC2  Insight      2012  23225  24390  Scott, Samuel           Sat, Feb 26, 2012       D27-24-06 
+ JB121S1254X983BC4  Civic        2012  14960  16455  Wright, Marion          Fri, Mar  3, 2012       D27-24-04 
+ JH154SU184X95X896  Odyssey      2012  31840  32375  Wright, Marion          Thu, Mar  2, 2012       D27-24-04 
+ JB127S1374X972AB8  Civic        2012  16335  16655  Shelton, Regina         Wed, Mar  1, 2012       D27-24-02 
+ JJ162FU164X9619BX  Pilot        2012  40423  44970  Scott, Samuel           Mon, Feb 28, 2012       D27-24-06 
+ JB127S1354X94C792  Civic        2012  15052  16655  Shelton, Regina         Wed, Mar  1, 2012       D27-24-02 
+ JD138FU164X983BX4  CR-Z         2012  25057  27705  Scott, Samuel           Mon, Feb 28, 2012       D27-24-06 
+ JA1X1S1234X95X8A6  Accord       2012  22207  24089  Howard, Samantha        Mon, Feb 28, 2012       D27-24-05 
+ JC134F3144X919468  CR-V         2012  31147  31995  Shelton, Regina         Fri, Mar  3, 2012       D27-24-02 
+ JH155FU194X983B1X  Odyssey      2012  43206  47825  Shelton, Regina         Thu, Mar  2, 2012       D27-24-02 
+ JH155FU124X919472  Odyssey      2012  43447  47825  Wright, Marion          Wed, Mar  1, 2012       D27-24-04 
+ JB127S1394X92A584  Civic        2012  15137  16655  Shelton, Regina         Mon, Feb 28, 2012       D27-24-02 
+ JB121S1264X972AX6  Civic        2012  15552  16455  Shelton, Regina         Fri, Mar  3, 2012       D27-24-02 
+ JD136F1124X92A588  CR-Z         2012  23142  24705  Scott, Samuel           Tue, Feb 29, 2012       D27-24-06 
+ JA1X1S1244X983B2X  Accord       2012  23802  24089  Scott, Samuel           Sun, Feb 27, 2012       D27-24-06 
+ JC132FU174X94C7B2  CR-V         2012  31309  31995  Shelton, Regina         Wed, Mar  1, 2012       D27-24-02 
+ JB122SU244X919484  Civic        2012  16731  17255  Shelton, Regina         Tue, Feb 29, 2012       D27-24-02 
+ JH159F4124X92A596  Odyssey      2012  52693  56825  Scott, Samuel           Wed, Mar  1, 2012       D27-24-06 
+ JB121S1234X972A18  Civic        2012  15975  16455  Perkins, Pearl          Tue, Feb 29, 2012       D27-24-03 
+ JB129S1424X9X838X  Civic        2012  20919  23055  Scott, Samuel           Tue, Feb 29, 2012       D27-24-06 
+ JB127S1324X93B6B2  Civic        2012  15736  16655  Howard, Samantha        Fri, Mar  3, 2012       D27-24-05 
+ JJ161FU174X919494  Pilot        2012  41900  42970  Howard, Samantha        Thu, Mar  2, 2012       D27-24-05 
+ JB127S1344X9X8386  Civic        2012  15480  16655  Scott, Samuel           Mon, Feb 28, 2012       D27-24-06 
+ JK166FU164X93B6B8  Ridgeline    2012  43621  47750  Scott, Samuel           Mon, Feb 28, 2012       D27-24-06 
+ JA112F1304X9X839X  Accord       2012  29708  32930  Perkins, Pearl          Sun, Feb 27, 2012       D27-24-03 
+ JH152SU1A4X972A32  Odyssey      2012  29129  30375  Scott, Samuel           Sat, Feb 26, 2012       D27-24-06 
+ JB129S1404X95X814  Civic        2012  22799  23055  Scott, Samuel           Mon, Feb 28, 2012       D27-24-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU113414B167  Odyssey     2011  38620  47825  Hill, Rita              Mon, Feb 28, 2012       D27-24-01 
+ JB127S1392364B169  Civic       2010  12389  16655  Scott, Samuel           Wed, Mar  1, 2012       D27-24-06 
+ JE141F11A2193AX61  Crosstour   2010  27792  37640  Scott, Samuel           Sun, Feb 27, 2012       D27-24-06 
+ JH151F11023318B43  Odyssey     2010  33066  44825  Shelton, Regina         Thu, Mar  2, 2012       D27-24-02 
+ JH159F413X4418B45  Odyssey     2007  26778  56825  Wright, Marion          Sat, Feb 26, 2012       D27-24-04 
+ JH152SU12W19714A7  Odyssey     2006  11880  30375  Scott, Samuel           Sat, Feb 26, 2012       D27-24-06 
+ JH159F419W5P714A9  Odyssey     2006  24144  56825  Shelton, Regina         Tue, Feb 29, 2012       D27-24-02 
+ JJ164F4101364B181  Pilot       2009  35512  53970  Wright, Marion          Wed, Mar  1, 2012       D27-24-04 
+ JD136F1154X4825C3  CR-Z         2012  22842  24705  Scott, Samuel           Sat, Feb 26, 2012       D27-24-06 
+ JB127S134YX46X3A5  Civic       2008  10186  16655  Howard, Samantha        Mon, Feb 28, 2012       D27-24-05 
+ JG148F111Y4318B57  Insight     2008  14499  24390  Scott, Samuel           Wed, Mar  1, 2012       D27-24-06 
+ JB127S1321X9X7A49  Civic       2009  10958  16655  Shelton, Regina         Thu, Mar  2, 2012       D27-24-02 
+ JH153FU1611218B61  Odyssey     2009  30152  45825  Scott, Samuel           Tue, Feb 29, 2012       D27-24-06 
+ JJ164F416X333AX83  Pilot       2007  25422  53970  Shelton, Regina         Wed, Mar  1, 2012       D27-24-02 
+ JC131F113W483AX85  CR-V        2006  12128  30995  Wright, Marion          Mon, Feb 28, 2012       D27-24-04 
+ JB129S147YX45C2A7  Civic       2008  13698  23055  Scott, Samuel           Sat, Feb 26, 2012       D27-24-06 
+ JH155FU162134B199  Odyssey     2010  34596  47825  Perkins, Pearl          Thu, Mar  2, 2012       D27-24-03 
+ JE141F114Y525C2B1  Crosstour   2008  22449  37640  Perkins, Pearl          Wed, Mar  1, 2012       D27-24-03 
+ JC133FU10133714X3  CR-V        2009  22368  33995  Wright, Marion          Thu, Mar  2, 2012       D27-24-04 
+ JH155FU14YX218B75  Odyssey     2008  29512  47825  Howard, Samantha        Mon, Feb 28, 2012       D27-24-05 

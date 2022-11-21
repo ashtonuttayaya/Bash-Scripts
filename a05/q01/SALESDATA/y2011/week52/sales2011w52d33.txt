@@ -1,0 +1,47 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Fri, Dec 24, 2011 thru Fri, Dec 31, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1253521966X  Civic        2011  15679  16455  Wells, Clayton          Wed, Dec 29, 2011       D33-29-01 
+ JA1X3SU203522A772  Accord       2011  22909  25089  Martinez, Katherine     Wed, Dec 29, 2011       D33-29-04 
+ JB127S13035219664  Civic        2011  15276  16655  Wells, Clayton          Thu, Dec 30, 2011       D33-29-01 
+ JH152SU17352X8556  Odyssey      2011  28764  30375  Martinez, Katherine     Wed, Dec 29, 2011       D33-29-04 
+ JE141F11235261BB8  Crosstour    2011  33510  37640  Shelton, Adam           Thu, Dec 30, 2011       D33-29-05 
+ JB121S1213524C9AX  Civic        2011  15012  16455  Mitchell, John          Tue, Dec 28, 2011       D33-29-02 
+ JB125G16335272CX2  Civic        2011  27580  28505  Martinez, Katherine     Thu, Dec 30, 2011       D33-29-04 
+ JG148F11935283X14  Insight      2011  21661  24390  Mitchell, John          Fri, Dec 24, 2011       D33-29-02 
+ JA1X2F129352X8566  Accord       2011  30927  33030  Shelton, Adam           Fri, Dec 24, 2011       D33-29-05 
+ JA114FU393524C9A8  Accord       2011  32447  33930  Wells, Clayton          Sat, Dec 25, 2011       D33-29-01 
+ JA111S13A3525XACX  Accord       2011  20320  22480  Wells, Clayton          Wed, Dec 29, 2011       D33-29-01 
+ JH155FU17352X8572  Odyssey      2011  45647  47825  Martinez, Katherine     Mon, Dec 27, 2011       D33-29-04 
+ JC134F31A3523B8A4  CR-V         2011  30931  31995  Wells, Clayton          Sun, Dec 26, 2011       D33-29-01 
+ JA116FU33352X8576  Accord       2011  33443  35930  Mitchell, John          Thu, Dec 30, 2011       D33-29-02 
+ JA112F1303522A798  Accord       2011  30502  32930  Shelton, Adam           Mon, Dec 27, 2011       D33-29-05 
+ JE141F1173524C9CX  Crosstour    2011  33889  37640  Wells, Clayton          Thu, Dec 30, 2011       D33-29-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA113SU30W3371637  Accord      2006  11972  23480  Morgan, Milton          Fri, Dec 24, 2011       D33-29-03 
+ JH152SU1AX296X529  Odyssey     2007  17955  30375  Morgan, Milton          Tue, Dec 28, 2011       D33-29-03 
+ JB129S144Y214B311  Civic       2008  14611  23055  Wells, Clayton          Wed, Dec 29, 2011       D33-29-01 
+ JC133FU18X1271643  CR-V        2007  20127  33995  Shelton, Adam           Fri, Dec 24, 2011       D33-29-05 
+ JK168F311Y4518XB5  Ridgeline   2008  30416  47750  Morgan, Milton          Mon, Dec 27, 2011       D33-29-03 
+ JH157F315V44X7CA7  Odyssey     2005  16622  45825  Shelton, Adam           Thu, Dec 30, 2011       D33-29-05 
+ JG148F112Y44X7CA9  Insight     2008  15465  24390  Mitchell, John          Fri, Dec 24, 2011       D33-29-02 
+ JD136F114X4572A81  CR-Z        2007  15038  24705  Martinez, Katherine     Thu, Dec 30, 2011       D33-29-04 
+ JA111S139Y1472A83  Accord      2008  14643  22480  Martinez, Katherine     Mon, Dec 27, 2011       D33-29-04 
+ JE142FU172X25X865  Crosstour   2010  31092  38640  Mitchell, John          Sun, Dec 26, 2011       D33-29-02 
+ JH157F3161224C757  Odyssey     2009  32352  45825  Shelton, Adam           Mon, Dec 27, 2011       D33-29-05 
+ JE144F317X1P72A89  Crosstour   2007  23677  38640  Shelton, Adam           Mon, Dec 27, 2011       D33-29-05 
+ JH156S310X414C761  Odyssey     2007  17955  30375  Wells, Clayton          Thu, Dec 30, 2011       D33-29-01 
+ JC131F118Y5183BA3  CR-V        2008  20246  30995  Morgan, Milton          Tue, Dec 28, 2011       D33-29-03 
+ JC135F41633P19435  CR-V         2011  36602  39995  Mitchell, John          Mon, Dec 27, 2011       D33-29-02 
+ JJ164F4103313B657  Pilot        2011  49250  53970  Mitchell, John          Fri, Dec 24, 2011       D33-29-02 

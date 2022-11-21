@@ -1,0 +1,8 @@
+#!/bin/bash
+filedata=insert_data.txt
+infile=$1
+
+while read fname lname; 
+
+
+done < $infile

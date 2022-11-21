@@ -1,0 +1,61 @@
+Dealer Name: Adams Honda
+Address:     4008 Lee Road
+             Louderdale, FL
+Dealer ID:   32
+Owner:       Adams, Jon
+Date:        Tue, Oct  1, 2014 thru Mon, Oct  7, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD138FU1964P4CC96  CR-Z         2014  25744  27705  Hicks, Andre            Tue, Oct  1, 2014       D32-28-01 
+ JB129S14A64P4CC98  Civic        2014  23116  23055  Hicks, Andre            Thu, Oct  3, 2014       D32-28-01 
+ JA1X4FU2464P8331X  Accord       2014  31786  34030  Anderson, Brad          Thu, Oct  3, 2014       D32-28-03 
+ JB121S12A64P4CCA2  Civic        2014  15359  16455  Hicks, Andre            Sun, Oct  6, 2014       D32-28-01 
+ JB127S13564PX8864  Civic        2014  15975  16655  Bryant, Raul            Fri, Oct  4, 2014       D32-28-04 
+ JC133FU1464P83316  CR-V         2014  31928  33995  Bryant, Raul            Tue, Oct  1, 2014       D32-28-04 
+ JC131F11464PX8868  CR-V         2014  30778  30995  Freeman, Arthur         Sun, Oct  6, 2014       D32-28-05 
+ JA115SU3864P611XX  Accord       2014  23346  25480  Hicks, Andre            Tue, Oct  1, 2014       D32-28-01 
+ JK167FU1164P83322  Ridgeline    2014  46344  49750  Hicks, Andre            Sun, Oct  6, 2014       D32-28-01 
+ JB121S12864P83324  Civic        2014  15532  16455  Freeman, Arthur         Tue, Oct  1, 2014       D32-28-05 
+ JH153FU1764PX8876  Odyssey      2014  41585  45825  Bryant, Raul            Sat, Oct  5, 2014       D32-28-04 
+ JD136F11A64P19988  CR-Z         2014  24324  24705  Freeman, Arthur         Sun, Oct  6, 2014       D32-28-05 
+ JA1X2F12764P8333X  Accord       2014  30367  33030  Anderson, Brad          Mon, Oct  7, 2014       D32-28-03 
+ JH151F11664P2AAA2  Odyssey      2014  40466  44825  Bryant, Raul            Sun, Oct  6, 2014       D32-28-04 
+ JJ164F41264P3BBB4  Pilot        2014  52675  53970  Bryant, Raul            Wed, Oct  2, 2014       D32-28-04 
+ JH151F11164P72226  Odyssey      2014  43438  44825  Spencer, Sean           Thu, Oct  3, 2014       D32-28-02 
+ JJ162FU1964P4CCC8  Pilot        2014  44264  44970  Bryant, Raul            Wed, Oct  2, 2014       D32-28-04 
+ JC131F11764P2AABX  CR-V         2014  29821  30995  Bryant, Raul            Wed, Oct  2, 2014       D32-28-04 
+ JB121S12864P5XX12  Civic        2014  15619  16455  Spencer, Sean           Mon, Oct  7, 2014       D32-28-02 
+ JH151F11664PX8894  Odyssey      2014  40695  44825  Freeman, Arthur         Thu, Oct  3, 2014       D32-28-05 
+ JA1X1S12264PX8896  Accord       2014  23114  24089  Anderson, Brad          Sun, Oct  6, 2014       D32-28-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH154SU12212X7BA7  Odyssey     2002  20212  32375  Bryant, Raul            Wed, Oct  2, 2014       D32-28-04 
+ JE142FU13315X7BA9  Crosstour   2003  25721  38640  Freeman, Arthur         Tue, Oct  1, 2014       D32-28-05 
+ JD139F3162494B351  CR-Z        2002  15558  25705  Freeman, Arthur         Mon, Oct  7, 2014       D32-28-05 
+ JH153FU145294B353  Odyssey     2005  36912  45825  Bryant, Raul            Mon, Oct  7, 2014       D32-28-04 
+ JG148F1143135C465  Insight     2003  15897  24390  Spencer, Sean           Fri, Oct  4, 2014       D32-28-02 
+ JD138FU1341229137  CR-Z        2004  20830  27705  Spencer, Sean           Sat, Oct  5, 2014       D32-28-02 
+ JE143FU175215C469  Crosstour   2005  37386  40640  Bryant, Raul            Mon, Oct  7, 2014       D32-28-04 
+ JH155FU16316X7C21  Odyssey     2003  30896  47825  Anderson, Brad          Wed, Oct  2, 2014       D32-28-03 
+ JH156S31654118X33  Odyssey     2005  24707  30375  Bryant, Raul            Wed, Oct  2, 2014       D32-28-04 
+ JC133FU17YX118X35  CR-V        2000  13508  33995  Freeman, Arthur         Sun, Oct  6, 2014       D32-28-05 
+ JH15AS11654818X37  Odyssey     2005  24522  29375  Anderson, Brad          Fri, Oct  4, 2014       D32-28-03 
+ JH156S315315X7C29  Odyssey     2003  19173  30375  Freeman, Arthur         Thu, Oct  3, 2014       D32-28-05 
+ JH154SU1424418X41  Odyssey     2002  18908  32375  Bryant, Raul            Sun, Oct  6, 2014       D32-28-04 
+ JC134F31141118X43  CR-V        2004  23979  31995  Spencer, Sean           Sat, Oct  5, 2014       D32-28-02 
+ JJ16AF11A3353A265  Pilot       2003  38178  41970  Bryant, Raul            Sat, Oct  5, 2014       D32-28-04 
+ JB121S126334716A7  Civic       2003  11123  16455  Anderson, Brad          Thu, Oct  3, 2014       D32-28-03 
+ JH151F1112364B379  Odyssey     2002  27030  44825  Hicks, Andre            Wed, Oct  2, 2014       D32-28-01 
+ JJ161FU1A1X54B381  Pilot       2001  22559  42970  Bryant, Raul            Wed, Oct  2, 2014       D32-28-04 
+ JD138FU15251827C3  CR-Z        2002  17316  27705  Bryant, Raul            Sun, Oct  6, 2014       D32-28-04 
+ JB127S136316X7C45  Civic       2003  11255  16655  Freeman, Arthur         Sun, Oct  6, 2014       D32-28-05 
+ JG148F1183X429167  Insight     2003  16344  24390  Freeman, Arthur         Tue, Oct  1, 2014       D32-28-05 
+ JH151F113319716B9  Odyssey     2003  28976  44825  Spencer, Sean           Mon, Oct  7, 2014       D32-28-02 
+ JC134F31522918X61  CR-V        2002  19332  31995  Bryant, Raul            Wed, Oct  2, 2014       D32-28-04 
+ JG149FU1A1434B393  Insight     2001  13224  25190  Bryant, Raul            Tue, Oct  1, 2014       D32-28-04 
+ JF146S1126364B395  Fit          2014  15435  16025  Spencer, Sean           Wed, Oct  2, 2014       D32-28-02 

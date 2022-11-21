@@ -1,0 +1,67 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Wed, May 14, 2015 thru Tue, May 20, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F11272P5XB18  Insight      2015  23984  24390  Perkins, Pearl          Fri, May 16, 2015       D27-24-03 
+ JB121S12772P72X4X  Civic        2015  16788  16455  Howard, Samantha        Thu, May 15, 2015       D27-24-05 
+ JH157F31872P83152  Odyssey      2015  43194  45825  Scott, Samuel           Mon, May 19, 2015       D27-24-06 
+ JC132FU1972PX86A4  CR-V         2015  31132  31995  Perkins, Pearl          Fri, May 16, 2015       D27-24-03 
+ JH156S31872P4CA16  Odyssey      2015  29767  30375  Wright, Marion          Fri, May 16, 2015       D27-24-04 
+ JB127S13972P2A8C8  Civic        2015  16446  16655  Perkins, Pearl          Tue, May 20, 2015       D27-24-03 
+ JA117S33A72PX871X  Accord       2015  22759  23480  Shelton, Regina         Tue, May 20, 2015       D27-24-02 
+ JE144F31072P61X72  Crosstour    2015  37180  38640  Wright, Marion          Mon, May 19, 2015       D27-24-04 
+ JC131F11772P4CB54  CR-V         2015  30835  30995  Wright, Marion          Mon, May 19, 2015       D27-24-04 
+ JC132FU1672PX8716  CR-V         2015  30304  31995  Shelton, Regina         Wed, May 14, 2015       D27-24-02 
+ JB121S12872PX8718  Civic        2015  16349  16455  Howard, Samantha        Fri, May 16, 2015       D27-24-05 
+ JB123H15872P1983X  Civic        2015  25852  27600  Howard, Samantha        Thu, May 15, 2015       D27-24-05 
+ JB121S12372P2A942  Civic        2015  16788  16455  Shelton, Regina         Sat, May 17, 2015       D27-24-02 
+ JH155FU1572P19834  Odyssey      2015  44055  47825  Scott, Samuel           Fri, May 16, 2015       D27-24-06 
+ JH155FU1A72P61X86  Odyssey      2015  47236  47825  Perkins, Pearl          Sat, May 17, 2015       D27-24-03 
+ JH151F11372P61X88  Odyssey      2015  42733  44825  Shelton, Regina         Tue, May 20, 2015       D27-24-02 
+ JC133FU1072P5XC8X  CR-V         2015  32837  33995  Scott, Samuel           Tue, May 20, 2015       D27-24-06 
+ JG148F11472P5XC82  Insight      2015  23218  24390  Wright, Marion          Tue, May 20, 2015       D27-24-04 
+ JG148F11672P832B4  Insight      2015  23984  24390  Wright, Marion          Wed, May 14, 2015       D27-24-04 
+ JE141F11872P19846  Crosstour    2015  37408  37640  Hill, Rita              Mon, May 19, 2015       D27-24-01 
+ JC131F11472P19848  CR-V         2015  31156  30995  Shelton, Regina         Tue, May 20, 2015       D27-24-02 
+ JC132FU1672PX874X  CR-V         2015  29311  31995  Hill, Rita              Fri, May 16, 2015       D27-24-01 
+ JJ161FU1872P5XC92  Pilot        2015  40126  42970  Wright, Marion          Sun, May 18, 2015       D27-24-04 
+ JA1X1S12772P832C4  Accord       2015  22944  24089  Wright, Marion          Thu, May 15, 2015       D27-24-04 
+ JD138FU1672P5XC96  CR-Z         2015  27388  27705  Howard, Samantha        Sun, May 18, 2015       D27-24-05 
+ JE141F11672PX8748  Crosstour    2015  36245  37640  Hill, Rita              Mon, May 19, 2015       D27-24-01 
+ JB121S12672P5XCAX  Civic        2015  16788  16455  Hill, Rita              Wed, May 14, 2015       D27-24-01 
+ JC131F11572P61XB2  CR-V         2015  29229  30995  Shelton, Regina         Sat, May 17, 2015       D27-24-02 
+ JB122SU2072PX8754  Civic        2015  17277  17255  Shelton, Regina         Thu, May 15, 2015       D27-24-02 
+ JH151F11672P3BA86  Odyssey      2015  40665  44825  Scott, Samuel           Sun, May 18, 2015       D27-24-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU151X682557  Odyssey     2001  18330  45825  Perkins, Pearl          Wed, May 14, 2015       D27-24-03 
+ JB129S14052371449  Civic       2005  17582  23055  Scott, Samuel           Wed, May 14, 2015       D27-24-06 
+ JC134F3173215C361  CR-V        2003  20115  31995  Scott, Samuel           Sat, May 17, 2015       D27-24-06 
+ JB123H1575483A143  Civic       2005  20919  27600  Perkins, Pearl          Sun, May 18, 2015       D27-24-03 
+ JH157F3102476X475  Odyssey     2002  23025  45825  Hill, Rita              Mon, May 19, 2015       D27-24-01 
+ JH152SU132245C367  Odyssey     2002  15300  30375  Hill, Rita              Sat, May 17, 2015       D27-24-01 
+ JD138FU1422P6X479  CR-Z        2002  13965  27705  Hill, Rita              Thu, May 15, 2015       D27-24-01 
+ JG148F1163X418C31  Insight     2003  15400  24390  Hill, Rita              Mon, May 19, 2015       D27-24-01 
+ JB127S13A53418C33  Civic       2005  12885  16655  Scott, Samuel           Sun, May 18, 2015       D27-24-06 
+ JB127S13861118C35  Civic       2006  14401  16655  Hill, Rita              Sat, May 17, 2015       D27-24-01 
+ JB127S1311X13A157  Civic       2001  6662   16655  Hill, Rita              Thu, May 15, 2015       D27-24-01 
+ JC131F11341529X49  CR-V        2004  20268  30995  Scott, Samuel           Thu, May 15, 2015       D27-24-06 
+ JH157F31415P826B1  Odyssey     2001  18330  45825  Wright, Marion          Sat, May 17, 2015       D27-24-04 
+ JC131F112328826B3  CR-V        2003  19495  30995  Wright, Marion          Tue, May 20, 2015       D27-24-04 
+ JH155FU115246X495  Odyssey     2005  34399  47825  Shelton, Regina         Sun, May 18, 2015       D27-24-02 
+ JJ164F418451X7B37  Pilot       2004  35956  53970  Shelton, Regina         Mon, May 19, 2015       D27-24-02 
+ JG148F1104X6826B9  Insight     2004  16492  24390  Wright, Marion          Mon, May 19, 2015       D27-24-04 
+ JH154SU12226X7B41  Odyssey     2002  16300  32375  Perkins, Pearl          Sat, May 17, 2015       D27-24-03 
+ JE142FU183324B283  Crosstour   2003  23454  38640  Scott, Samuel           Tue, May 20, 2015       D27-24-06 
+ JH152SU124213A175  Odyssey     2004  19872  30375  Hill, Rita              Sat, May 17, 2015       D27-24-01 
+ JH158S41A4326X4A7  Odyssey     2004  26912  41375  Hill, Rita              Tue, May 20, 2015       D27-24-01 
+ JH15AS1127183A179  Odyssey      2015  27806  29375  Hill, Rita              Tue, May 20, 2015       D27-24-01 

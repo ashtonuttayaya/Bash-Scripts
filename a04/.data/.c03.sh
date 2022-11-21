@@ -1,0 +1,1 @@
+/home/n_autty/class/a04/q03/check03.sh

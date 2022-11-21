@@ -1,0 +1,20 @@
+q01 type sa
+q01 start
+q01 submit
+q01 clean
+q02 type ac
+q02 start
+q02 clean q02.env
+q02 submit q02.env
+q03 type sc
+q03 start
+q03 clean q03.sql q03.sh
+q03 submit q03.sql
+q04 type sa
+q04 start
+q04 submit
+q04 clean
+q05 type sa
+q05 start
+q05 submit
+q05 clean

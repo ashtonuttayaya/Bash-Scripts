@@ -1,0 +1,275 @@
+Homework 4: submission file hwk04.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Sunday, Sep 26, 2021
+    Time:    22:52
+    USID:    51t632d#f0D4aaimSvN{e1B2s0v20%2yIthtJugaH_2nj!k2j50:I2m25*Mamysa3y9adtOtLU0}94A0Shr@QpQeXSy-4nSo3tbhws2A
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a01.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 3
+            
+            B. 1
+            
+            C. 4
+            
+            D. 5
+            
+            E. 6
+            
+            F. 2
+            
+            END OF QUESTION 1: This unedited file contains 335 characters.
+
+        End output of a01.txt
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: True or False
+            
+            Please do NOT delete any characters in this file. The file a02.bak contains
+            a backup copy of this file. Enter either T or F after each of the letters
+            below. Refer to your printed question for details.
+            
+            A. T
+            
+            B. F
+            
+            C. T
+            
+            D. F
+            
+            E. T
+            
+            END OF QUESTION 2: This unedited file contains 317 characters.
+
+        End output of a02.txt
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            Create your script in the file q03.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 3: This unedited file contains 320 characters.
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+
+        End output of check03.txt
+
+
+        Start output of q03.sh
+            #!/bin/bash
+            word="${1:-NOTHING}"
+            if [ $word = "NOTHING" ]
+            then
+              echo -en "Input word missing.\n"
+              echo -en "Script will run with default value (NOTHING), then exit.\n"
+            fi
+            
+            read -p "Enter the file you want to search: " file
+            if [ ! -f "$file" ]
+            then
+              echo -en "$file does not exist.\n"
+              echo -en "Script will use default value (test.txt), then exit.\n"
+              file="test.txt"
+            fi
+            
+            grep -iw $word $file
+            if [[ $word != "NOTHING" && $file != "test.txt" ]]
+            then 
+              echo -en "$file has been searched for $word. The script will now exit."
+            else
+              echo -rn "test.txt has been searched for NOTHING. The script will now exit."
+            fi
+
+        End output of q03.sh
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a04.bak contains a backup copy of this file if you need it.
+            Create your script in the file q04.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            B. 18
+            
+            C. 4
+            
+            D. No
+            
+            END OF QUESTION 4: This unedited file contains 335 characters.
+
+        End output of a04.txt
+
+
+        Start output of check04.txt
+
+        End output of check04.txt
+
+
+        Start output of q04.sh
+            #!/bin/bash
+            
+            file_input=$1
+            
+            while [ true ]
+            do
+                echo "Enter search term to find occurrence in file ${file_input}:"
+                read searchterm
+                if [ "${searchterm}" == "" ]
+                then
+                    break
+                else
+                    grep -iw ${searchterm} ${file_input} | wc -l
+                fi
+            done
+            
+            echo ""
+            
+
+        End output of q04.sh
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a05.bak contains a backup copy of this file if you need it.
+            Create your script in the file q05.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 5: This unedited file contains 320 characters.
+
+        End output of a05.txt
+
+
+        Start output of check05.txt
+
+        End output of check05.txt
+
+
+        Start output of q05.sh
+            #!/bin/bash
+            input="quizzes.dat"	# This the default setting for the input file.  
+            output="quizzes.sql"	# Same as above - for output file
+            			# The above values need to be reset based on user command line parameter
+            # MAKE YOUR CHANGES HERE
+            
+            input=$1
+            output=$2
+            
+            if [[ ! -f "$input" || $input != *.dat ]]; then
+              exit
+            elif [[ $output != *.sql ]]; then
+              exit
+            fi
+            
+            # END YOUR CHANGES HERE
+            #
+            # NOTE:  DO NOT CHANGE THE FILE FROM THIS POINT ON
+            #
+            #
+            # create the sql header to select the database to use and the table to use/create
+            #
+            echo "USE quizzes;" > $output
+            echo "CREATE IF NOT EXISTS TABLE students(score_id INT, student_id INT, fname VARCHAR(25), lname VARCHAR(25), quiz_id INT, quiz_score INT, primary key(score_id));" >> $output
+            #
+            #	Define a function to help insert the quiz scores
+            #
+            function insert() {
+            	sid=$1		#student id
+            	qid=$2		#quiz number
+            	fn=$3		#first name
+            	ln=$4		#last name
+            	qs=$5		#quiz score
+            	entry_id=$[($sid-1)*7 + $qid]		# calculate unique quiz id from student id and quiz id
+            #
+            #	Begin insert
+            #
+            	echo -n "INSERT INTO students( student_id, fname, lname, quiz_id, quiz_score, score_id ) "
+            	echo "VALUES( '$sid', '$fn, '$ln', '$qid', '$qs', '$entry_id');"
+            
+            }	# end function insert	
+            
+            #
+            #	Begin loop to read the data file and write out the student quiz scores
+            #
+            while read student_id fname lname q01 q02 q03 q04 q05 q06 q07
+            do							# write our sql statements for:
+            	insert $student_id 1 $fname $lname $q01 >> $output	# quiz 1
+            	insert $student_id 2 $fname $lname $q02	>> $output	# quiz 2
+            	insert $student_id 3 $fname $lname $q03	>> $output	# quiz 3
+            	insert $student_id 4 $fname $lname $q04	>> $output	# quiz 4
+            	insert $student_id 5 $fname $lname $q05	>> $output	# quiz 5
+            	insert $student_id 6 $fname $lname $q06	>> $output	# quiz 6
+            	insert $student_id 7 $fname $lname $q07	>> $output	# quiz 7
+            done < $input
+
+        End output of q05.sh
+
+    All files found for question 5.
+END QUESTION 5
+
+    Begin summary of file submissions
+        Files needed  = 11
+        Files found   = 11
+        Files missing = 0
+    End summary of file submissions
+
+    Begin summary of question checks
+        Question 1: Correct!         a01.txt - 6 of 6 correct, all files present.
+        Question 2: Correct!         a02.txt - 5 of 5 correct, all files present.
+        Question 3: Needs more work. a03.txt - 1 of 1 correct, check03.sh gets incorrect answer, all files present.
+        Question 4: Needs more work. a04.txt - 4 of 4 correct, check04.sh gets incorrect answer, all files present.
+        Question 5: Needs more work. a05.txt - 1 of 1 correct, check05.sh gets incorrect answer, all files present.
+    2 out of 5 questions correct
+    End summary of question checks
+
+Homework 4: submission file hwk04.txt completed

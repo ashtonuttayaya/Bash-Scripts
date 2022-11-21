@@ -1,0 +1,1 @@
+/home/n_autty/class/e03/q09/check09.sh

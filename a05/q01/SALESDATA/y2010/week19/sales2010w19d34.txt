@@ -1,0 +1,40 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Thu, May  7, 2010 thru Wed, May 13, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB122SU2521972C86  Civic        2010  15184  17255  Rice, Georgia           Sat, May  9, 2010       D34-30-03 
+ JA115SU372192A738  Accord       2010  24078  25480  Webb, Ken               Wed, May 13, 2010       D34-30-02 
+ JB121S12021972C9X  Civic        2010  15879  16455  Bennett, Michele        Fri, May  8, 2010       D34-30-05 
+ JG148F11321919632  Insight      2010  22316  24390  Rodriquez, Jorge        Tue, May 12, 2010       D34-30-04 
+ JB127S131219X8524  Civic        2010  14656  16655  Rodriquez, Jorge        Sat, May  9, 2010       D34-30-04 
+ JB127S1352193B856  Civic        2010  14656  16655  Webb, Ken               Tue, May 12, 2010       D34-30-02 
+ JJ161FU1521961B88  Pilot        2010  39747  42970  Webb, Ken               Sat, May  9, 2010       D34-30-02 
+ JE145F41721961B9X  Crosstour    2010  42442  46640  Jensen, Bill            Fri, May  8, 2010       D34-30-06 
+ JA111S13621919642  Accord       2010  21018  22480  Bennett, Michele        Fri, May  8, 2010       D34-30-05 
+ JA119S43621972CA4  Accord       2010  28961  31480  Webb, Ken               Mon, May 11, 2010       D34-30-02 
+ JH155FU1021972CA6  Odyssey      2010  44716  47825  Rodriquez, Jorge        Tue, May 12, 2010       D34-30-04 
+ JB121S1242192A758  Civic        2010  14480  16455  Torres, Caroline        Tue, May 12, 2010       D34-30-01 
+ JA111S1332195XA9X  Accord       2010  21131  22480  Rodriquez, Jorge        Sat, May  9, 2010       D34-30-04 
+ JD139F31421972CB2  CR-Z         2010  23520  25705  Webb, Ken               Sat, May  9, 2010       D34-30-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU11Y35X7C65  CR-V        2008  23319  31995  Torres, Caroline        Thu, May  7, 2010       D34-30-01 
+ JH153FU10X463A297  Odyssey     2007  29856  45825  Webb, Ken               Fri, May  8, 2010       D34-30-02 
+ JH156S315XX882719  Odyssey     2007  19152  30375  Bennett, Michele        Wed, May 13, 2010       D34-30-05 
+ JH155FU13X394B3B1  Odyssey     2007  30320  47825  Torres, Caroline        Fri, May  8, 2010       D34-30-01 
+ JH153FU14V4P5C4C3  Odyssey     2005  23585  45825  Webb, Ken               Mon, May 11, 2010       D34-30-02 
+ JC131F11613182725  CR-V        2009  25105  30995  Webb, Ken               Wed, May 13, 2010       D34-30-02 
+ JH15AS11AX1429197  Odyssey     2007  19032  29375  Rodriquez, Jorge        Sun, May 10, 2010       D34-30-04 
+ JG148F117W183A2A9  Insight     2006  14229  24390  Rodriquez, Jorge        Fri, May  8, 2010       D34-30-04 
+ JB121S120XX718X91  Civic       2007  10531  16455  Jensen, Bill            Wed, May 13, 2010       D34-30-06 
+ JJ161FU15X49X7C83  Pilot       2007  27212  42970  Bennett, Michele        Thu, May  7, 2010       D34-30-05 
+ JH153FU17W193A2B5  Odyssey     2006  40635  45825  Webb, Ken               Tue, May 12, 2010       D34-30-02 

@@ -1,0 +1,34 @@
+Dealer Name: Donner Honda
+Address:     9484 Ford Parkwark
+             Hinds, NC
+Dealer ID:   14
+Owner:       Donner, Earl
+Date:        Thu, Jan  1, 2010 thru Wed, Jan  7, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X3SU252X16X1X6  Accord       2010  23834  25089  Edwards, Heather        Thu, Jan  1, 2010       D14-13-04 
+ JB123H1582X15CXC8  Civic        2010  24978  27600  Hart, Leona             Sat, Jan  3, 2010       D14-13-05 
+ JD136F1162X129AAX  CR-Z         2010  22728  24705  Reid, Danielle          Thu, Jan  1, 2010       D14-13-03 
+ JB121S1222X16X112  Civic        2010  15138  16455  Reid, Danielle          Mon, Jan  5, 2010       D14-13-03 
+ JC133FU162X171224  CR-V         2010  32975  33995  Fowler, Charlotte       Tue, Jan  6, 2010       D14-13-07 
+ JH154SU192X16X116  Odyssey      2010  30756  32375  Fowler, Charlotte       Tue, Jan  6, 2010       D14-13-07 
+ JB121S1202X129AA8  Civic        2010  15138  16455  Hart, Leona             Fri, Jan  2, 2010       D14-13-05 
+ JB129S1412X16X12X  Civic        2010  22132  23055  Rose, Terrance          Sat, Jan  3, 2010       D14-13-06 
+ JD136F1152X13ABC2  CR-Z         2010  23593  24705  Edwards, Heather        Mon, Jan  5, 2010       D14-13-04 
+ JB127S1372X129AB4  Civic        2010  14739  16655  Peters, Stacey          Thu, Jan  1, 2010       D14-13-09 
+ JB121S1282X15CX16  Civic        2010  15714  16455  Peters, Stacey          Fri, Jan  2, 2010       D14-13-09 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ16AF119X256XCA5  Pilot       2007  26572  41970  Carr, Geraldine         Mon, Jan  5, 2010       D14-13-08 
+ JB121S127WX93A977  Civic       2006  9783   16455  Dixon, Alfredo          Mon, Jan  5, 2010       D14-13-02 
+ JJ162FU14W3229869  Pilot       2006  27462  44970  Reynolds, Alan          Wed, Jan  7, 2010       D14-13-01 
+ JH154SU11X5229871  Odyssey     2007  28732  32375  Fowler, Charlotte       Tue, Jan  6, 2010       D14-13-07 
+ JG149FU14XX418763  Insight     2007  16278  25190  Dixon, Alfredo          Mon, Jan  5, 2010       D14-13-02 
+ JJ162FU11Y3571XC5  Pilot       2008  32842  44970  Peters, Stacey          Thu, Jan  1, 2010       D14-13-09 
+ JD139F310X5P18767  CR-Z        2007  16617  25705  Hart, Leona             Mon, Jan  5, 2010       D14-13-05 
+ JH157F315X263A989  Odyssey     2007  29856  45825  Reid, Danielle          Thu, Jan  1, 2010       D14-13-03 

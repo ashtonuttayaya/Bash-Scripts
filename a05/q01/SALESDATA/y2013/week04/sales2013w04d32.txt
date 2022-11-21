@@ -1,0 +1,68 @@
+Dealer Name: Adams Honda
+Address:     4008 Lee Road
+             Louderdale, FL
+Dealer ID:   32
+Owner:       Adams, Jon
+Date:        Mon, Jan 22, 2013 thru Sun, Jan 28, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU105X42A936  CR-V         2013  31363  31995  Anderson, Brad          Mon, Jan 22, 2013       D32-28-03 
+ JH153FU115X483298  Odyssey      2013  40920  45825  Anderson, Brad          Sat, Jan 27, 2013       D32-28-03 
+ JE143FU165X45XC7X  Crosstour    2013  39042  40640  Spencer, Sean           Sat, Jan 27, 2013       D32-28-02 
+ JA111S1395X472192  Accord       2013  20723  22480  Freeman, Arthur         Sun, Jan 28, 2013       D32-28-05 
+ JH151F1165X419834  Odyssey      2013  41405  44825  Spencer, Sean           Fri, Jan 26, 2013       D32-28-02 
+ JB127S1325X42A946  Civic        2013  15943  16655  Spencer, Sean           Mon, Jan 22, 2013       D32-28-02 
+ JH151F1195X42A948  Odyssey      2013  42770  44825  Bryant, Raul            Sat, Jan 27, 2013       D32-28-04 
+ JA1X1S1205X4832BX  Accord       2013  23030  24089  Anderson, Brad          Tue, Jan 23, 2013       D32-28-03 
+ JC133FU125X44CB72  CR-V         2013  31549  33995  Bryant, Raul            Sat, Jan 27, 2013       D32-28-04 
+ JC131F1135X42A954  CR-V         2013  28186  30995  Anderson, Brad          Sat, Jan 27, 2013       D32-28-03 
+ JH153FU175X4X8736  Odyssey      2013  44175  45825  Anderson, Brad          Sat, Jan 27, 2013       D32-28-03 
+ JB125G1665X43BA68  Civic        2013  26699  28505  Spencer, Sean           Sat, Jan 27, 2013       D32-28-02 
+ JH154SU115X43BA7X  Odyssey      2013  31067  32375  Hicks, Andre            Fri, Jan 26, 2013       D32-28-01 
+ JA1X1S1205X419852  Accord       2013  22039  24089  Anderson, Brad          Mon, Jan 22, 2013       D32-28-03 
+ JA1X3SU225X45XC94  Accord       2013  24346  25089  Hicks, Andre            Sun, Jan 28, 2013       D32-28-01 
+ JH155FU145X43BA76  Odyssey      2013  43650  47825  Bryant, Raul            Fri, Jan 26, 2013       D32-28-04 
+ JB121S1225X4721B8  Civic        2013  16273  16455  Hicks, Andre            Wed, Jan 24, 2013       D32-28-01 
+ JG148F11A5X44CB9X  Insight      2013  23561  24390  Spencer, Sean           Tue, Jan 23, 2013       D32-28-02 
+ JA111S1365X45XCA2  Accord       2013  21881  22480  Freeman, Arthur         Thu, Jan 25, 2013       D32-28-05 
+ JA1X2F1225X45XCA4  Accord       2013  31514  33030  Hicks, Andre            Fri, Jan 26, 2013       D32-28-01 
+ JE141F1145X419866  Crosstour    2013  34866  37640  Bryant, Raul            Sun, Jan 28, 2013       D32-28-04 
+ JC131F1185X4721C8  CR-V         2013  29611  30995  Bryant, Raul            Wed, Jan 24, 2013       D32-28-04 
+ JB127S13A5X41987X  Civic        2013  15510  16655  Anderson, Brad          Sun, Jan 28, 2013       D32-28-03 
+ JB121S12A5X419872  Civic        2013  15845  16455  Anderson, Brad          Fri, Jan 26, 2013       D32-28-03 
+ JA117S3335X461XC4  Accord       2013  22343  23480  Freeman, Arthur         Thu, Jan 25, 2013       D32-28-05 
+ JB127S13A5X4X8766  Civic        2013  15597  16655  Anderson, Brad          Wed, Jan 24, 2013       D32-28-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F11922818X63  Odyssey     2010  29642  44825  Bryant, Raul            Wed, Jan 24, 2013       D32-28-04 
+ JD137FU18X31716C5  CR-Z        2007  10859  25705  Bryant, Raul            Fri, Jan 26, 2013       D32-28-04 
+ JB127S1311X9827X7  Civic       2009  9993   16655  Anderson, Brad          Mon, Jan 22, 2013       D32-28-03 
+ JB127S138246716C9  Civic       2010  10803  16655  Freeman, Arthur         Wed, Jan 24, 2013       D32-28-05 
+ JJ163F3183X7X7C61  Pilot       2011  31870  42970  Spencer, Sean           Tue, Jan 23, 2013       D32-28-02 
+ JJ16AF1112344B3A3  Pilot       2010  26245  41970  Bryant, Raul            Wed, Jan 24, 2013       D32-28-04 
+ JD137FU19X2P3A295  CR-Z        2007  10102  25705  Bryant, Raul            Wed, Jan 24, 2013       D32-28-04 
+ JJ161FU13128716X7  Pilot       2009  38673  42970  Freeman, Arthur         Tue, Jan 23, 2013       D32-28-05 
+ JJ164F41212218X79  Pilot       2009  32382  53970  Hicks, Andre            Tue, Jan 23, 2013       D32-28-01 
+ JC131F1113X929191  CR-V        2011  23080  30995  Hicks, Andre            Thu, Jan 25, 2013       D32-28-01 
+ JE141F114Y27X7C73  Crosstour   2008  18707  37640  Bryant, Raul            Fri, Jan 26, 2013       D32-28-04 
+ JJ161FU152524B3B5  Pilot       2010  26867  42970  Bryant, Raul            Wed, Jan 24, 2013       D32-28-04 
+ JH159F41222371617  Odyssey     2010  36512  56825  Freeman, Arthur         Mon, Jan 22, 2013       D32-28-05 
+ JH15AS1131X95C4C9  Odyssey     2009  18212  29375  Freeman, Arthur         Tue, Jan 23, 2013       D32-28-05 
+ JH154SU133186X511  Odyssey     2011  24093  32375  Anderson, Brad          Sun, Jan 28, 2013       D32-28-03 
+ JD139F31A11182733  CR-Z        2009  15937  25705  Anderson, Brad          Mon, Jan 22, 2013       D32-28-03 
+ JB121S1262X44B3C5  Civic       2010  10975  16455  Hicks, Andre            Tue, Jan 23, 2013       D32-28-01 
+ JB121S12623871627  Civic       2010  10975  16455  Bryant, Raul            Mon, Jan 22, 2013       D32-28-04 
+ JH158S41021P291A9  Odyssey     2010  27372  41375  Bryant, Raul            Sat, Jan 27, 2013       D32-28-04 
+ JH159F41913P18XA1  Odyssey     2009  32958  56825  Hicks, Andre            Mon, Jan 22, 2013       D32-28-01 
+ JB127S137252291B3  Civic       2010  11107  16655  Freeman, Arthur         Tue, Jan 23, 2013       D32-28-05 
+ JB123H1585X282745  Civic        2013  25792  27600  Freeman, Arthur         Thu, Jan 25, 2013       D32-28-05 
+ JJ164F4145X271637  Pilot        2013  49657  53970  Anderson, Brad          Mon, Jan 22, 2013       D32-28-03 
+ JB127S131238291B9  Civic       2010  11107  16655  Freeman, Arthur         Mon, Jan 22, 2013       D32-28-05 
+ JJ164F411Y13291C1  Pilot       2008  26872  53970  Spencer, Sean           Thu, Jan 25, 2013       D32-28-02 
+ JG148F117X464B313  Insight     2007  9576   24390  Spencer, Sean           Sat, Jan 27, 2013       D32-28-02 
+ JE141F11713818XB5  Crosstour   2009  23336  37640  Anderson, Brad          Wed, Jan 24, 2013       D32-28-03 

@@ -1,0 +1,53 @@
+Dealer Name: Olson Honda
+Address:     3074 Davison Highway
+             Norbert, FL
+Dealer ID:   15
+Owner:       Olson, Howard
+Date:        Thu, Jan  8, 2010 thru Wed, Jan 14, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC134F3132X271232  CR-V         2010  30075  31995  Gonzales, Natalie       Sun, Jan 11, 2010       D15-14-04 
+ JC131F1152X24BCX4  CR-V         2010  29290  30995  Elliott, Jacqueline     Mon, Jan 12, 2010       D15-14-01 
+ JA115SU342X24BCX6  Accord       2010  24206  25480  Hall, Willie            Sun, Jan 11, 2010       D15-14-08 
+ JC132FU142X2X7898  CR-V         2010  29755  31995  Elliott, Jacqueline     Fri, Jan  9, 2010       D15-14-01 
+ JD136F1162X2X78AX  CR-Z         2010  22605  24705  Gonzales, Natalie       Sun, Jan 11, 2010       D15-14-04 
+ JH152SU132X229AC2  Odyssey      2010  29008  30375  Hall, Willie            Tue, Jan 13, 2010       D15-14-08 
+ JH151F11A2X24BC14  Odyssey      2010  42135  44825  Woods, Tommy            Tue, Jan 13, 2010       D15-14-02 
+ JD137FU122X271246  CR-Z         2010  24419  25705  Gardner, Joan           Thu, Jan  8, 2010       D15-14-09 
+ JJ161FU1A2X25CX28  Pilot        2010  38243  42970  Gonzales, Natalie       Sun, Jan 11, 2010       D15-14-04 
+ JA111S1362X25C16X  Accord       2010  21468  22480  Ramos, Maxine           Wed, Jan 14, 2010       D15-14-05 
+ JB121S1232X2X7912  Civic        2010  15385  16455  Woods, Tommy            Mon, Jan 12, 2010       D15-14-02 
+ JC131F1172X23AC44  CR-V         2010  27430  30995  Gonzales, Natalie       Sun, Jan 11, 2010       D15-14-04 
+ JC133FU162X271386  CR-V         2010  31105  33995  Elliott, Jacqueline     Sun, Jan 11, 2010       D15-14-01 
+ JB121S12A2X26X278  Civic        2010  15056  16455  Ramos, Maxine           Thu, Jan  8, 2010       D15-14-05 
+ JG148F1152X229B4X  Insight      2010  23414  24390  Hall, Willie            Sun, Jan 11, 2010       D15-14-08 
+ JA1X1S1242X2824A2  Accord       2010  21439  24089  Bowman, Joan            Thu, Jan  8, 2010       D15-14-03 
+ JB121S1212X2824A4  Civic        2010  15220  16455  Gardner, Joan           Sat, Jan 10, 2010       D15-14-09 
+ JA111S1332X2824A6  Accord       2010  21356  22480  Murphy, Kelly           Sat, Jan 10, 2010       D15-14-07 
+ JB127S1332X25C178  Civic        2010  14656  16655  Ramos, Maxine           Sat, Jan 10, 2010       D15-14-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S139W12821X5  Civic       2006  9907   16655  Shelton, Monica         Mon, Jan 12, 2010       D15-14-06 
+ JH154SU19X24X7657  Odyssey     2007  20432  32375  Shelton, Monica         Fri, Jan  9, 2010       D15-14-06 
+ JB128SU30V1618769  Civic       2005  8691   17455  Gardner, Joan           Wed, Jan 14, 2010       D15-14-09 
+ JC134F313W354BAA1  CR-V        2006  18792  31995  Elliott, Jacqueline     Fri, Jan  9, 2010       D15-14-01 
+ JD139F313X5P6XCC3  CR-Z        2007  16163  25705  Gonzales, Natalie       Mon, Jan 12, 2010       D15-14-04 
+ JD136F1191X8X7665  CR-Z        2009  19764  24705  Woods, Tommy            Tue, Jan 13, 2010       D15-14-02 
+ JK166FU13X434BAA7  Ridgeline   2007  30272  47750  Gardner, Joan           Tue, Jan 13, 2010       D15-14-09 
+ JG148F1102X13A999  Insight      2010  22153  24390  Bowman, Joan            Sat, Jan 10, 2010       D15-14-03 
+ JK166FU13X485CBC1  Ridgeline   2007  29420  47750  Shelton, Monica         Fri, Jan  9, 2010       D15-14-06 
+ JC131F11A1143A9A3  CR-V        2009  25105  30995  Shelton, Monica         Fri, Jan  9, 2010       D15-14-06 
+ JE141F113Y366XCX5  Crosstour   2008  26938  37640  Murphy, Kelly           Sun, Jan 11, 2010       D15-14-07 
+ JK167FU10V164BAB7  Ridgeline   2005  23203  49750  Elliott, Jacqueline     Sat, Jan 10, 2010       D15-14-01 
+ JH153FU14X4P3A9A9  Odyssey     2007  29856  45825  Hall, Willie            Fri, Jan  9, 2010       D15-14-08 
+ JB127S135V324BAC1  Civic       2005  8271   16655  Hall, Willie            Wed, Jan 14, 2010       D15-14-08 
+ JC134F310X3871X23  CR-V        2007  20188  31995  Shelton, Monica         Sun, Jan 11, 2010       D15-14-06 
+ JC131F110VX682135  CR-V        2005  15047  30995  Hall, Willie            Tue, Jan 13, 2010       D15-14-08 
+ JH151F116Y344BAC7  Odyssey     2008  32736  44825  Gonzales, Natalie       Wed, Jan 14, 2010       D15-14-04 
+ JD136F117X116XC19  CR-Z        2007  15523  24705  Ramos, Maxine           Fri, Jan  9, 2010       D15-14-05 
+ JB127S132XX871X31  Civic       2007  10371  16655  Gardner, Joan           Wed, Jan 14, 2010       D15-14-09 

@@ -1,0 +1,39 @@
+Dealer Name: Shelly Walker Honda
+Address:     8797 Dixon Drive
+             New Whales, SC
+Dealer ID:   20
+Owner:       Walker, Sally
+Date:        Wed, May 14, 2015 thru Tue, May 20, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X4FU2372P61922  Accord       2015  31287  34030  Simpson, Suzanne        Sat, May 17, 2015       D20-01-03 
+ JH159F41572P72A34  Odyssey      2015  51285  56825  Lawson, Tyler           Tue, May 20, 2015       D20-01-08 
+ JB121S12772P3B6C6  Civic        2015  15909  16455  Clark, Veronica         Wed, May 14, 2015       D20-01-02 
+ JB121S12972P194A8  Civic        2015  15558  16455  Clark, Veronica         Mon, May 19, 2015       D20-01-02 
+ JA111S13A72PX83AX  Accord       2015  22896  22480  Simpson, Suzanne        Fri, May 16, 2015       D20-01-03 
+ JA115SU3072P83B52  Accord       2015  24476  25480  Foster, Leah            Mon, May 19, 2015       D20-01-05 
+ JH153FU1872P4C714  Odyssey      2015  45072  45825  Kelley, Edna            Sun, May 18, 2015       D20-01-06 
+ JA112F13272PX83A6  Accord       2015  30649  32930  Lawson, Tyler           Thu, May 15, 2015       D20-01-08 
+ JB127S13A72P4C718  Civic        2015  16624  16655  Smith, Teresa           Wed, May 14, 2015       D20-01-04 
+ JD139F31172P72B8X  CR-Z         2015  24147  25705  Kelley, Edna            Thu, May 15, 2015       D20-01-06 
+ JE143FU1372P72B82  Crosstour    2015  38632  40640  Hoffman, Marilyn        Mon, May 19, 2015       D20-01-01 
+ JA111S13272P72B84  Accord       2015  22306  22480  James, Alma             Sat, May 17, 2015       D20-01-07 
+ JB127S13272P61A76  Civic        2015  15735  16655  Kelley, Edna            Tue, May 20, 2015       D20-01-06 
+ JA1X5SU2872P72B88  Accord       2015  25533  27089  James, Alma             Tue, May 20, 2015       D20-01-07 
+ JE145F41472P83CAX  Crosstour    2015  44660  46640  James, Alma             Thu, May 15, 2015       D20-01-07 
+ JG148F11772PX8422  Insight      2015  24366  24390  Kelley, Edna            Sun, May 18, 2015       D20-01-06 
+ JB121S12972P4C864  Civic        2015  16525  16455  Smith, Teresa           Sat, May 17, 2015       D20-01-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH153FU1A41129AC5  Odyssey     2004  29760  45825  Simpson, Suzanne        Sat, May 17, 2015       D20-01-03 
+ JH157F3104X76X137  Odyssey     2004  29760  45825  Foster, Leah            Sat, May 17, 2015       D20-01-05 
+ JH153FU135214BC19  Odyssey     2005  34296  45825  Kelley, Edna            Fri, May 16, 2015       D20-01-06 
+ JD136F1153136X271  CR-Z        2003  15596  24705  Kelley, Edna            Tue, May 20, 2015       D20-01-06 
+ JH15AS1197154BX53  Odyssey      2015  27652  29375  Smith, Teresa           Tue, May 20, 2015       D20-01-04 
+ JB121S12561P18A25  Civic       2006  14239  16455  Hoffman, Marilyn        Mon, May 19, 2015       D20-01-01 
+ JH151F1114314BX57  Odyssey     2004  29939  44825  Simpson, Suzanne        Fri, May 16, 2015       D20-01-03 

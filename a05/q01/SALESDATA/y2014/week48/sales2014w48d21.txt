@@ -1,0 +1,35 @@
+Dealer Name: Bill Travers Honda
+Address:     7043 George Parson Highway
+             Grand Traverse, AL
+Dealer ID:   21
+Owner:       Travers, Bill
+Date:        Tue, Nov 26, 2014 thru Mon, Dec  2, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH15AS112648X7CAX  Odyssey      2014  28609  29375  West, Ashley            Tue, Nov 26, 2014       D21-19-07 
+ JH151F11664871642  Odyssey      2014  42067  44825  Powell, Jerome          Thu, Nov 28, 2014       D21-19-03 
+ JB121S12364818XB4  Civic        2014  15879  16455  Evans, Dennis           Wed, Nov 27, 2014       D21-19-05 
+ JC131F11964882756  CR-V         2014  28227  30995  Evans, Dennis           Thu, Nov 28, 2014       D21-19-05 
+ JC131F114648291C8  CR-V         2014  29024  30995  Powell, Jerome          Mon, Dec  2, 2014       D21-19-03 
+ JB129S1416483B64X  Civic        2014  22278  23055  Powell, Jerome          Sun, Dec  1, 2014       D21-19-03 
+ JB121S12664861972  Civic        2014  15966  16455  King, Gwendolyn         Fri, Nov 29, 2014       D21-19-04 
+ JA113SU3064861974  Accord       2014  23404  23480  King, Gwendolyn         Mon, Dec  2, 2014       D21-19-04 
+ JB127S13164819426  Civic        2014  16238  16655  Washington, Franklin    Thu, Nov 28, 2014       D21-19-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU151113AB49  Odyssey     2001  23912  47825  Evans, Dennis           Mon, Dec  2, 2014       D21-19-05 
+ JC133FU1633418931  CR-V        2003  22664  33995  Powell, Jerome          Thu, Nov 28, 2014       D21-19-03 
+ JB127S137539823A3  Civic       2005  14044  16655  Carroll, Glenn          Fri, Nov 29, 2014       D21-19-01 
+ JH156S3113343AB55  Odyssey     2003  19728  30375  West, Ashley            Mon, Dec  2, 2014       D21-19-07 
+ JC131F1183284BC67  CR-V        2003  20690  30995  Carroll, Glenn          Tue, Nov 26, 2014       D21-19-01 
+ JJ161FU173225CX79  Pilot       2003  27788  42970  Powell, Jerome          Wed, Nov 27, 2014       D21-19-03 
+ JJ16AF112619823B1  Pilot        2014  38570  41970  Powell, Jerome          Mon, Dec  2, 2014       D21-19-03 
+ JE141F1153X96X193  Crosstour   2003  24377  37640  Carroll, Glenn          Thu, Nov 28, 2014       D21-19-01 
+ JH152SU102314BC75  Odyssey     2002  18972  30375  Evans, Dennis           Tue, Nov 26, 2014       D21-19-05 
+ JE142FU14325X7837  Crosstour   2003  25017  38640  King, Gwendolyn         Thu, Nov 28, 2014       D21-19-04 
+ JJ164F41231P18949  Pilot       2003  34828  53970  West, Ashley            Sun, Dec  1, 2014       D21-19-07 

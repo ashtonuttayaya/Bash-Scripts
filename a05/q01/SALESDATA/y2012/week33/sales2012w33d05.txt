@@ -1,0 +1,31 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Sat, Aug 12, 2012 thru Fri, Aug 18, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JJ162FU1943382C42  Pilot        2012  42467  44970  Snyder, Norma           Wed, Aug 16, 2012       D05-05-04 
+ JD137FU10433296B4  CR-Z         2012  24324  25705  Marshall, Donna         Sat, Aug 12, 2012       D05-05-05 
+ JA1X2F12443382C46  Accord       2012  31806  33030  Neal, Douglas           Mon, Aug 14, 2012       D05-05-06 
+ JA1X1S12343382C48  Accord       2012  22698  24089  Marshall, Donna         Wed, Aug 16, 2012       D05-05-05 
+ JE141F1164333A7XX  Crosstour    2012  35423  37640  Foster, Leona           Mon, Aug 14, 2012       D05-05-07 
+ JA1X7S32443371B42  Accord       2012  22729  25089  Foster, Leona           Wed, Aug 16, 2012       D05-05-07 
+ JE142FU1543371B44  Crosstour    2012  35181  38640  Brooks, Herman          Thu, Aug 17, 2012       D05-05-01 
+ JB129S141433185B6  Civic        2012  21272  23055  Neal, Douglas           Sat, Aug 12, 2012       D05-05-06 
+ JA115SU334334B818  Accord       2012  24374  25480  Marshall, Donna         Sun, Aug 13, 2012       D05-05-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU1AW1382C25  CR-V        2006  13467  31995  Ford, Roger             Sun, Aug 13, 2012       D05-05-08 
+ JE143FU1A23282C27  Crosstour   2010  29994  40640  Ford, Roger             Tue, Aug 15, 2012       D05-05-08 
+ JJ161FU1AY5118589  Pilot       2008  26501  42970  Ford, Roger             Thu, Aug 17, 2012       D05-05-08 
+ JH154SU161X35C9X1  Odyssey     2009  21302  32375  Snyder, Norma           Fri, Aug 18, 2012       D05-05-04 
+ JD136F11511P4B8C3  CR-Z        2009  16255  24705  Snyder, Norma           Mon, Aug 14, 2012       D05-05-04 
+ JG148F113XX44B8C5  Insight     2007  11970  24390  Foster, Leona           Fri, Aug 18, 2012       D05-05-07 
+ JB121S12411171B27  Civic       2009  10827  16455  Snyder, Norma           Wed, Aug 16, 2012       D05-05-04 

@@ -1,0 +1,7 @@
+Checking for env_mysql
+           OK - found env_mysql                                chxq02-A1
+
+Checking for dev database creation
+           OK - dev database created                                    chxq02-B1
+           OK - No errors in database creation                          chxq02-C1
+

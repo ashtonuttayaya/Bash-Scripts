@@ -1,0 +1,1 @@
+/home/n_autty/class/e02/q06/check06.sh

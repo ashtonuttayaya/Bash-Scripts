@@ -1,0 +1,16 @@
+q01 type ac
+q01 start a01.bak a01.txt check01.sh
+q01 submit
+q01 clean cars
+q02 type tf
+q02 start a02.bak a02.txt
+q02 submit
+q03 type tf
+q03 start a03.bak a03.txt
+q03 submit
+q04 type sa
+q04 start a04.bak a04.txt
+q04 submit
+q05 type tf
+q05 start a05.bak a05.txt
+q05 submit

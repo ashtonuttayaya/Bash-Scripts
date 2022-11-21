@@ -1,0 +1,48 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Mon, May 28, 2013 thru Sun, Jun  3, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S132522X8364  Civic        2013  16723  16655  Arnold, Marcus          Mon, May 28, 2013       D23-21-04 
+ JB127S1385225X8B6  Civic        2013  15683  16655  Jenkins, Corey          Mon, May 28, 2013       D23-21-01 
+ JA116FU3A52272AX8  Accord       2013  34225  35930  Arnold, Marcus          Mon, May 28, 2013       D23-21-04 
+ JD136F1195225X8CX  CR-Z         2013  24491  24705  Garrett, Edna           Tue, May 29, 2013       D23-21-06 
+ JK168F31A522X8372  Ridgeline    2013  46972  47750  Arnold, Marcus          Sat, Jun  2, 2013       D23-21-04 
+ JH154SU18522619X4  Odyssey      2013  30901  32375  Jenkins, Corey          Wed, May 30, 2013       D23-21-01 
+ JE141F1115222A596  Crosstour    2013  35632  37640  Baker, Mark             Wed, May 30, 2013       D23-21-02 
+ JB127S1345224C7B8  Civic        2013  16636  16655  Arnold, Marcus          Tue, May 29, 2013       D23-21-04 
+ JH151F11152283B3X  Odyssey      2013  43225  44825  Garrett, Edna           Tue, May 29, 2013       D23-21-06 
+ JC131F11452219492  CR-V         2013  30403  30995  Payne, Calvin           Fri, Jun  1, 2013       D23-21-03 
+ JC135F41A522X8384  CR-V         2013  37213  39995  Holland, Mitchell       Wed, May 30, 2013       D23-21-05 
+ JC131F11952261916  CR-V         2013  30561  30995  Garrett, Edna           Wed, May 30, 2013       D23-21-06 
+ JB13ASU42522X8388  Civic        2013  22199  23855  Arnold, Marcus          Sat, Jun  2, 2013       D23-21-04 
+ JB127S1355222A5BX  Civic        2013  16116  16655  Garrett, Edna           Mon, May 28, 2013       D23-21-06 
+ JG148F11352272A32  Insight      2013  22433  24390  Garrett, Edna           Wed, May 30, 2013       D23-21-06 
+ JG149FU125223B6C4  Insight      2013  23666  25190  Arnold, Marcus          Tue, May 29, 2013       D23-21-04 
+ JB121S1235224C7X6  Civic        2013  15673  16455  Payne, Calvin           Fri, Jun  1, 2013       D23-21-03 
+ JB127S13752272A38  Civic        2013  16203  16655  Payne, Calvin           Sat, Jun  2, 2013       D23-21-03 
+ JC135F4145223B6XX  CR-V         2013  36399  39995  Baker, Mark             Wed, May 30, 2013       D23-21-02 
+ JB129S14552272A42  Civic        2013  23018  23055  Garrett, Edna           Sun, Jun  3, 2013       D23-21-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB129S1452274BX63  Civic       2010  14899  23055  Baker, Mark             Thu, May 31, 2013       D23-21-02 
+ JB121S12023329B45  Civic       2010  10975  16455  Baker, Mark             Tue, May 29, 2013       D23-21-02 
+ JH15AS1122515C177  Odyssey     2010  18944  29375  Arnold, Marcus          Tue, May 29, 2013       D23-21-04 
+ JB129S14A2296X289  Civic       2010  15318  23055  Garrett, Edna           Thu, May 31, 2013       D23-21-06 
+ JH154SU162274BX71  Odyssey     2010  21450  32375  Holland, Mitchell       Wed, May 30, 2013       D23-21-05 
+ JB123H1504153AC63  Civic       2012  22902  27600  Arnold, Marcus          Thu, May 31, 2013       D23-21-04 
+ JB125G1682X73AC65  Civic       2010  18904  28505  Jenkins, Corey          Sat, Jun  2, 2013       D23-21-01 
+ JJ16AF1134475C187  Pilot       2012  34116  41970  Jenkins, Corey          Thu, May 31, 2013       D23-21-01 
+ JH151F11322429B59  Odyssey     2010  29642  44825  Holland, Mitchell       Wed, May 30, 2013       D23-21-05 
+ JB127S1322433AC71  Civic       2010  11107  16655  Baker, Mark             Wed, May 30, 2013       D23-21-02 
+ JH157F311128713B3  Odyssey     2009  28411  45825  Payne, Calvin           Tue, May 29, 2013       D23-21-03 
+ JH153FU1A32429B65  Odyssey     2011  33318  45825  Holland, Mitchell       Sun, Jun  3, 2013       D23-21-05 
+ JH153FU1A2X76X2A7  Odyssey     2010  29472  45825  Holland, Mitchell       Sat, Jun  2, 2013       D23-21-05 

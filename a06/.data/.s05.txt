@@ -1,0 +1,10 @@
+Checking sales_v5.txt and sales_v5.sql
+           Not OK - sales_v5.txt                                    ( 15 )                  chxq05-A0
+           OK - sales_v4.sql                                                             chxq05-B1
+
+Comparing dev_v4.txt and sales_v5.txt
+           OK - files match                                                              chxq05-C1
+
+Comparing dev_v4.sql and sales_v5.sql
+           OK - sales_v5 and dev_v4 sql files are consistent                             chxq05-D1
+

@@ -1,0 +1,68 @@
+Dealer Name: Jones Honda Dealer
+Address:     6957 Davison Highway
+             Clarksville, NC
+Dealer ID:   3
+Owner:       Jones, Kelly
+Date:        Wed, Jul  2, 2015 thru Tue, Jul  8, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X2F127727X7454  Accord       2015  32959  33030  Taylor, Billie          Tue, Jul  8, 2015       D03-03-02 
+ JH155FU1372771BC6  Odyssey      2015  46992  47825  Mitchell, Sue           Wed, Jul  2, 2015       D03-03-01 
+ JC131F11072782CX8  CR-V         2015  30514  30995  Taylor, Billie          Sat, Jul  5, 2015       D03-03-02 
+ JC131F1157275C9BX  CR-V         2015  29871  30995  Graham, Jeffery         Fri, Jul  4, 2015       D03-03-06 
+ JH156S31472729682  Odyssey      2015  29925  30375  Herrera, Julian         Sat, Jul  5, 2015       D03-03-03 
+ JB127S13872771BX4  Civic        2015  15913  16655  Larson, Sonia           Tue, Jul  8, 2015       D03-03-05 
+ JK165F1157275C9B6  Ridgeline    2015  44763  46750  Smith, Maria            Tue, Jul  8, 2015       D03-03-04 
+ JB121S12072729688  Civic        2015  16788  16455  Smith, Maria            Sun, Jul  6, 2015       D03-03-04 
+ JC131F1147272969X  CR-V         2015  30032  30995  Larson, Sonia           Sun, Jul  6, 2015       D03-03-05 
+ JA111S1387274B8B2  Accord       2015  21362  22480  Taylor, Billie          Tue, Jul  8, 2015       D03-03-02 
+ JA111S13472729694  Accord       2015  21244  22480  Smith, Maria            Tue, Jul  8, 2015       D03-03-04 
+ JB127S13A7276XAX6  Civic        2015  15646  16655  Herrera, Julian         Wed, Jul  2, 2015       D03-03-03 
+ JB127S1357273A7A8  Civic        2015  16979  16655  Smith, Maria            Wed, Jul  2, 2015       D03-03-04 
+ JB129S1427273A7BX  Civic        2015  21278  23055  Larson, Sonia           Sat, Jul  5, 2015       D03-03-05 
+ JA1X5SU2672771B22  Accord       2015  26803  27089  Larson, Sonia           Tue, Jul  8, 2015       D03-03-05 
+ JH152SU1572771B24  Odyssey      2015  27720  30375  Larson, Sonia           Tue, Jul  8, 2015       D03-03-05 
+ JA111S1387274B8C6  Accord       2015  21008  22480  Mitchell, Sue           Thu, Jul  3, 2015       D03-03-01 
+ JB129S14472782C38  Civic        2015  22124  23055  Herrera, Julian         Wed, Jul  2, 2015       D03-03-03 
+ JE142FU11727296BX  Crosstour    2015  38174  38640  Larson, Sonia           Wed, Jul  2, 2015       D03-03-05 
+ JB128SU337274B8X2  Civic        2015  16350  17455  Herrera, Julian         Tue, Jul  8, 2015       D03-03-03 
+ JB13ASU457274B8X4  Civic        2015  23731  23855  Mitchell, Sue           Sat, Jul  5, 2015       D03-03-01 
+ JA117S3397276XA26  Accord       2015  21775  23480  Larson, Sonia           Fri, Jul  4, 2015       D03-03-05 
+ JA111S13A7275C918  Accord       2015  21362  22480  Graham, Jeffery         Thu, Jul  3, 2015       D03-03-06 
+ JC132FU187274B81X  CR-V         2015  29808  31995  Graham, Jeffery         Fri, Jul  4, 2015       D03-03-06 
+ JG148F118727185B2  Insight      2015  24366  24390  Smith, Maria            Fri, Jul  4, 2015       D03-03-04 
+ JC131F1167273A7X4  CR-V         2015  29389  30995  Taylor, Billie          Wed, Jul  2, 2015       D03-03-02 
+ JC131F1177274B816  CR-V         2015  28908  30995  Larson, Sonia           Wed, Jul  2, 2015       D03-03-05 
+ JC131F1137273A7X8  CR-V         2015  29550  30995  Taylor, Billie          Thu, Jul  3, 2015       D03-03-02 
+ JA115SU3472782X9X  Accord       2015  23811  25480  Graham, Jeffery         Sat, Jul  5, 2015       D03-03-06 
+ JB123H15072729732  Civic        2015  26570  27600  Herrera, Julian         Sun, Jul  6, 2015       D03-03-03 
+ JJ162FU11727X7514  Pilot        2015  42407  44970  Larson, Sonia           Tue, Jul  8, 2015       D03-03-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH154SU17647X7393  Odyssey     2006  26800  32375  Mitchell, Sue           Sat, Jul  5, 2015       D03-03-01 
+ JG148F1185484B7X5  Insight     2005  18208  24390  Smith, Maria            Fri, Jul  4, 2015       D03-03-04 
+ JD136F1183183A6C7  CR-Z        2003  15596  24705  Taylor, Billie          Sat, Jul  5, 2015       D03-03-02 
+ JE143FU15541X7399  Crosstour   2005  29908  40640  Herrera, Julian         Fri, Jul  4, 2015       D03-03-03 
+ JD139F3173284B711  CR-Z        2003  15693  25705  Herrera, Julian         Sun, Jul  6, 2015       D03-03-03 
+ JA111S13943P3A6X3  Accord      2004  15235  22480  Herrera, Julian         Fri, Jul  4, 2015       D03-03-03 
+ JE141F1144265C825  Crosstour   2004  24521  37640  Larson, Sonia           Sun, Jul  6, 2015       D03-03-05 
+ JB127S13A34782B57  Civic       2003  10605  16655  Graham, Jeffery         Tue, Jul  8, 2015       D03-03-06 
+ JC131F1181X671A49  CR-V        2001  13327  30995  Herrera, Julian         Sun, Jul  6, 2015       D03-03-03 
+ JE141F1135135C961  Crosstour   2005  28288  37640  Mitchell, Sue           Thu, Jul  3, 2015       D03-03-01 
+ JH155FU15429X7413  Odyssey     2004  30167  47825  Larson, Sonia           Mon, Jul  7, 2015       D03-03-05 
+ JB129S1444464B855  Civic       2004  15614  23055  Mitchell, Sue           Sat, Jul  5, 2015       D03-03-01 
+ JG148F1101126XA77  Insight     2001  9756   24390  Smith, Maria            Sat, Jul  5, 2015       D03-03-04 
+ JD139F31143182C99  CR-Z        2004  16883  25705  Herrera, Julian         Sat, Jul  5, 2015       D03-03-03 
+ JJ162FU13336X7421  Pilot       2003  27252  44970  Larson, Sonia           Thu, Jul  3, 2015       D03-03-05 
+ JE141F11031P29643  Crosstour   2003  22854  37640  Graham, Jeffery         Thu, Jul  3, 2015       D03-03-06 
+ JA113SU3422771B95  Accord      2002  12445  23480  Mitchell, Sue           Mon, Jul  7, 2015       D03-03-01 
+ JH151F11A437X7427  Odyssey     2004  29939  44825  Smith, Maria            Mon, Jul  7, 2015       D03-03-04 
+ JE143FU1124629649  Crosstour   2002  21454  40640  Graham, Jeffery         Thu, Jul  3, 2015       D03-03-06 
+ JJ163F3193X429651  Pilot       2003  26052  42970  Smith, Maria            Sat, Jul  5, 2015       D03-03-04 
+ JH156S31131629653  Odyssey     2003  17878  30375  Herrera, Julian         Sun, Jul  6, 2015       D03-03-03 
+ JE141F11044718545  Crosstour   2004  24521  37640  Larson, Sonia           Wed, Jul  2, 2015       D03-03-05 

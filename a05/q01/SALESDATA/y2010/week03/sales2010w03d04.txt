@@ -1,0 +1,55 @@
+Dealer Name: Wallace Honda
+Address:     2132 Tupelo Road
+             Clarksville, NC
+Dealer ID:   4
+Owner:       Wallace, Patrick
+Date:        Thu, Jan 15, 2010 thru Wed, Jan 21, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB125G1662X32969X  Civic        2010  26652  28505  Campbell, Jeanne        Sat, Jan 17, 2010       D04-04-02 
+ JB127S1342X33A7A2  Civic        2010  15072  16655  Campbell, Jeanne        Sat, Jan 17, 2010       D04-04-02 
+ JB127S1302X318584  Civic        2010  15822  16655  Wilson, Chad            Sun, Jan 18, 2010       D04-04-08 
+ JA111S1322X371B16  Accord       2010  20344  22480  Richards, Angela        Thu, Jan 15, 2010       D04-04-06 
+ JA1X7S3262X33A7A8  Accord       2010  22329  25089  Campbell, Jeanne        Sat, Jan 17, 2010       D04-04-02 
+ JB125G1622X31859X  Civic        2010  26937  28505  Richards, Angela        Sun, Jan 18, 2010       D04-04-06 
+ JH158S4132X371B22  Odyssey      2010  37651  41375  Dixon, Patsy            Thu, Jan 15, 2010       D04-04-07 
+ JB121S1292X36XA14  Civic        2010  15796  16455  Miller, Julian          Sat, Jan 17, 2010       D04-04-04 
+ JC134F3172X34B8C6  CR-V         2010  28475  31995  Wilson, Chad            Mon, Jan 19, 2010       D04-04-08 
+ JH157F3192X318598  Odyssey      2010  44450  45825  Pena, Elaine            Tue, Jan 20, 2010       D04-04-05 
+ JG148F1182X35C91X  Insight      2010  22438  24390  Dixon, Patsy            Wed, Jan 21, 2010       D04-04-07 
+ JK166FU172X3X7492  Ridgeline    2010  44885  47750  Lucas, Carl             Sat, Jan 17, 2010       D04-04-01 
+ JB121S1272X3X7494  Civic        2010  15385  16455  Lucas, Carl             Sat, Jan 17, 2010       D04-04-01 
+ JB127S1302X371B36  Civic        2010  15072  16655  Pena, Elaine            Wed, Jan 21, 2010       D04-04-05 
+ JB129S1452X3185A8  Civic        2010  20288  23055  Richards, Angela        Fri, Jan 16, 2010       D04-04-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB123H155Y5282CA5  Civic       2008  20093  27600  Richards, Angela        Sun, Jan 18, 2010       D04-04-06 
+ JB121S124X2871B97  Civic       2007  10243  16455  Lucas, Carl             Thu, Jan 15, 2010       D04-04-01 
+ JH153FU11YX45C979  Odyssey     2008  33470  45825  Russell, Jerry          Thu, Jan 15, 2010       D04-04-03 
+ JH151F11AX234B871  Odyssey     2007  28400  44825  Pena, Elaine            Sat, Jan 17, 2010       D04-04-05 
+ JC132FU121X371BA3  CR-V        2009  25915  31995  Miller, Julian          Thu, Jan 15, 2010       D04-04-04 
+ JB122SU28XX682CB5  Civic       2007  11057  17255  Russell, Jerry          Mon, Jan 19, 2010       D04-04-03 
+ JC131F117W286XA97  CR-V        2006  18798  30995  Pena, Elaine            Thu, Jan 15, 2010       D04-04-05 
+ JH152SU14X176XA99  Odyssey     2007  19152  30375  Campbell, Jeanne        Wed, Jan 21, 2010       D04-04-02 
+ JB129S147Y466XAA1  Civic       2008  16757  23055  Pena, Elaine            Thu, Jan 15, 2010       D04-04-05 
+ JG148F115W3129663  Insight     2006  14703  24390  Wilson, Chad            Wed, Jan 21, 2010       D04-04-08 
+ JD136F112X2P3A775  CR-Z        2007  21950  24705  Lucas, Carl             Fri, Jan 16, 2010       D04-04-01 
+ JD136F112W436XAA7  CR-Z        2006  21747  24705  Richards, Angela        Wed, Jan 21, 2010       D04-04-06 
+ JH154SU1AX5129669  Odyssey     2007  21006  32375  Miller, Julian          Sun, Jan 18, 2010       D04-04-04 
+ JC135F412X3618561  CR-V        2007  26020  39995  Wilson, Chad            Mon, Jan 19, 2010       D04-04-08 
+ JC131F111YX771BC3  CR-V        2008  22154  30995  Wilson, Chad            Tue, Jan 20, 2010       D04-04-08 
+ JG148F113V14X7455  Insight     2005  11745  24390  Campbell, Jeanne        Sat, Jan 17, 2010       D04-04-02 
+ JE142FU11X446XAB7  Crosstour   2007  25129  38640  Dixon, Patsy            Wed, Jan 21, 2010       D04-04-07 
+ JJ162FU18X2P71BC9  Pilot       2007  28492  44970  Campbell, Jeanne        Mon, Jan 19, 2010       D04-04-02 
+ JB127S1381X46XAC1  Civic       2009  13490  16655  Dixon, Patsy            Tue, Jan 20, 2010       D04-04-07 
+ JJ16AF1162X15C9B3  Pilot        2010  38186  41970  Dixon, Patsy            Sun, Jan 18, 2010       D04-04-07 
+ JB127S139WX54B8A5  Civic       2006  9907   16655  Dixon, Patsy            Sat, Jan 17, 2010       D04-04-07 
+ JH156S31AX3282C17  Odyssey     2007  19152  30375  Wilson, Chad            Tue, Jan 20, 2010       D04-04-08 
+ JH155FU12X1629689  Odyssey     2007  30320  47825  Miller, Julian          Thu, Jan 15, 2010       D04-04-04 
+ JH152SU10Y4382C21  Odyssey     2008  21708  30375  Lucas, Carl             Mon, Jan 19, 2010       D04-04-01 
+ JH154SU142X24B8B3  Odyssey      2010  29340  32375  Miller, Julian          Tue, Jan 20, 2010       D04-04-04 

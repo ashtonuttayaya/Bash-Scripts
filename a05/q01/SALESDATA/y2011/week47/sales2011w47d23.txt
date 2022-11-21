@@ -1,0 +1,45 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Fri, Nov 19, 2011 thru Thu, Nov 25, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X5SU243474B29X  Accord       2011  24582  27089  Arnold, Marcus          Tue, Nov 23, 2011       D23-21-04 
+ JB127S138347X7B52  Civic        2011  15614  16655  Arnold, Marcus          Tue, Nov 23, 2011       D23-21-04 
+ JG148F11434729X74  Insight      2011  23630  24390  Holland, Mitchell       Thu, Nov 25, 2011       D23-21-05 
+ JH152SU16347X7B56  Odyssey      2011  27846  30375  Garrett, Edna           Fri, Nov 19, 2011       D23-21-06 
+ JA1X2F1223475C3A8  Accord       2011  30428  33030  Payne, Calvin           Wed, Nov 24, 2011       D23-21-03 
+ JH155FU1A3474B2AX  Odyssey      2011  45167  47825  Holland, Mitchell       Tue, Nov 23, 2011       D23-21-05 
+ JB127S13934718C72  Civic        2011  15276  16655  Baker, Mark             Wed, Nov 24, 2011       D23-21-02 
+ JB127S134347X7B64  Civic        2011  15445  16655  Holland, Mitchell       Thu, Nov 25, 2011       D23-21-05 
+ JA1X3SU233474B2A6  Accord       2011  23542  25089  Payne, Calvin           Mon, Nov 22, 2011       D23-21-03 
+ JB128SU343476X4C8  Civic        2011  15646  17455  Arnold, Marcus          Thu, Nov 25, 2011       D23-21-04 
+ JH153FU1634718C8X  Odyssey      2011  43287  45825  Arnold, Marcus          Sat, Nov 20, 2011       D23-21-04 
+ JD136F11A347X7B72  CR-Z         2011  23808  24705  Arnold, Marcus          Mon, Nov 22, 2011       D23-21-04 
+ JH15AS11A3473A1A4  Odyssey      2011  27676  29375  Garrett, Edna           Sat, Nov 20, 2011       D23-21-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F119Y27X7939  CR-V        2008  20246  30995  Payne, Calvin           Sat, Nov 20, 2011       D23-21-03 
+ JD136F119WX5X7941  CR-Z        2006  12615  24705  Arnold, Marcus          Sat, Nov 20, 2011       D23-21-04 
+ JJ16AF110W2P5C193  Pilot       2006  21679  41970  Arnold, Marcus          Sat, Nov 20, 2011       D23-21-04 
+ JH152SU1AXX43AC75  Odyssey     2007  18553  30375  Arnold, Marcus          Tue, Nov 23, 2011       D23-21-04 
+ JE143FU121374BX87  Crosstour   2009  29260  40640  Baker, Mark             Mon, Nov 22, 2011       D23-21-02 
+ JB122SU2011P3AC79  Civic       2009  12665  17255  Holland, Mitchell       Fri, Nov 19, 2011       D23-21-05 
+ JC135F41A2346X2B1  CR-V        2010  32176  39995  Arnold, Marcus          Mon, Nov 22, 2011       D23-21-04 
+ JB123H154Y42X7953  Civic       2008  18012  27600  Holland, Mitchell       Fri, Nov 19, 2011       D23-21-05 
+ JB123H156223713C5  Civic       2010  22538  27600  Holland, Mitchell       Wed, Nov 24, 2011       D23-21-05 
+ JH155FU17Y32X7957  Odyssey     2008  30464  47825  Baker, Mark             Tue, Nov 23, 2011       D23-21-02 
+ JD137FU191376X2B9  CR-Z        2009  18507  25705  Baker, Mark             Tue, Nov 23, 2011       D23-21-02 
+ JH156S31613482411  Odyssey     2009  22295  30375  Payne, Calvin           Mon, Nov 22, 2011       D23-21-03 
+ JG148F11923529B83  Insight     2010  19938  24390  Jenkins, Corey          Thu, Nov 25, 2011       D23-21-01 
+ JC131F11811518A75  CR-V        2009  22316  30995  Baker, Mark             Sun, Nov 21, 2011       D23-21-02 
+ JD137FU181464BXA7  CR-Z        2009  18867  25705  Holland, Mitchell       Fri, Nov 19, 2011       D23-21-05 
+ JB127S1352184BXA9  Civic       2010  13672  16655  Holland, Mitchell       Fri, Nov 19, 2011       D23-21-05 
+ JE144F317X4218A81  Crosstour   2007  22914  38640  Arnold, Marcus          Fri, Nov 19, 2011       D23-21-04 

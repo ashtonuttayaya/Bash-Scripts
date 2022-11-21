@@ -1,0 +1,31 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Sat, Dec 16, 2012 thru Fri, Dec 22, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S13A45171B32  Accord       2012  20293  22480  Brooks, Herman          Tue, Dec 19, 2012       D05-05-01 
+ JA1X5SU2145171B34  Accord       2012  25886  27089  Ford, Roger             Mon, Dec 18, 2012       D05-05-08 
+ JH156S3114515C916  Odyssey      2012  28050  30375  Foster, Leona           Sun, Dec 17, 2012       D05-05-07 
+ JG148F1194515C918  Insight      2012  22107  24390  Ford, Roger             Sat, Dec 16, 2012       D05-05-08 
+ JC131F1114516XA3X  CR-V         2012  27671  30995  Foster, Leona           Thu, Dec 21, 2012       D05-05-07 
+ JB121S12045182C52  Civic        2012  15806  16455  Brooks, Herman          Wed, Dec 20, 2012       D05-05-01 
+ JB122SU23451X74A4  Civic        2012  15668  17255  Ford, Roger             Mon, Dec 18, 2012       D05-05-08 
+ JB121S1274516XA36  Civic        2012  15214  16455  Marshall, Donna         Thu, Dec 21, 2012       D05-05-05 
+ JA111S1384513A7X8  Accord       2012  20637  22480  Lynch, Christian        Sat, Dec 16, 2012       D05-05-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F11A1155C9C5  CR-Z        2009  15811  24705  Marshall, Donna         Thu, Dec 21, 2012       D05-05-05 
+ JH15AS11AY45X7477  Odyssey     2008  18073  29375  Snyder, Norma           Tue, Dec 19, 2012       D05-05-04 
+ JG148F11323718589  Insight     2010  18067  24390  Lynch, Christian        Sat, Dec 16, 2012       D05-05-02 
+ JD137FU15Y496XA11  CR-Z        2008  15288  25705  Ford, Roger             Fri, Dec 22, 2012       D05-05-08 
+ JF146S1181323A7B3  Fit         2009  10544  16025  Ford, Roger             Wed, Dec 20, 2012       D05-05-08 
+ JG148F11813P82C35  Insight     2009  21951  24390  Neal, Douglas           Thu, Dec 21, 2012       D05-05-06 
+ JH153FU181443A7B7  Odyssey     2009  30152  45825  Snyder, Norma           Tue, Dec 19, 2012       D05-05-04 

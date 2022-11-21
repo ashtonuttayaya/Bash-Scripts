@@ -1,0 +1,33 @@
+#
+#	Establish the structure
+#
+q01 type sc
+q01 start a01.bak a01.txt check01.sh
+q01 submit env_mysql
+q01 clean q01.sh q01.txt env_mysql
+#
+#
+#
+q02 type sc
+q02 start a02.bak a02.txt check02.sh
+q02 submit
+q02 clean  q02.sh env_mysql q02.sql
+#
+#
+q03 type sc
+q03 start a03.bak a03.txt check03.sh
+q03 submit
+q03 clean q03.sh env_mysql model.sh q03.sql
+#
+#	Create the web and text reports
+#
+q04 type sc
+q04 start a04.bak a04.txt check04.sh
+q04 submit
+q04 clean q04.sh env_mysql model.sh q04.sql
+#
+#
+q05 type sc
+q05 start a05.bak a05.txt check05.sh
+q05 submit
+q05 clean q05.sh env_mysql q05.sql

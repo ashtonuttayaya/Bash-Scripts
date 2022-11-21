@@ -1,0 +1,59 @@
+Dealer Name: Kaplan Honda
+Address:     1605 Nebraska Blvd
+             East Valley, FL
+Dealer ID:   38
+Owner:       Kaplan, Edward
+Date:        Thu, Nov 19, 2010 thru Wed, Nov 25, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S131247X8638  Accord       2010  21468  22480  Henry, Courtney         Wed, Nov 25, 2010       D38-34-05 
+ JB127S137247831CX  Civic        2010  15822  16655  Henry, Courtney         Tue, Nov 24, 2010       D38-34-05 
+ JH156S3132472A862  Odyssey      2010  26881  30375  Alvarez, Bill           Tue, Nov 24, 2010       D38-34-02 
+ JD138FU10247831C4  CR-Z         2010  24795  27705  Henry, Courtney         Mon, Nov 23, 2010       D38-34-05 
+ JH152SU142473B976  Odyssey      2010  28856  30375  Lee, Jason              Thu, Nov 19, 2010       D38-34-03 
+ JA111S1382474CA88  Accord       2010  21693  22480  Alvarez, Darrell        Wed, Nov 25, 2010       D38-34-04 
+ JB127S13124761CBX  Civic        2010  15322  16655  Lee, Jason              Thu, Nov 19, 2010       D38-34-03 
+ JB123H1522472A872  Civic        2010  26772  27600  Lee, Jason              Sat, Nov 21, 2010       D38-34-03 
+ JH156S31A24761CB4  Odyssey      2010  26730  30375  Rice, Ruth              Thu, Nov 19, 2010       D38-34-06 
+ JB121S125247831X6  Civic        2010  14727  16455  Alvarez, Darrell        Wed, Nov 25, 2010       D38-34-04 
+ JA111S1302474CA98  Accord       2010  21693  22480  Henry, Courtney         Fri, Nov 20, 2010       D38-34-05 
+ JA1X2F1202473B99X  Accord       2010  31708  33030  Rice, Ruth              Fri, Nov 20, 2010       D38-34-06 
+ JB127S13A24719772  Civic        2010  15072  16655  Lee, Jason              Tue, Nov 24, 2010       D38-34-03 
+ JA1X9S42424772XX4  Accord       2010  29118  33089  Murphy, Roger           Tue, Nov 24, 2010       D38-34-01 
+ JH153FU132474CAA6  Odyssey      2010  40784  45825  Rice, Ruth              Sat, Nov 21, 2010       D38-34-06 
+ JD137FU182473B998  CR-Z         2010  24805  25705  Lee, Jason              Tue, Nov 24, 2010       D38-34-03 
+ JA111S1312478312X  Accord       2010  20232  22480  Rice, Ruth              Wed, Nov 25, 2010       D38-34-06 
+ JB129S14024772X12  Civic        2010  21902  23055  Alvarez, Darrell        Sat, Nov 21, 2010       D38-34-04 
+ JA1X7S3242473B9A4  Accord       2010  24085  25089  Lee, Jason              Tue, Nov 24, 2010       D38-34-03 
+ JB13ASU442473B9A6  Civic        2010  21230  23855  Murphy, Roger           Sun, Nov 22, 2010       D38-34-01 
+ JA1X2F1292472A898  Accord       2010  31873  33030  Henry, Courtney         Thu, Nov 19, 2010       D38-34-05 
+ JA1X1S12424761C1X  Accord       2010  22161  24089  Lee, Jason              Mon, Nov 23, 2010       D38-34-03 
+ JC133FU1424761C12  CR-V         2010  32975  33995  Alvarez, Bill           Sun, Nov 22, 2010       D38-34-02 
+ JH155FU1624761C14  Odyssey      2010  43281  47825  Murphy, Roger           Sat, Nov 21, 2010       D38-34-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH159F413X4672A17  Odyssey     2007  37094  56825  Alvarez, Bill           Sat, Nov 21, 2010       D38-34-02 
+ JD139F315YX272A19  CR-Z        2008  18702  25705  Murphy, Roger           Tue, Nov 24, 2010       D38-34-01 
+ JG148F1151X42A5A1  Insight     2009  19268  24390  Henry, Courtney         Wed, Nov 25, 2010       D38-34-05 
+ JH151F110Y2P61913  Odyssey     2008  31487  44825  Alvarez, Bill           Thu, Nov 19, 2010       D38-34-02 
+ JH157F317Y262A5A5  Odyssey     2008  33470  45825  Lee, Jason              Mon, Nov 23, 2010       D38-34-03 
+ JH158S41AX32X8387  Odyssey     2007  25455  41375  Henry, Courtney         Thu, Nov 19, 2010       D38-34-05 
+ JH152SU13X4561919  Odyssey     2007  19152  30375  Rice, Ruth              Sat, Nov 21, 2010       D38-34-06 
+ JC132FU15XX4194A1  CR-V        2007  20756  31995  Lee, Jason              Sun, Nov 22, 2010       D38-34-03 
+ JD136F111Y4P83B43  CR-Z        2008  17968  24705  Henry, Courtney         Mon, Nov 23, 2010       D38-34-05 
+ JB121S126X372A5B5  Civic       2007  10531  16455  Rice, Ruth              Fri, Nov 20, 2010       D38-34-06 
+ JF146S113Y4283B47  Fit         2008  11376  16025  Rice, Ruth              Wed, Nov 25, 2010       D38-34-06 
+ JB129S144WX83B6C9  Civic       2006  13428  23055  Alvarez, Bill           Wed, Nov 25, 2010       D38-34-02 
+ JD139F314V425X821  CR-Z        2005  13022  25705  Alvarez, Bill           Mon, Nov 23, 2010       D38-34-02 
+ JJ161FU11W364C713  Pilot       2006  25377  42970  Alvarez, Bill           Wed, Nov 25, 2010       D38-34-02 
+ JE141F115X5P5X825  Crosstour   2007  24471  37640  Alvarez, Bill           Sat, Nov 21, 2010       D38-34-02 
+ JG148F1131182A5C7  Insight     2009  19268  24390  Lee, Jason              Sun, Nov 22, 2010       D38-34-03 
+ JH15AS115146194B9  Odyssey     2009  23500  29375  Alvarez, Bill           Mon, Nov 23, 2010       D38-34-02 
+ JH153FU1A1454C851  Odyssey     2009  37118  45825  Murphy, Roger           Thu, Nov 19, 2010       D38-34-01 
+ JB121S121Y212A633  Civic       2008  11912  16455  Alvarez, Darrell        Tue, Nov 24, 2010       D38-34-04 
+ JE144F318W385X965  Crosstour   2006  23538  38640  Rice, Ruth              Thu, Nov 19, 2010       D38-34-06 

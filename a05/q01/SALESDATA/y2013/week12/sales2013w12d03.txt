@@ -1,0 +1,64 @@
+Dealer Name: Jones Honda Dealer
+Address:     6957 Davison Highway
+             Clarksville, NC
+Dealer ID:   3
+Owner:       Jones, Kelly
+Date:        Mon, Mar 19, 2013 thru Sun, Mar 25, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1155123A768  CR-V         2013  28344  30995  Smith, Maria            Tue, Mar 20, 2013       D03-03-04 
+ JA1X1S1245122966X  Accord       2013  23897  24089  Larson, Sonia           Fri, Mar 23, 2013       D03-03-05 
+ JA119S4375123A772  Accord       2013  28778  31480  Graham, Jeffery         Tue, Mar 20, 2013       D03-03-06 
+ JA111S1325124B884  Accord       2013  22113  22480  Smith, Maria            Wed, Mar 21, 2013       D03-03-04 
+ JE143FU175125C996  Crosstour    2013  36563  40640  Smith, Maria            Wed, Mar 21, 2013       D03-03-04 
+ JA1X2F12251282CC8  Accord       2013  31177  33030  Graham, Jeffery         Thu, Mar 22, 2013       D03-03-06 
+ JB121S1225124B89X  Civic        2013  15759  16455  Herrera, Julian         Sat, Mar 24, 2013       D03-03-03 
+ JB127S1345124B892  Civic        2013  15943  16655  Smith, Maria            Wed, Mar 21, 2013       D03-03-04 
+ JD137FU1551218564  CR-Z         2013  24665  25705  Graham, Jeffery         Sat, Mar 24, 2013       D03-03-06 
+ JH152SU1451218566  Odyssey      2013  27945  30375  Herrera, Julian         Fri, Mar 23, 2013       D03-03-03 
+ JB127S13751218568  Civic        2013  15597  16655  Graham, Jeffery         Thu, Mar 22, 2013       D03-03-06 
+ JF146S112512X746X  Fit          2013  15530  16025  Herrera, Julian         Fri, Mar 23, 2013       D03-03-03 
+ JC131F11751229682  CR-V         2013  28503  30995  Taylor, Billie          Mon, Mar 19, 2013       D03-03-02 
+ JJ163F3185123A794  Pilot        2013  39498  42970  Taylor, Billie          Sun, Mar 25, 2013       D03-03-02 
+ JG149FU165124B8A6  Insight      2013  24959  25190  Herrera, Julian         Sun, Mar 25, 2013       D03-03-03 
+ JB121S12651282C18  Civic        2013  15502  16455  Herrera, Julian         Thu, Mar 22, 2013       D03-03-03 
+ JA116FU325125C9CX  Accord       2013  34408  35930  Larson, Sonia           Tue, Mar 20, 2013       D03-03-05 
+ JD136F11551282C22  CR-Z         2013  23095  24705  Taylor, Billie          Sun, Mar 25, 2013       D03-03-02 
+ JB121S12451218584  Civic        2013  16102  16455  Taylor, Billie          Sat, Mar 24, 2013       D03-03-02 
+ JH153FU1451218586  Odyssey      2013  43012  45825  Taylor, Billie          Tue, Mar 20, 2013       D03-03-02 
+ JH151F11151229698  Odyssey      2013  41632  44825  Graham, Jeffery         Thu, Mar 22, 2013       D03-03-06 
+ JB121S1205125C9XX  Civic        2013  15160  16455  Larson, Sonia           Sat, Mar 24, 2013       D03-03-05 
+ JJ161FU195126XA12  Pilot        2013  38625  42970  Smith, Maria            Wed, Mar 21, 2013       D03-03-04 
+ JA1X4FU22512296A4  Accord       2013  33490  34030  Herrera, Julian         Sat, Mar 24, 2013       D03-03-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1102X44B7X3  CR-V        2010  19980  30995  Smith, Maria            Thu, Mar 22, 2013       D03-03-04 
+ JF146S1191434B7X5  Fit         2009  9935   16025  Herrera, Julian         Wed, Mar 21, 2013       D03-03-03 
+ JH156S31A2374B7X7  Odyssey     2010  19584  30375  Smith, Maria            Thu, Mar 22, 2013       D03-03-04 
+ JH159F41824371A39  Odyssey     2010  37538  56825  Herrera, Julian         Wed, Mar 21, 2013       D03-03-03 
+ JH155FU1A335184B1  Odyssey     2011  35433  47825  Herrera, Julian         Sun, Mar 25, 2013       D03-03-03 
+ JC132FU101174B713  CR-V        2009  19836  31995  Graham, Jeffery         Sun, Mar 25, 2013       D03-03-06 
+ JH153FU12137295C5  Odyssey     2009  27495  45825  Larson, Sonia           Thu, Mar 22, 2013       D03-03-05 
+ JJ162FU14Y28X73A7  Pilot       2008  23491  44970  Graham, Jeffery         Sun, Mar 25, 2013       D03-03-06 
+ JH157F3161X3295C9  Odyssey     2009  27495  45825  Taylor, Billie          Wed, Mar 21, 2013       D03-03-02 
+ JB127S1354X182C91  Civic       2012  14037  16655  Herrera, Julian         Sun, Mar 25, 2013       D03-03-03 
+ JK165F11613P6XA73  Ridgeline   2009  28985  46750  Graham, Jeffery         Thu, Mar 22, 2013       D03-03-06 
+ JE142FU1221818525  Crosstour   2010  24873  38640  Graham, Jeffery         Thu, Mar 22, 2013       D03-03-06 
+ JB128SU342353A747  Civic       2010  11633  17455  Herrera, Julian         Tue, Mar 20, 2013       D03-03-03 
+ JJ161FU194X45C969  Pilot       2012  34916  42970  Smith, Maria            Mon, Mar 19, 2013       D03-03-04 
+ JB121S1242X65C971  Civic       2010  10975  16455  Larson, Sonia           Sat, Mar 24, 2013       D03-03-05 
+ JD137FU1214818533  CR-Z        2009  15937  25705  Graham, Jeffery         Wed, Mar 21, 2013       D03-03-06 
+ JC134F317XX45C975  CR-V        2007  12618  31995  Smith, Maria            Mon, Mar 19, 2013       D03-03-04 
+ JG148F11144P6XA87  Insight     2012  20052  24390  Smith, Maria            Thu, Mar 22, 2013       D03-03-04 
+ JH155FU1713718539  Odyssey     2009  29651  47825  Mitchell, Sue           Sun, Mar 25, 2013       D03-03-01 
+ JH155FU14334X7431  Odyssey     2011  35433  47825  Smith, Maria            Wed, Mar 21, 2013       D03-03-04 
+ JH153FU1222629653  Odyssey     2010  28643  45825  Herrera, Julian         Tue, Mar 20, 2013       D03-03-03 
+ JE141F112X2P3A765  Crosstour   2007  14876  37640  Mitchell, Sue           Mon, Mar 19, 2013       D03-03-01 
+ JC131F115225X7437  CR-V        2010  20542  30995  Mitchell, Sue           Mon, Mar 19, 2013       D03-03-01 
+ JH157F31412P29659  Odyssey     2009  27495  45825  Larson, Sonia           Wed, Mar 21, 2013       D03-03-05 
+ JH15AS11811671BB1  Odyssey     2009  17625  29375  Larson, Sonia           Wed, Mar 21, 2013       D03-03-05 

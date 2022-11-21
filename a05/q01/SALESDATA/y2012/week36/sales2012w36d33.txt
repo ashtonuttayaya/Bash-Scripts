@@ -1,0 +1,40 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Sat, Sep  2, 2012 thru Fri, Sep  8, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X7S32243661C96  Accord       2012  22985  25089  Shelton, Adam           Thu, Sep  7, 2012       D33-29-05 
+ JA1X6FU204362A858  Accord       2012  33014  36030  Mitchell, John          Sat, Sep  2, 2012       D33-29-02 
+ JE141F1104362A86X  Crosstour    2012  36947  37640  Mitchell, John          Sun, Sep  3, 2012       D33-29-02 
+ JD137FU144363B972  CR-Z         2012  23147  25705  Morgan, Milton          Sat, Sep  2, 2012       D33-29-03 
+ JA1X3SU204363B974  Accord       2012  24262  25089  Shelton, Adam           Wed, Sep  6, 2012       D33-29-05 
+ JA111S1374365XB96  Accord       2012  20866  22480  Shelton, Adam           Sat, Sep  2, 2012       D33-29-05 
+ JA119S4354365XB98  Accord       2012  30972  31480  Mitchell, John          Tue, Sep  5, 2012       D33-29-02 
+ JB129S14043661CBX  Civic        2012  22329  23055  Morgan, Milton          Sat, Sep  2, 2012       D33-29-03 
+ JA111S13A43672XC2  Accord       2012  21783  22480  Martinez, Katherine     Mon, Sep  4, 2012       D33-29-04 
+ JB121S124436X8654  Civic        2012  15975  16455  Martinez, Katherine     Fri, Sep  8, 2012       D33-29-04 
+ JA117S331436831X6  Accord       2012  22494  23480  Martinez, Katherine     Wed, Sep  6, 2012       D33-29-04 
+ JA1X1S128436831X8  Accord       2012  21594  24089  Mitchell, John          Wed, Sep  6, 2012       D33-29-02 
+ JA111S130436X866X  Accord       2012  21324  22480  Martinez, Katherine     Fri, Sep  8, 2012       D33-29-04 
+ JG148F1104365XBB2  Insight      2012  22728  24390  Martinez, Katherine     Fri, Sep  8, 2012       D33-29-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU111X982721  CR-V        2009  22368  33995  Shelton, Adam           Mon, Sep  4, 2012       D33-29-05 
+ JB127S13A3113A2A3  Civic       2011  13855  16655  Wells, Clayton          Mon, Sep  4, 2012       D33-29-01 
+ JH157F3192514B3B5  Odyssey     2010  33156  45825  Shelton, Adam           Tue, Sep  5, 2012       D33-29-05 
+ JE141F1133246X5X7  Crosstour   2011  30852  37640  Morgan, Milton          Wed, Sep  6, 2012       D33-29-03 
+ JC131F11323529199  CR-V        2010  22478  30995  Wells, Clayton          Mon, Sep  4, 2012       D33-29-01 
+ JH155FU1624P82731  Odyssey     2010  35268  47825  Morgan, Milton          Fri, Sep  8, 2012       D33-29-03 
+ JC134F31A13271623  CR-V        2009  20476  31995  Shelton, Adam           Tue, Sep  5, 2012       D33-29-05 
+ JD138FU12X39X7C85  CR-Z        2007  14308  27705  Shelton, Adam           Sat, Sep  2, 2012       D33-29-05 
+ JC134F318XX44B3C7  CR-V        2007  15772  31995  Shelton, Adam           Sun, Sep  3, 2012       D33-29-05 
+ JF146S112Y2582739  Fit         2008  9480   16025  Wells, Clayton          Sat, Sep  2, 2012       D33-29-01 
+ JD136F111X4371631  CR-Z        2007  12127  24705  Martinez, Katherine     Sat, Sep  2, 2012       D33-29-04 

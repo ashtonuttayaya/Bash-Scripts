@@ -1,0 +1,43 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Mon, May 28, 2013 thru Sun, Jun  3, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F1115222AA38  CR-Z         2013  23349  24705  Rice, Georgia           Sun, Jun  3, 2013       D34-30-03 
+ JB127S137522833AX  Civic        2013  16290  16655  Webb, Ken               Fri, Jun  1, 2013       D34-30-02 
+ JG148F1145222AA42  Insight      2013  23185  24390  Rice, Georgia           Sun, Jun  3, 2013       D34-30-03 
+ JC131F1125222AA44  CR-V         2013  29453  30995  Torres, Caroline        Fri, Jun  1, 2013       D34-30-01 
+ JH151F1175222AA46  Odyssey      2013  42315  44825  Bennett, Michele        Fri, Jun  1, 2013       D34-30-05 
+ JC131F11A5222AA48  CR-V         2013  28819  30995  Bennett, Michele        Mon, May 28, 2013       D34-30-05 
+ JB127S1315226119X  Civic        2013  15250  16655  Rice, Georgia           Thu, May 31, 2013       D34-30-03 
+ JB13ASU48522833B2  Civic        2013  21709  23855  Bennett, Michele        Wed, May 30, 2013       D34-30-05 
+ JA111S13352261194  Accord       2013  22113  22480  Torres, Caroline        Thu, May 31, 2013       D34-30-01 
+ JB121S12A5225XX86  Civic        2013  16359  16455  Rodriquez, Jorge        Sun, Jun  3, 2013       D34-30-04 
+ JD136F11452219948  CR-Z         2013  23222  24705  Torres, Caroline        Sat, Jun  2, 2013       D34-30-01 
+ JH151F1185225XX9X  Odyssey      2013  43225  44825  Rodriquez, Jorge        Tue, May 29, 2013       D34-30-04 
+ JA1X5SU29522833C2  Accord       2013  25542  27089  Rodriquez, Jorge        Mon, May 28, 2013       D34-30-04 
+ JC131F1105224CC84  CR-V         2013  27869  30995  Jensen, Bill            Fri, Jun  1, 2013       D34-30-06 
+ JD136F1125223BB76  CR-Z         2013  23095  24705  Jensen, Bill            Thu, May 31, 2013       D34-30-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JK167FU112335X887  Ridgeline   2010  31084  49750  Jensen, Bill            Sat, Jun  2, 2013       D34-30-06 
+ JC131F1145X383BB9  CR-V         2013  28705  30995  Torres, Caroline        Fri, Jun  1, 2013       D34-30-01 
+ JC134F315215X8341  CR-V        2010  20620  31995  Webb, Ken               Wed, May 30, 2013       D34-30-02 
+ JC135F4163X5X8343  CR-V        2011  29686  39995  Webb, Ken               Sun, Jun  3, 2013       D34-30-02 
+ JH153FU121X84C785  Odyssey     2009  26578  45825  Jensen, Bill            Tue, May 29, 2013       D34-30-06 
+ JH152SU171345X897  Odyssey     2009  18225  30375  Bennett, Michele        Fri, Jun  1, 2013       D34-30-05 
+ JJ161FU1A12P4C789  Pilot       2009  25782  42970  Bennett, Michele        Wed, May 30, 2013       D34-30-05 
+ JH152SU19215619B1  Odyssey     2010  20134  30375  Torres, Caroline        Fri, Jun  1, 2013       D34-30-01 
+ JH153FU163X472AC3  Odyssey     2011  33318  45825  Rodriquez, Jorge        Sat, Jun  2, 2013       D34-30-04 
+ JH158S411215X8355  Odyssey     2010  27372  41375  Webb, Ken               Thu, May 31, 2013       D34-30-02 
+ JB121S123Y1772AC7  Civic       2008  8520   16455  Bennett, Michele        Fri, Jun  1, 2013       D34-30-05 
+ JE141F11A2X14C799  Crosstour   2010  24233  37640  Bennett, Michele        Mon, May 28, 2013       D34-30-05 
+ JH159F41724919471  Odyssey     2010  37538  56825  Torres, Caroline        Thu, May 31, 2013       D34-30-01 

@@ -1,0 +1,57 @@
+Dealer Name: City Honda
+Address:     9489 Ford Parkwark
+             Brookland, GA
+Dealer ID:   25
+Owner:       Porter, Barbara
+Date:        Tue, Jul  2, 2014 thru Mon, Jul  8, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X5SU2962783CXX  Accord       2014  24910  27089  Sullivan, Hazel         Fri, Jul  5, 2014       D25-22-06 
+ JB127S13A62772BC2  Civic        2014  15623  16655  Wallace, Harry          Sun, Jul  7, 2014       D25-22-04 
+ JB121S1266272A674  Civic        2014  16834  16455  Sullivan, Hazel         Thu, Jul  4, 2014       D25-22-06 
+ JA1X3SU2562772BC6  Accord       2014  24949  25089  Wallace, Harry          Fri, Jul  5, 2014       D25-22-04 
+ JG148F1116272A678  Insight      2014  23646  24390  Mcdonald, Eduardo       Wed, Jul  3, 2014       D25-22-05 
+ JB129S14362783C1X  Civic        2014  21679  23055  Mcdonald, Eduardo       Wed, Jul  3, 2014       D25-22-05 
+ JB127S13062719572  Civic        2014  16238  16655  Mcdonald, Eduardo       Sat, Jul  6, 2014       D25-22-05 
+ JC132FU17627X8464  CR-V         2014  30921  31995  Sullivan, Hazel         Mon, Jul  8, 2014       D25-22-06 
+ JH155FU1062719576  Odyssey      2014  44827  47825  Fuller, Jacob           Wed, Jul  3, 2014       D25-22-02 
+ JA1X8F32462783C18  Accord       2014  33008  34030  Fuller, Jacob           Mon, Jul  8, 2014       D25-22-02 
+ JB127S134627X847X  Civic        2014  16852  16655  Shelton, Alicia         Sun, Jul  7, 2014       D25-22-01 
+ JH151F11762772B12  Odyssey      2014  43896  44825  Hall, Josephine         Mon, Jul  8, 2014       D25-22-03 
+ JB129S145627X8474  Civic        2014  22158  23055  Hall, Josephine         Wed, Jul  3, 2014       D25-22-03 
+ JE141F11762783C26  Crosstour    2014  36227  37640  Shelton, Alicia         Fri, Jul  5, 2014       D25-22-01 
+ JC131F11A6275X9C8  CR-V         2014  29502  30995  Wallace, Harry          Fri, Jul  5, 2014       D25-22-04 
+ JB127S1396274C8CX  Civic        2014  15975  16655  Sullivan, Hazel         Sun, Jul  7, 2014       D25-22-06 
+ JA111S1356275X9X2  Accord       2014  21743  22480  Wallace, Harry          Fri, Jul  5, 2014       D25-22-04 
+ JC131F11962783C34  CR-V         2014  28067  30995  Mcdonald, Eduardo       Tue, Jul  2, 2014       D25-22-05 
+ JB121S124627X8486  Civic        2014  16747  16455  Fuller, Jacob           Sat, Jul  6, 2014       D25-22-02 
+ JB127S1306274C8C8  Civic        2014  17028  16655  Fuller, Jacob           Tue, Jul  2, 2014       D25-22-02 
+ JH153FU166275X91X  Odyssey      2014  41818  45825  Wallace, Harry          Wed, Jul  3, 2014       D25-22-04 
+ JC133FU1462772B32  CR-V         2014  31928  33995  Hall, Josephine         Mon, Jul  8, 2014       D25-22-03 
+ JA111S131627X8494  Accord       2014  21392  22480  Mcdonald, Eduardo       Thu, Jul  4, 2014       D25-22-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU1934218A21  CR-V        2003  22664  33995  Mcdonald, Eduardo       Wed, Jul  3, 2014       D25-22-05 
+ JH156S3142515C163  Odyssey     2002  17748  30375  Fuller, Jacob           Sun, Jul  7, 2014       D25-22-02 
+ JE142FU1A55229B35  Crosstour   2005  31632  38640  Shelton, Alicia         Sun, Jul  7, 2014       D25-22-01 
+ JH155FU1642182497  Odyssey     2004  34920  47825  Sullivan, Hazel         Wed, Jul  3, 2014       D25-22-06 
+ JE142FU191245C169  Crosstour   2001  19320  38640  Sullivan, Hazel         Thu, Jul  4, 2014       D25-22-06 
+ JH156S31614P5C171  Odyssey     2001  15187  30375  Fuller, Jacob           Sat, Jul  6, 2014       D25-22-02 
+ JG148F114435824A3  Insight     2004  18046  24390  Sullivan, Hazel         Sun, Jul  7, 2014       D25-22-06 
+ JC132FU11229X7925  CR-V        2002  19332  31995  Mcdonald, Eduardo       Sun, Jul  7, 2014       D25-22-05 
+ JG149FU193X418A37  Insight     2003  16409  25190  Hall, Josephine         Sat, Jul  6, 2014       D25-22-03 
+ JC131F119221X7929  CR-V        2002  18732  30995  Wallace, Harry          Fri, Jul  5, 2014       D25-22-04 
+ JH15AS116324824B1  Odyssey     2003  19088  29375  Shelton, Alicia         Fri, Jul  5, 2014       D25-22-01 
+ JH153FU1224P5C183  Odyssey     2002  28551  45825  Shelton, Alicia         Wed, Jul  3, 2014       D25-22-01 
+ JH151F11044418A45  Odyssey     2004  32760  44825  Shelton, Alicia         Thu, Jul  4, 2014       D25-22-01 
+ JJ162FU16345X7937  Pilot       2003  29068  44970  Hall, Josephine         Thu, Jul  4, 2014       D25-22-03 
+ JH15AS1195X8824B9  Odyssey     2005  24522  29375  Fuller, Jacob           Wed, Jul  3, 2014       D25-22-02 
+ JB129S1412515C191  Civic       2002  14433  23055  Shelton, Alicia         Sat, Jul  6, 2014       D25-22-01 
+ JE143FU172343AC73  Crosstour   2002  24519  40640  Sullivan, Hazel         Wed, Jul  3, 2014       D25-22-06 
+ JH155FU113174BX85  Odyssey     2003  31764  47825  Hall, Josephine         Tue, Jul  2, 2014       D25-22-03 
+ JD137FU1151818A57  CR-Z        2005  21284  25705  Shelton, Alicia         Thu, Jul  4, 2014       D25-22-01 

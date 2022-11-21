@@ -1,0 +1,58 @@
+Dealer Name: City Honda
+Address:     9489 Ford Parkwark
+             Brookland, GA
+Dealer ID:   25
+Owner:       Porter, Barbara
+Date:        Mon, Mar 26, 2013 thru Sun, Apr  1, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH159F41351319522  Odyssey      2013  52900  56825  Mcdonald, Eduardo       Tue, Mar 27, 2013       D25-22-05 
+ JB121S12551372B84  Civic        2013  16530  16455  Sullivan, Hazel         Mon, Mar 26, 2013       D25-22-06 
+ JA111S13051361A76  Accord       2013  20376  22480  Mcdonald, Eduardo       Tue, Mar 27, 2013       D25-22-05 
+ JA111S1365133B748  Accord       2013  22228  22480  Wallace, Harry          Sat, Mar 31, 2013       D25-22-04 
+ JB125G163513X842X  Civic        2013  26553  28505  Shelton, Alicia         Sat, Mar 31, 2013       D25-22-01 
+ JA112F13051319532  Accord       2013  29740  32930  Hall, Josephine         Sun, Apr  1, 2013       D25-22-03 
+ JB127S1305134C864  Civic        2013  15943  16655  Hall, Josephine         Sun, Apr  1, 2013       D25-22-03 
+ JA1X3SU2A5132A646  Accord       2013  23058  25089  Hall, Josephine         Sat, Mar 31, 2013       D25-22-03 
+ JD137FU175133B758  CR-Z         2013  23478  25705  Wallace, Harry          Sun, Apr  1, 2013       D25-22-04 
+ JB129S149513X843X  Civic        2013  22899  23055  Wallace, Harry          Tue, Mar 27, 2013       D25-22-04 
+ JB127S13A51383CB2  Civic        2013  16030  16655  Sullivan, Hazel         Tue, Mar 27, 2013       D25-22-06 
+ JH159F4105135X984  Odyssey      2013  54050  56825  Wallace, Harry          Tue, Mar 27, 2013       D25-22-04 
+ JF146S11351372BA6  Fit          2013  16032  16025  Mcdonald, Eduardo       Wed, Mar 28, 2013       D25-22-05 
+ JB127S13051383CB8  Civic        2013  16636  16655  Mcdonald, Eduardo       Mon, Mar 26, 2013       D25-22-05 
+ JK165F119513X844X  Ridgeline    2013  42208  46750  Hall, Josephine         Sat, Mar 31, 2013       D25-22-03 
+ JA1X1S12A51319552  Accord       2013  23278  24089  Fuller, Jacob           Mon, Mar 26, 2013       D25-22-02 
+ JA1X2F1235132A664  Accord       2013  30503  33030  Sullivan, Hazel         Thu, Mar 29, 2013       D25-22-06 
+ JA111S1375135X996  Accord       2013  20492  22480  Fuller, Jacob           Thu, Mar 29, 2013       D25-22-02 
+ JH151F11A51372BB8  Odyssey      2013  40040  44825  Hall, Josephine         Wed, Mar 28, 2013       D25-22-03 
+ JA114FU325133B78X  Accord       2013  30798  33930  Hall, Josephine         Wed, Mar 28, 2013       D25-22-03 
+ JA1X1S1265135X9A2  Accord       2013  23154  24089  Fuller, Jacob           Sun, Apr  1, 2013       D25-22-02 
+ JB123H15251372BC4  Civic        2013  25164  27600  Fuller, Jacob           Sat, Mar 31, 2013       D25-22-02 
+ JB127S13651372BC6  Civic        2013  16376  16655  Mcdonald, Eduardo       Mon, Mar 26, 2013       D25-22-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH157F312149713C7  Odyssey     2009  27495  45825  Shelton, Alicia         Mon, Mar 26, 2013       D25-22-01 
+ JB127S137238824X9  Civic       2010  11107  16655  Mcdonald, Eduardo       Sat, Mar 31, 2013       D25-22-05 
+ JB121S1283184BXA1  Civic       2011  12408  16455  Mcdonald, Eduardo       Sat, Mar 31, 2013       D25-22-05 
+ JE142FU193166X2C3  Crosstour   2011  28692  38640  Mcdonald, Eduardo       Thu, Mar 29, 2013       D25-22-05 
+ JH15AS110135713X5  Odyssey     2009  17625  29375  Fuller, Jacob           Fri, Mar 30, 2013       D25-22-02 
+ JH159F4182243AC97  Odyssey     2010  37538  56825  Shelton, Alicia         Tue, Mar 27, 2013       D25-22-01 
+ JA111S130226713X9  Accord      2010  14939  22480  Fuller, Jacob           Tue, Mar 27, 2013       D25-22-02 
+ JH15AS1122X7X7971  Odyssey     2010  18944  29375  Fuller, Jacob           Sun, Apr  1, 2013       D25-22-02 
+ JB127S13921671313  Civic       2010  11107  16655  Wallace, Harry          Tue, Mar 27, 2013       D25-22-04 
+ JC131F1113X129B95  CR-V        2011  23080  30995  Wallace, Harry          Sat, Mar 31, 2013       D25-22-04 
+ JD136F11AX1682427  CR-Z        2007  10429  24705  Hall, Josephine         Sun, Apr  1, 2013       D25-22-03 
+ JH153FU10Y233ACA9  Odyssey     2008  22800  45825  Fuller, Jacob           Wed, Mar 28, 2013       D25-22-02 
+ JH154SU1032118A91  Odyssey     2011  23174  32375  Mcdonald, Eduardo       Thu, Mar 29, 2013       D25-22-05 
+ JB127S13811P3ACB3  Civic       2009  10326  16655  Fuller, Jacob           Mon, Mar 26, 2013       D25-22-02 
+ JB123H15A2326X215  Civic       2010  18308  27600  Fuller, Jacob           Sat, Mar 31, 2013       D25-22-02 
+ JB121S12812282437  Civic       2009  10202  16455  Shelton, Alicia         Sun, Apr  1, 2013       D25-22-01 
+ JJ164F41913371329  Pilot       2009  33461  53970  Shelton, Alicia         Sat, Mar 31, 2013       D25-22-01 
+ JH152SU193525C111  Odyssey     2011  22194  30375  Sullivan, Hazel         Tue, Mar 27, 2013       D25-22-06 
+ JG148F110Y294BXX3  Insight     2008  12082  24390  Fuller, Jacob           Sun, Apr  1, 2013       D25-22-02 
+ JH152SU1A1395C115  Odyssey     2009  18832  30375  Mcdonald, Eduardo       Fri, Mar 30, 2013       D25-22-05 

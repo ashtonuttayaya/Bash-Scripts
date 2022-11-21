@@ -1,0 +1,48 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Wed, Mar 26, 2015 thru Tue, Apr  1, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB123H15971383X9X  Civic        2015  26139  27600  Baker, Mark             Thu, Mar 27, 2015       D23-21-02 
+ JH153FU1171361B72  Odyssey      2015  42959  45825  Arnold, Marcus          Sat, Mar 29, 2015       D23-21-04 
+ JB121S1247132A734  Civic        2015  16085  16455  Arnold, Marcus          Thu, Mar 27, 2015       D23-21-04 
+ JA111S1367135XA66  Accord       2015  22070  22480  Baker, Mark             Mon, Mar 31, 2015       D23-21-02 
+ JB127S13071383X98  Civic        2015  16446  16655  Baker, Mark             Fri, Mar 28, 2015       D23-21-02 
+ JA111S1377133B85X  Accord       2015  21362  22480  Payne, Calvin           Thu, Mar 27, 2015       D23-21-03 
+ JB121S12871319632  Civic        2015  15822  16455  Garrett, Edna           Mon, Mar 31, 2015       D23-21-06 
+ JB121S123713X8524  Civic        2015  16613  16455  Garrett, Edna           Mon, Mar 31, 2015       D23-21-06 
+ JC133FU197134C966  CR-V         2015  31959  33995  Arnold, Marcus          Sun, Mar 30, 2015       D23-21-04 
+ JB127S13A71361B88  Civic        2015  16357  16655  Jenkins, Corey          Tue, Apr  1, 2015       D23-21-01 
+ JB121S121713X853X  Civic        2015  15470  16455  Baker, Mark             Mon, Mar 31, 2015       D23-21-02 
+ JB128SU32713X8532  Civic        2015  17093  17455  Garrett, Edna           Mon, Mar 31, 2015       D23-21-06 
+ JB127S137713X8534  Civic        2015  17157  16655  Garrett, Edna           Tue, Apr  1, 2015       D23-21-06 
+ JB127S1347135XA86  Civic        2015  16713  16655  Garrett, Edna           Sat, Mar 29, 2015       D23-21-06 
+ JH157F31071319648  Odyssey      2015  42724  45825  Holland, Mitchell       Sat, Mar 29, 2015       D23-21-05 
+ JG148F1197134C98X  Insight      2015  23091  24390  Baker, Mark             Fri, Mar 28, 2015       D23-21-02 
+ JB129S14A71383XC2  Civic        2015  21641  23055  Jenkins, Corey          Wed, Mar 26, 2015       D23-21-01 
+ JB121S12271361BA4  Civic        2015  15734  16455  Garrett, Edna           Thu, Mar 27, 2015       D23-21-06 
+ JG148F11871383XC6  Insight      2015  23218  24390  Garrett, Edna           Thu, Mar 27, 2015       D23-21-06 
+ JA115SU307134C988  Accord       2015  24343  25480  Payne, Calvin           Thu, Mar 27, 2015       D23-21-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1262X718A87  Civic       2002  8757   16455  Baker, Mark             Tue, Apr  1, 2015       D23-21-02 
+ JB121S12021229B99  Civic       2002  8757   16455  Garrett, Edna           Thu, Mar 27, 2015       D23-21-06 
+ JJ163F31245218A91  Pilot       2004  27932  42970  Garrett, Edna           Sat, Mar 29, 2015       D23-21-06 
+ JH153FU1532871323  Odyssey     2003  28690  45825  Payne, Calvin           Mon, Mar 31, 2015       D23-21-03 
+ JH153FU14446X7985  Odyssey     2004  28923  45825  Payne, Calvin           Tue, Apr  1, 2015       D23-21-03 
+ JC132FU1841929BA7  CR-V        2004  21496  31995  Jenkins, Corey          Tue, Apr  1, 2015       D23-21-01 
+ JA112F13851118A99  Accord      2005  24831  32930  Garrett, Edna           Thu, Mar 27, 2015       D23-21-06 
+ JD139F31443P5C111  CR-Z        2004  16883  25705  Holland, Mitchell       Fri, Mar 28, 2015       D23-21-05 
+ JD14AF4172293ACC3  CR-Z        2002  16965  33705  Jenkins, Corey          Sat, Mar 29, 2015       D23-21-01 
+ JC134F312417X7995  CR-V        2004  21496  31995  Payne, Calvin           Wed, Mar 26, 2015       D23-21-03 
+ JH152SU1A34471337  Odyssey     2003  19111  30375  Garrett, Edna           Sat, Mar 29, 2015       D23-21-06 
+ JG149FU143374BXX9  Insight     2003  15384  25190  Arnold, Marcus          Wed, Mar 26, 2015       D23-21-04 
+ JE143FU1652818AB1  Crosstour   2005  29908  40640  Garrett, Edna           Tue, Apr  1, 2015       D23-21-06 

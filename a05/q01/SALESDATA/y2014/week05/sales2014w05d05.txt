@@ -1,0 +1,33 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Tue, Jan 29, 2014 thru Mon, Feb  4, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X7S3286X582XXX  Accord       2014  23909  25089  Moreno, Tyrone          Thu, Jan 31, 2014       D05-05-03 
+ JB124HU576X582XX2  Civic        2014  27981  28400  Neal, Douglas           Fri, Feb  1, 2014       D05-05-06 
+ JH153FU116X5X7554  Odyssey      2014  41351  45825  Moreno, Tyrone          Mon, Feb  4, 2014       D05-05-03 
+ JG148F1136X54B996  Insight      2014  24404  24390  Lynch, Christian        Tue, Jan 29, 2014       D05-05-02 
+ JA115SU356X529778  Accord       2014  25192  25480  Marshall, Donna         Sat, Feb  2, 2014       D05-05-05 
+ JA1X5SU256X55CABX  Accord       2014  25330  27089  Moreno, Tyrone          Sun, Feb  3, 2014       D05-05-03 
+ JA111S1326X5X7562  Accord       2014  20574  22480  Brooks, Herman          Sat, Feb  2, 2014       D05-05-01 
+ JB128SU386X53A894  Civic        2014  16886  17455  Lynch, Christian        Sat, Feb  2, 2014       D05-05-02 
+ JB127S1386X55CAB6  Civic        2014  16765  16655  Marshall, Donna         Wed, Jan 30, 2014       D05-05-05 
+ JB121S1236X518678  Civic        2014  15532  16455  Neal, Douglas           Thu, Jan 31, 2014       D05-05-06 
+ JB127S1326X55CACX  Civic        2014  16852  16655  Foster, Leona           Sun, Feb  3, 2014       D05-05-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S123352X7471  Civic       2003  11123  16455  Neal, Douglas           Thu, Jan 31, 2014       D05-05-06 
+ JD136F11A543X7473  CR-Z        2005  20740  24705  Ford, Roger             Thu, Jan 31, 2014       D05-05-08 
+ JJ161FU163483A7A5  Pilot       2003  27007  42970  Foster, Leona           Thu, Jan 31, 2014       D05-05-07 
+ JG148F1104X76XAX7  Insight     2004  18397  24390  Foster, Leona           Wed, Jan 30, 2014       D05-05-07 
+ JH151F1173X54B8B9  Odyssey     2003  29790  44825  Brooks, Herman          Tue, Jan 29, 2014       D05-05-01 
+ JH158S41AYX53A7B1  Odyssey     2000  15225  41375  Foster, Leona           Sun, Feb  3, 2014       D05-05-07 
+ JH15AS1122423A7B3  Odyssey     2002  17760  29375  Moreno, Tyrone          Fri, Feb  1, 2014       D05-05-03 

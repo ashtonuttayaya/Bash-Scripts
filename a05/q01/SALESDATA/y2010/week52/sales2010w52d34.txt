@@ -1,0 +1,40 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Thu, Dec 24, 2010 thru Thu, Dec 31, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X3SU2725283X96  Accord       2010  23081  25089  Webb, Ken               Wed, Dec 30, 2010       D34-30-02 
+ JB121S12125283X98  Civic        2010  15138  16455  Rodriquez, Jorge        Wed, Dec 30, 2010       D34-30-04 
+ JB127S13A2521963X  Civic        2010  15655  16655  Rice, Georgia           Wed, Dec 30, 2010       D34-30-03 
+ JB121S121252X8522  Civic        2010  15220  16455  Webb, Ken               Fri, Dec 25, 2010       D34-30-02 
+ JA117S3322525XA74  Accord       2010  21953  23480  Webb, Ken               Fri, Dec 25, 2010       D34-30-02 
+ JB121S1222525XA76  Civic        2010  15549  16455  Rice, Georgia           Tue, Dec 29, 2010       D34-30-03 
+ JB127S13A2524C968  Civic        2010  15738  16655  Bennett, Michele        Mon, Dec 28, 2010       D34-30-05 
+ JB121S12A2524C97X  Civic        2010  15879  16455  Rice, Georgia           Wed, Dec 30, 2010       D34-30-03 
+ JC131F1172523B862  CR-V         2010  28980  30995  Jensen, Bill            Thu, Dec 24, 2010       D34-30-06 
+ JB129S1452523B864  Civic        2010  21095  23055  Bennett, Michele        Mon, Dec 28, 2010       D34-30-05 
+ JB125G16625272CA6  Civic        2010  25084  28505  Bennett, Michele        Mon, Dec 28, 2010       D34-30-05 
+ JA115SU3125219648  Accord       2010  23951  25480  Jensen, Bill            Sun, Dec 27, 2010       D34-30-06 
+ JC134F3172525XA9X  CR-V         2010  28315  31995  Rice, Georgia           Mon, Dec 28, 2010       D34-30-03 
+ JA113SU312522A762  Accord       2010  22540  23480  Torres, Caroline        Wed, Dec 30, 2010       D34-30-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU16V234B3A5  Odyssey     2005  24635  47825  Webb, Ken               Mon, Dec 28, 2010       D34-30-02 
+ JC132FU10YX5716X7  CR-V        2008  23319  31995  Torres, Caroline        Fri, Dec 25, 2010       D34-30-01 
+ JH159F419XX94B3A9  Odyssey     2007  37094  56825  Webb, Ken               Thu, Dec 24, 2010       D34-30-02 
+ JA111S131Y1418X81  Accord      2008  16335  22480  Rodriquez, Jorge        Fri, Dec 25, 2010       D34-30-04 
+ JH155FU16X175C4C3  Odyssey     2007  29467  47825  Webb, Ken               Thu, Dec 24, 2010       D34-30-02 
+ JK169F419T3PX7C75  Ridgeline   2004  24778  58750  Webb, Ken               Fri, Dec 25, 2010       D34-30-02 
+ JH151F115X364B3B7  Odyssey     2007  28400  44825  Jensen, Bill            Sun, Dec 27, 2010       D34-30-06 
+ JD138FU1AW2P3A2A9  CR-Z        2006  16758  27705  Torres, Caroline        Tue, Dec 29, 2010       D34-30-01 
+ JJ163F314Y24291A1  Pilot       2008  31374  42970  Rice, Georgia           Sat, Dec 26, 2010       D34-30-03 
+ JB121S120X275C4X3  Civic       2007  10531  16455  Torres, Caroline        Mon, Dec 28, 2010       D34-30-01 
+ JH152SU181X4291A5  Odyssey     2009  24603  30375  Jensen, Bill            Tue, Dec 29, 2010       D34-30-06 

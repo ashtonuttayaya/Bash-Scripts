@@ -1,0 +1,9 @@
+Checking error handling
+           OK - File name not provided                                      chxq03-A1
+           OK - File not found                                              chxq03-B1
+
+Checking functionality
+           OK - Checking differences found                                  chxq03-C1
+           OK - Checking line numbers                                       chxq03-D1
+           OK - Checking perdentages                                        chxq03-E1
+

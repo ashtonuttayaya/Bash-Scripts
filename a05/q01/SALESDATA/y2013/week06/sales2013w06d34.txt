@@ -1,0 +1,43 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Mon, Feb  5, 2013 thru Sun, Feb 11, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU145X63BB48  Odyssey      2013  27479  30375  Torres, Caroline        Mon, Feb  5, 2013       D34-30-01 
+ JB127S1305X64CC6X  Civic        2013  15510  16655  Jensen, Bill            Sat, Feb 10, 2013       D34-30-06 
+ JB127S1355X63BB52  Civic        2013  16030  16655  Webb, Ken               Tue, Feb  6, 2013       D34-30-02 
+ JC131F1115X619934  CR-V         2013  28819  30995  Torres, Caroline        Tue, Feb  6, 2013       D34-30-01 
+ JC132FU1A5X64CC66  CR-V         2013  29729  31995  Jensen, Bill            Wed, Feb  7, 2013       D34-30-06 
+ JB127S13A5X62AA48  Civic        2013  16030  16655  Torres, Caroline        Tue, Feb  6, 2013       D34-30-01 
+ JC134F3165X6X883X  CR-V         2013  31036  31995  Jensen, Bill            Mon, Feb  5, 2013       D34-30-06 
+ JH153FU145X619942  Odyssey      2013  42547  45825  Bennett, Michele        Thu, Feb  8, 2013       D34-30-05 
+ JC132FU175X6833B4  CR-V         2013  30056  31995  Webb, Ken               Mon, Feb  5, 2013       D34-30-02 
+ JC134F3125X619946  CR-V         2013  28912  31995  Rodriquez, Jorge        Sun, Feb 11, 2013       D34-30-04 
+ JG148F1165X63BB68  Insight      2013  23435  24390  Rodriquez, Jorge        Fri, Feb  9, 2013       D34-30-04 
+ JA1X5SU225X65XX9X  Accord       2013  26514  27089  Jensen, Bill            Mon, Feb  5, 2013       D34-30-06 
+ JA1X1S1235X65XX92  Accord       2013  24021  24089  Rice, Georgia           Sat, Feb 10, 2013       D34-30-03 
+ JB127S1305X64CC84  Civic        2013  15856  16655  Rodriquez, Jorge        Fri, Feb  9, 2013       D34-30-04 
+ JB121S1285X619956  Civic        2013  15417  16455  Rice, Georgia           Fri, Feb  9, 2013       D34-30-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1192X561997  Insight     2010  16196  24390  Jensen, Bill            Tue, Feb  6, 2013       D34-30-06 
+ JH157F314431X8339  Odyssey     2012  37200  45825  Rice, Georgia           Thu, Feb  8, 2013       D34-30-03 
+ JD136F112237X8341  CR-Z        2010  16403  24705  Bennett, Michele        Mon, Feb  5, 2013       D34-30-05 
+ JH152SU1912583BC3  Odyssey     2009  18225  30375  Rodriquez, Jorge        Wed, Feb  7, 2013       D34-30-04 
+ JK165F112Y392A565  Ridgeline   2008  23262  46750  Bennett, Michele        Sun, Feb 11, 2013       D34-30-05 
+ JK165F11715P72AB7  Ridgeline   2009  27114  46750  Webb, Ken               Tue, Feb  6, 2013       D34-30-02 
+ JJ164F416Y23X8349  Pilot       2008  26872  53970  Rodriquez, Jorge        Sat, Feb 10, 2013       D34-30-04 
+ JH157F3132335X8A1  Odyssey     2010  29472  45825  Bennett, Michele        Thu, Feb  8, 2013       D34-30-05 
+ JG148F11A329619B3  Insight     2011  17884  24390  Rodriquez, Jorge        Tue, Feb  6, 2013       D34-30-04 
+ JH152SU11XX2619B5  Odyssey     2007  11970  30375  Rodriquez, Jorge        Fri, Feb  9, 2013       D34-30-04 
+ JH157F3152113B687  Odyssey     2010  29472  45825  Bennett, Michele        Sun, Feb 11, 2013       D34-30-05 
+ JH157F3181444C799  Odyssey     2009  27495  45825  Jensen, Bill            Fri, Feb  9, 2013       D34-30-06 
+ JB121S123Y434C7A1  Civic       2008  8520   16455  Bennett, Michele        Tue, Feb  6, 2013       D34-30-05 

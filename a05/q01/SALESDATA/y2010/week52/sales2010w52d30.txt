@@ -1,0 +1,60 @@
+Dealer Name: State Honda
+Address:     1322 Centerville Road
+             Louderdale, FL
+Dealer ID:   30
+Owner:       Samuels, Sammy
+Date:        Thu, Dec 24, 2010 thru Thu, Dec 31, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU112524C782  CR-V         2010  30255  33995  Romero, Floyd           Sat, Dec 26, 2010       D30-26-01 
+ JB127S130252619A4  Civic        2010  14906  16655  Romero, Floyd           Thu, Dec 24, 2010       D30-26-01 
+ JD136F11025283BC6  CR-Z         2010  23346  24705  Romero, Floyd           Thu, Dec 24, 2010       D30-26-01 
+ JG148F11525283BC8  Insight      2010  22682  24390  Romero, Floyd           Sat, Dec 26, 2010       D30-26-01 
+ JJ161FU122525X8AX  Pilot        2010  39102  42970  Shelton, Marshall       Mon, Dec 28, 2010       D30-26-02 
+ JA112F1372525X8A2  Accord       2010  29637  32930  Romero, Floyd           Tue, Dec 29, 2010       D30-26-01 
+ JC132FU18252X8354  CR-V         2010  28315  31995  Romero, Floyd           Tue, Dec 29, 2010       D30-26-01 
+ JB121S1262524C796  Civic        2010  15961  16455  Romero, Floyd           Wed, Dec 30, 2010       D30-26-01 
+ JG148F1182524C798  Insight      2010  23170  24390  Romero, Floyd           Fri, Dec 25, 2010       D30-26-01 
+ JH153FU122524C7AX  Odyssey      2010  43304  45825  Shelton, Marshall       Fri, Dec 25, 2010       D30-26-02 
+ JH153FU18252619C2  Odyssey      2010  41471  45825  Shelton, Marshall       Wed, Dec 30, 2010       D30-26-02 
+ JG148F11525272AX4  Insight      2010  22072  24390  Romero, Floyd           Tue, Dec 29, 2010       D30-26-01 
+ JH15AS1152523B696  Odyssey      2010  26878  29375  Shelton, Marshall       Mon, Dec 28, 2010       D30-26-02 
+ JB123H157252X8368  Civic        2010  24702  27600  Shelton, Marshall       Thu, Dec 24, 2010       D30-26-02 
+ JB129S14A25283B2X  Civic        2010  21210  23055  Shelton, Marshall       Thu, Dec 24, 2010       D30-26-02 
+ JB121S12325283B22  Civic        2010  15220  16455  Shelton, Marshall       Fri, Dec 25, 2010       D30-26-02 
+ JD136F1142523B6A4  CR-Z         2010  21987  24705  Shelton, Marshall       Wed, Dec 30, 2010       D30-26-02 
+ JC131F112252619X6  CR-V         2010  29755  30995  Shelton, Marshall       Tue, Dec 29, 2010       D30-26-02 
+ JB127S1312525X8C8  Civic        2010  16072  16655  Shelton, Marshall       Mon, Dec 28, 2010       D30-26-02 
+ JJ161FU19252X838X  Pilot        2010  39102  42970  Shelton, Marshall       Tue, Dec 29, 2010       D30-26-02 
+ JC132FU1825261912  CR-V         2010  28315  31995  Shelton, Marshall       Wed, Dec 30, 2010       D30-26-02 
+ JB127S13425272A24  Civic        2010  14989  16655  Romero, Floyd           Thu, Dec 24, 2010       D30-26-01 
+ JC132FU1A252X8386  CR-V         2010  30715  31995  Shelton, Marshall       Fri, Dec 25, 2010       D30-26-02 
+ JH153FU172522A5A8  Odyssey      2010  42846  45825  Shelton, Marshall       Wed, Dec 30, 2010       D30-26-02 
+ JE142FU172526192X  Crosstour    2010  37287  38640  Shelton, Marshall       Sun, Dec 27, 2010       D30-26-02 
+ JB127S13A25261922  Civic        2010  14822  16655  Romero, Floyd           Sun, Dec 27, 2010       D30-26-01 
+ JB127S138252X8394  Civic        2010  15156  16655  Shelton, Marshall       Sun, Dec 27, 2010       D30-26-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F111WX829X37  Insight     2006  14703  24390  Shelton, Marshall       Sat, Dec 26, 2010       D30-26-02 
+ JB127S137X513A149  Civic       2007  10662  16655  Romero, Floyd           Sun, Dec 27, 2010       D30-26-01 
+ JB123H153X316X481  Civic       2007  17864  27600  Shelton, Marshall       Thu, Dec 24, 2010       D30-26-02 
+ JC133FU15Y46826A3  CR-V        2008  24314  33995  Romero, Floyd           Sat, Dec 26, 2010       D30-26-01 
+ JB127S133Y163A155  Civic       2008  12059  16655  Shelton, Marshall       Sat, Dec 26, 2010       D30-26-02 
+ JH152SU11WX518C37  Odyssey     2006  17820  30375  Romero, Floyd           Wed, Dec 30, 2010       D30-26-01 
+ JH153FU16X44826A9  Odyssey     2007  29040  45825  Shelton, Marshall       Tue, Dec 29, 2010       D30-26-02 
+ JB127S139WX66X491  Civic       2006  9907   16655  Romero, Floyd           Mon, Dec 28, 2010       D30-26-01 
+ JB121S124X42X7B33  Civic       2007  10531  16455  Shelton, Marshall       Tue, Dec 29, 2010       D30-26-02 
+ JB121S126WX9X7B35  Civic       2006  9783   16455  Shelton, Marshall       Fri, Dec 25, 2010       D30-26-02 
+ JG148F116Y36X7B37  Insight     2008  17737  24390  Shelton, Marshall       Fri, Dec 25, 2010       D30-26-02 
+ JH15AS114W436X499  Odyssey     2006  17794  29375  Romero, Floyd           Sun, Dec 27, 2010       D30-26-01 
+ JH153FU10X14X7B41  Odyssey     2007  29856  45825  Romero, Floyd           Fri, Dec 25, 2010       D30-26-01 
+ JC131F119TX929X63  CR-V        2004  12844  30995  Romero, Floyd           Tue, Dec 29, 2010       D30-26-01 
+ JH155FU13Y19715B5  Odyssey     2008  34272  47825  Shelton, Marshall       Mon, Dec 28, 2010       D30-26-02 
+ JD137FU11W38715B7  CR-Z        2006  15518  25705  Romero, Floyd           Tue, Dec 29, 2010       D30-26-01 
+ JJ163F31AV483A179  Pilot       2005  22086  42970  Romero, Floyd           Wed, Dec 30, 2010       D30-26-01 
+ JH152SU1315P3A181  Odyssey     2009  24300  30375  Shelton, Marshall       Tue, Dec 29, 2010       D30-26-02 

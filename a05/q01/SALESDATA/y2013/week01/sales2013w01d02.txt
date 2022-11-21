@@ -1,0 +1,73 @@
+Dealer Name: Ed's Honda One
+Address:     7243 Lee Road
+             Clarksville, NC
+Dealer ID:   2
+Owner:       Tipton, Ed
+Date:        Mon, Jan  1, 2013 thru Sun, Jan  7, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB123H15A5X15C8B6  Civic        2013  27002  27600  Shelton, Judith         Tue, Jan  2, 2013       D02-02-03 
+ JH152SU145X16X9C8  Odyssey      2013  29342  30375  Simpson, Greg           Thu, Jan  4, 2013       D02-02-05 
+ JB13ASU435X1X737X  Civic        2013  22322  23855  Snyder, Pauline         Tue, Jan  2, 2013       D02-02-06 
+ JB127S1335X16X9X2  Civic        2013  16116  16655  Shelton, Marion         Fri, Jan  5, 2013       D02-02-04 
+ JH151F1125X171A14  Odyssey      2013  42315  44825  Snyder, Pauline         Mon, Jan  1, 2013       D02-02-06 
+ JB121S1285X129596  Civic        2013  16273  16455  Simpson, Greg           Mon, Jan  1, 2013       D02-02-05 
+ JG148F1145X171A18  Insight      2013  23435  24390  Simpson, Greg           Sun, Jan  7, 2013       D02-02-05 
+ JB127S1365X16X91X  Civic        2013  16376  16655  Snyder, Pauline         Sun, Jan  7, 2013       D02-02-06 
+ JC134F3185X14B7C2  CR-V         2013  29076  31995  Snyder, Pauline         Tue, Jan  2, 2013       D02-02-06 
+ JB129S14A5X1295A4  Civic        2013  20882  23055  Watson, Peggy           Tue, Jan  2, 2013       D02-02-01 
+ JA113SU335X15C8X6  Accord       2013  22464  23480  Moore, Carla            Fri, Jan  5, 2013       D02-02-02 
+ JE144F3105X15C8X8  Crosstour    2013  36562  38640  Shelton, Judith         Fri, Jan  5, 2013       D02-02-03 
+ JD136F1155X16X92X  CR-Z         2013  22588  24705  Moore, Carla            Mon, Jan  1, 2013       D02-02-02 
+ JB128SU375X182B42  Civic        2013  17586  17455  Shelton, Judith         Fri, Jan  5, 2013       D02-02-03 
+ JA112F1355X15C814  Accord       2013  31756  32930  Shelton, Marion         Thu, Jan  4, 2013       D02-02-04 
+ JB127S1355X13A6C6  Civic        2013  15770  16655  Snyder, Pauline         Tue, Jan  2, 2013       D02-02-06 
+ JA114FU355X15C818  Accord       2013  32701  33930  Moore, Carla            Mon, Jan  1, 2013       D02-02-02 
+ JB121S1295X1X73AX  Civic        2013  16530  16455  Shelton, Judith         Fri, Jan  5, 2013       D02-02-03 
+ JA111S1315X171A42  Accord       2013  22460  22480  Simpson, Greg           Sat, Jan  6, 2013       D02-02-05 
+ JH159F4135X15C824  Odyssey      2013  52325  56825  Shelton, Judith         Tue, Jan  2, 2013       D02-02-03 
+ JH155FU195X13A6X6  Odyssey      2013  43407  47825  Snyder, Pauline         Sat, Jan  6, 2013       D02-02-06 
+ JH153FU195X15C828  Odyssey      2013  43245  45825  Shelton, Judith         Thu, Jan  4, 2013       D02-02-03 
+ JB123H1535X1X741X  Civic        2013  25871  27600  Moore, Carla            Tue, Jan  2, 2013       D02-02-02 
+ JB127S1345X1X7412  Civic        2013  15770  16655  Watson, Peggy           Thu, Jan  4, 2013       D02-02-01 
+ JA115SU355X16XA74  Accord       2013  24454  25480  Shelton, Marion         Mon, Jan  1, 2013       D02-02-04 
+ JA113SU345X15C966  Accord       2013  21497  23480  Moore, Carla            Thu, Jan  4, 2013       D02-02-02 
+ JC133FU145X171B88  CR-V         2013  33283  33995  Simpson, Greg           Sat, Jan  6, 2013       D02-02-05 
+ JE143FU185X1X742X  Crosstour    2013  37803  40640  Shelton, Judith         Thu, Jan  4, 2013       D02-02-03 
+ JA112F1335X129642  Accord       2013  30412  32930  Snyder, Pauline         Thu, Jan  4, 2013       D02-02-06 
+ JE141F1165X182CA4  Crosstour    2013  35632  37640  Watson, Peggy           Sun, Jan  7, 2013       D02-02-01 
+ JB127S1325X118536  Civic        2013  16290  16655  Shelton, Judith         Fri, Jan  5, 2013       D02-02-03 
+ JB129S1495X171B98  Civic        2013  22662  23055  Watson, Peggy           Mon, Jan  1, 2013       D02-02-01 
+ JA115SU325X182CBX  Accord       2013  23016  25480  Shelton, Judith         Sun, Jan  7, 2013       D02-02-03 
+ JB127S13A5X171BA2  Civic        2013  15423  16655  Shelton, Judith         Sun, Jan  7, 2013       D02-02-03 
+ JH153FU155X182CB4  Odyssey      2013  41617  45825  Simpson, Greg           Sun, Jan  7, 2013       D02-02-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU1A1213A675  CR-V        2009  21076  33995  Moore, Carla            Tue, Jan  2, 2013       D02-02-02 
+ JD137FU131114B787  CR-Z        2009  15937  25705  Shelton, Marion         Sat, Jan  6, 2013       D02-02-04 
+ JH155FU10Y3229569  Odyssey     2008  24990  47825  Moore, Carla            Thu, Jan  4, 2013       D02-02-02 
+ JH155FU112333A681  Odyssey     2010  30752  47825  Shelton, Marion         Wed, Jan  3, 2013       D02-02-04 
+ JH155FU16Y513A683  Odyssey     2008  23800  47825  Moore, Carla            Sun, Jan  7, 2013       D02-02-02 
+ JH153FU122X129575  Odyssey     2010  28643  45825  Shelton, Judith         Sun, Jan  7, 2013       D02-02-03 
+ JB127S13A33129577  Civic       2011  12555  16655  Moore, Carla            Fri, Jan  5, 2013       D02-02-02 
+ JB123H1521X93A689  Civic       2009  17112  27600  Shelton, Judith         Mon, Jan  1, 2013       D02-02-03 
+ JG148F116Y39X7361  Insight     2008  12082  24390  Moore, Carla            Sun, Jan  7, 2013       D02-02-02 
+ JJ161FU1212682B13  Pilot       2009  24922  42970  Shelton, Judith         Sat, Jan  6, 2013       D02-02-03 
+ JH154SU19X293A695  Odyssey     2007  13727  32375  Shelton, Marion         Tue, Jan  2, 2013       D02-02-04 
+ JC133FU1221729587  CR-V        2010  22516  33995  Moore, Carla            Tue, Jan  2, 2013       D02-02-02 
+ JB127S13631918479  Civic       2011  12555  16655  Snyder, Pauline         Mon, Jan  1, 2013       D02-02-06 
+ JA1X1S121413X7371  Accord      2012  20058  24089  Simpson, Greg           Fri, Jan  5, 2013       D02-02-05 
+ JE141F11914929593  Crosstour   2009  23336  37640  Shelton, Marion         Wed, Jan  3, 2013       D02-02-04 
+ JH153FU182X8X7375  Odyssey     2010  30300  45825  Moore, Carla            Sun, Jan  7, 2013       D02-02-02 
+ JJ16AF1172X3X7377  Pilot       2010  27004  41970  Snyder, Pauline         Sun, Jan  7, 2013       D02-02-06 
+ JJ163F318X354B7B9  Pilot       2007  17008  42970  Shelton, Marion         Wed, Jan  3, 2013       D02-02-04 
+ JJ163F312319X7381  Pilot       2011  31870  42970  Simpson, Greg           Sun, Jan  7, 2013       D02-02-05 
+ JE141F118Y36295A3  Crosstour   2008  19642  37640  Shelton, Judith         Tue, Jan  2, 2013       D02-02-03 
+ JD136F11015P18495  CR-Z        2009  15317  24705  Simpson, Greg           Tue, Jan  2, 2013       D02-02-05 
+ JG148F1164X118497  Insight     2012  20302  24390  Watson, Peggy           Thu, Jan  4, 2013       D02-02-01 
+ JB129S14612718499  Civic       2009  14294  23055  Moore, Carla            Fri, Jan  5, 2013       D02-02-02 

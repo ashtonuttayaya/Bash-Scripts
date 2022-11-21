@@ -1,0 +1,31 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Sat, Jul  8, 2012 thru Fri, Jul 14, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F1164284B8X6  Odyssey      2012  43690  44825  Moreno, Tyrone          Tue, Jul 11, 2012       D05-05-03 
+ JB129S1494283A7C8  Civic        2012  21507  23055  Brooks, Herman          Thu, Jul 13, 2012       D05-05-01 
+ JC131F113428185BX  CR-V         2012  30344  30995  Snyder, Norma           Sat, Jul  8, 2012       D05-05-04 
+ JA114FU39428X74A2  Accord       2012  30598  33930  Lynch, Christian        Mon, Jul 10, 2012       D05-05-02 
+ JA119S4384283A7X4  Accord       2012  29694  31480  Snyder, Norma           Wed, Jul 12, 2012       D05-05-04 
+ JE142FU14428296C6  Crosstour    2012  36940  38640  Lynch, Christian        Sat, Jul  8, 2012       D05-05-02 
+ JB127S1334283A7X8  Civic        2012  15565  16655  Brooks, Herman          Thu, Jul 13, 2012       D05-05-01 
+ JA115SU344286XB7X  Accord       2012  23725  25480  Snyder, Norma           Thu, Jul 13, 2012       D05-05-04 
+ JA1X6FU2642818622  Accord       2012  32102  36030  Ford, Roger             Tue, Jul 11, 2012       D05-05-08 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F1174186XAX9  Insight      2012  22683  24390  Snyder, Norma           Tue, Jul 11, 2012       D05-05-04 
+ JH153FU13Y326XA11  Odyssey     2008  27360  45825  Ford, Roger             Tue, Jul 11, 2012       D05-05-08 
+ JH156S319X2618593  Odyssey     2007  14214  30375  Snyder, Norma           Sat, Jul  8, 2012       D05-05-04 
+ JC131F118X3618595  CR-V        2007  16036  30995  Snyder, Norma           Wed, Jul 12, 2012       D05-05-04 
+ JH157F3111256XA17  Odyssey     2009  29328  45825  Snyder, Norma           Wed, Jul 12, 2012       D05-05-04 
+ JH156S3131526XA19  Odyssey     2009  19986  30375  Moreno, Tyrone          Wed, Jul 12, 2012       D05-05-03 
+ JE141F111Y334B8X1  Crosstour   2008  22449  37640  Lynch, Christian        Fri, Jul 14, 2012       D05-05-02 

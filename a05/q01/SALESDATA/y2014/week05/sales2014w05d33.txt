@@ -1,0 +1,55 @@
+Dealer Name: Duncan Honda
+Address:     2069 California Blvd
+             Granger, AL
+Dealer ID:   33
+Owner:       Duncan, Phil
+Date:        Tue, Jan 29, 2014 thru Mon, Feb  4, 2014  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA118F3316X572238  Accord       2014  31695  33930  Martinez, Katherine     Tue, Jan 29, 2014       D33-29-04 
+ JA1X1S1246X54CC1X  Accord       2014  24239  24089  Morgan, Milton          Tue, Jan 29, 2014       D33-29-03 
+ JH15AS1196X5X88A2  Odyssey      2014  28609  29375  Martinez, Katherine     Tue, Jan 29, 2014       D33-29-04 
+ JB128SU326X54CC14  Civic        2014  16886  17455  Shelton, Adam           Fri, Feb  1, 2014       D33-29-05 
+ JA1X3SU206X5199B6  Accord       2014  24689  25089  Wells, Clayton          Sat, Feb  2, 2014       D33-29-01 
+ JB121S12A6X561138  Civic        2014  15879  16455  Mitchell, John          Tue, Jan 29, 2014       D33-29-02 
+ JA1X1S1246X55X16X  Accord       2014  22490  24089  Morgan, Milton          Tue, Jan 29, 2014       D33-29-03 
+ JB121S1246X54CX52  Civic        2014  15706  16455  Morgan, Milton          Wed, Jan 30, 2014       D33-29-03 
+ JA1X4FU226X519A24  Accord       2014  31786  34030  Martinez, Katherine     Sat, Feb  2, 2014       D33-29-04 
+ JH15AS1146X54CX56  Odyssey      2014  27550  29375  Mitchell, John          Sun, Feb  3, 2014       D33-29-02 
+ JA1X7S3216X55X168  Accord       2014  23909  25089  Mitchell, John          Wed, Jan 30, 2014       D33-29-02 
+ JG148F1146X54CX6X  Insight      2014  22508  24390  Shelton, Adam           Tue, Jan 29, 2014       D33-29-05 
+ JJ161FU196X53BC52  Pilot        2014  41237  42970  Shelton, Adam           Thu, Jan 31, 2014       D33-29-05 
+ JB127S1386X52AB44  Civic        2014  16852  16655  Wells, Clayton          Wed, Jan 30, 2014       D33-29-01 
+ JC131F1166X561286  CR-V         2014  28864  30995  Wells, Clayton          Sun, Feb  3, 2014       D33-29-01 
+ JA1X6FU266X5834A8  Accord       2014  32867  36030  Wells, Clayton          Fri, Feb  1, 2014       D33-29-01 
+ JB121S1296X54CX7X  Civic        2014  16574  16455  Martinez, Katherine     Sat, Feb  2, 2014       D33-29-04 
+ JC132FU166X55X182  CR-V         2014  29441  31995  Shelton, Adam           Thu, Jan 31, 2014       D33-29-05 
+ JC131F1156X561294  CR-V         2014  28705  30995  Martinez, Katherine     Sat, Feb  2, 2014       D33-29-04 
+ JH151F1166X5X8936  Odyssey      2014  44124  44825  Shelton, Adam           Mon, Feb  4, 2014       D33-29-05 
+ JE142FU126X53BC68  Crosstour    2014  34795  38640  Mitchell, John          Fri, Feb  1, 2014       D33-29-02 
+ JA1X5SU296X5723BX  Accord       2014  26589  27089  Mitchell, John          Sun, Feb  3, 2014       D33-29-02 
+ JB127S1336X54CX82  Civic        2014  15623  16655  Morgan, Milton          Mon, Feb  4, 2014       D33-29-03 
+ JB123H1586X5723B4  Civic        2014  25222  27600  Mitchell, John          Sat, Feb  2, 2014       D33-29-02 
+ JJ161FU196X54CX86  Pilot        2014  39263  42970  Martinez, Katherine     Wed, Jan 30, 2014       D33-29-04 
+ JB128SU366X53BC78  Civic        2014  16794  17455  Martinez, Katherine     Wed, Jan 30, 2014       D33-29-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1343X1X7C57  Civic       2003  11255  16655  Martinez, Katherine     Sat, Feb  2, 2014       D33-29-04 
+ JH155FU1A3333A289  Odyssey     2003  30896  47825  Wells, Clayton          Wed, Jan 30, 2014       D33-29-01 
+ JB127S1313164B3A1  Civic       2003  11255  16655  Shelton, Adam           Thu, Jan 31, 2014       D33-29-05 
+ JF146S11924382713  Fit         2002  9750   16025  Shelton, Adam           Wed, Jan 30, 2014       D33-29-05 
+ JD136F11A14P29185  CR-Z        2001  12970  24705  Shelton, Adam           Wed, Jan 30, 2014       D33-29-05 
+ JC132FU1213918X77  CR-V        2001  16797  31995  Martinez, Katherine     Sun, Feb  3, 2014       D33-29-04 
+ JB121S126347X7C69  Civic       2003  11123  16455  Mitchell, John          Tue, Jan 29, 2014       D33-29-02 
+ JH156S3112X23A2A1  Odyssey     2002  18972  30375  Wells, Clayton          Thu, Jan 31, 2014       D33-29-01 
+ JB127S13A4394B3B3  Civic       2004  12720  16655  Shelton, Adam           Mon, Feb  4, 2014       D33-29-05 
+ JH151F1154193A2A5  Odyssey     2004  32760  44825  Martinez, Katherine     Mon, Feb  4, 2014       D33-29-04 
+ JH156S31351718X87  Odyssey     2005  25332  30375  Martinez, Katherine     Wed, Jan 30, 2014       D33-29-04 
+ JH159F41311571619  Odyssey     2001  28412  56825  Wells, Clayton          Wed, Jan 30, 2014       D33-29-01 
+ JB127S1363X518X91  Civic       2003  11255  16655  Martinez, Katherine     Mon, Feb  4, 2014       D33-29-04 
+ JD138FU1933P291A3  CR-Z        2003  18525  27705  Shelton, Adam           Wed, Jan 30, 2014       D33-29-05 

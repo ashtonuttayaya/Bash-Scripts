@@ -1,0 +1,56 @@
+Dealer Name: City Honda
+Address:     9489 Ford Parkwark
+             Brookland, GA
+Dealer ID:   25
+Owner:       Porter, Barbara
+Date:        Fri, Sep  3, 2011 thru Thu, Sep  9, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F1153363A1XX  Crosstour    2011  35971  37640  Shelton, Alicia         Sun, Sep  5, 2011       D25-22-01 
+ JE141F112336X7BA2  Crosstour    2011  35214  37640  Shelton, Alicia         Sun, Sep  5, 2011       D25-22-01 
+ JB122SU2333682654  Civic        2011  15906  17255  Sullivan, Hazel         Wed, Sep  8, 2011       D25-22-06 
+ JH15AS11033618CB6  Odyssey      2011  26492  29375  Fuller, Jacob           Tue, Sep  7, 2011       D25-22-02 
+ JB129S14933618CB8  Civic        2011  21301  23055  Mcdonald, Eduardo       Mon, Sep  6, 2011       D25-22-05 
+ JH157F3163364B35X  Odyssey      2011  42135  45825  Shelton, Alicia         Fri, Sep  3, 2011       D25-22-01 
+ JB127S1353366X572  Civic        2011  15445  16655  Hall, Josephine         Tue, Sep  7, 2011       D25-22-03 
+ JB121S12933618X24  Civic        2011  16096  16455  Wallace, Harry          Thu, Sep  9, 2011       D25-22-04 
+ JJ161FU1133682796  Pilot        2011  41035  42970  Fuller, Jacob           Sun, Sep  5, 2011       D25-22-02 
+ JB121S12633618X28  Civic        2011  15178  16455  Sullivan, Hazel         Sat, Sep  4, 2011       D25-22-06 
+ JA1X5SU273367169X  Accord       2011  24719  27089  Fuller, Jacob           Sun, Sep  5, 2011       D25-22-02 
+ JF146S112336X7C22  Fit          2011  14381  16025  Sullivan, Hazel         Sat, Sep  4, 2011       D25-22-06 
+ JA111S130336X7C24  Accord       2011  20661  22480  Hall, Josephine         Wed, Sep  8, 2011       D25-22-03 
+ JB121S1243366X586  Civic        2011  15178  16455  Hall, Josephine         Thu, Sep  9, 2011       D25-22-03 
+ JC133FU133366X588  CR-V         2011  30626  33995  Mcdonald, Eduardo       Sun, Sep  5, 2011       D25-22-05 
+ JB121S1263363A26X  Civic        2011  15429  16455  Fuller, Jacob           Thu, Sep  9, 2011       D25-22-02 
+ JA111S1353363A262  Accord       2011  20548  22480  Fuller, Jacob           Fri, Sep  3, 2011       D25-22-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH154SU1422329BA5  Odyssey     2010  26080  32375  Sullivan, Hazel         Fri, Sep  3, 2011       D25-22-06 
+ JC131F113X2518A97  CR-V        2007  27643  30995  Mcdonald, Eduardo       Sun, Sep  5, 2011       D25-22-05 
+ JH159F41021129BA9  Odyssey     2010  45640  56825  Sullivan, Hazel         Wed, Sep  8, 2011       D25-22-06 
+ JB127S131XX3X7991  Civic       2007  10047  16655  Wallace, Harry          Tue, Sep  7, 2011       D25-22-04 
+ JB121S122Y2871333  Civic       2008  10679  16455  Fuller, Jacob           Wed, Sep  8, 2011       D25-22-02 
+ JH157F317Y29X7995  Odyssey     2008  30004  45825  Sullivan, Hazel         Tue, Sep  7, 2011       D25-22-06 
+ JC133FU16Y335C117  CR-V        2008  22220  33995  Wallace, Harry          Wed, Sep  8, 2011       D25-22-04 
+ JB127S139Y2382449  Civic       2008  10810  16655  Wallace, Harry          Mon, Sep  6, 2011       D25-22-04 
+ JD136F114Y2171341  CR-Z        2008  16107  24705  Fuller, Jacob           Mon, Sep  6, 2011       D25-22-02 
+ JC132FU17117X79A3  CR-V        2009  23484  31995  Wallace, Harry          Wed, Sep  8, 2011       D25-22-04 
+ JE144F318V484BX15  Crosstour   2005  15096  38640  Shelton, Alicia         Tue, Sep  7, 2011       D25-22-01 
+ JF146S1171X118AB7  Fit         2009  11538  16025  Wallace, Harry          Wed, Sep  8, 2011       D25-22-04 
+ JH155FU10YX318AB9  Odyssey     2008  31320  47825  Mcdonald, Eduardo       Mon, Sep  6, 2011       D25-22-05 
+ JH155FU1212871481  Odyssey     2009  35103  47825  Hall, Josephine         Thu, Sep  9, 2011       D25-22-03 
+ JD136F1153133AX43  CR-Z         2011  22765  24705  Shelton, Alicia         Wed, Sep  8, 2011       D25-22-01 
+ JH155FU14X4571485  Odyssey     2007  29372  47825  Shelton, Alicia         Wed, Sep  8, 2011       D25-22-01 
+ JJ162FU1AXX95C267  Pilot       2007  27602  44970  Sullivan, Hazel         Sun, Sep  5, 2011       D25-22-06 
+ JH152SU1AY4618B29  Odyssey     2008  19296  30375  Wallace, Harry          Sun, Sep  5, 2011       D25-22-04 
+ JJ162FU1913671491  Pilot       2009  32378  44970  Shelton, Alicia         Wed, Sep  8, 2011       D25-22-01 
+ JE142FU17VX9X7A23  Crosstour   2005  15096  38640  Wallace, Harry          Tue, Sep  7, 2011       D25-22-04 
+ JD138FU19Y25825A5  CR-Z        2008  17587  27705  Hall, Josephine         Fri, Sep  3, 2011       D25-22-03 
+ JJ162FU18X17X7A27  Pilot       2007  26712  44970  Sullivan, Hazel         Wed, Sep  8, 2011       D25-22-06 
+ JJ16AF119Y41825A9  Pilot       2008  27468  41970  Sullivan, Hazel         Wed, Sep  8, 2011       D25-22-06 
+ JH157F3142515C281  Odyssey     2010  36840  45825  Sullivan, Hazel         Fri, Sep  3, 2011       D25-22-06 

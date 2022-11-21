@@ -1,0 +1,55 @@
+Dealer Name: Quality Honda
+Address:     1624 Tupelo Road
+             Norbert, FL
+Dealer ID:   16
+Owner:       Simpson, Homer
+Date:        Sat, Nov  4, 2012 thru Fri, Nov 10, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X1S12A44518A62  Accord       2012  23557  24089  Murray, Gladys          Sun, Nov  5, 2012       D16-15-07 
+ JH151F11044518A64  Odyssey      2012  39842  44825  Daniels, Rhonda         Fri, Nov 10, 2012       D16-15-06 
+ JC131F11344518A66  CR-V         2012  28929  30995  Hunter, Yolanda         Mon, Nov  6, 2012       D16-15-02 
+ JC132FU114456X2B8  CR-V         2012  30822  31995  Daniels, Rhonda         Wed, Nov  8, 2012       D16-15-06 
+ JB122SU264453AC9X  Civic        2012  16819  17255  Daniels, Rhonda         Sat, Nov  4, 2012       D16-15-06 
+ JG148F1194454BXA2  Insight      2012  23970  24390  Rose, Ida               Mon, Nov  6, 2012       D16-15-08 
+ JA1X2F1224453AC94  Accord       2012  31638  33030  Hunter, Yolanda         Sun, Nov  5, 2012       D16-15-02 
+ JA112F1314456X2C6  Accord       2012  29708  32930  Rose, Ida               Mon, Nov  6, 2012       D16-15-08 
+ JA1X1S12944582418  Accord       2012  21962  24089  Rose, Ida               Sun, Nov  5, 2012       D16-15-08 
+ JB127S13944518A8X  Civic        2012  15736  16655  Hunter, Yolanda         Tue, Nov  7, 2012       D16-15-02 
+ JH153FU1144529B92  Odyssey      2012  41647  45825  Freeman, Vickie         Fri, Nov 10, 2012       D16-15-05 
+ JH155FU10445X7974  Odyssey      2012  46344  47825  Murray, Gladys          Wed, Nov  8, 2012       D16-15-07 
+ JB127S1324455C1C6  Civic        2012  15308  16655  Rose, Ida               Mon, Nov  6, 2012       D16-15-08 
+ JH151F1104453ACA8  Odyssey      2012  40294  44825  Rose, Ida               Wed, Nov  8, 2012       D16-15-08 
+ JB121S1244455C1XX  Civic        2012  15637  16455  Daniels, Rhonda         Fri, Nov 10, 2012       D16-15-06 
+ JA1X1S1224454BXC2  Accord       2012  21717  24089  Hunter, Yolanda         Sat, Nov  4, 2012       D16-15-02 
+ JH157F31A44582434  Odyssey      2012  42573  45825  Hunter, Yolanda         Thu, Nov  9, 2012       D16-15-02 
+ JB127S1334455C1X6  Civic        2012  15993  16655  Daniels, Rhonda         Sat, Nov  4, 2012       D16-15-06 
+ JF146S1104454BXC8  Fit          2012  14662  16025  Hunter, Yolanda         Thu, Nov  9, 2012       D16-15-02 
+ JA1X1S1224454BXXX  Accord       2012  21594  24089  Hunter, Yolanda         Tue, Nov  7, 2012       D16-15-02 
+ JB123H15A4456X222  Civic        2012  25245  27600  Freeman, Vickie         Fri, Nov 10, 2012       D16-15-05 
+ JB127S13844571334  Civic        2012  15565  16655  Horton, Jon             Thu, Nov  9, 2012       D16-15-09 
+ JB127S1354454BXX6  Civic        2012  15993  16655  Cooper, Joanne          Thu, Nov  9, 2012       D16-15-01 
+ JE141F11044582448  Crosstour    2012  35233  37640  Horton, Jon             Mon, Nov  6, 2012       D16-15-09 
+ JD14AF415445X79AX  CR-Z         2012  30568  33705  Murray, Gladys          Mon, Nov  6, 2012       D16-15-07 
+ JH151F110445X79A2  Odyssey      2012  42105  44825  Murray, Gladys          Fri, Nov 10, 2012       D16-15-07 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1112263A9B9  CR-V        2010  22478  30995  Gonzales, Harold        Thu, Nov  9, 2012       D16-15-03 
+ JB121S128YX75CB11  Civic       2008  10062  16455  Rose, Ida               Mon, Nov  6, 2012       D16-15-08 
+ JH153FU12X52187A3  Odyssey     2007  22687  45825  Daniels, Rhonda         Wed, Nov  8, 2012       D16-15-06 
+ JH159F41322771X35  Odyssey     2010  41874  56825  Hunter, Yolanda         Sat, Nov  4, 2012       D16-15-02 
+ JH153FU1AY125CB17  Odyssey     2008  28272  45825  Cooper, Joanne          Thu, Nov  9, 2012       D16-15-01 
+ JB127S13021P5CB19  Civic       2010  12389  16655  Daniels, Rhonda         Wed, Nov  8, 2012       D16-15-06 
+ JC133FU10248187B1  CR-V        2010  25117  33995  Horton, Jon             Tue, Nov  7, 2012       D16-15-09 
+ JH153FU1A1175CB23  Odyssey     2009  28503  45825  Horton, Jon             Wed, Nov  8, 2012       D16-15-09 
+ JA112F131XX671X45  Accord      2007  17052  32930  Murray, Gladys          Mon, Nov  6, 2012       D16-15-07 
+ JH152SU1734471X47  Odyssey     2011  24660  30375  Murray, Gladys          Tue, Nov  7, 2012       D16-15-07 
+ JC131F11114571X49  CR-V        2009  20394  30995  Horton, Jon             Thu, Nov  9, 2012       D16-15-09 
+ JH153FU11Y4618821  Odyssey     2008  27360  45825  Murray, Gladys          Fri, Nov 10, 2012       D16-15-07 
+ JH153FU18Y194BB53  Odyssey     2008  28272  45825  Hunter, Yolanda         Wed, Nov  8, 2012       D16-15-02 
+ JC131F1121125CC65  CR-V        2009  20394  30995  Hunter, Yolanda         Sat, Nov  4, 2012       D16-15-02 

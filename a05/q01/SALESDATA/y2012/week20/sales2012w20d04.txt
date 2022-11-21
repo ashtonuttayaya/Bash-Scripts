@@ -1,0 +1,64 @@
+Dealer Name: Wallace Honda
+Address:     2132 Tupelo Road
+             Clarksville, NC
+Dealer ID:   4
+Owner:       Wallace, Patrick
+Date:        Sat, May 13, 2012 thru Fri, May 19, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S13542P29656  Civic        2012  15993  16655  Lucas, Carl             Sat, May 13, 2012       D04-04-01 
+ JD138FU1842P29658  CR-Z         2012  24917  27705  Lucas, Carl             Thu, May 18, 2012       D04-04-01 
+ JB129S14A42P1855X  Civic        2012  21977  23055  Miller, Julian          Wed, May 17, 2012       D04-04-04 
+ JA1X1S12142P3A772  Accord       2012  22943  24089  Richards, Angela        Mon, May 15, 2012       D04-04-06 
+ JA1X3SU2842PX7444  Accord       2012  24134  25089  Russell, Jerry          Fri, May 19, 2012       D04-04-03 
+ JB121S12042P18556  Civic        2012  15299  16455  Miller, Julian          Mon, May 15, 2012       D04-04-04 
+ JA111S13042P4B888  Accord       2012  21324  22480  Russell, Jerry          Wed, May 17, 2012       D04-04-03 
+ JA117S33042P3A78X  Accord       2012  21297  23480  Campbell, Jeanne        Sat, May 13, 2012       D04-04-02 
+ JA119S43042P71BC2  Accord       2012  29694  31480  Russell, Jerry          Fri, May 19, 2012       D04-04-03 
+ JG148F11442P29674  Insight      2012  23225  24390  Wilson, Chad            Sun, May 14, 2012       D04-04-08 
+ JH152SU1242P6XAB6  Odyssey      2012  29129  30375  Dixon, Patsy            Tue, May 16, 2012       D04-04-07 
+ JA1X7S32542P29678  Accord       2012  23623  25089  Wilson, Chad            Wed, May 17, 2012       D04-04-08 
+ JC131F11242P3A79X  CR-V         2012  28929  30995  Campbell, Jeanne        Sat, May 13, 2012       D04-04-02 
+ JE142FU1A42PX7462  Crosstour    2012  36549  38640  Lucas, Carl             Sat, May 13, 2012       D04-04-01 
+ JD136F11142PX7464  CR-Z         2012  23394  24705  Lucas, Carl             Sat, May 13, 2012       D04-04-01 
+ JG148F11142P82C16  Insight      2012  23225  24390  Campbell, Jeanne        Sun, May 14, 2012       D04-04-02 
+ JA115SU3842P18578  Accord       2012  23466  25480  Lucas, Carl             Sat, May 13, 2012       D04-04-01 
+ JH155FU1542P71B1X  Odyssey      2012  46102  47825  Richards, Angela        Fri, May 19, 2012       D04-04-06 
+ JH153FU1142P4B8B2  Odyssey      2012  42804  45825  Miller, Julian          Wed, May 17, 2012       D04-04-04 
+ JC131F11442P29694  CR-V         2012  30501  30995  Richards, Angela        Fri, May 19, 2012       D04-04-06 
+ JG148F11042P4B8B6  Insight      2012  23722  24390  Dixon, Patsy            Sat, May 13, 2012       D04-04-07 
+ JA115SU3142P71B18  Accord       2012  24374  25480  Pena, Elaine            Sun, May 14, 2012       D04-04-05 
+ JB121S12542P296AX  Civic        2012  16313  16455  Lucas, Carl             Fri, May 19, 2012       D04-04-01 
+ JB121S12142P3A7B2  Civic        2012  15890  16455  Lucas, Carl             Mon, May 15, 2012       D04-04-01 
+ JB123H15A42P71B24  Civic        2012  26647  27600  Campbell, Jeanne        Tue, May 16, 2012       D04-04-02 
+ JB129S14642P82C36  Civic        2012  21859  23055  Richards, Angela        Fri, May 19, 2012       D04-04-06 
+ JB129S14342P71B28  Civic        2012  21742  23055  Campbell, Jeanne        Fri, May 19, 2012       D04-04-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S13213218539  Civic       2009  10958  16655  Campbell, Jeanne        Mon, May 15, 2012       D04-04-02 
+ JH15AS11423P6XA91  Odyssey     2010  21312  29375  Lucas, Carl             Wed, May 17, 2012       D04-04-01 
+ JJ163F315Y386XA93  Pilot       2008  24792  42970  Russell, Jerry          Wed, May 17, 2012       D04-04-03 
+ JH153FU123X682CB5  Odyssey     2011  37482  45825  Miller, Julian          Mon, May 15, 2012       D04-04-04 
+ JC131F1143334B877  CR-V        2011  25470  30995  Lucas, Carl             Tue, May 16, 2012       D04-04-01 
+ JH15AS11AYX84B879  Odyssey     2008  17490  29375  Russell, Jerry          Wed, May 17, 2012       D04-04-03 
+ JB127S1391433A771  Civic       2009  10958  16655  Campbell, Jeanne        Sat, May 13, 2012       D04-04-02 
+ JB123H154X3P29663  Civic       2007  14253  27600  Pena, Elaine            Mon, May 15, 2012       D04-04-05 
+ JH15AS11915182CC5  Odyssey     2009  19328  29375  Pena, Elaine            Mon, May 15, 2012       D04-04-05 
+ JC131F1111X9X7447  CR-V        2009  20394  30995  Lucas, Carl             Sat, May 13, 2012       D04-04-01 
+ JB128SU37YX73A779  Civic       2008  10682  17455  Miller, Julian          Thu, May 18, 2012       D04-04-04 
+ JG148F1121X8X7451  Insight     2009  16048  24390  Dixon, Patsy            Mon, May 15, 2012       D04-04-07 
+ JC131F117131X7453  CR-V        2009  20394  30995  Wilson, Chad            Sun, May 14, 2012       D04-04-08 
+ JE144F319144X7455  Crosstour   2009  25425  38640  Richards, Angela        Sun, May 14, 2012       D04-04-06 
+ JJ161FU1411P3A787  Pilot       2009  27500  42970  Campbell, Jeanne        Sun, May 14, 2012       D04-04-02 
+ JH154SU13239X7459  Odyssey     2010  23015  32375  Russell, Jerry          Tue, May 16, 2012       D04-04-03 
+ JB121S1294X6X7461  Civic        2012  15502  16455  Russell, Jerry          Thu, May 18, 2012       D04-04-03 
+ JG148F1152363A793  Insight     2010  18067  24390  Lucas, Carl             Sat, May 13, 2012       D04-04-01 
+ JH154SU17Y43X7465  Odyssey     2008  19933  32375  Pena, Elaine            Sat, May 13, 2012       D04-04-05 
+ JG148F1101435C9B7  Insight     2009  15609  24390  Pena, Elaine            Sun, May 14, 2012       D04-04-05 
+ JB129S146YX83A799  Civic       2008  13698  23055  Pena, Elaine            Wed, May 17, 2012       D04-04-05 
+ JB121S126X2382C21  Civic       2007  8402   16455  Miller, Julian          Wed, May 17, 2012       D04-04-04 

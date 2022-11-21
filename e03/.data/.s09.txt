@@ -1,0 +1,8 @@
+Checking SQL header information
+           OK - Use statement                                 chxq09-A1
+           OK - Create statement                              chxq09-B1
+
+Checking SQL for insert statements
+           OK - Insert statements                             chxq09-C1
+           OK - Inserted values                               chxq09-D1
+

@@ -1,0 +1,42 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Fri, Jan  1, 2011 thru Thu, Jan  7, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA111S1313X13B8B4  Accord       2011  21002  22480  Jensen, Bill            Tue, Jan  5, 2011       D34-30-06 
+ JB121S1203X172C26  Civic        2011  15595  16455  Rodriquez, Jorge        Thu, Jan  7, 2011       D34-30-04 
+ JA111S1323X12A7A8  Accord       2011  21342  22480  Bennett, Michele        Tue, Jan  5, 2011       D34-30-05 
+ JH155FU183X15XA1X  Odyssey      2011  42764  47825  Rice, Georgia           Thu, Jan  7, 2011       D34-30-03 
+ JB122SU263X1X8592  Civic        2011  16693  17255  Rodriquez, Jorge        Tue, Jan  5, 2011       D34-30-04 
+ JA111S1343X13B8C4  Accord       2011  21910  22480  Rice, Georgia           Thu, Jan  7, 2011       D34-30-03 
+ JG148F1123X14C9X6  Insight      2011  22768  24390  Rodriquez, Jorge        Sun, Jan  3, 2011       D34-30-04 
+ JF146S1103X172C38  Fit          2011  14868  16025  Bennett, Michele        Fri, Jan  1, 2011       D34-30-05 
+ JB121S1213X161B3X  Civic        2011  16012  16455  Torres, Caroline        Tue, Jan  5, 2011       D34-30-01 
+ JE142FU1A3X14C912  Crosstour    2011  36727  38640  Webb, Ken               Tue, Jan  5, 2011       D34-30-02 
+ JH156S3193X14C914  Odyssey      2011  27234  30375  Rodriquez, Jorge        Sun, Jan  3, 2011       D34-30-04 
+ JB127S1363X15XA26  Civic        2011  15782  16655  Bennett, Michele        Sat, Jan  2, 2011       D34-30-05 
+ JJ161FU103X14C918  Pilot        2011  41251  42970  Bennett, Michele        Wed, Jan  6, 2011       D34-30-05 
+ JC132FU153X172X8X  CR-V         2011  30609  31995  Webb, Ken               Sat, Jan  2, 2011       D34-30-02 
+ JA1X9S4253X172X82  Accord       2011  32148  33089  Webb, Ken               Wed, Jan  6, 2011       D34-30-02 
+ JB121S1263X15XB64  Civic        2011  14845  16455  Rodriquez, Jorge        Sat, Jan  2, 2011       D34-30-04 
+ JB127S1373X1X8616  Civic        2011  15107  16655  Rice, Georgia           Sat, Jan  2, 2011       D34-30-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC132FU1AV3472AA1  CR-V        2005  13370  31995  Rodriquez, Jorge        Mon, Jan  4, 2011       D34-30-04 
+ JH153FU15Y4P5X883  Odyssey     2008  29184  45825  Jensen, Bill            Sun, Jan  3, 2011       D34-30-06 
+ JH154SU10V23X8335  Odyssey     2005  13534  32375  Bennett, Michele        Tue, Jan  5, 2011       D34-30-05 
+ JB129S144143X8337  Civic       2009  16922  23055  Jensen, Bill            Tue, Jan  5, 2011       D34-30-06 
+ JH152SU17W284C779  Odyssey     2006  14850  30375  Rice, Georgia           Sat, Jan  2, 2011       D34-30-03 
+ JC132FU13W114C781  CR-V        2006  15660  31995  Webb, Ken               Wed, Jan  6, 2011       D34-30-02 
+ JJ161FU151415X893  Pilot       2009  31539  42970  Webb, Ken               Fri, Jan  1, 2011       D34-30-02 
+ JH153FU141132A565  Odyssey     2009  33635  45825  Webb, Ken               Fri, Jan  1, 2011       D34-30-02 
+ JC133FU12X13X8347  CR-V        2007  20797  33995  Rice, Georgia           Fri, Jan  1, 2011       D34-30-03 
+ JH154SU131393B679  Odyssey     2009  23763  32375  Webb, Ken               Sun, Jan  3, 2011       D34-30-02 

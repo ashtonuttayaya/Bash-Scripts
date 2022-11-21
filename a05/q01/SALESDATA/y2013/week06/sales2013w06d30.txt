@@ -1,0 +1,54 @@
+Dealer Name: State Honda
+Address:     1322 Centerville Road
+             Louderdale, FL
+Dealer ID:   30
+Owner:       Samuels, Sammy
+Date:        Mon, Feb  5, 2013 thru Sun, Feb 11, 2013  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JK167FU165X661CA2  Ridgeline    2013  46643  49750  Shelton, Marshall       Sun, Feb 11, 2013       D30-26-02 
+ JA1X1S1295X65XB94  Accord       2013  23278  24089  Shelton, Marshall       Mon, Feb  5, 2013       D30-26-02 
+ JA1X3SU255X64CA86  Accord       2013  23702  25089  Shelton, Marshall       Tue, Feb  6, 2013       D30-26-02 
+ JE141F1145X619758  Crosstour    2013  33908  37640  Shelton, Marshall       Sat, Feb 10, 2013       D30-26-02 
+ JB127S1315X64CA9X  Civic        2013  15856  16655  Shelton, Marshall       Thu, Feb  8, 2013       D30-26-02 
+ JA1X1S1245X6831X2  Accord       2013  22535  24089  Shelton, Marshall       Fri, Feb  9, 2013       D30-26-02 
+ JB121S1215X63B984  Civic        2013  15673  16455  Romero, Floyd           Tue, Feb  6, 2013       D30-26-01 
+ JA1X1S12A5X619766  Accord       2013  23525  24089  Shelton, Marshall       Mon, Feb  5, 2013       D30-26-02 
+ JB127S13A5X6831X8  Civic        2013  16636  16655  Shelton, Marshall       Sun, Feb 11, 2013       D30-26-02 
+ JC131F1105X61977X  CR-V         2013  28661  30995  Shelton, Marshall       Fri, Feb  9, 2013       D30-26-02 
+ JB127S1305X672XX2  Civic        2013  15597  16655  Romero, Floyd           Sat, Feb 10, 2013       D30-26-01 
+ JE141F1155X683114  Crosstour    2013  34483  37640  Romero, Floyd           Fri, Feb  9, 2013       D30-26-01 
+ JB122SU265X65XBB6  Civic        2013  17033  17255  Shelton, Marshall       Sun, Feb 11, 2013       D30-26-02 
+ JD137FU195X683118  CR-Z         2013  23214  25705  Romero, Floyd           Mon, Feb  5, 2013       D30-26-01 
+ JC132FU135X64CABX  CR-V         2013  31526  31995  Romero, Floyd           Tue, Feb  6, 2013       D30-26-01 
+ JC131F1155X64CAB2  CR-V         2013  29294  30995  Shelton, Marshall       Fri, Feb  9, 2013       D30-26-02 
+ JC131F11A5X6X8674  CR-V         2013  30086  30995  Romero, Floyd           Wed, Feb  7, 2013       D30-26-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH15AS116411826X5  Odyssey     2012  24340  29375  Shelton, Marshall       Fri, Feb  9, 2013       D30-26-02 
+ JB121S125152X7B57  Civic       2009  10202  16455  Romero, Floyd           Sat, Feb 10, 2013       D30-26-01 
+ JE144F316Y264B299  Crosstour   2008  19207  38640  Romero, Floyd           Wed, Feb  7, 2013       D30-26-01 
+ JH156S311X35715X1  Odyssey     2007  11072  30375  Shelton, Marshall       Tue, Feb  6, 2013       D30-26-02 
+ JB127S1391274B2A3  Civic       2009  10326  16655  Romero, Floyd           Sun, Feb 11, 2013       D30-26-01 
+ JH152SU18213715X5  Odyssey     2010  20134  30375  Romero, Floyd           Wed, Feb  7, 2013       D30-26-01 
+ JB129S140Y476X4C7  Civic       2008  11985  23055  Shelton, Marshall       Fri, Feb  9, 2013       D30-26-02 
+ JG148F11023729X89  Insight     2010  16196  24390  Romero, Floyd           Sun, Feb 11, 2013       D30-26-01 
+ JH152SU183X229X91  Odyssey     2011  21762  30375  Romero, Floyd           Mon, Feb  5, 2013       D30-26-01 
+ JF146S1171X871513  Fit         2009  9935   16025  Shelton, Marshall       Tue, Feb  6, 2013       D30-26-02 
+ JH157F31113718C85  Odyssey     2009  27495  45825  Romero, Floyd           Mon, Feb  5, 2013       D30-26-01 
+ JH155FU1835P29X97  Odyssey     2011  35433  47825  Romero, Floyd           Fri, Feb  9, 2013       D30-26-01 
+ JB129S1481X7X7B79  Civic       2009  13833  23055  Romero, Floyd           Sun, Feb 11, 2013       D30-26-01 
+ JE142FU1734629XA1  Crosstour   2011  28144  38640  Shelton, Marshall       Mon, Feb  5, 2013       D30-26-02 
+ JG148F11344971523  Insight     2012  20052  24390  Romero, Floyd           Wed, Feb  7, 2013       D30-26-01 
+ JB127S1302X182635  Civic       2010  11107  16655  Romero, Floyd           Wed, Feb  7, 2013       D30-26-01 
+ JJ161FU142173A1B7  Pilot       2010  28422  42970  Shelton, Marshall       Fri, Feb  9, 2013       D30-26-02 
+ JH159F413Y12X7B89  Odyssey     2008  28300  56825  Romero, Floyd           Thu, Feb  8, 2013       D30-26-01 
+ JC131F11821171531  CR-V        2010  19980  30995  Shelton, Marshall       Sun, Feb 11, 2013       D30-26-02 
+ JA113SU35YX43A1C3  Accord      2008  12208  23480  Romero, Floyd           Mon, Feb  5, 2013       D30-26-01 
+ JJ161FU191X729XB5  Pilot       2009  26641  42970  Romero, Floyd           Fri, Feb  9, 2013       D30-26-01 
+ JH151F11211882647  Odyssey     2009  27791  44825  Shelton, Marshall       Tue, Feb  6, 2013       D30-26-02 

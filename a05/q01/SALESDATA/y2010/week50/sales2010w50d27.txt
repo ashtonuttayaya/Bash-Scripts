@@ -1,0 +1,44 @@
+Dealer Name: Honda Pro
+Address:     923 Green St
+             Brookland, GA
+Dealer ID:   27
+Owner:       Palmer, John
+Date:        Thu, Dec 10, 2010 thru Wed, Dec 16, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA117S33825P6X576  Accord       2010  20897  23480  Shelton, Regina         Mon, Dec 14, 2010       D27-24-02 
+ JC131F11225PX7C18  CR-V         2010  29600  30995  Hill, Rita              Tue, Dec 15, 2010       D27-24-01 
+ JH152SU1225P2914X  Odyssey      2010  27337  30375  Scott, Samuel           Wed, Dec 16, 2010       D27-24-06 
+ JH158S41025P3A252  Odyssey      2010  39099  41375  Howard, Samantha        Sun, Dec 13, 2010       D27-24-05 
+ JK167FU1825P3A254  Ridgeline    2010  45521  49750  Perkins, Pearl          Wed, Dec 16, 2010       D27-24-03 
+ JE142FU1625P5C476  Crosstour    2010  34003  38640  Shelton, Regina         Mon, Dec 14, 2010       D27-24-02 
+ JB126GU6025P827A8  Civic        2010  26374  29305  Hill, Rita              Mon, Dec 14, 2010       D27-24-01 
+ JG148F11725P3A26X  Insight      2010  22682  24390  Howard, Samantha        Thu, Dec 10, 2010       D27-24-05 
+ JA1X1S12025P29152  Accord       2010  21198  24089  Scott, Samuel           Thu, Dec 10, 2010       D27-24-06 
+ JB123H15025P4B374  Civic        2010  24564  27600  Perkins, Pearl          Wed, Dec 16, 2010       D27-24-03 
+ JB127S13025P5C486  Civic        2010  15072  16655  Perkins, Pearl          Sun, Dec 13, 2010       D27-24-03 
+ JC131F11825P29158  CR-V         2010  27895  30995  Wright, Marion          Wed, Dec 16, 2010       D27-24-04 
+ JC132FU1625P716BX  CR-V         2010  28955  31995  Wright, Marion          Thu, Dec 10, 2010       D27-24-04 
+ JB121S12225P3A272  Civic        2010  14562  16455  Wright, Marion          Mon, Dec 14, 2010       D27-24-04 
+ JA114FU3825P4B384  Accord       2010  30537  33930  Hill, Rita              Sun, Dec 13, 2010       D27-24-01 
+ JA111S13025P716B6  Accord       2010  20569  22480  Perkins, Pearl          Thu, Dec 10, 2010       D27-24-03 
+ JJ161FU1925P4B388  Pilot        2010  38673  42970  Perkins, Pearl          Fri, Dec 11, 2010       D27-24-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F112XX5X79A7  Crosstour   2007  24471  37640  Shelton, Regina         Tue, Dec 15, 2010       D27-24-02 
+ JC131F116WX582459  CR-V        2006  18192  30995  Howard, Samantha        Mon, Dec 14, 2010       D27-24-05 
+ JK167FU14X4382591  Ridgeline   2007  30664  49750  Howard, Samantha        Sun, Dec 13, 2010       D27-24-05 
+ JB127S13AW513AX43  Civic       2006  9907   16655  Scott, Samuel           Wed, Dec 16, 2010       D27-24-06 
+ JH151F1171X15C265  Odyssey     2009  35860  44825  Howard, Samantha        Tue, Dec 15, 2010       D27-24-05 
+ JH153FU14W4618B27  Odyssey     2006  27993  45825  Hill, Rita              Tue, Dec 15, 2010       D27-24-01 
+ JB128SU3A12518B29  Civic       2009  14138  17455  Wright, Marion          Wed, Dec 16, 2010       D27-24-04 
+ JE144F3141435C271  Crosstour   2009  31298  38640  Shelton, Regina         Sat, Dec 12, 2010       D27-24-02 
+ JC131F116X2718B33  CR-V        2007  20098  30995  Shelton, Regina         Mon, Dec 14, 2010       D27-24-02 
+ JC131F1161446X385  CR-V        2009  27895  30995  Shelton, Regina         Wed, Dec 16, 2010       D27-24-02 
+ JH153FU17YX93AX57  Odyssey     2008  32193  45825  Howard, Samantha        Sun, Dec 13, 2010       D27-24-05 
+ JG148F116W3P71499  Insight     2006  14229  24390  Hill, Rita              Thu, Dec 10, 2010       D27-24-01 

@@ -1,0 +1,53 @@
+Dealer Name: Royal Honda
+Address:     8627 Davis Highway
+             Port Kiln, SC
+Dealer ID:   13
+Owner:       Olson, Julie
+Date:        Thu, Jul  2, 2010 thru Wed, Jul  8, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH158S414227X7832  Odyssey      2010  38892  41375  Watkins, Terrence       Sat, Jul  4, 2010       D13-12-01 
+ JA1X7S32A2274BC74  Accord       2010  24210  25089  Austin, Marcus          Tue, Jul  7, 2010       D13-12-02 
+ JB123H15022729A56  Civic        2010  25392  27600  Austin, Marcus          Sun, Jul  5, 2010       D13-12-02 
+ JB121S121227X7838  Civic        2010  14727  16455  Oliver, Walter          Wed, Jul  8, 2010       D13-12-03 
+ JE141F1132276X1AX  Crosstour    2010  35758  37640  Oliver, Walter          Thu, Jul  2, 2010       D13-12-03 
+ JD139F31722729A62  CR-Z         2010  22748  25705  Austin, Marcus          Thu, Jul  2, 2010       D13-12-02 
+ JH155FU12227823C4  Odyssey      2010  42564  47825  Romero, Ruby            Mon, Jul  6, 2010       D13-12-04 
+ JE144F3192274BC86  Crosstour    2010  34776  38640  Watkins, Terrence       Fri, Jul  3, 2010       D13-12-01 
+ JH157F315227823C8  Odyssey      2010  42617  45825  Romero, Ruby            Wed, Jul  8, 2010       D13-12-04 
+ JB125G16A227X785X  Civic        2010  26224  28505  Watkins, Terrence       Fri, Jul  3, 2010       D13-12-01 
+ JB121S126227X7852  Civic        2010  15467  16455  Austin, Marcus          Sun, Jul  5, 2010       D13-12-02 
+ JC131F11A2273AB84  CR-V         2010  28825  30995  Romero, Ruby            Fri, Jul  3, 2010       D13-12-04 
+ JG148F1122276X1B6  Insight      2010  23048  24390  Watkins, Terrence       Sat, Jul  4, 2010       D13-12-01 
+ JB127S138227X7858  Civic        2010  15905  16655  Romero, Ruby            Sun, Jul  5, 2010       D13-12-04 
+ JA1X1S1212273AB9X  Accord       2010  21439  24089  Oliver, Walter          Wed, Jul  8, 2010       D13-12-03 
+ JB121S1262273AB92  Civic        2010  14562  16455  Austin, Marcus          Tue, Jul  7, 2010       D13-12-02 
+ JC131F1122273AB94  CR-V         2010  28360  30995  Watkins, Terrence       Fri, Jul  3, 2010       D13-12-01 
+ JA1X1S12022718976  Accord       2010  23366  24089  Oliver, Walter          Sat, Jul  4, 2010       D13-12-03 
+ JE141F11822718978  Crosstour    2010  35005  37640  Romero, Ruby            Wed, Jul  8, 2010       D13-12-04 
+ JA1X1S127227X787X  Accord       2010  21680  24089  Romero, Ruby            Sat, Jul  4, 2010       D13-12-04 
+ JH15AS11522782322  Odyssey      2010  26878  29375  Watkins, Terrence       Wed, Jul  8, 2010       D13-12-01 
+ JA114FU3222729A94  Accord       2010  32572  33930  Austin, Marcus          Sat, Jul  4, 2010       D13-12-02 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE141F114T413A943  Crosstour   2004  14606  37640  Watkins, Terrence       Thu, Jul  2, 2010       D13-12-01 
+ JH154SU17X4418725  Odyssey     2007  28732  32375  Oliver, Walter          Tue, Jul  7, 2010       D13-12-03 
+ JB129S141XX682197  Civic       2007  14467  23055  Oliver, Walter          Fri, Jul  3, 2010       D13-12-03 
+ JJ163F31AY454BA59  Pilot       2008  30177  42970  Watkins, Terrence       Wed, Jul  8, 2010       D13-12-01 
+ JD138FU16XX76XC81  CR-Z        2007  17933  27705  Oliver, Walter          Sun, Jul  5, 2010       D13-12-03 
+ JB127S135W436XC83  Civic       2006  9907   16655  Romero, Ruby            Wed, Jul  8, 2010       D13-12-04 
+ JK165F119X514BA65  Ridgeline   2007  29632  46750  Romero, Ruby            Thu, Jul  2, 2010       D13-12-04 
+ JB121S12AY125CB77  Civic       2008  11912  16455  Romero, Ruby            Tue, Jul  7, 2010       D13-12-04 
+ JG149FU1812771X99  Insight     2009  20152  25190  Austin, Marcus          Wed, Jul  8, 2010       D13-12-02 
+ JH155FU17X3P4BA71  Odyssey     2007  42637  47825  Watkins, Terrence       Mon, Jul  6, 2010       D13-12-01 
+ JH151F115X4918743  Odyssey     2007  29198  44825  Oliver, Walter          Wed, Jul  8, 2010       D13-12-03 
+ JB127S137W244BA75  Civic       2006  9907   16655  Romero, Ruby            Wed, Jul  8, 2010       D13-12-04 
+ JD136F110V1P4BA77  CR-Z        2005  12497  24705  Austin, Marcus          Thu, Jul  2, 2010       D13-12-02 
+ JB127S139X2P71XA9  Civic       2007  10662  16655  Oliver, Walter          Mon, Jul  6, 2010       D13-12-03 
+ JC134F31AXX54BA81  CR-V        2007  20756  31995  Watkins, Terrence       Wed, Jul  8, 2010       D13-12-01 
+ JH155FU14W356XCA3  Odyssey     2006  27346  47825  Austin, Marcus          Mon, Jul  6, 2010       D13-12-02 

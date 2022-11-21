@@ -1,0 +1,414 @@
+Activity 2: submission file lab02.txt
+
+    Name:    ashton uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Friday, Sep 17, 2021
+    Time:    19:21
+    USID:    51f7g1T#E0m4RaqmTvM{21G2X092m%FyltGtouAa6_2ni!q1t2l:x9b1a*eacyOa0yUaatXtWuS}92r01ap@SpFeiSl-Gniortghtsya
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a01.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE 
+            
+            B. 3
+            
+            C. 2
+            
+            D. 1
+            
+            E. 5
+            
+            END OF QUESTION 1: This unedited file contains 304 characters.
+
+        End output of a01.txt
+
+
+        Start output of check01.txt
+            Checking for required executable files
+                       OK - solution.pl                                   chxq01-A1
+                       OK - decode.sh                                     chxq01-B1
+            
+            Checking results.txt
+                       OK - results.txt location                          chxq01-C1
+                       OK - results.txt content                           chxq01-D1
+            
+
+        End output of check01.txt
+
+
+        Start output of results.txt
+            Using:   decode.sh
+            Files:   /home/n_autty/class/a02/q01/in
+            Date:    Wed Sep  8 19:29:31 EDT 2021
+            Command: ./decode.sh
+            From:    /home/n_autty/class/a02/q01
+            File 1: encoded file: hello.txt
+            HW ECEJRV LB ER LXHAOA TP XHTIQP XRTCQF TQOK HD LIEGLG RGEO EI HP
+            
+            File 1: decoded file
+            
+            HELLO THERE
+            
+            
+            File 2: encoded file: quick.txt
+            TDGZHROR EWDBXPTNQG XN TQ QNQPYY UEZEIH APCQ LCKGXO TRQRXHTO QBEKBC HYRE
+            TOOUXBTBQAWZ RMNHED XUTN QG VT FXOUOCXITCQXXKDH XMTH QLEHJE PEUYMU MWURPT 
+            JV EQ XZTS QODBXTXQTI QZ OKOL FPVV XY TLQDEZNKROWH XCTYQYOI TRRNHOBZ ETXI
+            TY QEXRTO QZKRLB CEAYIAZXUC YQQO XOTU QQ XPTGQDDPESOKHD GTTZ
+            
+            File 2: decoded file
+            
+            THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG
+            
+            
+            File 3: encoded file: fsu.txt
+            YP!EOW!MUE!U XQ TLQP OI GDOO OL OU TC OQ XQTJ QR OF TCOEOJ OWXJTX QNOGFQ 
+            ON INONGPOEHPOTTOOF,E OO XVTJQE OUFY OYIIWHGDXI TTQZ HBEJ TRTW,LAFXH TFQA
+            TVFOSY IM XD TIQC GMAWHKDJ TD IT XC TUQDRW FJOROJ LWRNFN XKTR QY XYTMQBFT
+            !DSB!JUT EC !BTL XQTYQV AQYYTUOM SBUOXD TCQPXZ TY QKAQGXDLOIIITCRI XRTHQV
+            OX TALM ODFI XSTZQRXH TA QB SA !JCG!GAWEWLGTUPLAQXWTV QG TA 'L SZ EMXV TT
+            QEMA ATXR TA QF DNSGIFEARMMWOBIG LBNKFYORXOTRQNLQ EYEU -ASK TWXXTXQC-QYX
+            AKOH -NUFTIXATB QY -ZGU SN OU.CTV.KXL TCQH.G TV.J OT .LXT TLQS.E WH AU II
+            -M NU DJ ,D-N XMTFQDIV WR-RIPRU NR-D,KOI XGTGQK-MWT LJIP-GNU FR,AXQTUQWXB
+            TQQQ ETWO TNIS AB NPTDXSTG QN SGTYXQTEQK HI AL IFDJSY IF XN TA QO RXGR OL
+            AALU MT FWEDXW TZ QX XQTQ QX FW AYOBND XITKQODT SPXOTF QN EK RL LXOGOWLB
+            NU LOIH XC TW QGMKON EN NLSKXOTI QDXLTQQADPEY ONHKWITJ NMXOTMQR XS TBQDYJ
+            TXRLOAOIXRTSQCTY MLCX AJ IIKFVZEV XRTQ QOXN TOQDRCTPOT HYFZOWXT TU QTSXTR
+            ED HOXWTF QXGPGC IUOCFWATXOTW QXLA,Y SHTNXY TBQP HCFSGFOM IORWFRXFTP QW 
+            XKTJQGFN,FSJTFUR HQXFTRQCGH IGIY SGFDXI TI QN XY TW QK OHOUNZSU XGTZQXXR
+            TW QR TQTE HUAXEG EUXV TT QYRC WI GLARXLTO QQRESYPI 'BAHELTO HY HX SRXG 
+            TTQMXO TD QCNNDNOBNOWE EB XWTX QB XJTZQG AVSF NL'HDQ ERXATW QT LEADTQ TE 
+            TUXO TNQWAJTL BU HC XXTE QU EH EEXU TIQRHIBATNAB XR TBQL TZTLTQ AJ LQXC 
+            TG QLEI DD'L NKSP AQXETJ QXXL TLQV EF WWNZOS DNNFXXTPQC XO TVQZSBHSHUTWEV
+            AE'N PHSF RGXPTWQSAMGBWZRCXWTU QJEB EKAJHKTV TU XQ TG QDXH TWQHSF NIOQ OK
+            XTTV QCXR TI QDFG SBIRINGJXFTEQG HN UN TL SK,I FAXG TJ QRXVTAQQFRRGIFOR 
+            GSFJHFXATRQQTPSJ ,D LMXN TUQXAF FF OIIN GAGPXE TVQX HZES TZSC XZ TZ QHOF
+            FL HSOETSRRXGTL QQXMTX QNEEVT KY IAAPCVMDTC XATBQK OG OU RTTC YC XKTT QD
+            XH TAQSNUTPWV HZ OMEADR XYTHQC XT TK QZSLNLEBOL MD XGTAQG IN LW NTLH OY 
+            ONLQRM ESXBTI QUSCDR XM TDQP NGOK APFCXG TY QOXMTKQM EIFZMVLCAMOB GYRQ XO 
+            TAQT IJSVDB IGACHFXH TR QDTGSVXJTUQHTGNEALISTXWPEEXL TN QMXLTH QU ,FFR NR
+            -HIYLFWM-KXWTJQWOF,T-INFRWIM-PWK IUXRTIQC-A ,QDS NZ-A IJAQWJ.CXLTM QY .H 
+            OI .YTI .H XWTY QE.OTJ.WOZSLGP-T XN TL QF TRUT-RORAE YO-L XETW QZTY SW-I
+            ED EXLVXUTRQSOOFD NALJIL OEMC RQ EGIS SP DK XXTZQGAB MGXC THQCECST 'VTS 
+            XFTX QMARPQTN LKEH AV!VCW !H SKXE TLQEXK TK QEFMOH LF TT OAXOTP QXRUTV IL 
+            OBDH GU AIXVTOQP XKTU QZ UB SH OO TK YEAEXN TF QO TH!IEV UL!YSU !WFFXFTN
+            QYXM TOQMFERHLK OJ OB FBRFXSTK QDII TMDHHEADGIXK TS QIINSFFX TD XLTJQHAB
+            ,UTJ TV EFHG XFTY QGGZWD IUOE FN ONXJTI QPOC,JOKTGOX HJOX GU OVIS OIFIOU
+            XLTQ QWOLOZOBTBOW XOTPQVOG TBOC OZ OYGR OB XG TKQE !W UH!KOM!BYS
+            
+            File 3: decoded file
+            
+            YOU GOT TO FIGHT, FIGHT, FIGHT FOR FSU! YOU GOT TO SCALP 'EM SEMINOLES YOU GOT TO WIN, WIN, WIN, WIN THIS GAME AND ROLL ON DOWN TO MAKE THOSE GOALS FOR FSU IS ON THE WARPATH NOW AND AT THE BATTLE'S END SHE'S GREAT SO FIGHT, FIGHT, FIGHT FOR VICTORY THE SEMINOLES OF FLORIDA STATE F-L-O-R-I-D-A......S-T-A-T-E FLORIDA STATE!! FLORIDA STATE!! FLORIDA STATE WOOOOOOOOOOOOOOOO!!!
+            
+
+        End output of results.txt
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE 
+            
+            END OF QUESTION 2: This unedited file contains 284 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+            Looking for bin directory
+                       OK - bin directory                                   chxq02-A1
+                       OK - decode.sh                                       chxq02-B1
+            
+            Checking results.txt
+                       OK - decode.sh run from bin                          chxq02-C1
+                       OK - results.txt content                             chxq02-D1
+            
+
+        End output of check02.txt
+
+
+        Start output of results.txt
+            Using:   decode.sh
+            Files:   /home/n_autty/class/a02/q02/in
+            Date:    Wed Sep  8 19:56:58 EDT 2021
+            Command: /home/n_autty/bin/decode.sh
+            From:    /home/n_autty/class/a02/q02
+            File 1: encoded file: hello.txt
+            HW ECEJRV LB ER LXHAOA TP XHTIQP XRTCQF TQOK HD LIEGLG RGEO EI HP
+            
+            File 1: decoded file
+            
+            HELLO THERE
+            
+            
+            File 2: encoded file: quick.txt
+            TDGZHROR EWDBXPTNQG XN TQ QNQPYY UEZEIH APCQ LCKGXO TRQRXHTO QBEKBC HYRE
+            TOOUXBTBQAWZ RMNHED XUTN QG VT FXOUOCXITCQXXKDH XMTH QLEHJE PEUYMU MWURPT 
+            JV EQ XZTS QODBXTXQTI QZ OKOL FPVV XY TLQDEZNKROWH XCTYQYOI TRRNHOBZ ETXI
+            TY QEXRTO QZKRLB CEAYIAZXUC YQQO XOTU QQ XPTGQDDPESOKHD GTTZ
+            
+            File 2: decoded file
+            
+            THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG
+            
+            
+            File 3: encoded file: fsu.txt
+            YP!EOW!MUE!U XQ TLQP OI GDOO OL OU TC OQ XQTJ QR OF TCOEOJ OWXJTX QNOGFQ 
+            ON INONGPOEHPOTTOOF,E OO XVTJQE OUFY OYIIWHGDXI TTQZ HBEJ TRTW,LAFXH TFQA
+            TVFOSY IM XD TIQC GMAWHKDJ TD IT XC TUQDRW FJOROJ LWRNFN XKTR QY XYTMQBFT
+            !DSB!JUT EC !BTL XQTYQV AQYYTUOM SBUOXD TCQPXZ TY QKAQGXDLOIIITCRI XRTHQV
+            OX TALM ODFI XSTZQRXH TA QB SA !JCG!GAWEWLGTUPLAQXWTV QG TA 'L SZ EMXV TT
+            QEMA ATXR TA QF DNSGIFEARMMWOBIG LBNKFYORXOTRQNLQ EYEU -ASK TWXXTXQC-QYX
+            AKOH -NUFTIXATB QY -ZGU SN OU.CTV.KXL TCQH.G TV.J OT .LXT TLQS.E WH AU II
+            -M NU DJ ,D-N XMTFQDIV WR-RIPRU NR-D,KOI XGTGQK-MWT LJIP-GNU FR,AXQTUQWXB
+            TQQQ ETWO TNIS AB NPTDXSTG QN SGTYXQTEQK HI AL IFDJSY IF XN TA QO RXGR OL
+            AALU MT FWEDXW TZ QX XQTQ QX FW AYOBND XITKQODT SPXOTF QN EK RL LXOGOWLB
+            NU LOIH XC TW QGMKON EN NLSKXOTI QDXLTQQADPEY ONHKWITJ NMXOTMQR XS TBQDYJ
+            TXRLOAOIXRTSQCTY MLCX AJ IIKFVZEV XRTQ QOXN TOQDRCTPOT HYFZOWXT TU QTSXTR
+            ED HOXWTF QXGPGC IUOCFWATXOTW QXLA,Y SHTNXY TBQP HCFSGFOM IORWFRXFTP QW 
+            XKTJQGFN,FSJTFUR HQXFTRQCGH IGIY SGFDXI TI QN XY TW QK OHOUNZSU XGTZQXXR
+            TW QR TQTE HUAXEG EUXV TT QYRC WI GLARXLTO QQRESYPI 'BAHELTO HY HX SRXG 
+            TTQMXO TD QCNNDNOBNOWE EB XWTX QB XJTZQG AVSF NL'HDQ ERXATW QT LEADTQ TE 
+            TUXO TNQWAJTL BU HC XXTE QU EH EEXU TIQRHIBATNAB XR TBQL TZTLTQ AJ LQXC 
+            TG QLEI DD'L NKSP AQXETJ QXXL TLQV EF WWNZOS DNNFXXTPQC XO TVQZSBHSHUTWEV
+            AE'N PHSF RGXPTWQSAMGBWZRCXWTU QJEB EKAJHKTV TU XQ TG QDXH TWQHSF NIOQ OK
+            XTTV QCXR TI QDFG SBIRINGJXFTEQG HN UN TL SK,I FAXG TJ QRXVTAQQFRRGIFOR 
+            GSFJHFXATRQQTPSJ ,D LMXN TUQXAF FF OIIN GAGPXE TVQX HZES TZSC XZ TZ QHOF
+            FL HSOETSRRXGTL QQXMTX QNEEVT KY IAAPCVMDTC XATBQK OG OU RTTC YC XKTT QD
+            XH TAQSNUTPWV HZ OMEADR XYTHQC XT TK QZSLNLEBOL MD XGTAQG IN LW NTLH OY 
+            ONLQRM ESXBTI QUSCDR XM TDQP NGOK APFCXG TY QOXMTKQM EIFZMVLCAMOB GYRQ XO 
+            TAQT IJSVDB IGACHFXH TR QDTGSVXJTUQHTGNEALISTXWPEEXL TN QMXLTH QU ,FFR NR
+            -HIYLFWM-KXWTJQWOF,T-INFRWIM-PWK IUXRTIQC-A ,QDS NZ-A IJAQWJ.CXLTM QY .H 
+            OI .YTI .H XWTY QE.OTJ.WOZSLGP-T XN TL QF TRUT-RORAE YO-L XETW QZTY SW-I
+            ED EXLVXUTRQSOOFD NALJIL OEMC RQ EGIS SP DK XXTZQGAB MGXC THQCECST 'VTS 
+            XFTX QMARPQTN LKEH AV!VCW !H SKXE TLQEXK TK QEFMOH LF TT OAXOTP QXRUTV IL 
+            OBDH GU AIXVTOQP XKTU QZ UB SH OO TK YEAEXN TF QO TH!IEV UL!YSU !WFFXFTN
+            QYXM TOQMFERHLK OJ OB FBRFXSTK QDII TMDHHEADGIXK TS QIINSFFX TD XLTJQHAB
+            ,UTJ TV EFHG XFTY QGGZWD IUOE FN ONXJTI QPOC,JOKTGOX HJOX GU OVIS OIFIOU
+            XLTQ QWOLOZOBTBOW XOTPQVOG TBOC OZ OYGR OB XG TKQE !W UH!KOM!BYS
+            
+            File 3: decoded file
+            
+            YOU GOT TO FIGHT, FIGHT, FIGHT FOR FSU! YOU GOT TO SCALP 'EM SEMINOLES YOU GOT TO WIN, WIN, WIN, WIN THIS GAME AND ROLL ON DOWN TO MAKE THOSE GOALS FOR FSU IS ON THE WARPATH NOW AND AT THE BATTLE'S END SHE'S GREAT SO FIGHT, FIGHT, FIGHT FOR VICTORY THE SEMINOLES OF FLORIDA STATE F-L-O-R-I-D-A......S-T-A-T-E FLORIDA STATE!! FLORIDA STATE!! FLORIDA STATE WOOOOOOOOOOOOOOOO!!!
+            
+
+        End output of results.txt
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a03.bak contains a backup copy of this file if you need it.
+            Create your script in the file q03.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE 
+            
+            END OF QUESTION 3: This unedited file contains 320 characters.
+
+        End output of a03.txt
+
+
+        Start output of check03.txt
+            Checking for required files
+                       OK - pinger.txt check                             chxq03-A1
+                       OK - whoami.txt check                             chxq03-B1
+                       OK - simple.txt check                             chxq03-C1
+                       OK - q03.txt check                                chxq03-D1
+            
+            Checking file contents
+                       OK - pinger.txt contents                          chxq03-E1
+                       OK - whoami.txt contents                          chxq03-F1
+                       OK - simple.txt contents                          chxq03-G1
+                       OK - q03.txt contents                             chxq03-H1
+            
+
+        End output of check03.txt
+
+
+        Start output of q03.sh
+            #!/bin/bash
+            
+            ./simple.sh > simple.txt
+            ./pinger.sh > pinger.txt
+            
+            cat simple.txt whoami.txt pinger.txt > q03.txt
+
+        End output of q03.sh
+
+
+        Start output of q03.txt
+            STARTING ./simple.sh
+            Script    : ./simple.sh
+            User      : n_autty
+            Home      : /home/n_autty
+            Directory : /home/n_autty/class/a02/q03
+            Date      : Wed Sep  8 20:20:37 EDT 2021
+            ===========================================
+            
+            Users currently logged are : 
+            
+            n_autty
+            
+            This is Linux running on a x86_64 processor.
+            
+            The system has been up for this long : 20:20:37 up 20 days,  9:42,  1 user,  load average: 0.00, 0.00, 0.00
+            
+            There are 6 processes running
+            
+            ===========================================
+            
+            ENDING ./simple.sh
+            STARTING ./pinger.sh
+                  USER: n_autty
+                  DATE: Wed Sep  8 20:20:37 EDT 2021
+                  HOST: 192.168.60.50
+            
+            Scanning starting from vma40
+            Scanning for vm at vma11.cci.local ...done with vma11.cci.local
+            Scanning for vm at vma12.cci.local ...done with vma12.cci.local
+            Scanning for vm at vma13.cci.local ...done with vma13.cci.local
+            Scanning for vm at vma14.cci.local ...done with vma14.cci.local
+            Scanning for vm at vma15.cci.local ...done with vma15.cci.local
+            
+            Scanning complete from vma40
+            ENDING ./pinger.sh
+            Script    : ./pinger.sh
+            User      : n_autty
+            Home      : /home/n_autty
+            HOST      : vma40 : 192.168.60.50
+            Date      : Wed Sep  8 20:20:37 EDT 2021
+            Directory : /home/n_autty/class/a02/q03
+            Scanning the virtual computers around us
+            =====================================================
+            
+            Scanning starting from vma40
+            
+            Scanning - (vma11.cci.local ... vma15.cci.local)
+            Use dig to find ip address for for vma11.cci.local
+            
+            ; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma11.cci.local +noall +answer
+            ;; global options: +cmd
+            vma11.cci.local.	2653	IN	A	192.168.60.21
+            
+            Use ping to check connection with vma11.cci.local
+            PING vma11.cci.local (192.168.60.21) 56(84) bytes of data.
+            64 bytes from vma11.cci.local (192.168.60.21): icmp_seq=1 ttl=64 time=2.51 ms
+            64 bytes from vma11.cci.local (192.168.60.21): icmp_seq=2 ttl=64 time=5.11 ms
+            64 bytes from vma11.cci.local (192.168.60.21): icmp_seq=3 ttl=64 time=2.74 ms
+            
+            --- vma11.cci.local ping statistics ---
+            3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+            rtt min/avg/max/mdev = 2.519/3.459/5.115/1.176 ms
+            Done with vma11.cci.local
+            
+            Use dig to find ip address for for vma12.cci.local
+            
+            ; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma12.cci.local +noall +answer
+            ;; global options: +cmd
+            vma12.cci.local.	2653	IN	A	192.168.60.22
+            
+            Use ping to check connection with vma12.cci.local
+            PING vma12.cci.local (192.168.60.22) 56(84) bytes of data.
+            64 bytes from vma12.cci.local (192.168.60.22): icmp_seq=1 ttl=64 time=6.72 ms
+            64 bytes from vma12.cci.local (192.168.60.22): icmp_seq=2 ttl=64 time=6.56 ms
+            64 bytes from vma12.cci.local (192.168.60.22): icmp_seq=3 ttl=64 time=7.10 ms
+            
+            --- vma12.cci.local ping statistics ---
+            3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+            rtt min/avg/max/mdev = 6.565/6.798/7.106/0.227 ms
+            Done with vma12.cci.local
+            
+            Use dig to find ip address for for vma13.cci.local
+            
+            ; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma13.cci.local +noall +answer
+            ;; global options: +cmd
+            vma13.cci.local.	2653	IN	A	192.168.60.23
+            
+            Use ping to check connection with vma13.cci.local
+            PING vma13.cci.local (192.168.60.23) 56(84) bytes of data.
+            64 bytes from vma13.cci.local (192.168.60.23): icmp_seq=1 ttl=64 time=7.84 ms
+            64 bytes from vma13.cci.local (192.168.60.23): icmp_seq=2 ttl=64 time=4.68 ms
+            64 bytes from vma13.cci.local (192.168.60.23): icmp_seq=3 ttl=64 time=5.97 ms
+            
+            --- vma13.cci.local ping statistics ---
+            3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+            rtt min/avg/max/mdev = 4.681/6.164/7.842/1.300 ms
+            Done with vma13.cci.local
+            
+            Use dig to find ip address for for vma14.cci.local
+            
+            ; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma14.cci.local +noall +answer
+            ;; global options: +cmd
+            vma14.cci.local.	2653	IN	A	192.168.60.24
+            
+            Use ping to check connection with vma14.cci.local
+            PING vma14.cci.local (192.168.60.24) 56(84) bytes of data.
+            64 bytes from vma14.cci.local (192.168.60.24): icmp_seq=1 ttl=64 time=3.20 ms
+            64 bytes from vma14.cci.local (192.168.60.24): icmp_seq=2 ttl=64 time=4.83 ms
+            64 bytes from vma14.cci.local (192.168.60.24): icmp_seq=3 ttl=64 time=3.52 ms
+            
+            --- vma14.cci.local ping statistics ---
+            3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+            rtt min/avg/max/mdev = 3.208/3.856/4.831/0.701 ms
+            Done with vma14.cci.local
+            
+            Use dig to find ip address for for vma15.cci.local
+            
+            ; <<>> DiG 9.11.3-1ubuntu1.15-Ubuntu <<>> vma15.cci.local +noall +answer
+            ;; global options: +cmd
+            vma15.cci.local.	2653	IN	A	192.168.60.25
+            
+            Use ping to check connection with vma15.cci.local
+            PING vma15.cci.local (192.168.60.25) 56(84) bytes of data.
+            64 bytes from vma15.cci.local (192.168.60.25): icmp_seq=1 ttl=64 time=6.68 ms
+            64 bytes from vma15.cci.local (192.168.60.25): icmp_seq=2 ttl=64 time=4.98 ms
+            64 bytes from vma15.cci.local (192.168.60.25): icmp_seq=3 ttl=64 time=3.72 ms
+            
+            --- vma15.cci.local ping statistics ---
+            3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+            rtt min/avg/max/mdev = 3.722/5.131/6.686/1.217 ms
+            Done with vma15.cci.local
+            
+            =====================================================
+            
+            Scanning complete from vma40
+
+        End output of q03.txt
+
+    All files found for question 3.
+END QUESTION 3
+
+    Begin summary of file submissions
+        Files needed  = 10
+        Files found   = 10
+        Files missing = 0
+    End summary of file submissions
+
+Activity 2: submission file lab02.txt completed

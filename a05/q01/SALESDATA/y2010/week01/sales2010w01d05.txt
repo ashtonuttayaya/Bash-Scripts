@@ -1,0 +1,35 @@
+Dealer Name: Top Pick Honda
+Address:     2795 Brooklin Ave
+             Harrison, SC
+Dealer ID:   5
+Owner:       Houseman, Jonathan
+Date:        Thu, Jan  1, 2010 thru Wed, Jan  7, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1392X16XA32  Civic        2010  15822  16655  Snyder, Norma           Sun, Jan  4, 2010       D05-05-04 
+ JH153FU122X171B44  Odyssey      2010  41929  45825  Brooks, Herman          Mon, Jan  5, 2010       D05-05-01 
+ JJ16AF1182X1185B6  Pilot        2010  40501  41970  Foster, Leona           Sat, Jan  3, 2010       D05-05-07 
+ JC132FU112X182C58  CR-V         2010  30555  31995  Snyder, Norma           Thu, Jan  1, 2010       D05-05-04 
+ JC131F1122X11862X  CR-V         2010  27275  30995  Ford, Roger             Fri, Jan  2, 2010       D05-05-08 
+ JA1X1S1292X16XB72  Accord       2010  22884  24089  Foster, Leona           Wed, Jan  7, 2010       D05-05-07 
+ JB127S1372X15CA64  Civic        2010  15738  16655  Neal, Douglas           Fri, Jan  2, 2010       D05-05-06 
+ JB121S12A2X16XB76  Civic        2010  15385  16455  Lynch, Christian        Tue, Jan  6, 2010       D05-05-02 
+ JA1X7S32A2X129738  Accord       2010  22956  25089  Lynch, Christian        Sat, Jan  3, 2010       D05-05-02 
+ JH155FU182X13A85X  Odyssey      2010  45672  47825  Foster, Leona           Sat, Jan  3, 2010       D05-05-07 
+ JH153FU112X1X7522  Odyssey      2010  41013  45825  Lynch, Christian        Thu, Jan  1, 2010       D05-05-02 
+ JH153FU152X16XB84  Odyssey      2010  41700  45825  Neal, Douglas           Fri, Jan  2, 2010       D05-05-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC133FU141425C9C7  CR-V        2009  27196  33995  Moreno, Tyrone          Tue, Jan  6, 2010       D05-05-03 
+ JJ16AF115W1482C29  Pilot       2006  24777  41970  Brooks, Herman          Sat, Jan  3, 2010       D05-05-01 
+ JH153FU1AX1618591  Odyssey     2007  29040  45825  Neal, Douglas           Sun, Jan  4, 2010       D05-05-06 
+ JB121S125Y35296A3  Civic       2008  11912  16455  Moreno, Tyrone          Tue, Jan  6, 2010       D05-05-03 
+ JE143FU19X515C9X5  Crosstour   2007  26445  40640  Lynch, Christian        Thu, Jan  1, 2010       D05-05-02 
+ JE141F110V5P82C37  Crosstour   2005  19288  37640  Ford, Roger             Wed, Jan  7, 2010       D05-05-08 
+ JC134F319XX971B29  CR-V        2007  20756  31995  Foster, Leona           Tue, Jan  6, 2010       D05-05-07 
+ JE141F119XX4296B1  Crosstour   2007  23801  37640  Neal, Douglas           Fri, Jan  2, 2010       D05-05-06 

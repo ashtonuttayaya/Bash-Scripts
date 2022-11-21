@@ -1,0 +1,40 @@
+Dealer Name: Newton Honda
+Address:     4893 Brooklin Ave
+             Granger, AL
+Dealer ID:   34
+Owner:       Newton, Robert
+Date:        Thu, Sep  3, 2010 thru Wed, Sep  9, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH155FU142362A736  Odyssey      2010  42325  47825  Torres, Caroline        Thu, Sep  3, 2010       D34-30-01 
+ JA1X3SU2823661B78  Accord       2010  22580  25089  Rodriquez, Jorge        Tue, Sep  8, 2010       D34-30-04 
+ JA117S3352363B85X  Accord       2010  20779  23480  Torres, Caroline        Mon, Sep  7, 2010       D34-30-01 
+ JH151F11A2362A742  Odyssey      2010  40790  44825  Rice, Georgia           Fri, Sep  4, 2010       D34-30-03 
+ JD138FU1A2362A744  CR-Z         2010  25211  27705  Torres, Caroline        Sun, Sep  6, 2010       D34-30-01 
+ JH153FU1423661B86  Odyssey      2010  41013  45825  Webb, Ken               Wed, Sep  9, 2010       D34-30-02 
+ JB127S13223661B88  Civic        2010  16155  16655  Webb, Ken               Tue, Sep  8, 2010       D34-30-02 
+ JB121S12223661B9X  Civic        2010  15056  16455  Webb, Ken               Mon, Sep  7, 2010       D34-30-02 
+ JA1X9S42423661B92  Accord       2010  31765  33089  Webb, Ken               Fri, Sep  4, 2010       D34-30-02 
+ JA111S13523619644  Accord       2010  20794  22480  Torres, Caroline        Fri, Sep  4, 2010       D34-30-01 
+ JD139F31223661B96  CR-Z         2010  24034  25705  Rodriquez, Jorge        Thu, Sep  3, 2010       D34-30-04 
+ JD136F11023683XB8  CR-Z         2010  22728  24705  Torres, Caroline        Thu, Sep  3, 2010       D34-30-01 
+ JH15AS1132365XA9X  Odyssey      2010  27025  29375  Webb, Ken               Thu, Sep  3, 2010       D34-30-02 
+ JB121S1212365XA92  Civic        2010  15879  16455  Rodriquez, Jorge        Fri, Sep  4, 2010       D34-30-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1382X45C4B5  Civic        2010  15276  16655  Jensen, Bill            Fri, Sep  4, 2010       D34-30-06 
+ JH152SU17X246X5C7  Odyssey     2007  18613  30375  Rice, Georgia           Tue, Sep  8, 2010       D34-30-03 
+ JH154SU191494B3A9  Odyssey     2009  26223  32375  Webb, Ken               Tue, Sep  8, 2010       D34-30-02 
+ JH157F311X4271611  Odyssey     2007  28223  45825  Webb, Ken               Mon, Sep  7, 2010       D34-30-02 
+ JJ164F413X163A2A3  Pilot       2007  34252  53970  Rice, Georgia           Mon, Sep  7, 2010       D34-30-03 
+ JC131F114W183A2A5  CR-V        2006  18798  30995  Torres, Caroline        Fri, Sep  4, 2010       D34-30-01 
+ JH154SU16V346X5X7  Odyssey     2005  28484  32375  Webb, Ken               Sat, Sep  5, 2010       D34-30-02 
+ JH151F118V26X7C79  Odyssey     2005  21962  44825  Webb, Ken               Mon, Sep  7, 2010       D34-30-02 
+ JH155FU10X363A2B1  Odyssey     2007  30320  47825  Rice, Georgia           Fri, Sep  4, 2010       D34-30-03 
+ JF146S112Y234B3C3  Fit         2008  11376  16025  Rice, Georgia           Thu, Sep  3, 2010       D34-30-03 
+ JB125G163W31291A5  Civic       2006  17254  28505  Rodriquez, Jorge        Thu, Sep  3, 2010       D34-30-04 

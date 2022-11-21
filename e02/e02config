@@ -1,0 +1,40 @@
+q01 type sa
+q01 start
+q01 submit
+q01 clean
+q02 type sa
+q02 start
+q02 submit
+q02 clean
+q03 type sc
+q03 start
+q03 submit
+q03 clean q03.sh q03.sql
+q04 type sa
+q04 start
+q04 submit
+q04 clean
+q05 type sa
+q05 start
+q05 submit
+q05 clean
+q06 type sc
+q06 start
+q06 submit
+q06 clean q06.sh
+q07 type sc
+q07 start agent_list
+q07 submit Jacob_Fuller.sql Stacey_Peters.rpt
+q07 clean q07.sh Jacob_Fuller.sql Stacey_Peters.rpt Roland_Walker.sql Roland_Walker.rpt Stacey_Peters.sql Jacob_Fuller.rpt
+q08 type sa
+q08 start 
+q08 submit
+q08 clean
+q09 type sa
+q09 start students.txt
+q09 submit
+q09 clean test.txt
+q10 type sa
+q10 start
+q10 submit
+q10 clean

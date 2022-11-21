@@ -1,0 +1,59 @@
+Dealer Name: Walker Honda
+Address:     1240 Harrison Ave
+             Port Kiln, SC
+Dealer ID:   10
+Owner:       Walker, Shelly
+Date:        Fri, Mar 26, 2011 thru Thu, Apr  1, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F11331382156  CR-Z         2011  22561  24705  Wright, Emma            Sun, Mar 28, 2011       D10-07-04 
+ JB127S1383134BA18  Civic        2011  15445  16655  Ross, Darren            Thu, Apr  1, 2011       D10-07-05 
+ JE143FU163133AA4X  Crosstour    2011  38004  40640  Gardner, Salvador       Thu, Apr  1, 2011       D10-07-03 
+ JB127S13431382292  Civic        2011  16036  16655  Ross, Darren            Tue, Mar 30, 2011       D10-07-05 
+ JA1X9S4253134BB54  Accord       2011  30982  33089  Wright, Emma            Mon, Mar 29, 2011       D10-07-04 
+ JC131F1173135CC66  CR-V         2011  27941  30995  Fields, Roland          Fri, Mar 26, 2011       D10-07-02 
+ JB127S13531382298  Civic        2011  15445  16655  Alvarez, David          Sun, Mar 28, 2011       D10-07-06 
+ JC133FU14313X772X  CR-V         2011  31824  33995  Wright, Emma            Sat, Mar 27, 2011       D10-07-04 
+ JH152SU1A31318832  Odyssey      2011  28764  30375  Gardner, Salvador       Sun, Mar 28, 2011       D10-07-03 
+ JH15AS1163135CC74  Odyssey      2011  27232  29375  Ross, Darren            Tue, Mar 30, 2011       D10-07-05 
+ JE143FU1A3135CC76  Crosstour    2011  38208  40640  Gardner, Salvador       Thu, Apr  1, 2011       D10-07-03 
+ JB127S13631329948  Civic        2011  15529  16655  Marshall, Allan         Thu, Apr  1, 2011       D10-07-01 
+ JA1X1S123313711AX  Accord       2011  21639  24089  Fields, Roland          Fri, Mar 26, 2011       D10-07-02 
+ JA112F13331318842  Accord       2011  31497  32930  Marshall, Allan         Sun, Mar 28, 2011       D10-07-01 
+ JB121S128313822B4  Civic        2011  15595  16455  Gardner, Salvador       Wed, Mar 31, 2011       D10-07-03 
+ JH152SU113135CC86  Odyssey      2011  29376  30375  Marshall, Allan         Tue, Mar 30, 2011       D10-07-01 
+ JD138FU173134BB78  CR-Z         2011  25416  27705  Gardner, Salvador       Thu, Apr  1, 2011       D10-07-03 
+ JG148F112313X774X  Insight      2011  23630  24390  Marshall, Allan         Thu, Apr  1, 2011       D10-07-01 
+ JH153FU13313822C2  Odyssey      2011  41905  45825  Gardner, Salvador       Sat, Mar 27, 2011       D10-07-03 
+ JJ16AF114313822C4  Pilot        2011  38186  41970  Ross, Darren            Sat, Mar 27, 2011       D10-07-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH159F418Y465C919  Odyssey     2008  37242  56825  Ross, Darren            Tue, Mar 30, 2011       D10-07-05 
+ JH157F311W16296C1  Odyssey     2006  23703  45825  Gardner, Salvador       Mon, Mar 29, 2011       D10-07-03 
+ JB121S12AX46185B3  Civic       2007  9923   16455  Marshall, Allan         Tue, Mar 30, 2011       D10-07-01 
+ JH151F1112143A7X5  Odyssey     2010  36040  44825  Gardner, Salvador       Sun, Mar 28, 2011       D10-07-03 
+ JC134F310X125C927  CR-V        2007  18927  31995  Fields, Roland          Tue, Mar 30, 2011       D10-07-02 
+ JB127S135Y25296C9  Civic       2008  10810  16655  Gardner, Salvador       Thu, Apr  1, 2011       D10-07-03 
+ JH15AS113YX271C81  Odyssey     2008  18656  29375  Gardner, Salvador       Fri, Mar 26, 2011       D10-07-03 
+ JH155FU14X515CA63  Odyssey     2007  29372  47825  Alvarez, David          Sun, Mar 28, 2011       D10-07-06 
+ JD136F113YX46XB75  CR-Z        2008  16107  24705  Ross, Darren            Wed, Mar 31, 2011       D10-07-05 
+ JH155FU152463A847  Odyssey     2010  38440  47825  Gardner, Salvador       Mon, Mar 29, 2011       D10-07-03 
+ JK165F115W354B959  Ridgeline   2006  23037  46750  Wright, Emma            Mon, Mar 29, 2011       D10-07-04 
+ JH157F310W494B961  Odyssey     2006  23703  45825  Gardner, Salvador       Mon, Mar 29, 2011       D10-07-03 
+ JJ162FU17X4PX7523  Pilot       2007  25821  44970  Alvarez, David          Sun, Mar 28, 2011       D10-07-06 
+ JK167FU1315118635  Ridgeline   2009  35820  49750  Marshall, Allan         Sat, Mar 27, 2011       D10-07-01 
+ JB129S141X2P82XA7  Civic       2007  14015  23055  Ross, Darren            Sat, Mar 27, 2011       D10-07-05 
+ JB129S141X385CA79  Civic       2007  13563  23055  Marshall, Allan         Sun, Mar 28, 2011       D10-07-01 
+ JE141F117Y3971CA1  Crosstour   2008  23945  37640  Wright, Emma            Sun, Mar 28, 2011       D10-07-04 
+ JG148F115Y524B973  Insight     2008  15465  24390  Fields, Roland          Sat, Mar 27, 2011       D10-07-02 
+ JB121S124X5129755  Civic       2007  9923   16455  Gardner, Salvador       Mon, Mar 29, 2011       D10-07-03 
+ JH15AS112X4518647  Odyssey     2007  17933  29375  Wright, Emma            Mon, Mar 29, 2011       D10-07-04 
+ JH156S318W2629759  Odyssey     2006  15592  30375  Alvarez, David          Sun, Mar 28, 2011       D10-07-06 
+ JB128SU3AYX26XBA1  Civic       2008  11027  17455  Gardner, Salvador       Sun, Mar 28, 2011       D10-07-03 
+ JE143FU1AY26X7543  Crosstour   2008  25865  40640  Gardner, Salvador       Sat, Mar 27, 2011       D10-07-03 
+ JB121S120W1929765  Civic       2006  8284   16455  Fields, Roland          Tue, Mar 30, 2011       D10-07-02 

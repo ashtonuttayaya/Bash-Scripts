@@ -1,0 +1,12 @@
+Checking for q04.sh
+           OK - Found q04.sh                                        chxq04-A1
+
+Checking for CROOT and EXAM1 environment variables
+           OK - Definition of CROOT                                 chxq04-B1
+           OK - Definition of EXAM1                                 chxq04-C1
+
+Checking rfs, ims and chs aliases
+           OK - Definition of rfs                                   chxq04-D1
+           OK - Definition of ims                                   chxq04-E1
+           OK - Definition of chs                                   chxq04-F1
+

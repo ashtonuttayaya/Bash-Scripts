@@ -1,0 +1,574 @@
+Exam 1: submission file exm01.txt
+
+    Name:    Ashton Uttayaya
+    User:    n_autty
+    Host:    vma40
+    Date:    Saturday, Oct 2, 2021
+    Time:    20:25
+    USID:    50p2M#G0y4RaomJvD{F1o2k0v24%iyMtEtbueaF_qn2!55p2R:P0w2o*daGyTaLydaetStvU9}f1u03ec@atdcaOI-MnfoPt9h6sFA
+
+BEGIN QUESTION 1
+    Checking for required files
+
+        Start output of a01.txt
+            QUESTION 1: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a01.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. main.sh
+            
+            B. scripts
+            
+            C. sea.html
+            
+            D. work
+            
+            E. city.jpg
+            
+            F. test.txt
+            
+            G. docs
+            
+            END OF QUESTION 1: This unedited file contains 340 characters.
+
+        End output of a01.txt
+
+    All files found for question 1.
+END QUESTION 1
+
+BEGIN QUESTION 2
+    Checking for required files
+
+        Start output of a02.txt
+            QUESTION 2: Computer Activity
+            
+            Please do NOT delete any characters in this file.
+            The file a02.bak contains a backup copy of this file if you need it.
+            
+            Enter DONE on the line below when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 2: This unedited file contains 284 characters.
+
+        End output of a02.txt
+
+
+        Start output of check02.txt
+            Checking directory structure
+                       OK - Checking directory stories                                chxq02-A1
+            
+            Checking file locations
+                       OK - Final file location check                                 chxq02-B1
+                       OK - Directory files has been removed                          chxq02-C1
+            
+
+        End output of check02.txt
+
+    All files found for question 2.
+END QUESTION 2
+
+BEGIN QUESTION 3
+    Checking for required files
+
+        Start output of a03.txt
+            QUESTION 3: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a03.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 2 
+            
+            B. 1
+            
+            C. 3
+            
+            D. 1
+            
+            E. 1
+            
+            F. 5
+            
+            G. 1
+            
+            H. 1
+            
+            I. 6
+            
+            J. 4
+            
+            END OF QUESTION 3: This unedited file contains 355 characters.
+
+        End output of a03.txt
+
+    All files found for question 3.
+END QUESTION 3
+
+BEGIN QUESTION 4
+    Checking for required files
+
+        Start output of a04.txt
+            QUESTION 4: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a04.bak contains a backup copy of this file if you need it.
+            Create your script in the file q04.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 4: This unedited file contains 320 characters.
+
+        End output of a04.txt
+
+
+        Start output of check04.txt
+            Checking for q04.sh
+                       OK - Found q04.sh                                        chxq04-A1
+            
+            Checking for CROOT and EXAM1 environment variables
+                       OK - Definition of CROOT                                 chxq04-B1
+                       OK - Definition of EXAM1                                 chxq04-C1
+            
+            Checking rfs, ims and chs aliases
+                       OK - Definition of rfs                                   chxq04-D1
+                       OK - Definition of ims                                   chxq04-E1
+                       OK - Definition of chs                                   chxq04-F1
+            
+
+        End output of check04.txt
+
+
+        Start output of q04.sh
+            #!/bin/bash
+            
+            alias rfs="grep -iwh href"
+            alias ims="grep -i -E 'jpg|jpeg'"
+            alias chs="wc -c"
+            
+            export CROOT=$HOME/class
+            export EXAM1=$HOME/class/e01
+
+        End output of q04.sh
+
+
+        Start output of q04.sh
+            #!/bin/bash
+            
+            alias rfs="grep -iwh href"
+            alias ims="grep -i -E 'jpg|jpeg'"
+            alias chs="wc -c"
+            
+            export CROOT=$HOME/class
+            export EXAM1=$HOME/class/e01
+
+        End output of q04.sh
+
+    All files found for question 4.
+END QUESTION 4
+
+BEGIN QUESTION 5
+    Checking for required files
+
+        Start output of a05.txt
+            QUESTION 5: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a05.bak contains a backup copy of this file if you need it.
+            Create your script in the file q05.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE 
+            
+            B. 50 
+            
+            C. 22
+            
+            END OF QUESTION 5: This unedited file contains 330 characters.
+
+        End output of a05.txt
+
+
+        Start output of check05.txt
+            Checking for required files hrefs.txt and pics.txt
+                       OK - hrefs.txt and pics.txt found                                       chxq05-A1
+            
+            Examining file content of hrefs.txt and pics.txt
+                       OK - hrefs.txt content                                                  chxq05-B1
+                       OK - pics.txt content                                                   chxq05-C1
+                       OK - number of gifs output to the terminal                              chxq05-D1
+            
+
+        End output of check05.txt
+
+
+        Start output of q05.sh
+            #!/bin/bash
+            
+            grep -iw href in*.html > hrefs.txt
+            grep -iw -E 'jpg|jpeg|gif' in*.html > pics.txt
+            wc -l hrefs.txt
+            wc -l pics.txt
+            grep gif pics.txt | wc -l
+
+        End output of q05.sh
+
+
+        Start output of q05.sh
+            #!/bin/bash
+            
+            grep -iw href in*.html > hrefs.txt
+            grep -iw -E 'jpg|jpeg|gif' in*.html > pics.txt
+            wc -l hrefs.txt
+            wc -l pics.txt
+            grep gif pics.txt | wc -l
+
+        End output of q05.sh
+
+
+        Start output of hrefs.txt
+            in1.html:<p>And finally, how about some <a href=http://www.yahoo.com/>Links?</a></p>
+            in1.html:<p>Or let's just link to <a href=../../index.html>another page on this server</a></p>
+            in2.html:	<link rel="stylesheet" href="/html-support/style/simple.css" />
+            in2.html:	<link rel="stylesheet" type="text/css" href="/html-support/sdmenu/sdmenu.css" />
+            in2.html:		<span><a class="aTopLink" href="/">Home</a></span>
+            in2.html:		<span><a class="aTopLink" href="/wiki/">Wiki</a></span>
+            in2.html:		<a href="/ietf/mibs/">Browser</a>
+            in2.html:                <a href="/ietf/mibs/validate/">MIB Validation</a>
+            in2.html:                <a href="/ietf/mibs/byEncoding.php?encoding=txt">Plain text</a>
+            in2.html:                <a href="/ietf/mibs/byEncoding.php?encoding=highlighting">Syntax Highlighting</a>
+            in2.html:                <a href="/ietf/mibs/byEncoding.php?encoding=html">HTML encoding</a>
+            in2.html:		<a href="/ietf/enterprise/">Vendor MIBs</a>
+            in2.html:		<a href="/ietf/mibs/search/">Search</a>
+            in2.html:		<a href="/ietf/rfcs/rfcbynumber.php">By Number</a>
+            in2.html:		<a href="/ietf/rfcs/rfcbytopic.php">By Topic</a>
+            in2.html:		<a href="/ietf/rfcs/rfcbystatus.php">By Status</a>
+            in2.html:		<a href="/ietf/rfcs/rfcbymodule.php">By Module</a>
+            in2.html:                <a href="/ietf/rfcs/complete/">Complete</a>
+            in2.html:		<a href="/ietf/rfcs/">Search</a>
+            in2.html:                <a href="/software/select_obj.php?orderBy=package&amp;oldorderBy=package&amp;orderDir=asc&amp;free=free">Freely available</a>
+            in2.html:                <a href="/software/select_obj.php?orderBy=package&amp;oldorderBy=package&amp;orderDir=asc&amp;com=com">Commercial</a>
+            in2.html:                <a href="/software/">Search</a>
+            in2.html:                <a href="/wiki/index.php/Events">Conferences</a>
+            in2.html:                <a href="/wiki/index.php/Cfp">Call for Papers</a>
+            in2.html:                <a href="/wiki/index.php/Books">Books</a>
+            in2.html:                <a href="/wiki/index.php/Journals">Journals</a>
+            in2.html:                <a href="/wiki/index.php/Theses">Theses</a>
+            in2.html:                <a href="/wiki/index.php/Internet_Management_Tutorials">Slides</a>
+            in2.html:                <a href="/wiki/index.php/Video_tutorials_on_Internet_management">Podcasts</a>
+            in2.html:                <a href="/wiki/index.php/Exercises_in_Internet_Management">Exercises</a>
+            in2.html:                <a href="/wiki/index.php/Other_tutorials">Other tutorials</a>
+            in2.html:		<a href="/tutorials/demo/snmp/v1/">SNMPv1 demo</a>
+            in2.html:		<a href="/tutorials/demo/snmp/v2c/">SNMPv2c demo</a>
+            in2.html:		<a href="/tutorials/demo/snmp/v3/">SNMPv3 demo</a>
+            in2.html:                <span><a class="aTopLink" href="/wiki/index.php/Podcasts">Podcasts</a></span>
+            in2.html:                <span><a class="aTopLink" href="http://www.simpleweb.org/wiki/index.php/Traces">Traffic Traces</a></span>
+            in2.html:                <span><a class="aTopLink" href="http://wg66.ifip.org/">IFIP WG6.6</a></span>
+            in2.html:                <span><a class="aTopLink" href="mailto:simpleweb@simpleweb.org">Contact</a></span>
+            in2.html:        <a href="http://www.fp7-flamingo.eu/" class="logo">
+            in2.html:        <a href="http://www.simpleweb.org/ifip/" class="logo">
+            in2.html:        <a href="http://www.simple-times.org/" class="logo">
+            in2.html:    <p>The server is hosted at the <a href="https://www.utwente.nl/en/">University of Twente</a>, maintained by members of the <a href="https://www.utwente.nl/ewi/dacs/">DACS group</a> and sponsored by the European <a href="http://www.fp7-flamingo.eu/">FLAMINGO</a> Network of Excellence for Management of the Future Internet.</p>
+            in2.html:    <p>Note that the official URL of the "SimpleWeb" is: <a href="https://www.simpleweb.org/"><font color="Red">https://www.simpleweb.org/</font></a></p>
+            in2.html:    <p><font color="red"><b> News: </b></font> Network traces are available at the Simpleweb repository. <a href="/wiki/index.php/Traces">Check it</a></b></p>
+            in3.html:<link rel="stylesheet" href="default_ns.css"><script type="text/javascript" language="JavaScript" title="WebHelpSplitCss">
+            in3.html:{   document.write("<link rel='stylesheet' href='default.css'>");}
+            in3.html:<p class="whs2">&lt;a href=&quot;http://somegreatsite.com&quot;&gt;Link 
+            in3.html:<p class="whs2">Send me mail at &lt;a href=&quot;mailto:support@yourcompany.com&quot;&gt;</p>
+            in4.html:<p>And finally, how about some <a href=http://www.yahoo.com/>Links?</a></p>
+            in4.html:<p>Or let's just link to <a href=../../index.html>another page on this server</a></p>
+
+        End output of hrefs.txt
+
+
+        Start output of pics.txt
+            in1.html:<p>Here is a pretty picture: <img src=example/prettypicture.jpg alt="Pretty Picture"></p>
+            in1.html:<p>Same thing, aligned differently to the paragraph: <img align=top src=example/prettypicture.jpg alt="Pretty Picture"></p>
+            in1.html:<p>Another pretty picture: <img align=top src=example/prettypicture2.gif alt="Pretty Picture Too!"></p>
+            in1.html:<p>One more pretty picture: <img align=top src=example/prettypicture3.jpeg alt="Pretty Picture Too!"></p>
+            in1.html:<p>An ugly picture: <img align=top src=example/uglypicture.jpeg alt="Pretty Picture Too!"></p>
+            in2.html:	<td><img src="/html-support/layout_images/bg_left_top.jpg" alt="" width="10" height="10" /></td>
+            in2.html:	<td><img src="/html-support/layout_images/bg_right_top.jpg" alt="" width="10" height="10" /></td>
+            in2.html:        <img src="/html-support/logos/flamingo-logo.jpeg" alt="FLAMINGO" width="64" height="64" />
+            in2.html:        <img src="/html-support/logos/ifip-logo.gif" alt="IFIP WG6.6" width="49" height="58" />    <br />
+            in2.html:        <img src="/html-support/logos/simple-logo.gif" alt="The Simple Times" width="75" height="75"/><br />
+            in2.html:	<td><img src="/html-support/layout_images/bg_left_bottom.jpg" alt="" width="10" height="10" /></td>
+            in2.html:	<td><img src="/html-support/layout_images/bg_right_bottom.jpg" alt="" width="10" height="10" /></td>
+            in3.html:addButton("show",BTN_TEXT,"Show","","","","",0,0,"whd_show0.gif","whd_show2.gif","whd_show1.gif");
+            in3.html:addButton("hide",BTN_TEXT,"Hide","","","","",0,0,"whd_hide0.gif","whd_hide2.gif","whd_hide1.gif");
+            in3.html:addButton("synctoc",BTN_TEXT,"Show Topic in Contents","","","","",0,0,"whd_sync0.gif","whd_sync2.gif","whd_sync1.gif");
+            in3.html:<p><img src="htmlpage.jpg" x-maintain-ratio="TRUE" width="301px" height="295px" border="0" class="img_whs1"></p>
+            in3.html:<p class="whs2">&lt;CENTER&gt;&lt;IMG SRC=&quot;clouds.jpg&quot; 
+            in4.html:<p>Here is a pretty picture: <img src=example/prettypicture.jpg alt="Pretty Picture"></p>
+            in4.html:<p>Same thing, aligned differently to the paragraph: <img align=top src=example/prettypicture.jpg alt="Pretty Picture"></p>
+            in4.html:<p>Another pretty picture: <img align=top src=example/prettypicture2.gif alt="Pretty Picture Too!"></p>
+            in4.html:<p>One more pretty picture: <img align=top src=example/prettypicture3.jpeg alt="Pretty Picture Too!"></p>
+            in4.html:<p>An ugly picture: <img align=top src=example/uglypicture.jpeg alt="Pretty Picture Too!"></p>
+
+        End output of pics.txt
+
+    All files found for question 5.
+END QUESTION 5
+
+BEGIN QUESTION 6
+    Checking for required files
+
+        Start output of a06.txt
+            QUESTION 6: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a06.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. phases 
+            
+            B. triple
+            
+            C. triple
+            
+            D. phases
+            
+            E. NO
+            
+            F. NO
+            
+            G. triple
+            
+            H. phases
+            
+            I. NO
+            
+            J. triple
+            
+            END OF QUESTION 6: This unedited file contains 355 characters.
+
+        End output of a06.txt
+
+    All files found for question 6.
+END QUESTION 6
+
+BEGIN QUESTION 7
+    Checking for required files
+
+        Start output of a07.txt
+            QUESTION 7: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a07.bak contains a backup copy of this file if you need it.
+            Create your script in the file q07.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE 
+            
+            END OF QUESTION 7: This unedited file contains 320 characters.
+
+        End output of a07.txt
+
+
+        Start output of check07.txt
+            Checking q07.sh and its output
+                       OK - q07.sh                                                         chxq07-A1
+                       OK - q07.sh output                                                  chxq07-B1
+                       OK - First output line displays filenames                           chxq07-C1
+                       OK - Correct character counts and files                             chxq07-D1
+            
+
+        End output of check07.txt
+
+
+        Start output of q07.sh
+            #!/bin/bash
+            
+            file1=$1
+            file2=$2
+            
+            echo "The character lengths are requested for $file1 and $file2"
+            wc -c $file1
+            wc -c $file2
+
+        End output of q07.sh
+
+    All files found for question 7.
+END QUESTION 7
+
+BEGIN QUESTION 8
+    Checking for required files
+
+        Start output of a08.txt
+            QUESTION 8: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a08.bak contains a backup copy of this file if you need it.
+            Create your script in the file q08.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. DONE
+            
+            END OF QUESTION 8: This unedited file contains 320 characters.
+
+        End output of a08.txt
+
+
+        Start output of check08.txt
+            Checking script behavior under different conditions
+                       OK - Reading filename                                                   chxq08-A1
+                       OK - Existence Check                                                    chxq08-B1
+                       OK - Output Check                                                       chxq08-C1
+                       OK - Graceful exit                                                      chxq08-D1
+            
+
+        End output of check08.txt
+
+
+        Start output of q08.sh
+            #!/bin/bash
+            
+            echo "Choose file: "
+            
+            read file
+            if [[ -f $file ]]
+            then
+            	echo "File exists"
+            	grep -iw good $file
+            fi
+            
+            if [[ ! -f $file ]]
+            then
+            	echo "File does not exist"
+            	exit
+            fi
+            
+            
+
+        End output of q08.sh
+
+    All files found for question 8.
+END QUESTION 8
+
+BEGIN QUESTION 9
+    Checking for required files
+
+        Start output of a09.txt
+            QUESTION 9: Script Creation
+            
+            Please do NOT delete any characters in this file.
+            The file a09.bak contains a backup copy of this file if you need it.
+            Create your script in the file q09.sh. Enter DONE on the line below
+            when you have completed your work.
+            
+            A. 
+            
+            END OF QUESTION 9: This unedited file contains 320 characters.
+
+        End output of a09.txt
+
+
+        Start output of check09.txt
+            checking script performance
+                       OK - terminal output when all files exist                                        chxq09-A1
+                       OK - terminal output when some files missing                                     chxq09-B1
+                       OK - headers.txt created                                                         chxq09-C1
+                       OK - headers.txt content for valid files                                         chxq09-D1
+                       OK - teminal ouput when all files missing                                        chxq09-E1
+                       OK - headers.txt content when all files missing                                  chxq09-F1
+            
+
+        End output of check09.txt
+
+
+        Start output of q09.sh
+            #!/bin/bash
+            
+            file1=$1
+            file2=$2
+            file3=$3
+            
+            cp /dev/null headers.txt
+            
+            if [[ -f $file1 ]]
+            then 
+            	echo "Does exist"
+            	head -3 $file1 >> headers.txt
+            else
+            	echo "Does not exist"
+            fi
+            
+            if [[ -f $file2 ]]
+            then 
+            	echo "Does exist"
+            	head -3 $file2 >> headers.txt
+            else
+            	echo "Does not exist"
+            fi
+            
+            if [[ -f $file3 ]]
+            then
+            	echo "Does exist"
+            	head -3 $file3 >>headers.txt
+            else
+            	echo "Does not exist"
+            fi
+            
+
+        End output of q09.sh
+
+
+        Start output of headers.txt
+                     THE ADVENTURES OF ALADDIN 
+            
+               Once upon a time . . . a widow had an only son whose name was Aladdin. They
+                                     FOX AND THE GRAPES
+            
+               Once upon a time . . . in a wood there lived a very crafty quick-witted 
+                                        DOPEY DENNIS
+            
+            Once upon a time, there was a little boy called Dennis. Everyone called him 
+
+        End output of headers.txt
+
+    All files found for question 9.
+END QUESTION 9
+
+BEGIN QUESTION 10
+    Checking for required files
+
+        Start output of a10.txt
+            QUESTION 10: Short Answers
+            
+            Please do NOT delete any characters in this file.
+            File a10.bak contains a backup copy of this file.
+            
+            Your answers on the lines below should be one work answers. Refer to
+            your printed question for question details.
+            
+            A. 1
+            
+            B. 3
+            
+            C. 2
+            
+            D. 2
+            
+            END OF QUESTION 10: This unedited file contains 326 characters.
+
+        End output of a10.txt
+
+    All files found for question 10.
+END QUESTION 10
+
+    Begin summary of file submissions
+        Files needed  = 26
+        Files found   = 26
+        Files missing = 0
+    End summary of file submissions
+
+Exam 1: submission file exm01.txt completed

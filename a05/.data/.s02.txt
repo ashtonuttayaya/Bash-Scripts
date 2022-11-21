@@ -1,0 +1,6 @@
+Checking your MYSQL_USER, MYSQL_PASS and MYSQL_DATA environment variables
+           OK - q01/env_mysql check                                 chxq02-A1
+           OK - sales database                                      chxq02-B1
+           OK - yearly sales tables                                 chxq02-C1
+           OK - yearly sales count values                           chxq02-D1
+

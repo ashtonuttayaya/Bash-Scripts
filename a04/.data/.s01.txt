@@ -1,0 +1,6 @@
+Checking mysql modifications
+           OK - mysqld_safe status (should no longer be running)                          chxq01-A1
+           OK - mysqld restart                                                            chxq01-B1
+
+Confirming mysqld process status - mysql      852     1  0 Jan02 ?        00:07:28 /usr/sbin/mysqld
+

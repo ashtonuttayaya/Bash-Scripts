@@ -1,0 +1,24 @@
+#
+#	runs decode.sh (checks permissions, runs nano)
+#
+q01 type ac
+q01 start a01.bak a01.txt decode.sh solution.pl hello.txt quick.txt fsu.txt
+q01 submit results.txt
+q01 clean results.txt
+#
+#	Creates a bin directory, updates the users environment and moves decode.sh into bin, creates a version of results.txt
+#	that is run using the copy of decode.sh in the bin directory
+#
+q02 type ac
+q02 start a02.bak a02.txt check02.sh solution.pl hello.txt quick.txt fsu.txt
+q02 submit results.txt
+q02 clean results.txt
+#
+#	runs pinger.sh - looking at computers nearby puts results in pinger.txt
+#	creates simple.txt and whoami.txt and q03.txt
+#	q03.txt contatins pinger.txt, simple.txt and whoamit.txt
+#
+q03 type sc
+q03 start a03.bak a03.txt check03.sh q03.sh
+q03 submit q03.txt
+q03 clean simple.txt whoami.txt pinger.txt q03.txt q03.sh

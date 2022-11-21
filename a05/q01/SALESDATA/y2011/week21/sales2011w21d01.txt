@@ -1,0 +1,46 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Fri, May 21, 2011 thru Thu, May 27, 2011  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S13732118428  Civic        2011  15951  16655  Wood, Lloyd             Thu, May 27, 2011       D01-01-04 
+ JH155FU153215C87X  Odyssey      2011  42284  47825  Jennings, Terry         Fri, May 21, 2011       D01-01-02 
+ JD136F11332182BA2  CR-Z         2011  23932  24705  King, Michelle          Mon, May 24, 2011       D01-01-03 
+ JA112F13032129544  Accord       2011  30171  32930  Wood, Lloyd             Wed, May 26, 2011       D01-01-04 
+ JH151F1133216X986  Odyssey      2011  43698  44825  Jennings, Terry         Wed, May 26, 2011       D01-01-02 
+ JB127S13632129548  Civic        2011  14854  16655  Harper, Freddie         Thu, May 27, 2011       D01-01-05 
+ JE143FU143213A66X  Crosstour    2011  37800  40640  King, Michelle          Fri, May 21, 2011       D01-01-03 
+ JA1X1S12332129552  Accord       2011  21882  24089  Russell, Connie         Sat, May 22, 2011       D01-01-01 
+ JH155FU1A321X7334  Odyssey      2011  42524  47825  Harper, Freddie         Wed, May 26, 2011       D01-01-05 
+ JB121S12432129556  Civic        2011  16179  16455  Wood, Lloyd             Tue, May 25, 2011       D01-01-04 
+ JA1X1S12A3213A668  Accord       2011  21639  24089  Wood, Lloyd             Mon, May 24, 2011       D01-01-04 
+ JB127S1313214B78X  Civic        2011  15951  16655  King, Michelle          Sat, May 22, 2011       D01-01-03 
+ JH154SU103214B782  Odyssey      2011  30317  32375  Wood, Lloyd             Sat, May 22, 2011       D01-01-04 
+ JC132FU173214B784  CR-V         2011  28998  31995  Ryan, Margie            Fri, May 21, 2011       D01-01-06 
+ JD139F3103214B786  CR-Z         2011  24244  25705  Russell, Connie         Mon, May 24, 2011       D01-01-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JD136F1152343A649  CR-Z        2010  20193  24705  Harper, Freddie         Sat, May 22, 2011       D01-01-05 
+ JB127S1391446X981  Civic       2009  12224  16655  Harper, Freddie         Wed, May 26, 2011       D01-01-05 
+ JC132FU12Y2PX7323  CR-V        2008  20904  31995  Jennings, Terry         Tue, May 25, 2011       D01-01-02 
+ JH157F319V39X7325  Odyssey     2005  17970  45825  Ryan, Margie            Thu, May 27, 2011       D01-01-06 
+ JD138FU15Y4318437  CR-Z        2008  18081  27705  Ryan, Margie            Sun, May 23, 2011       D01-01-06 
+ JG148F110X18X7329  Insight     2007  14364  24390  Wood, Lloyd             Thu, May 27, 2011       D01-01-04 
+ JC132FU10Y285C881  CR-V        2008  20904  31995  Ryan, Margie            Fri, May 21, 2011       D01-01-06 
+ JH154SU19XX718443  Odyssey     2007  19793  32375  Russell, Connie         Mon, May 24, 2011       D01-01-01 
+ JB127S133Y1P5C885  Civic       2008  10810  16655  Jennings, Terry         Fri, May 21, 2011       D01-01-02 
+ JH158S416YX95C887  Odyssey     2008  26336  41375  Russell, Connie         Fri, May 21, 2011       D01-01-01 
+ JG148F115X3671AA9  Insight     2007  14364  24390  King, Michelle          Wed, May 26, 2011       D01-01-03 
+ JD138FU10W1529561  CR-Z        2006  24462  27705  Harper, Freddie         Thu, May 27, 2011       D01-01-05 
+ JB127S138Y36X7343  Civic       2008  10515  16655  Ryan, Margie            Thu, May 27, 2011       D01-01-06 
+ JB128SU39YX93A675  Civic       2008  11337  17455  Russell, Connie         Fri, May 21, 2011       D01-01-01 
+ JF146S113X224B787  Fit         2007  9656   16025  Wood, Lloyd             Wed, May 26, 2011       D01-01-04 
+ JC131F115Y32X7349  CR-V        2008  20246  30995  King, Michelle          Tue, May 25, 2011       D01-01-03 

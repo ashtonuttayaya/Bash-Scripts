@@ -1,0 +1,25 @@
+#!/bin/bash
+
+agents_txt
+agents_sql
+
+dealers_txt=$(grep -i honda SALESDATA/dealerships.txt | wc -l)
+dealers_sql=$(grep -i honda dealers.sql | wc -l)
+
+owners_txt=$(grep -i honda SALESDATA/dealerships.txt | wc -l)
+owners_sql=$(grep -i honda SALESDATA/dealerships.txt | wc -l)
+
+alabama_txt$(grep -i honda SALESDATA/dealerships.txt | wc -l)
+alabama_sql=$(grep -i honda SALESDATA/dealerships.txt | wc -l)
+
+walker_txt
+$(grep -i honda SALESDATA/dealerships.txt | wc -l)
+
+walker_sql
+echo "Initial Data File Counts"
+echo "Agents:		DATA =1    SQL = 1"
+echo "Dealers:        DATA = $dealers_txt   SQL = $dealers_sql"
+echo "Owners:         DATA = 1     SQL = 1"
+echo "Alabama:        DATA = 1     SQL = 1"
+echo "Walker:         DATA = 1     SQL = 1"
+

@@ -1,0 +1,55 @@
+Dealer Name: Honda Specialists
+Address:     7064 Kline Ave
+             Grand Traverse, AL
+Dealer ID:   23
+Owner:       Young, Walter
+Date:        Sat, Nov 11, 2012 thru Fri, Nov 17, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1354465C32X  Civic        2012  15565  16655  Baker, Mark             Tue, Nov 14, 2012       D23-21-02 
+ JE145F41644618CB2  Crosstour    2012  44264  46640  Jenkins, Corey          Thu, Nov 16, 2012       D23-21-01 
+ JB128SU394465C324  Civic        2012  16472  17455  Payne, Calvin           Fri, Nov 17, 2012       D23-21-03 
+ JA1X1S1294465C326  Accord       2012  23066  24089  Arnold, Marcus          Tue, Nov 14, 2012       D23-21-04 
+ JA1X2F12A446X7BA8  Accord       2012  29964  33030  Jenkins, Corey          Mon, Nov 13, 2012       D23-21-01 
+ JB121S12A44618X2X  Civic        2012  14960  16455  Arnold, Marcus          Sun, Nov 12, 2012       D23-21-04 
+ JH152SU1344629132  Odyssey      2012  27742  30375  Holland, Mitchell       Fri, Nov 17, 2012       D23-21-05 
+ JJ16AF11144671684  Pilot        2012  39238  41970  Payne, Calvin           Sun, Nov 12, 2012       D23-21-03 
+ JB121S1274465C466  Civic        2012  16059  16455  Payne, Calvin           Wed, Nov 15, 2012       D23-21-03 
+ JH153FU1944629138  Odyssey      2012  41416  45825  Holland, Mitchell       Sat, Nov 11, 2012       D23-21-05 
+ JA115SU31446X7C2X  Accord       2012  24503  25480  Baker, Mark             Fri, Nov 17, 2012       D23-21-02 
+ JB121S129446827A2  Civic        2012  14876  16455  Arnold, Marcus          Thu, Nov 16, 2012       D23-21-04 
+ JB123H1504464B364  Civic        2012  27068  27600  Holland, Mitchell       Sat, Nov 11, 2012       D23-21-05 
+ JA1X1S1264466X586  Accord       2012  21962  24089  Payne, Calvin           Thu, Nov 16, 2012       D23-21-03 
+ JB127S13644629148  Civic        2012  16420  16655  Payne, Calvin           Sat, Nov 11, 2012       D23-21-03 
+ JB127S131446827BX  Civic        2012  15394  16655  Baker, Mark             Sun, Nov 12, 2012       D23-21-02 
+ JB127S13A4464B372  Civic        2012  16506  16655  Arnold, Marcus          Tue, Nov 14, 2012       D23-21-04 
+ JE141F115446827B4  Crosstour    2012  34281  37640  Payne, Calvin           Sat, Nov 11, 2012       D23-21-03 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH151F11A1213ABX3  Odyssey     2009  29494  44825  Payne, Calvin           Sat, Nov 11, 2012       D23-21-03 
+ JH151F112122189B5  Odyssey     2009  29494  44825  Garrett, Edna           Thu, Nov 16, 2012       D23-21-06 
+ JH151F11A127X78A7  Odyssey     2009  29494  44825  Arnold, Marcus          Fri, Nov 17, 2012       D23-21-04 
+ JH153FU1221P3ABX9  Odyssey     2010  32511  45825  Jenkins, Corey          Tue, Nov 14, 2012       D23-21-01 
+ JG148F1161386X271  Insight     2009  15609  24390  Arnold, Marcus          Tue, Nov 14, 2012       D23-21-04 
+ JK166FU181166X273  Ridgeline   2009  29700  47750  Jenkins, Corey          Fri, Nov 17, 2012       D23-21-01 
+ JB121S125X1P3AC45  Civic       2007  8402   16455  Jenkins, Corey          Sun, Nov 12, 2012       D23-21-01 
+ JD137FU17Y4618A27  CR-Z        2008  15288  25705  Payne, Calvin           Sat, Nov 11, 2012       D23-21-03 
+ JH158S419Y1818A29  Odyssey     2008  23867  41375  Baker, Mark             Sun, Nov 12, 2012       D23-21-02 
+ JK169F413X2271391  Ridgeline   2007  29150  58750  Baker, Mark             Tue, Nov 14, 2012       D23-21-02 
+ JC133FU102254BX63  CR-V        2010  25117  33995  Jenkins, Corey          Tue, Nov 14, 2012       D23-21-01 
+ JB127S1361245C175  Civic       2009  10958  16655  Jenkins, Corey          Wed, Nov 15, 2012       D23-21-01 
+ JC135F415314X7927  CR-V        2011  32356  39995  Arnold, Marcus          Thu, Nov 16, 2012       D23-21-04 
+ JB127S139Y17824A9  Civic       2008  9858   16655  Garrett, Edna           Fri, Nov 17, 2012       D23-21-06 
+ JH157F319318X7931  Odyssey     2011  37482  45825  Baker, Mark             Wed, Nov 15, 2012       D23-21-02 
+ JB121S1234X53AC63  Civic        2012  15502  16455  Garrett, Edna           Sun, Nov 12, 2012       D23-21-06 
+ JK167FU1324729B55  Ridgeline   2010  36681  49750  Payne, Calvin           Fri, Nov 17, 2012       D23-21-03 
+ JH155FU11Y2P5C187  Odyssey     2008  29512  47825  Baker, Mark             Thu, Nov 16, 2012       D23-21-02 
+ JA1X5SU25115X7939  Accord      2009  17824  27089  Jenkins, Corey          Mon, Nov 13, 2012       D23-21-01 
+ JG148F110Y363AC71  Insight     2008  14982  24390  Holland, Mitchell       Tue, Nov 14, 2012       D23-21-05 
+ JB126GU69341824C3  Civic       2011  24101  29305  Holland, Mitchell       Fri, Nov 17, 2012       D23-21-05 
+ JC131F1132X33AC75  CR-V        2010  22915  30995  Holland, Mitchell       Tue, Nov 14, 2012       D23-21-05 

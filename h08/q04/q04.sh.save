@@ -1,0 +1,22 @@
+#!/bin/bash
+
+numArray=( "$@" )
+count=${#numArray[@]}
+
+if [[ $@ == "" ]]; then
+   exit 1
+fi
+
+echo "Count = ${#numArray[@]}"
+
+#get sum
+#sum=0
+#for sumOf in ${numArray[@]}; do
+#   let sum+=$sumOf | bc
+#done
+sumOf=0
+for int in ${numArray[@]}; do
+sum=$( echo "scale=3; $sumOf+;" | bc )
+done
+
+echo "Sum = $sum"

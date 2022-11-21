@@ -1,0 +1,48 @@
+Dealer Name: Lance Honda
+Address:     1136 Brooklin Ave
+             Norbert, FL
+Dealer ID:   17
+Owner:       Lance, Samuel
+Date:        Thu, Jan 29, 2010 thru Wed, Feb  4, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB127S1312X5713X8  Civic        2010  14739  16655  Cole, Peter             Sun, Feb  1, 2010       D17-16-02 
+ JB121S1222X57131X  Civic        2010  15796  16455  West, Sally             Wed, Feb  4, 2010       D17-16-04 
+ JA112F1322X582422  Accord       2010  29966  32930  Hansen, Ralph           Sun, Feb  1, 2010       D17-16-09 
+ JH155FU112X518A84  Odyssey      2010  45912  47825  Rodriguez, Mathew       Sat, Jan 31, 2010       D17-16-06 
+ JB129S1442X582426  Civic        2010  21671  23055  Cole, Peter             Wed, Feb  4, 2010       D17-16-02 
+ JB127S1312X582428  Civic        2010  15988  16655  Baker, Lynn             Mon, Feb  2, 2010       D17-16-08 
+ JB121S1202X54BXCX  Civic        2010  14974  16455  Rodriguez, Mathew       Wed, Feb  4, 2010       D17-16-06 
+ JB121S1212X56X212  Civic        2010  15879  16455  West, Sally             Sun, Feb  1, 2010       D17-16-04 
+ JB127S1362X5X7984  Civic        2010  16072  16655  Rodriguez, Mathew       Sat, Jan 31, 2010       D17-16-06 
+ JA111S1342X529BA6  Accord       2010  20456  22480  West, Sally             Sun, Feb  1, 2010       D17-16-04 
+ JB121S1212X55C1X8  Civic        2010  15220  16455  Baker, Lynn             Sat, Jan 31, 2010       D17-16-08 
+ JB13ASU412X55C11X  Civic        2010  21230  23855  Cole, Peter             Sun, Feb  1, 2010       D17-16-02 
+ JB127S1352X56X222  Civic        2010  15572  16655  Baker, Lynn             Sun, Feb  1, 2010       D17-16-08 
+ JG148F1132X529BB4  Insight      2010  22804  24390  Lambert, Anita          Mon, Feb  2, 2010       D17-16-01 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F111VX5711A1  CR-V        2005  15047  30995  Lambert, Anita          Thu, Jan 29, 2010       D17-16-01 
+ JH151F117XX5X7733  Odyssey     2007  28400  44825  West, Sally             Fri, Jan 30, 2010       D17-16-04 
+ JB127S134W1P711A5  Civic       2006  9907   16655  Herrera, Nina           Tue, Feb  3, 2010       D17-16-03 
+ JC135F414X4PX7737  CR-V        2007  26020  39995  Morris, Bobbie          Wed, Feb  4, 2010       D17-16-05 
+ JB128SU37W47X7739  Civic       2006  10403  17455  Baker, Lynn             Sat, Jan 31, 2010       D17-16-08 
+ JC131F115T313AA71  CR-V        2004  12844  30995  Hansen, Ralph           Sun, Feb  1, 2010       D17-16-09 
+ JB121S120Y23711B3  Civic       2008  11912  16455  Baker, Lynn             Wed, Feb  4, 2010       D17-16-08 
+ JC131F113V4P6XXA5  CR-V        2005  15799  30995  Rodriguez, Mathew       Fri, Jan 30, 2010       D17-16-06 
+ JH152SU1AV18711B7  Odyssey     2005  14737  30375  Baker, Lynn             Wed, Feb  4, 2010       D17-16-08 
+ JB127S139V18822C9  Civic       2005  8271   16655  Lambert, Anita          Tue, Feb  3, 2010       D17-16-01 
+ JK166FU11V314BB91  Ridgeline   2005  24596  47750  West, Sally             Mon, Feb  2, 2010       D17-16-04 
+ JH151F110T493AA83  Odyssey     2004  17480  44825  Morris, Bobbie          Mon, Feb  2, 2010       D17-16-05 
+ JB127S134W255CCA5  Civic       2006  9907   16655  West, Sally             Fri, Jan 30, 2010       D17-16-04 
+ JE141F119WX629977  Crosstour   2006  22179  37640  Herrera, Nina           Thu, Jan 29, 2010       D17-16-03 
+ JH152SU12X2P29979  Odyssey     2007  19152  30375  Medina, Emily           Tue, Feb  3, 2010       D17-16-07 
+ JH153FU13Y2729981  Odyssey     2008  32832  45825  Hansen, Ralph           Fri, Jan 30, 2010       D17-16-09 
+ JB121S121X283AA93  Civic       2007  10531  16455  Herrera, Nina           Sun, Feb  1, 2010       D17-16-03 
+ JD136F111W1629985  CR-Z        2006  14898  24705  Rodriguez, Mathew       Sun, Feb  1, 2010       D17-16-06 
+ JC133FU19X22X7767  CR-V        2007  21468  33995  Baker, Lynn             Tue, Feb  3, 2010       D17-16-08 

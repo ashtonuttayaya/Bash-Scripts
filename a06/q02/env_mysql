@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export MYSQLU='salesadmin'
+export MYSQLP='Woodman123321'
+printenv | grep MYSQL

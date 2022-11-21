@@ -1,0 +1,54 @@
+Dealer Name: City Honda
+Address:     9489 Ford Parkwark
+             Brookland, GA
+Dealer ID:   25
+Owner:       Porter, Barbara
+Date:        Thu, Mar 26, 2010 thru Wed, Apr  1, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JB121S1252135C388  Civic        2010  15467  16455  Fuller, Jacob           Mon, Mar 30, 2010       D25-22-02 
+ JB127S137213715BX  Civic        2010  14822  16655  Hall, Josephine         Wed, Apr  1, 2010       D25-22-03 
+ JB121S129213X7B42  Civic        2010  15961  16455  Sullivan, Hazel         Mon, Mar 30, 2010       D25-22-06 
+ JC132FU12213715B4  CR-V         2010  29115  31995  Shelton, Alicia         Sun, Mar 29, 2010       D25-22-01 
+ JC132FU132133A176  CR-V         2010  30555  31995  Mcdonald, Eduardo       Tue, Mar 31, 2010       D25-22-05 
+ JB129S14521318C58  Civic        2010  21210  23055  Fuller, Jacob           Fri, Mar 27, 2010       D25-22-02 
+ JB123H1552135C3AX  Civic        2010  24288  27600  Wallace, Harry          Sun, Mar 29, 2010       D25-22-04 
+ JA115SU332136X4B2  Accord       2010  24206  25480  Wallace, Harry          Mon, Mar 30, 2010       D25-22-04 
+ JA112F1332133A184  Accord       2010  30460  32930  Fuller, Jacob           Thu, Mar 26, 2010       D25-22-02 
+ JB127S138213715C6  Civic        2010  14989  16655  Fuller, Jacob           Mon, Mar 30, 2010       D25-22-02 
+ JA1X2F126213826X8  Accord       2010  30717  33030  Hall, Josephine         Sat, Mar 28, 2010       D25-22-03 
+ JA1X1S1232135C3BX  Accord       2010  21800  24089  Hall, Josephine         Mon, Mar 30, 2010       D25-22-03 
+ JD14AF41721382612  CR-Z         2010  29997  33705  Fuller, Jacob           Thu, Mar 26, 2010       D25-22-02 
+ JA117S331213X7B64  Accord       2010  21366  23480  Mcdonald, Eduardo       Fri, Mar 27, 2010       D25-22-05 
+ JB129S14421329X86  Civic        2010  20403  23055  Sullivan, Hazel         Wed, Apr  1, 2010       D25-22-06 
+ JD136F112213X7B68  CR-Z         2010  23099  24705  Shelton, Alicia         Sat, Mar 28, 2010       D25-22-01 
+ JB127S1342137151X  Civic        2010  14906  16655  Shelton, Alicia         Fri, Mar 27, 2010       D25-22-01 
+ JB123H1592133A1A2  Civic        2010  25806  27600  Hall, Josephine         Fri, Mar 27, 2010       D25-22-03 
+ JB127S13521382624  Civic        2010  14822  16655  Fuller, Jacob           Mon, Mar 30, 2010       D25-22-02 
+ JH154SU152136X4X6  Odyssey      2010  30108  32375  Sullivan, Hazel         Wed, Apr  1, 2010       D25-22-06 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F111W1271391  Insight     2006  14703  24390  Wallace, Harry          Fri, Mar 27, 2010       D25-22-04 
+ JH153FU16XX529B43  Odyssey     2007  29856  45825  Fuller, Jacob           Fri, Mar 27, 2010       D25-22-02 
+ JB127S132W415C175  Civic       2006  9907   16655  Sullivan, Hazel         Mon, Mar 30, 2010       D25-22-06 
+ JH155FU10V1529B47  Odyssey     2005  24635  47825  Wallace, Harry          Tue, Mar 31, 2010       D25-22-04 
+ JJ162FU14X126X289  Pilot       2007  28492  44970  Hall, Josephine         Thu, Mar 26, 2010       D25-22-03 
+ JE143FU11W21824B1  Crosstour   2006  24778  40640  Shelton, Alicia         Fri, Mar 27, 2010       D25-22-01 
+ JH155FU11X44713A3  Odyssey     2007  30320  47825  Hall, Josephine         Wed, Apr  1, 2010       D25-22-03 
+ JB121S127X4P29B55  Civic       2007  10531  16455  Fuller, Jacob           Wed, Apr  1, 2010       D25-22-02 
+ JE145F412TX74BX77  Crosstour   2004  19571  46640  Sullivan, Hazel         Wed, Apr  1, 2010       D25-22-06 
+ JH152SU12145X7939  Odyssey     2009  24300  30375  Shelton, Alicia         Tue, Mar 31, 2010       D25-22-01 
+ JG148F1151194BX81  Insight     2009  19512  24390  Sullivan, Hazel         Tue, Mar 31, 2010       D25-22-06 
+ JB129S14413529B63  Civic       2009  18674  23055  Shelton, Alicia         Sat, Mar 28, 2010       D25-22-01 
+ JG148F112W234BX85  Insight     2006  14229  24390  Mcdonald, Eduardo       Mon, Mar 30, 2010       D25-22-05 
+ JG148F11AXX9713B7  Insight     2007  15321  24390  Mcdonald, Eduardo       Tue, Mar 31, 2010       D25-22-05 
+ JJ163F316X396X2A9  Pilot       2007  26447  42970  Sullivan, Hazel         Sun, Mar 29, 2010       D25-22-06 
+ JH155FU11T2818A61  Odyssey     2004  18680  47825  Fuller, Jacob           Sat, Mar 28, 2010       D25-22-02 
+ JH152SU18V4629B73  Odyssey     2005  15474  30375  Wallace, Harry          Thu, Mar 26, 2010       D25-22-04 
+ JH157F317X246X2B5  Odyssey     2007  29040  45825  Sullivan, Hazel         Sun, Mar 29, 2010       D25-22-06 
+ JH152SU10X4929B77  Odyssey     2007  19690  30375  Shelton, Alicia         Sun, Mar 29, 2010       D25-22-01 

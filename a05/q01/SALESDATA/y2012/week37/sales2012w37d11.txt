@@ -1,0 +1,37 @@
+Dealer Name: Harrison Honda
+Address:     692 Sanders Ave
+             Port Kiln, SC
+Dealer ID:   11
+Owner:       Harrision, Owen
+Date:        Sat, Sep  9, 2012 thru Fri, Sep 15, 2012  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH152SU1643718876  Odyssey      2012  29283  30375  Bishop, Joann           Wed, Sep 13, 2012       D11-10-05 
+ JA113SU3A4374BBA8  Accord       2012  22613  23480  Lambert, Donna          Sat, Sep  9, 2012       D11-10-04 
+ JH15AS1164373AAAX  Odyssey      2012  26395  29375  Bishop, Joann           Tue, Sep 12, 2012       D11-10-05 
+ JA1X5SU224376XXX2  Accord       2012  24509  27089  Bishop, Joann           Wed, Sep 13, 2012       D11-10-05 
+ JD138FU1A43771114  CR-Z         2012  25198  27705  Bishop, Joann           Fri, Sep 15, 2012       D11-10-05 
+ JC132FU1A4374BBB6  CR-V         2012  29687  31995  Day, Jennifer           Tue, Sep 12, 2012       D11-10-06 
+ JB127S133437X7778  Civic        2012  15651  16655  Day, Jennifer           Tue, Sep 12, 2012       D11-10-06 
+ JB121S1264373AABX  Civic        2012  14960  16455  Lambert, Donna          Sun, Sep 10, 2012       D11-10-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC135F41311P4B969  CR-V        2009  25596  39995  Bishop, Joann           Sun, Sep 10, 2012       D11-10-05 
+ JB122SU231344B971  Civic       2009  11353  17255  Day, Jennifer           Sun, Sep 10, 2012       D11-10-06 
+ JH153FU14YX471CA3  Odyssey     2008  27360  45825  Lambert, Donna          Sat, Sep  9, 2012       D11-10-04 
+ JB127S13731P3A865  Civic       2011  13855  16655  Fields, Joan            Wed, Sep 13, 2012       D11-10-03 
+ JA112F13812729757  Accord      2009  21667  32930  Bishop, Joann           Sun, Sep 10, 2012       D11-10-05 
+ JD139F310Y253A869  CR-Z        2008  15797  25705  Day, Jennifer           Sun, Sep 10, 2012       D11-10-06 
+ JD136F11A1X26XBA1  CR-Z        2009  15811  24705  Fields, Joan            Sat, Sep  9, 2012       D11-10-03 
+ JH153FU11Y286XBA3  Odyssey     2008  26447  45825  Day, Jennifer           Fri, Sep 15, 2012       D11-10-06 
+ JC131F114Y4P5CA95  CR-V        2008  19077  30995  Burke, Derrick          Sat, Sep  9, 2012       D11-10-01 
+ JB121S123Y2318657  Civic       2008  10062  16455  Burke, Derrick          Thu, Sep 14, 2012       D11-10-01 
+ JA1X1S1221294B989  Accord      2009  15850  24089  Burke, Derrick          Sun, Sep 10, 2012       D11-10-01 
+ JH153FU181486XBB1  Odyssey     2009  28503  45825  Bishop, Joann           Fri, Sep 15, 2012       D11-10-05 
+ JD136F112Y3882XX3  CR-Z        2008  15177  24705  Burke, Derrick          Wed, Sep 13, 2012       D11-10-01 
+ JH157F3153X43A885  Odyssey     2011  36557  45825  Burke, Derrick          Fri, Sep 15, 2012       D11-10-01 

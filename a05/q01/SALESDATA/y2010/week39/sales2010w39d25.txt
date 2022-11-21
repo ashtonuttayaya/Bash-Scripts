@@ -1,0 +1,54 @@
+Dealer Name: City Honda
+Address:     9489 Ford Parkwark
+             Brookland, GA
+Dealer ID:   25
+Owner:       Porter, Barbara
+Date:        Thu, Sep 24, 2010 thru Wed, Sep 30, 2010  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA113SU312394B272  Accord       2010  21484  23480  Fuller, Jacob           Thu, Sep 24, 2010       D25-22-02 
+ JH154SU1A2395C384  Odyssey      2010  30756  32375  Fuller, Jacob           Wed, Sep 30, 2010       D25-22-02 
+ JB121S126239X7B36  Civic        2010  15796  16455  Hall, Josephine         Sat, Sep 26, 2010       D25-22-03 
+ JH153FU182394B278  Odyssey      2010  40555  45825  Fuller, Jacob           Fri, Sep 25, 2010       D25-22-02 
+ JC131F1172396X4AX  CR-V         2010  29445  30995  Hall, Josephine         Mon, Sep 28, 2010       D25-22-03 
+ JB129S147239715B2  Civic        2010  20634  23055  Hall, Josephine         Wed, Sep 30, 2010       D25-22-03 
+ JA111S13923929X64  Accord       2010  21131  22480  Wallace, Harry          Tue, Sep 29, 2010       D25-22-04 
+ JA119S43A239715B6  Accord       2010  28174  31480  Wallace, Harry          Wed, Sep 30, 2010       D25-22-04 
+ JB127S1372396X4A8  Civic        2010  15239  16655  Sullivan, Hazel         Wed, Sep 30, 2010       D25-22-06 
+ JG148F111239X7B5X  Insight      2010  23170  24390  Hall, Josephine         Sun, Sep 27, 2010       D25-22-03 
+ JB128SU382396X4B2  Civic        2010  16844  17455  Wallace, Harry          Thu, Sep 24, 2010       D25-22-04 
+ JJ161FU1A239826X4  Pilot        2010  38243  42970  Hall, Josephine         Fri, Sep 25, 2010       D25-22-03 
+ JH154SU142396X4B6  Odyssey      2010  29299  32375  Fuller, Jacob           Wed, Sep 30, 2010       D25-22-02 
+ JA113SU34239715C8  Accord       2010  22188  23480  Sullivan, Hazel         Wed, Sep 30, 2010       D25-22-06 
+ JA115SU3223918C7X  Accord       2010  24333  25480  Fuller, Jacob           Thu, Sep 24, 2010       D25-22-02 
+ JB129S1412394B2A2  Civic        2010  20980  23055  Shelton, Alicia         Sun, Sep 27, 2010       D25-22-01 
+ JG148F11423929X84  Insight      2010  23170  24390  Wallace, Harry          Wed, Sep 30, 2010       D25-22-04 
+ JC131F11223929X86  CR-V         2010  28205  30995  Fuller, Jacob           Sat, Sep 26, 2010       D25-22-02 
+ JA1X2F1242393A198  Accord       2010  29561  33030  Sullivan, Hazel         Sat, Sep 26, 2010       D25-22-06 
+ JB127S13A239X7B7X  Civic        2010  14739  16655  Mcdonald, Eduardo       Mon, Sep 28, 2010       D25-22-05 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JG148F11AY264BX55  Insight     2008  17737  24390  Fuller, Jacob           Tue, Sep 29, 2010       D25-22-02 
+ JC135F416WX871387  CR-V        2006  24378  39995  Sullivan, Hazel         Tue, Sep 29, 2010       D25-22-06 
+ JA1X6FU21X1P18A29  Accord      2007  23411  36030  Shelton, Alicia         Sat, Sep 26, 2010       D25-22-01 
+ JH156S319X2671391  Odyssey     2007  19152  30375  Hall, Josephine         Wed, Sep 30, 2010       D25-22-03 
+ JJ164F41AV1618A33  Pilot       2005  25208  53970  Hall, Josephine         Sat, Sep 26, 2010       D25-22-03 
+ JG148F111T1P6X285  Insight     2004  9306   24390  Wallace, Harry          Thu, Sep 24, 2010       D25-22-04 
+ JH152SU11Y27X7927  Odyssey     2008  22130  30375  Sullivan, Hazel         Thu, Sep 24, 2010       D25-22-06 
+ JF146S11AWX4824A9  Fit         2006  9517   16025  Mcdonald, Eduardo       Tue, Sep 29, 2010       D25-22-05 
+ JH153FU11XX6824B1  Odyssey     2007  29040  45825  Wallace, Harry          Sat, Sep 26, 2010       D25-22-04 
+ JH155FU19V31713A3  Odyssey     2005  24635  47825  Sullivan, Hazel         Wed, Sep 30, 2010       D25-22-06 
+ JH155FU15V32824B5  Odyssey     2005  23462  47825  Fuller, Jacob           Sun, Sep 27, 2010       D25-22-02 
+ JC132FU16V11824B7  CR-V        2005  15547  31995  Hall, Josephine         Wed, Sep 30, 2010       D25-22-03 
+ JK169F410W485C189  Ridgeline   2006  33683  58750  Fuller, Jacob           Sat, Sep 26, 2010       D25-22-02 
+ JE141F113YX55C191  Crosstour   2008  27462  37640  Wallace, Harry          Thu, Sep 24, 2010       D25-22-04 
+ JJ161FU171294BX83  Pilot       2009  34376  42970  Sullivan, Hazel         Fri, Sep 25, 2010       D25-22-06 
+ JC134F3181X35C195  CR-V        2009  25915  31995  Mcdonald, Eduardo       Sat, Sep 26, 2010       D25-22-05 
+ JH155FU17W146X2A7  Odyssey     2006  27346  47825  Fuller, Jacob           Fri, Sep 25, 2010       D25-22-02 
+ JJ164F418Y234BX89  Pilot       2008  39448  53970  Hall, Josephine         Wed, Sep 30, 2010       D25-22-03 
+ JH151F111V1518A61  Odyssey     2005  23060  44825  Hall, Josephine         Sat, Sep 26, 2010       D25-22-03 

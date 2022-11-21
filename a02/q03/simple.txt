@@ -1,0 +1,21 @@
+STARTING ./simple.sh
+Script    : ./simple.sh
+User      : n_autty
+Home      : /home/n_autty
+Directory : /home/n_autty/class/a02/q03
+Date      : Wed Sep  8 20:20:37 EDT 2021
+===========================================
+
+Users currently logged are : 
+
+n_autty
+
+This is Linux running on a x86_64 processor.
+
+The system has been up for this long : 20:20:37 up 20 days,  9:42,  1 user,  load average: 0.00, 0.00, 0.00
+
+There are 6 processes running
+
+===========================================
+
+ENDING ./simple.sh

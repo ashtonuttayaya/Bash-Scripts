@@ -1,0 +1,10 @@
+Check for required files (q03.sh & q03.sql)
+           OK - q03.sh                                    chxq03-A1
+           OK - q03.sql                                   chxq03-B1
+
+Checking commands in q03.sql
+           OK - mysql commands                            chxq03-C1
+
+Checking database creation
+           OK - data description                          chxq03-D1
+

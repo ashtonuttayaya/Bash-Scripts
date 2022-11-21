@@ -1,0 +1,69 @@
+Dealer Name: Sally's Honda Plus
+Address:     8187 Kline Ave
+             Clarksville, NC
+Dealer ID:   1
+Owner:       Walker, Sally
+Date:        Wed, Dec 24, 2015 thru Wed, Dec 31, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JA1X1S1257523A648  Accord       2015  22440  24089  Harper, Freddie         Sat, Dec 27, 2015       D01-01-05 
+ JA1X1S12075271A9X  Accord       2015  24331  24089  Russell, Connie         Sat, Dec 27, 2015       D01-01-01 
+ JC131F11175218432  CR-V         2015  31156  30995  Russell, Connie         Mon, Dec 29, 2015       D01-01-01 
+ JB121S1277526X984  Civic        2015  16173  16455  Russell, Connie         Wed, Dec 24, 2015       D01-01-01 
+ JB127S1397523A656  Civic        2015  15735  16655  Russell, Connie         Mon, Dec 29, 2015       D01-01-01 
+ JB121S1217523A658  Civic        2015  15909  16455  Wood, Lloyd             Thu, Dec 25, 2015       D01-01-04 
+ JB129S14675282BBX  Civic        2015  23333  23055  Russell, Connie         Wed, Dec 24, 2015       D01-01-01 
+ JD137FU1A75271AA2  CR-Z         2015  24951  25705  King, Michelle          Mon, Dec 29, 2015       D01-01-03 
+ JC132FU1575282BB4  CR-V         2015  30967  31995  King, Michelle          Tue, Dec 30, 2015       D01-01-03 
+ JB127S13175271AA6  Civic        2015  16713  16655  Ryan, Margie            Fri, Dec 26, 2015       D01-01-06 
+ JA1X1S1237526X998  Accord       2015  22944  24089  Harper, Freddie         Wed, Dec 24, 2015       D01-01-05 
+ JH156S31A752X734X  Odyssey      2015  29452  30375  Russell, Connie         Fri, Dec 26, 2015       D01-01-01 
+ JH153FU1775229562  Odyssey      2015  42489  45825  Russell, Connie         Sat, Dec 27, 2015       D01-01-01 
+ JC131F11075218454  CR-V         2015  28426  30995  Wood, Lloyd             Mon, Dec 29, 2015       D01-01-04 
+ JA1X1S12A75271AB6  Accord       2015  23827  24089  Ryan, Margie            Wed, Dec 24, 2015       D01-01-06 
+ JC132FU1975271AB8  CR-V         2015  31629  31995  Wood, Lloyd             Fri, Dec 26, 2015       D01-01-04 
+ JH153FU1475271ACX  Odyssey      2015  42724  45825  Russell, Connie         Thu, Dec 25, 2015       D01-01-01 
+ JG149FU16752X7352  Insight      2015  23683  25190  Harper, Freddie         Sat, Dec 27, 2015       D01-01-05 
+ JB129S14A75271AC4  Civic        2015  22487  23055  Russell, Connie         Fri, Dec 26, 2015       D01-01-01 
+ JB123H1537524B796  Civic        2015  27432  27600  Wood, Lloyd             Fri, Dec 26, 2015       D01-01-04 
+ JB125G1627526X9B8  Civic        2015  26222  28505  Wood, Lloyd             Wed, Dec 24, 2015       D01-01-04 
+ JH155FU14752X736X  Odyssey      2015  43565  47825  Ryan, Margie            Sat, Dec 27, 2015       D01-01-06 
+ JA1X8F32375282B12  Accord       2015  33748  34030  King, Michelle          Sun, Dec 28, 2015       D01-01-03 
+ JB121S12075282B14  Civic        2015  15646  16455  Wood, Lloyd             Thu, Dec 25, 2015       D01-01-04 
+ JE141F11775271AX6  Crosstour    2015  37214  37640  Harper, Freddie         Fri, Dec 26, 2015       D01-01-05 
+ JB121S122752X7368  Civic        2015  16173  16455  Russell, Connie         Tue, Dec 30, 2015       D01-01-01 
+ JA115SU367522959X  Accord       2015  25540  25480  Ryan, Margie            Tue, Dec 30, 2015       D01-01-06 
+ JJ161FU1175218482  Pilot        2015  39244  42970  Harper, Freddie         Mon, Dec 29, 2015       D01-01-05 
+ JB121S12275229594  Civic        2015  16085  16455  King, Michelle          Sat, Dec 27, 2015       D01-01-03 
+ JA1X3SU227524B7B6  Accord       2015  23985  25089  Wood, Lloyd             Mon, Dec 29, 2015       D01-01-04 
+ JB127S1317523A6A8  Civic        2015  17157  16655  Russell, Connie         Sat, Dec 27, 2015       D01-01-01 
+ JC131F1107524B7CX  CR-V         2015  30192  30995  Wood, Lloyd             Mon, Dec 29, 2015       D01-01-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JH15AS11252429539  Odyssey     2005  27247  29375  Harper, Freddie         Sat, Dec 27, 2015       D01-01-05 
+ JH155FU153X418431  Odyssey     2003  27999  47825  Russell, Connie         Tue, Dec 30, 2015       D01-01-01 
+ JB127S135124X7323  Civic       2001  7161   16655  Russell, Connie         Wed, Dec 24, 2015       D01-01-01 
+ JG148F1195243A655  Insight     2005  18208  24390  Wood, Lloyd             Thu, Dec 25, 2015       D01-01-04 
+ JB122SU2364P18437  Civic       2006  14887  17255  Ryan, Margie            Tue, Dec 30, 2015       D01-01-06 
+ JH155FU134474B769  Odyssey     2004  30167  47825  Ryan, Margie            Thu, Dec 25, 2015       D01-01-06 
+ JA115SU304X329551  Accord      2004  17209  25480  Wood, Lloyd             Wed, Dec 24, 2015       D01-01-04 
+ JE141F1136394B773  Crosstour   2006  31399  37640  Russell, Connie         Wed, Dec 24, 2015       D01-01-01 
+ JB129S14322182BB5  Civic       2002  12222  23055  Jennings, Terry         Sat, Dec 27, 2015       D01-01-02 
+ JJ162FU1823P82BB7  Pilot       2002  21467  44970  Wood, Lloyd             Fri, Dec 26, 2015       D01-01-04 
+ JE144F31822182BB9  Crosstour   2002  20404  38640  Jennings, Terry         Wed, Dec 24, 2015       D01-01-02 
+ JK166FU1064P82BC1  Ridgeline   2006  39588  47750  Harper, Freddie         Tue, Dec 30, 2015       D01-01-05 
+ JH151F11035P71AB3  Odyssey     2003  28070  44825  Wood, Lloyd             Wed, Dec 24, 2015       D01-01-04 
+ JH158S4144134B785  Odyssey     2004  27668  41375  Harper, Freddie         Fri, Dec 26, 2015       D01-01-05 
+ JH159F4106X418457  Odyssey     2006  46939  56825  Russell, Connie         Fri, Dec 26, 2015       D01-01-01 
+ JJ163F31A44871AB9  Pilot       2004  27147  42970  Wood, Lloyd             Wed, Dec 24, 2015       D01-01-04 
+ JH153FU1753971AC1  Odyssey     2005  33642  45825  Jennings, Terry         Mon, Dec 29, 2015       D01-01-02 
+ JJ164F4126153A683  Pilot       2006  43525  53970  Russell, Connie         Thu, Dec 25, 2015       D01-01-01 
+ JB127S13453682BX5  Civic       2005  12885  16655  Harper, Freddie         Mon, Dec 29, 2015       D01-01-05 
+ JG148F1136323A687  Insight     2006  20667  24390  Ryan, Margie            Tue, Dec 30, 2015       D01-01-06 
+ JB122SU267193A689  Civic        2015  16837  17255  Harper, Freddie         Wed, Dec 24, 2015       D01-01-05 
+ JK167FU1011382B11  Ridgeline   2001  19900  49750  Russell, Connie         Mon, Dec 29, 2015       D01-01-01 

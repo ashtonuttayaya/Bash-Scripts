@@ -1,0 +1,50 @@
+in1.html:<p>And finally, how about some <a href=http://www.yahoo.com/>Links?</a></p>
+in1.html:<p>Or let's just link to <a href=../../index.html>another page on this server</a></p>
+in2.html:	<link rel="stylesheet" href="/html-support/style/simple.css" />
+in2.html:	<link rel="stylesheet" type="text/css" href="/html-support/sdmenu/sdmenu.css" />
+in2.html:		<span><a class="aTopLink" href="/">Home</a></span>
+in2.html:		<span><a class="aTopLink" href="/wiki/">Wiki</a></span>
+in2.html:		<a href="/ietf/mibs/">Browser</a>
+in2.html:                <a href="/ietf/mibs/validate/">MIB Validation</a>
+in2.html:                <a href="/ietf/mibs/byEncoding.php?encoding=txt">Plain text</a>
+in2.html:                <a href="/ietf/mibs/byEncoding.php?encoding=highlighting">Syntax Highlighting</a>
+in2.html:                <a href="/ietf/mibs/byEncoding.php?encoding=html">HTML encoding</a>
+in2.html:		<a href="/ietf/enterprise/">Vendor MIBs</a>
+in2.html:		<a href="/ietf/mibs/search/">Search</a>
+in2.html:		<a href="/ietf/rfcs/rfcbynumber.php">By Number</a>
+in2.html:		<a href="/ietf/rfcs/rfcbytopic.php">By Topic</a>
+in2.html:		<a href="/ietf/rfcs/rfcbystatus.php">By Status</a>
+in2.html:		<a href="/ietf/rfcs/rfcbymodule.php">By Module</a>
+in2.html:                <a href="/ietf/rfcs/complete/">Complete</a>
+in2.html:		<a href="/ietf/rfcs/">Search</a>
+in2.html:                <a href="/software/select_obj.php?orderBy=package&amp;oldorderBy=package&amp;orderDir=asc&amp;free=free">Freely available</a>
+in2.html:                <a href="/software/select_obj.php?orderBy=package&amp;oldorderBy=package&amp;orderDir=asc&amp;com=com">Commercial</a>
+in2.html:                <a href="/software/">Search</a>
+in2.html:                <a href="/wiki/index.php/Events">Conferences</a>
+in2.html:                <a href="/wiki/index.php/Cfp">Call for Papers</a>
+in2.html:                <a href="/wiki/index.php/Books">Books</a>
+in2.html:                <a href="/wiki/index.php/Journals">Journals</a>
+in2.html:                <a href="/wiki/index.php/Theses">Theses</a>
+in2.html:                <a href="/wiki/index.php/Internet_Management_Tutorials">Slides</a>
+in2.html:                <a href="/wiki/index.php/Video_tutorials_on_Internet_management">Podcasts</a>
+in2.html:                <a href="/wiki/index.php/Exercises_in_Internet_Management">Exercises</a>
+in2.html:                <a href="/wiki/index.php/Other_tutorials">Other tutorials</a>
+in2.html:		<a href="/tutorials/demo/snmp/v1/">SNMPv1 demo</a>
+in2.html:		<a href="/tutorials/demo/snmp/v2c/">SNMPv2c demo</a>
+in2.html:		<a href="/tutorials/demo/snmp/v3/">SNMPv3 demo</a>
+in2.html:                <span><a class="aTopLink" href="/wiki/index.php/Podcasts">Podcasts</a></span>
+in2.html:                <span><a class="aTopLink" href="http://www.simpleweb.org/wiki/index.php/Traces">Traffic Traces</a></span>
+in2.html:                <span><a class="aTopLink" href="http://wg66.ifip.org/">IFIP WG6.6</a></span>
+in2.html:                <span><a class="aTopLink" href="mailto:simpleweb@simpleweb.org">Contact</a></span>
+in2.html:        <a href="http://www.fp7-flamingo.eu/" class="logo">
+in2.html:        <a href="http://www.simpleweb.org/ifip/" class="logo">
+in2.html:        <a href="http://www.simple-times.org/" class="logo">
+in2.html:    <p>The server is hosted at the <a href="https://www.utwente.nl/en/">University of Twente</a>, maintained by members of the <a href="https://www.utwente.nl/ewi/dacs/">DACS group</a> and sponsored by the European <a href="http://www.fp7-flamingo.eu/">FLAMINGO</a> Network of Excellence for Management of the Future Internet.</p>
+in2.html:    <p>Note that the official URL of the "SimpleWeb" is: <a href="https://www.simpleweb.org/"><font color="Red">https://www.simpleweb.org/</font></a></p>
+in2.html:    <p><font color="red"><b> News: </b></font> Network traces are available at the Simpleweb repository. <a href="/wiki/index.php/Traces">Check it</a></b></p>
+in3.html:<link rel="stylesheet" href="default_ns.css"><script type="text/javascript" language="JavaScript" title="WebHelpSplitCss">
+in3.html:{   document.write("<link rel='stylesheet' href='default.css'>");}
+in3.html:<p class="whs2">&lt;a href=&quot;http://somegreatsite.com&quot;&gt;Link 
+in3.html:<p class="whs2">Send me mail at &lt;a href=&quot;mailto:support@yourcompany.com&quot;&gt;</p>
+in4.html:<p>And finally, how about some <a href=http://www.yahoo.com/>Links?</a></p>
+in4.html:<p>Or let's just link to <a href=../../index.html>another page on this server</a></p>

@@ -1,0 +1,25 @@
+Dealer Name: Thomas Team Honda
+Address:     2825 Kline Ave
+             Grayland, TN
+Dealer ID:   19
+Owner:       Thomas, Phil
+Date:        Wed, Sep  3, 2015 thru Tue, Sep  9, 2015  
+New Car Sales
+ 
+        VIN            Model    Year  Price  Orig.       Sales Agent              Sales Date        Agent ID
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JC131F1127361949X  CR-V         2015  29389  30995  Daniels, Ernest         Sat, Sep  6, 2015       D19-18-04 
+ JB129S1417364C7C2  Civic        2015  23212  23055  Watkins, Megan          Thu, Sep  4, 2015       D19-18-05 
+ JB122SU2073683B34  Civic        2015  17644  17255  Daniels, Ernest         Sun, Sep  7, 2015       D19-18-04 
+ JA112F13173672A26  Accord       2015  32863  32930  Watkins, Megan          Sun, Sep  7, 2015       D19-18-05 
+ JB121S12273672A28  Civic        2015  16349  16455  Rodriguez, Marc         Fri, Sep  5, 2015       D19-18-02 
+ JH152SU167364C7XX  Odyssey      2015  29294  30375  Daniels, Ernest         Tue, Sep  9, 2015       D19-18-04 
+ 
+Used Car Sales
+ 
+        VIN            Model    Year  Price  Orig.        Sales Agent             Sales Date        Agent ID 
+ =================  ==========  ====  =====  =====  ======================  ======================  =========
+ JE143FU15347189A7  Crosstour   2003  25475  40640  Graham, Keith           Fri, Sep  5, 2015       D19-18-06 
+ JH159F4114X871239  Odyssey     2004  37835  56825  Watkins, Megan          Sun, Sep  7, 2015       D19-18-05 
+ JJ16AF1113483ABX1  Pilot       2003  25452  41970  Hughes, Hazel           Wed, Sep  3, 2015       D19-18-01 
+ JE141F11833871243  Crosstour   2003  22854  37640  Graham, Keith           Sun, Sep  7, 2015       D19-18-06 
